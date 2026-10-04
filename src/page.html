@@ -1,0 +1,89 @@
+{% extends "base.html" %}{% from "macros.html" import pic, rings with context %}
+{% block main %}
+<section class="phero">
+  <div class="shell">
+    <nav class="crumbs" aria-label="Drobečková navigace"><a href="{{ R }}">Úvod</a>{% for c in P.crumbs %}<span>/</span><a href="{{ L(c.path) }}">{{ c.title }}</a>{% endfor %}<span>/</span><span aria-current="page">{{ P.title }}</span></nav>
+    <div class="phero__grid">
+      <h1 class="phero__h1 reveal">{{ P.title }}</h1>
+      {% if P.lead %}<p class="phero__lead reveal" style="--d:.1s">{{ P.lead | safe }}</p>{% endif %}
+    </div>
+  </div>
+  {{ rings('phero__rings') }}
+</section>
+{% if P.cover %}<figure class="pcover clip-reveal">{{ pic(P.cover, P.title, lazy=False) }}</figure>{% endif %}
+<section class="pbody">
+  <div class="shell pbody__grid">
+    <article class="prose">
+      {% if P.path == '/kontakt/' %}{% set K = S.kontakt %}
+      <div class="kt">
+        <p class="kt__notice"><span class="dot"></span>{{ K.notice }} Tel. <a href="tel:{{ S.phone_href }}">{{ S.phone }}</a></p>
+        <h2>{{ K.h2 }}</h2>
+        <p class="kt__lead">{{ K.lead }}</p>
+        {% for p in K.p %}<p>{{ p }}</p>{% endfor %}
+        <figure class="fig fig--wide">{{ pic(K.img, 'Podlahové studio Podlahy Šťastný, Slavíkova 29') }}</figure>
+        <h2>Kontaktní osoby</h2>
+        <div class="people">{% for o in S.people %}<div class="person">{{ pic(o.img, o.name) }}<div><b>{{ o.name }}</b><span>{{ o.role }}</span><a href="tel:{{ o.phone|replace(' ','') }}">{{ o.phone }}</a><a href="mailto:{{ S.email }}">{{ S.email }}</a></div></div>{% endfor %}</div>
+        <div class="kt__grid">
+          <div><span class="info-k">Adresa</span><p class="info-big">{{ S.address }}<br>{{ S.city }}<br>{{ S.zip }}</p><a class="link" href="{{ S.map }}" target="_blank" rel="noopener">Otevřít v mapě <span class="arr">↗</span></a></div>
+          <div><span class="info-k">Otevírací doba</span><dl class="hours">{% for h in S.hours %}<dt>{{ h[0] }}</dt><dd>{{ h[1] }}</dd>{% endfor %}</dl><p class="small">{{ S.hours_note }}</p></div>
+        </div>
+        <p class="small">IČO: {{ S.ico }} · DIČ: {{ S.dic }} · <a href="https://www.terasy-drevoplast.cz/">www.terasy-drevoplast.cz</a> · <a href="https://www.dvere-vascodoors.cz">www.dvere-vascodoors.cz</a></p>
+        <h2>Napište nám</h2>
+        {% include "form.html" %}
+      </div>
+      {% else %}
+      {% for b in P.blocks %}
+        {% if b.t == 'h' %}<h{{ b.l }} class="{{ 'c' if b.center }}">{{ b.x }}</h{{ b.l }}>
+        {% elif b.t == 'sub' %}<h3 class="sub">{{ b.h | safe }}</h3>
+        {% elif b.t == 'p' %}<p class="{{ 'c' if b.center }}">{{ b.h | safe }}</p>
+        {% elif b.t == 'ul' %}<ul class="{{ 'checks checks--ink' if b.check else 'dots' }}">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ul>
+        {% elif b.t == 'ol' %}<ol class="nums">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ol>
+        {% elif b.t == 'img' %}{% set m = IM(b.src) %}{% if m %}<figure class="fig {{ 'fig--side' if b.align in ('left','right') and (b.w or m.w) < 900 else 'fig--wide' }}{{ ' fig--small' if (b.w or m.w) < 420 }}"><a href="{{ R }}{{ m.p }}" class="lbx" data-cap="{{ b.cap or b.alt }}">{{ pic(b.src, b.alt or P.title) }}</a>{% if b.cap %}<figcaption>{{ b.cap }}</figcaption>{% endif %}</figure>{% endif %}
+        {% elif b.t == 'gallery' %}
+          {% set named = b['items']|selectattr('title')|list|length > (b['items']|length * 0.6) %}
+          <div class="gal {{ 'gal--swatch' if named else 'gal--photo' }}">
+          {% for it in b['items'] %}{% set m = IM(it.src) %}{% if m %}<a class="gal__it lbx" href="{{ R }}{{ m.p }}" data-cap="{{ it.title }}{{ ' – ' ~ it.desc if it.desc }}">{{ pic(it.src, it.title or P.title) }}{% if named and it.title %}<span class="gal__t">{{ it.title }}</span>{% if it.desc %}<span class="gal__d">{{ it.desc }}</span>{% endif %}{% endif %}</a>{% endif %}{% endfor %}
+          </div>
+        {% elif b.t == 'cards' %}
+          <div class="cards">{% for c in b['items'] %}<a class="card" href="{{ L(c.href) }}">{% if c.img and IM(c.img) %}<figure>{{ pic(c.img, c.title) }}</figure>{% endif %}<div><h3>{{ c.title }}</h3><p>{{ c.excerpt }}</p><span class="link">Více informací <span class="arr">→</span></span></div></a>{% endfor %}</div>
+        {% elif b.t == 'table' %}
+          <div class="tbl"><table>{% for r in b.rows %}<tr>{% for c in r %}{% if loop.first and false %}{% endif %}<td>{{ c | safe }}</td>{% endfor %}</tr>{% endfor %}</table></div>
+        {% elif b.t == 'video' %}<div class="video"><iframe src="{{ b.src }}" loading="lazy" allowfullscreen title="Video"></iframe></div>
+        {% elif b.t == 'btn' %}<p><a class="btn btn--line" href="{{ L(b.href) }}">{{ b.x }} <span class="arr">→</span></a></p>
+        {% elif b.t == 'hr' %}<hr>
+        {% elif b.t == 'form' %}{% include "form.html" %}
+        {% endif %}
+      {% endfor %}
+      {% endif %}
+      {% if P.children %}
+        <h2>V této sekci</h2>
+        <div class="cards">{% for c in P.children %}<a class="card" href="{{ L(c.path) }}">{% if c.thumb %}<figure>{{ pic(c.thumb, c.title) }}</figure>{% endif %}<div><h3>{{ c.title }}</h3>{% if c.excerpt %}<p>{{ c.excerpt }}</p>{% endif %}<span class="link">Zobrazit <span class="arr">→</span></span></div></a>{% endfor %}</div>
+      {% endif %}
+      {% if P.empty_note %}<p>{{ P.empty_note | safe }}</p>{% endif %}
+    </article>
+    <aside class="side">
+      {% if P.section %}
+      <div class="side__box">
+        <span class="info-k">{{ P.section.title }}</span>
+        <nav class="side__nav">{% for s in P.section['items'] %}<a href="{{ L(s.path) }}" class="{{ 'is-on' if s.path == P.path }}">{{ s.title }}</a>{% endfor %}</nav>
+      </div>
+      {% endif %}
+      <div class="side__cta">
+        {{ rings('side__rings') }}
+        <span class="info-k">Podlahové studio Praha 2</span>
+        <p class="side__big">Přijďte si vybrat podlahu osobně</p>
+        <p>{{ S.address }}, {{ S.city }}</p>
+        <a class="btn btn--red btn--block" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka</a>
+        <a class="side__tel" href="tel:{{ S.phone_href }}">{{ S.phone }}</a>
+      </div>
+    </aside>
+  </div>
+</section>
+<section class="pcta dark">
+  <div class="shell pcta__grid">
+    <h2 class="h2 reveal">Máte už vybranou podlahu nebo řešíte staré parkety a nevíte, zda je renovovat?</h2>
+    <div class="reveal" style="--d:.1s"><p>Pošlete nám fotografie a základní informace o prostoru nebo si domluvte osobní návštěvu.</p>
+      <div class="pcta__actions"><a class="btn btn--red magnetic" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka <span class="arr">→</span></a><a class="btn btn--light" href="{{ L('/kontakt/') }}">Kontakt a otevírací doba</a></div></div>
+  </div>
+</section>
+{% endblock %}

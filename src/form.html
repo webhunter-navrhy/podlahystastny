@@ -1,0 +1,8 @@
+<form class="form" onsubmit="event.preventDefault();this.classList.add('is-sent')">
+  <div class="form__row"><label>Vaše jméno<input name="jmeno" required autocomplete="name"></label><label>Váš e-mail<input name="email" type="email" required autocomplete="email"></label></div>
+  <div class="form__row"><label>Váš telefon<input name="telefon" type="tel" autocomplete="tel"></label><label>Typ podlahy<select name="typ"><option>Vinylová / SPC</option><option>Dřevěná třívrstvá</option><option>Masivní dřevo / parkety</option><option>Laminátová</option><option>Korková</option><option>Renovace parket</option><option>Ještě nevím</option></select></label></div>
+  <label>Vaše zpráva<textarea name="zprava" rows="5" placeholder="Velikost prostoru (m²), stav podkladu, termín…"></textarea></label>
+  <label class="form__file">Fotografie prostoru (nepovinné)<input type="file" accept="image/*" multiple></label>
+  <button class="btn btn--red" type="submit">Odeslat poptávku <span class="arr">→</span></button>
+  <p class="form__ok">Děkujeme, poptávka je odeslána. Ozveme se Vám co nejdříve. <em>(Ukázka v návrhu – formulář se napojí při spuštění webu.)</em></p>
+</form>

@@ -1,0 +1,213 @@
+{% extends "base.html" %}{% from "macros.html" import pic, rings with context %}
+{% block main %}
+<section class="hero">
+  <div class="shell hero__grid">
+    <div class="hero__text">
+      <p class="eyebrow reveal"><span class="dot"></span>{{ H.hero.eyebrow }}</p>
+      <h1 class="hero__h1" aria-label="{{ H.hero.h1a }} {{ H.hero.h1b }} {{ H.hero.h1c }}">
+        <span class="ln" aria-hidden="true">{% for w in H.hero.h1a.split() %}<span class="w"><span style="--i:{{ loop.index0 }}">{{ w }}</span></span> {% endfor %}</span>
+        <span class="ln" aria-hidden="true">{% for w in H.hero.h1b.split() %}<span class="w"><span style="--i:{{ loop.index0 + 2 }}">{{ w }}</span></span> {% endfor %}</span>
+        <span class="ln ln--em" aria-hidden="true"><span class="w"><span style="--i:6"><em>renovace</em></span></span> <span class="w"><span style="--i:7">podlah</span></span></span>
+      </h1>
+      <p class="hero__sub reveal" style="--d:.5s">{{ H.hero.sub }}</p>
+      <div class="hero__actions reveal" style="--d:.65s">
+        <a class="btn btn--red magnetic" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka <span class="arr">→</span></a>
+        <a class="btn btn--line" href="{{ L('/kontakt/') }}">Navštivte naše studio</a>
+      </div>
+      <a class="hero__studio reveal" style="--d:.8s" href="{{ S.map }}" target="_blank" rel="noopener">
+        <span class="pin" aria-hidden="true"></span>
+        <span><strong>Navštivte naše podlahové studio</strong><br>{{ S.city }}, {{ S.address }}</span>
+      </a>
+    </div>
+    <div class="hero__media">
+      <figure class="hero__img clip-reveal">{{ pic(H.hero.img, H.hero.img_alt, lazy=False) }}</figure>
+      {{ rings('hero__rings') }}
+      <figure class="hero__img2 reveal" style="--d:.9s">{{ pic(H.hero.img2, H.hero.img2_alt) }}<figcaption>Renovace původních parket</figcaption></figure>
+    </div>
+  </div>
+  <a class="scrollcue" href="#uvod" aria-label="Pokračovat dolů"><span></span>Posuňte dolů</a>
+</section>
+
+<div class="marquee" aria-hidden="true"><div class="marquee__track">{% for r in range(2) %}{% for m in H.marquee %}<span>{{ m }}</span><i></i>{% endfor %}{% endfor %}</div></div>
+
+<section class="intro" id="uvod">
+  <div class="shell intro__grid">
+    <p class="intro__lead reveal">{{ H.intro.lead }}</p>
+    <div class="intro__body reveal" style="--d:.1s">
+      {% for p in H.intro.p %}<p>{{ p }}</p>{% endfor %}
+    </div>
+  </div>
+  <div class="shell steps">
+    {% for s in H.intro.steps %}
+    <div class="step reveal" style="--d:{{ loop.index0 * 0.1 }}s"><span class="step__n">{{ s.n }}</span><h3>{{ s.t }}</h3><p>{{ s.p }}</p></div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="cats">
+  <div class="shell">
+    <div class="sec-head reveal"><p class="eyebrow"><span class="dot"></span>Sortiment a služby</p><h2 class="h2">Co pro vás <em>uděláme</em></h2></div>
+    <ol class="cats__list">
+      {% for c in H.categories %}
+      <li class="cat reveal" data-img="{{ R }}{{ IM(c.img).p }}">
+        <a href="{{ L(c.h) }}">
+          <span class="cat__n">{{ '%02d' % loop.index }}</span>
+          <span class="cat__t">{{ c.t }}</span>
+          <span class="cat__p">{{ c.p }}</span>
+          <span class="cat__thumb">{{ pic(c.img, c.t) }}</span>
+          <span class="cat__go" aria-hidden="true">→</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+  <div class="cat-preview" aria-hidden="true"><img alt=""></div>
+</section>
+
+<a class="band-red" href="{{ L('/akcni-nabidka-podlah/') }}"><span class="shell">Akční ceny vybraných dekorů podlah <span class="arr">→</span></span></a>
+
+<section class="choice">
+  <div class="shell choice__grid">
+    <div class="choice__head reveal">
+      <p class="eyebrow"><span class="dot"></span>{{ H.choice.eyebrow }}</p>
+      <h2 class="h2">{{ H.choice.h2 }}</h2>
+      {% for p in H.choice.p %}<p>{{ p }}</p>{% endfor %}
+    </div>
+    {% for it in H.choice['items'] %}
+    <article class="choice__card c{{ loop.index }} reveal" style="--d:{{ loop.index0 * 0.08 }}s">
+      <figure>{{ pic(it.img, it.t) }}</figure>
+      <div class="choice__body">
+        <span class="choice__n">{{ '%02d' % loop.index }}</span>
+        <h3>{{ it.t }}</h3>
+        {% for p in it.p %}<p>{{ p }}</p>{% endfor %}
+        <a class="link" href="{{ L(it.h) }}">{{ it.cta }} <span class="arr">→</span></a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <p class="shell choice__band reveal">{{ H.choice.band }}</p>
+</section>
+
+<section class="install dark" id="pokladka">
+  <div class="shell install__grid">
+    <div class="install__text">
+      <p class="eyebrow eyebrow--light reveal"><span class="dot"></span>{{ H.install.eyebrow }}</p>
+      <h2 class="h2 reveal">{{ H.install.h2 }}</h2>
+      {% for p in H.install.p %}<p class="reveal">{{ p }}</p>{% endfor %}
+      <ul class="checks reveal">{% for l in H.install.list %}<li>{{ l }}</li>{% endfor %}</ul>
+      <p class="install__after reveal">{{ H.install.after }}</p>
+      <a class="btn btn--light reveal" href="{{ L(H.install.h) }}">{{ H.install.cta }} <span class="arr">→</span></a>
+    </div>
+    <div class="install__viz">
+      <div class="stack" id="stack" aria-label="Skladba podlahy">
+        {% for l in H.install.layers %}
+        <div class="layer layer--{{ loop.index }}" style="--k:{{ loop.index0 }};z-index:{{ 10 - loop.index0 }}">
+          <div class="slab"><span class="face"></span></div>
+          <div class="tag"><b>{{ l.t }}</b><span>{{ l.p }}</span></div>
+        </div>
+        {% endfor %}
+      </div>
+      <p class="stack__cap">Skladba podlahy – od podkladu po poslední lištu</p>
+    </div>
+  </div>
+</section>
+
+<section class="reno">
+  <div class="shell reno__grid">
+    <figure class="reno__img clip-reveal">{{ pic(H.renovation.img, 'Renovace intarzovaných parket v pražském bytě') }}</figure>
+    <div class="reno__box reveal">
+      <span class="reno__k">02 / Renovace</span>
+      <h3>{{ H.renovation.box_t }}</h3>
+      <p>{{ H.renovation.box_p }}</p>
+    </div>
+    <div class="reno__text">
+      <p class="eyebrow reveal"><span class="dot"></span>{{ H.renovation.eyebrow }}</p>
+      <h2 class="h2 reveal">{{ H.renovation.h2 }}</h2>
+      <h3 class="reno__h3 reveal">{{ H.renovation.h3 }}</h3>
+      {% for p in H.renovation.p %}<p class="reveal">{{ p }}</p>{% endfor %}
+      <a class="btn btn--red reveal" href="{{ L(H.renovation.h) }}">{{ H.renovation.cta }} <span class="arr">→</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="stairs">
+  <div class="shell stairs__grid">
+    <div class="stairs__text reveal">
+      <p class="eyebrow"><span class="dot"></span>{{ H.stairs.eyebrow }}</p>
+      <h2 class="h2 h2--xl">{{ H.stairs.h2.replace('jednom dekoru','<em>jednom dekoru</em>') | safe }}</h2>
+      <p>{{ H.stairs.p }}</p>
+      <a class="link" href="{{ L(H.stairs.h) }}">{{ H.stairs.cta }} <span class="arr">→</span></a>
+    </div>
+    <figure class="stairs__img"><div class="par">{{ pic(H.stairs.img, 'Schodiště s třívrstvou dřevěnou podlahou a schodovými hranami') }}</div></figure>
+    <span class="stairs__stroke" aria-hidden="true">Schody</span>
+  </div>
+</section>
+
+<section class="refs">
+  <div class="shell">
+    <div class="refs__head">
+      <div class="reveal"><p class="eyebrow"><span class="dot"></span>{{ H.refs.eyebrow }}</p><h2 class="h2">{{ H.refs.h2 }}</h2></div>
+      <div class="chips reveal">{% for c in H.refs.cats %}<a href="{{ L(c.h) }}">{{ c.t }}</a>{% endfor %}</div>
+    </div>
+    <div class="bento">
+      {% for ph in H.refs.photos %}
+      <a class="bento__it b{{ loop.index }} pop" href="{{ L(ph.h) }}">{{ pic(ph.src, ph.t) }}<span class="bento__cap">{{ ph.t }}</span></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="reviews dark">
+  <div class="shell reviews__grid">
+    <div class="reviews__head reveal">
+      <p class="eyebrow eyebrow--light"><span class="dot"></span>Recenze</p>
+      <h2 class="h2">{{ H.reviews.h2 }}</h2>
+      <div class="reviews__nav"><button class="rv-prev" aria-label="Předchozí recenze">←</button><span class="rv-count"><b>1</b> / {{ H.reviews['items']|length }}</span><button class="rv-next" aria-label="Další recenze">→</button></div>
+    </div>
+    <div class="reviews__stage">
+      <span class="qmark" aria-hidden="true">„</span>
+      {% for r in H.reviews['items'] %}
+      <figure class="rv{{ ' is-on' if loop.first }}"><blockquote>{{ r.q }}</blockquote><figcaption>— {{ r.a }}</figcaption></figure>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="why">
+  <div class="shell">
+    <div class="why__head">
+      <div class="reveal"><p class="eyebrow"><span class="dot"></span>{{ H.why.eyebrow }}</p><h2 class="h2">{{ H.why.h2 }}</h2></div>
+      <p class="why__lead reveal">{{ H.why.p }}</p>
+    </div>
+    <div class="facts">
+      {% for f in H.why.facts %}<div class="fact reveal" style="--d:{{ loop.index0 * 0.1 }}s"><span class="fact__n">{{ f.n }}</span><span class="fact__t">{{ f.t }}</span></div>{% endfor %}
+    </div>
+    <ol class="why__list">
+      {% for w in H.why['items'] %}
+      <li class="reveal" style="--d:{{ (loop.index0 % 3) * 0.08 }}s"><span class="why__n">{{ '%02d' % loop.index }}</span><h3>{{ w.t }}</h3><p>{{ w.p }}</p>{% if w.cta %}<a class="link" href="{{ L(w.h) }}">{{ w.cta }} <span class="arr">→</span></a>{% endif %}</li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="studio" id="studio">
+  <figure class="studio__img"><div class="par">{{ pic(H.studio.img, 'Podlahové studio Podlahy Šťastný, Slavíkova 29, Praha 2') }}</div></figure>
+  <div class="shell studio__grid">
+    <div class="studio__card reveal">
+      <p class="eyebrow"><span class="dot"></span>{{ H.studio.eyebrow }}</p>
+      <h2 class="h2">{{ H.studio.h2 }}</h2>
+      {% for p in H.studio.p %}<p>{{ p }}</p>{% endfor %}
+      <div class="studio__q"><p><strong>{{ H.studio.q }}</strong></p><p>{{ H.studio.q2 }}</p></div>
+      <div class="studio__actions"><a class="btn btn--red magnetic" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka <span class="arr">→</span></a><a class="btn btn--line" href="{{ L('/kontakt/') }}">Navštívit podlahové studio</a></div>
+    </div>
+    <div class="studio__info reveal" style="--d:.15s">
+      <div class="info-block"><span class="info-k">Showroom</span><p class="info-big">{{ S.address }}<br>{{ S.city }}</p><a class="link" href="{{ S.map }}" target="_blank" rel="noopener">Otevřít v mapě <span class="arr">↗</span></a></div>
+      <div class="info-block"><span class="info-k">Otevírací doba</span>
+        <dl class="hours">{% for h in S.hours %}<dt>{{ h[0] }}</dt><dd>{{ h[1] }}</dd>{% endfor %}</dl>
+        <p class="small">{{ S.hours_note }}</p></div>
+      <div class="info-block"><span class="info-k">Volejte nebo napište</span><a class="info-big" href="tel:{{ S.phone_href }}">{{ S.phone }}</a><a href="mailto:{{ S.email }}">{{ S.email }}</a></div>
+      <p class="small studio__visit">{{ H.studio.visit }}</p>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,6 @@
+{% macro pic(u, alt='', cls='', lazy=True) -%}
+{%- set m = IM(u) -%}{%- if m -%}<img src="{{ R }}{{ m.p }}" width="{{ m.w }}" height="{{ m.h }}" alt="{{ alt }}"{% if cls %} class="{{ cls }}"{% endif %}{% if lazy %} loading="lazy" decoding="async"{% endif %}>{%- endif -%}
+{%- endmacro %}
+{% macro rings(cls='') -%}
+<svg class="rings {{ cls }}" viewBox="0 0 400 400" aria-hidden="true"><path class="r1" d="M200 30a170 170 0 1 0 170 170" /><path class="r2" d="M200 85a115 115 0 1 0 115 115" /><path class="r3" d="M200 135a65 65 0 1 0 65 65" /></svg>
+{%- endmacro %}

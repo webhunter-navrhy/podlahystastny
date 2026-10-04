@@ -1,0 +1,340 @@
+{
+ "seo_title": "Podlahy Praha | Prodej, pokládka a renovace | Podlahy Šťastný",
+ "description": "Podlahy Šťastný – rodinná podlahářská firma z Prahy. Prodej, pokládka a renovace podlah: vinylové a SPC, dřevěné třívrstvé, masivní parkety, laminátové i korkové podlahy. Podlahové studio Praha 2 – Vinohrady.",
+ "announce": [
+  {
+   "t": "Novinka: vinylové rigidní podlahy Barlinek",
+   "h": "/barlinek-spc/"
+  },
+  {
+   "t": "Akční ceny vybraných dekorů podlah",
+   "h": "/akcni-nabidka-podlah/"
+  }
+ ],
+ "hero": {
+  "eyebrow": "Podlahové studio Praha 2",
+  "h1a": "Podlahy Praha –",
+  "h1b": "prodej, pokládka a",
+  "h1c": "renovace podlah",
+  "sub": "Podlahy od výběru až po pokládku",
+  "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/image51.jpeg",
+  "img_alt": "Dubová podlaha vzor rybí kost v pražském bytě – realizace Podlahy Šťastný",
+  "img2": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/IMG_0327.jpg",
+  "img2_alt": "Renovace starých parket – rozebrání a nové položení"
+ },
+ "marquee": [
+  "Vinylové a SPC podlahy",
+  "Dřevěné třívrstvé podlahy",
+  "Masivní parkety",
+  "Renovace parket",
+  "Schodové hrany",
+  "Laminátové podlahy",
+  "Korkové podlahy",
+  "Samonivelační stěrky",
+  "Podlahové lišty"
+ ],
+ "intro": {
+  "lead": "Hledáte novou podlahu v Praze, potřebujete vyměnit starou podlahu nebo zachránit původní parkety?",
+  "p": [
+   "V Podlahách Šťastný se podlahám věnujeme komplexně. Pomůžeme vám vybrat vhodný materiál, posoudíme stav podkladu, navrhneme správnou skladbu a zajistíme profesionální pokládku i finální dokončení.",
+   "Jsme rodinná podlahářská firma z Prahy s dlouholetými zkušenostmi. Nejsme pouze prodejci podlah. Máme vlastní realizační zkušenosti a víme, že kvalitní podlaha nezačíná výběrem dekoru, ale správným technickým řešením."
+  ],
+  "steps": [
+   {
+    "n": "01",
+    "t": "Výběr podlahy",
+    "p": "Dřevěné, vinylové, laminátové i další podlahové krytiny."
+   },
+   {
+    "n": "02",
+    "t": "Technické řešení",
+    "p": "Posouzení podkladu, správná skladba a doporučení vhodného řešení."
+   },
+   {
+    "n": "03",
+    "t": "Pokládka a renovace",
+    "p": "Profesionální realizace od přípravy až po finální dokončení."
+   }
+  ]
+ },
+ "categories": [
+  {
+   "t": "Vinylové podlahy",
+   "h": "/podlahy-vinylove/",
+   "p": "Rozdíl mezi vinylovými podlahami? Vinylové podlahy Rigid SPC: odolná a stabilní volba pro každý interiér.",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/wodoodporna-1024x1024-1.jpg"
+  },
+  {
+   "t": "Dřevěné třívrstvé podlahy",
+   "h": "/drevene-trivrstve-podlahy-menu/",
+   "p": "Dřevo, přírodní surovina, která nás provází od počátku věků. Tato jedinečná surovina, ze které se vyrábí i podlahové krytiny.",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/obrazek_255_l.jpg"
+  },
+  {
+   "t": "Renovace dřevěných masivních podlah a parket",
+   "h": "/rekonstrukce-a-renovace-podlah/",
+   "p": "Renovace parket a dřevěných masivních podlah: odborný přístup pro dokonalý výsledek.",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/image1-10.jpeg"
+  },
+  {
+   "t": "Laminátové podlahy",
+   "h": "/laminatove-podlahy-menu/",
+   "p": "Elegantní a praktické řešení pro váš interiér. Laminátové podlahy patří mezi nejvyhledávanější podlahové krytiny.",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/02PI-AP-PH-flo-basic-open-kitchen-livingroom-classic-EBL006-ST54.jpg"
+  },
+  {
+   "t": "Masivní dřevěné parkety",
+   "h": "/drevene-podlahy-a-parkety/masivni-drevene-parkety/",
+   "p": "Dřevěné masivní parkety – klasika, která nikdy nevyjde z módy. Dřevo je odjakživa spojováno s teplem, elegancí a přirozeným charakterem interiéru.",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/d09abd9c-67c8-4ce1-a7b1-4a3933dd0cf5.jpg"
+  },
+  {
+   "t": "Korkové podlahy",
+   "h": "/korkove-podlahy/",
+   "p": "Korek – zapomenutý přírodní zázrak pro podlahy, stěny i izolace.",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/06/korkove-podlahy-studio-flagstaff_15.jpg"
+  }
+ ],
+ "choice": {
+  "eyebrow": "Výběr podlahy",
+  "h2": "Dřevěné, vinylové, SPC a laminátové podlahy",
+  "p": [
+   "Každý interiér potřebuje jiné řešení. Jinou podlahu doporučíme do historického pražského bytu, jinou do rodinného domu s podlahovým vytápěním a jinou do kanceláře nebo komerčního prostoru.",
+   "Proto vybíráme podlahu podle vzhledu, způsobu používání, konstrukce podkladu i požadované životnosti."
+  ],
+  "items": [
+   {
+    "t": "Dřevěné podlahy",
+    "p": [
+     "Masivní a vícevrstvé dřevěné podlahy, dubová prkna, parkety, stromečky i mozaiky.",
+     "Dřevo je nadčasový materiál, který při správné péči vydrží desítky let a v případě potřeby jej lze znovu renovovat."
+    ],
+    "cta": "Zobrazit dřevěné podlahy",
+    "h": "/drevene-podlahy-a-parkety/",
+    "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/48542424_1920.jpg"
+   },
+   {
+    "t": "Vinylové a SPC podlahy",
+    "p": [
+     "Praktické a odolné řešení do bytů, rodinných domů i komerčních prostor.",
+     "Nabízíme lepené vinylové podlahy i moderní rigidní SPC podlahy v široké nabídce dekorů.",
+     "Pomůžeme zvolit správný typ také s ohledem na podlahové vytápění, zatížení místnosti a stav podkladu."
+    ],
+    "cta": "Zobrazit vinylové a SPC podlahy",
+    "h": "/podlahy-vinylove/",
+    "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/f050.jpg"
+   },
+   {
+    "t": "Laminátové podlahy",
+    "p": [
+     "Moderní laminátové podlahy nabízejí velký výběr dekorů a zajímavý poměr ceny, vzhledu a odolnosti.",
+     "Vhodné řešení pro byty, rodinné domy i další interiéry."
+    ],
+    "cta": "Zobrazit laminátové podlahy",
+    "h": "/laminatove-podlahy-menu/",
+    "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/02PI-AP-PH-flo-basic-open-kitchen-livingroom-classic-EBL006-ST54.jpg"
+   }
+  ],
+  "band": "Rodinná firma Podlahy Šťastný nabízí široký sortiment podlahových krytin pro Prahu a okolí"
+ },
+ "install": {
+  "eyebrow": "Realizace podlahy",
+  "h2": "Pokládka podlah v Praze – nejen položit, ale udělat správně",
+  "p": [
+   "Ani kvalitní podlahová krytina nebude dobře fungovat na špatně připraveném podkladu.",
+   "Proto před pokládkou řešíme také rovinnost, pevnost a vlhkost podkladu a podle konkrétní situace navrhneme vhodnou technologii."
+  ],
+  "list": [
+   "odstranění původních podlahových krytin",
+   "opravy a zpevnění problematických podkladů",
+   "samonivelační stěrky",
+   "skladby z OSB nebo Fermacellu",
+   "celoplošné lepení podlah",
+   "plovoucí pokládku",
+   "montáž soklových a přechodových lišt",
+   "dokončení detailů kolem dveří a dalších stavebních prvků"
+  ],
+  "after": "Jedna firma tak může zajistit přípravu podkladu, dodání podlahy i kompletní pokládku.",
+  "cta": "Pokládka a příprava podlahy",
+  "h": "/montaz-podlahy/",
+  "layers": [
+   {
+    "t": "Lišty a detaily",
+    "p": "soklové a přechodové lišty, detaily kolem dveří"
+   },
+   {
+    "t": "Podlaha",
+    "p": "celoplošné lepení nebo plovoucí pokládka"
+   },
+   {
+    "t": "Skladba",
+    "p": "OSB nebo Fermacell"
+   },
+   {
+    "t": "Stěrka",
+    "p": "samonivelační stěrka"
+   },
+   {
+    "t": "Podklad",
+    "p": "rovinnost, pevnost a vlhkost"
+   }
+  ]
+ },
+ "renovation": {
+  "eyebrow": "Renovace dřevěných podlah",
+  "h2": "Renovace parket a starých dřevěných podlah v Praze",
+  "h3": "Starou podlahu není vždy nutné vyhodit",
+  "p": [
+   "Pražské byty často ukrývají původní parkety a dřevěné podlahy, kterým stojí za to dát druhou šanci.",
+   "Nejdříve posoudíme jejich stav a teprve potom doporučíme, zda je vhodnější renovace původní podlahy, její rozebrání a nové položení, oprava podkladu nebo kompletní rekonstrukce.",
+   "Podle stavu můžeme provést rozebrání a opětovné položení parket, výměnu poškozených částí, broušení, tmelení, lepení a následnou povrchovou úpravu olejem nebo lakem.",
+   "Výsledkem nemusí být podlaha, která vypadá jako nová. Často je mnohem krásnější zachovat její původní charakter a zároveň jí vrátit pevnost a funkčnost."
+  ],
+  "cta": "Renovace parket a dřevěných podlah",
+  "h": "/rekonstrukce-a-renovace-podlah/",
+  "box_t": "Zachovat, opravit, znovu položit",
+  "box_p": "U starších parket rozhoduje především stav podlahy a podkladu. Proto nejdříve posoudíme konkrétní situaci a teprve potom navrhneme vhodný způsob renovace.",
+  "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/FB_IMG_1549606577090.jpg",
+  "img_b": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/image3-10.jpeg"
+ },
+ "stairs": {
+  "eyebrow": "Detail, který propojí interiér",
+  "h2": "Schody a podlaha v jednom dekoru",
+  "p": "Detail, který dokáže výrazně změnit celý interiér. Realizujeme také schody a schodové hrany navazující na dřevěnou nebo vinylovou podlahu. Díky tomu nemusí schodiště působit jako samostatný prvek a může přirozeně pokračovat ve stejném materiálu a dekoru jako podlaha.",
+  "cta": "Schody a schodové hrany",
+  "h": "/schodove-hrany/",
+  "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/image3-5.jpeg"
+ },
+ "refs": {
+  "eyebrow": "Reference",
+  "h2": "Podívejte se na naše realizace",
+  "cats": [
+   {
+    "t": "Masivní podlahy",
+    "h": "/ukazky-nasi-prace/ukazka-masivni-drevene-podlahy/"
+   },
+   {
+    "t": "Třívrstvé dřevěné podlahy",
+    "h": "/ukazky-nasi-prace/ukazka-trivrstve-drevene-podlahy/"
+   },
+   {
+    "t": "Vinylové podlahy",
+    "h": "/ukazky-nasi-prace/ukazka-vinylkorkove-podlahy/"
+   },
+   {
+    "t": "Laminátové podlahy",
+    "h": "/ukazky-nasi-prace/ukazka-laminatove-plovouci-podlahy/"
+   },
+   {
+    "t": "Korkové podlahy",
+    "h": "/ukazky-nasi-prace/ukazka-korkove-podlahy/"
+   }
+  ],
+  "photos": [
+   {
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG_1676.jpg",
+    "t": "Masivní dub, vzor rybí kost",
+    "h": "/ukazky-nasi-prace/ukazka-masivni-drevene-podlahy/"
+   },
+   {
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/image17-1.jpeg",
+    "t": "Třívrstvá podlaha a schodiště v jednom dekoru",
+    "h": "/ukazky-nasi-prace/ukazka-trivrstve-drevene-podlahy/"
+   },
+   {
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/adaf87dc_211b_4876_9fa9_b61425042a4c.jpg",
+    "t": "Vinylová podlaha, vzor rybí kost",
+    "h": "/ukazky-nasi-prace/ukazka-vinylkorkove-podlahy/"
+   },
+   {
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG-20201114-WA0001.jpg",
+    "t": "Třívrstvá podlaha s prosklenou podlahou",
+    "h": "/ukazky-nasi-prace/ukazka-trivrstve-drevene-podlahy/"
+   },
+   {
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/FB_IMG_1549606583604.jpg",
+    "t": "Renovace intarzovaných parket",
+    "h": "/rekonstrukce-a-renovace-podlah/"
+   },
+   {
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/d09abd9c-67c8-4ce1-a7b1-4a3933dd0cf5.jpg",
+    "t": "Masivní parkety po renovaci",
+    "h": "/ukazky-nasi-prace/ukazka-masivni-drevene-podlahy/"
+   }
+  ]
+ },
+ "reviews": {
+  "h2": "Recenze od našich spokojených zákazníků",
+  "items": [
+   {
+    "q": "Pan Šťastný má opravdu rád svou práci a podle toho taky výsledek vypadá. Jsme maximálně spokojeni. Jednání bylo příjemné, ochotně nám vše vysvětlil a vyhověl našim požadavkům. Za 2 dny byla podlaha položená v celém domě (130m2).",
+    "a": "Ondřej Čermák"
+   },
+   {
+    "q": "Doporučuji tuto firmu zejména pro vstřícnost a ochotu vyhovět všem našim specifickým požadavkům, pro trpělivost při změnách termínů, velice dobrou komunikaci a precizní řemeslnou práci. Samotná zakázka (realizace třívrstvé dřevěné podlahy v bytě) proběhla k naší spokojenosti.",
+    "a": "Jan Mokriš"
+   },
+   {
+    "q": "Firmu pana Šťastného mohu všem vřele doporučit, vše proběhlo rychle a kvalitně v neposlední řadě musím zmínit skutečnou profesionalitu při jednání o zakázce ale i během realizace.",
+    "a": "Petr Kroupa"
+   }
+  ]
+ },
+ "why": {
+  "eyebrow": "Proč Podlahy Šťastný",
+  "h2": "Proč si pro podlahu vybrat Podlahy Šťastný?",
+  "p": "Podlahy děláme jako řemeslo, ne jako rychlý prodej materiálu. Každou realizaci řešíme s ohledem na konkrétní prostor, podklad i způsob používání podlahy.",
+  "items": [
+   {
+    "t": "Rodinná firma z Prahy",
+    "p": "Za svou práci neseme vlastní jméno a záleží nám na výsledku. Nejsme pouze prodejce podlahového materiálu – realizaci řešíme od začátku až do konce."
+   },
+   {
+    "t": "Zkušenosti s novými i původními podlahami",
+    "p": "Umíme položit novou podlahu, ale také posoudit, kdy má smysl zachránit tu starou. Parkety a dřevěné podlahy nemusí vždy skončit výměnou."
+   },
+   {
+    "t": "Řešíme podlahu jako celek",
+    "p": "Od podkladu a výběru materiálu přes pokládku až po lišty, schody a poslední detail. Cílem je funkční a dobře provedená podlaha jako celek."
+   },
+   {
+    "t": "Podlahové studio na Praze 2",
+    "p": "Materiály a dekory si můžete prohlédnout osobně v našem podlahovém studiu na Vinohradech. Výběr podlahy tak nemusíte řešit pouze podle fotografií.",
+    "cta": "Navštívit studio",
+    "h": "/kontakt/"
+   },
+   {
+    "t": "Praha a okolí",
+    "p": "Realizujeme podlahy především v Praze a blízkém okolí. Přijedeme se podívat na prostor, posoudit podklad a navrhnout vhodné řešení podle konkrétní situace.",
+    "cta": "Nechat nacenit podlahu",
+    "h": "/cenova-kalkulace/"
+   }
+  ],
+  "facts": [
+   {
+    "n": "2003",
+    "t": "na trhu od roku 2003"
+   },
+   {
+    "n": "Praha 2",
+    "t": "vlastní podlahové studio na Vinohradech"
+   },
+   {
+    "n": "5 min",
+    "t": "pěšky od náměstí Jiřího z Poděbrad"
+   }
+  ]
+ },
+ "studio": {
+  "eyebrow": "Podlahové studio Praha 2",
+  "h2": "Přijďte si vybrat podlahu osobně",
+  "p": [
+   "Fotografie na monitoru nikdy úplně neukáže strukturu, odstín ani charakter skutečného materiálu.",
+   "Navštivte naše podlahové studio Podlahy Šťastný na Praze 2 – Vinohrady. Probereme s vámi představu, ukážeme vhodné materiály a navrhneme řešení podle vašeho interiéru, způsobu používání i rozpočtu."
+  ],
+  "q": "Máte už vybranou podlahu nebo řešíte staré parkety a nevíte, zda je renovovat?",
+  "q2": "Pošlete nám fotografie a základní informace o prostoru nebo si domluvte osobní návštěvu.",
+  "visit": "Navštívit naši vzorkovnu můžete v Praze, pouze 5 min od náměstí Jiřího z Poděbrad! Potěší nás každá návštěva, každá připomínka a samozřejmě i každá pochvala.",
+  "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/IMG_6395.jpg"
+ }
+}

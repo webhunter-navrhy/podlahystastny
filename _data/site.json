@@ -1,0 +1,189 @@
+{
+ "name": "Podlahy Šťastný",
+ "domain": "https://www.podlahystastny.cz",
+ "tagline": "Podlahy od výběru až po pokládku",
+ "phone": "+420 728 252 929",
+ "phone_href": "+420728252929",
+ "email": "info@podlahystastny.cz",
+ "address": "Slavíkova 29",
+ "city": "Praha 2 – Vinohrady",
+ "zip": "120 00",
+ "map": "https://mapy.com/s/?q=Slav%C3%ADkova%2029%2C%20Praha%202",
+ "ico": "74119893",
+ "dic": "CZ7502200904",
+ "facebook": "https://www.facebook.com/195183110595891",
+ "hours": [
+  [
+   "Po – Út",
+   "9:00 – 18:00"
+  ],
+  [
+   "St – Čt",
+   "9:00 – 17:00"
+  ],
+  [
+   "Pátek",
+   "9:00 – 16:30"
+  ],
+  [
+   "Polední pauza",
+   "12:00 – 13:00"
+  ]
+ ],
+ "hours_note": "Vždy je pro Vás lepší domluvit si schůzku dopředu, protože můžeme být u zákazníka, na úřadě atd. Děkujeme za pochopení.",
+ "people": [
+  {
+   "name": "Josef Šťastný",
+   "role": "majitel",
+   "phone": "+420 728 252 929",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/circle-cropped1.png"
+  },
+  {
+   "name": "Petra Šťastná",
+   "role": "obchodní asistentka",
+   "phone": "+420 727 945 909",
+   "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/circle-cropped.png"
+  }
+ ],
+ "nav": [
+  {
+   "t": "Vinylové podlahy",
+   "h": "/podlahy-vinylove/"
+  },
+  {
+   "t": "Dřevěné podlahy",
+   "h": "/drevene-trivrstve-podlahy-menu/"
+  },
+  {
+   "t": "Renovace podlah",
+   "h": "/rekonstrukce-a-renovace-podlah/"
+  },
+  {
+   "t": "Reference",
+   "h": "/ukazky-nasi-prace/"
+  },
+  {
+   "t": "Blog",
+   "h": "/blog/"
+  },
+  {
+   "t": "Kontakt",
+   "h": "/kontakt/"
+  }
+ ],
+ "nav_more": [
+  {
+   "t": "Laminátové podlahy",
+   "h": "/laminatove-podlahy-menu/"
+  },
+  {
+   "t": "Masivní dřevěné podlahy",
+   "h": "/drevene-podlahy-a-parkety/masivni-drevene-parkety/"
+  },
+  {
+   "t": "Schodové hrany",
+   "h": "/schodove-hrany/"
+  },
+  {
+   "t": "Korkové podlahy",
+   "h": "/korkove-podlahy/"
+  },
+  {
+   "t": "Interiérové dveře",
+   "h": "https://www.dvere-vascodoors.cz/"
+  },
+  {
+   "t": "Poptávka podlah",
+   "h": "/cenova-kalkulace/"
+  }
+ ],
+ "footer_cols": [
+  {
+   "t": "Užitečné informace",
+   "items": [
+    {
+     "t": "Masivní dřevěné podlahy",
+     "h": "/drevene-podlahy-a-parkety/masivni-drevene-podlahy/"
+    },
+    {
+     "t": "Průmyslové mozaiky",
+     "h": "/drevene-podlahy-a-parkety/masivni-drevene-podlahy-prumyslove-mozaiky/"
+    },
+    {
+     "t": "Dřevěné třívrstvé podlahy",
+     "h": "/drevene-trivrstve-podlahy-menu/"
+    },
+    {
+     "t": "Schodové hrany",
+     "h": "/schodove-hrany/"
+    },
+    {
+     "t": "Schodiště",
+     "h": "/schodiste/"
+    },
+    {
+     "t": "Korkové podlahy",
+     "h": "/korkove-podlahy/"
+    }
+   ]
+  },
+  {
+   "t": "Zajímavé informace",
+   "items": [
+    {
+     "t": "Cenová kalkulace",
+     "h": "/cenova-kalkulace/"
+    },
+    {
+     "t": "Podlahář radí",
+     "h": "/podlahar-radi/"
+    },
+    {
+     "t": "Péče o podlahy",
+     "h": "/pece-o-podlahu/"
+    },
+    {
+     "t": "Akční nabídka podlah",
+     "h": "/akcni-nabidka-podlah/"
+    },
+    {
+     "t": "Reference",
+     "h": "/ukazky-nasi-prace/"
+    },
+    {
+     "t": "Blog",
+     "h": "/blog/"
+    },
+    {
+     "t": "Kontakt",
+     "h": "/kontakt/"
+    }
+   ]
+  }
+ ],
+ "sister": [
+  {
+   "t": "Interiérové dveře Vasco Doors",
+   "h": "https://www.dvere-vascodoors.cz/"
+  },
+  {
+   "t": "Terasy z dřevoplastu a dřeva",
+   "h": "https://www.terasy-drevoplast.cz/"
+  },
+  {
+   "t": "Servis dveří",
+   "h": "https://www.servisdvere.cz/"
+  }
+ ],
+ "kontakt": {
+  "h2": "Podlahové studio Šťastný",
+  "lead": "Podlahu si nevyberete očima. Musíte si na ni sáhnout!",
+  "p": [
+   "Zveme vás do našeho studia, kde se podlahy nejen vystavují, ale hlavně osahávají. Chceme, abyste cítili rozdíl mezi dřevem, vinylem nebo korkem – protože správná podlaha není jen o vzhledu, ale i o pocitu pod nohama.",
+   "Najdete nás v centru Prahy, jen 5 minut chůze od Jiřího z Poděbrad. Přijďte si s námi popovídat, všechno vám vysvětlíme, ukážeme a klidně i uděláme kávu. Schůzka je nezávazná – slibujeme, že vás do ničeho nebudeme tlačit (maximálně do pohodlného křesla).",
+   "Těšíme se na každého návštěvníka, zpětnou vazbu i pochvalu. A pokud nás rozesmějete, možná dostanete i magnetku zdarma! 😊"
+  ],
+  "notice": "Od 29. 9. 2026 do 6. 10. 2026 osobní schůzka ve studiu pouze po telefonické domluvě.",
+  "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/02/IMG_6395.jpg"
+ }
+}
