@@ -47,6 +47,10 @@
  ],
  "nav": [
   {
+   "t": "Úvod",
+   "h": "/"
+  },
+  {
    "t": "Vinylové podlahy",
    "h": "/podlahy-vinylove/"
   },
@@ -73,6 +77,10 @@
  ],
  "nav_more": [
   {
+   "t": "Vinylové podlahy",
+   "h": "/podlahy-vinylove/"
+  },
+  {
    "t": "Laminátové podlahy",
    "h": "/laminatove-podlahy-menu/"
   },
@@ -89,10 +97,6 @@
    "h": "/korkove-podlahy/"
   },
   {
-   "t": "Interiérové dveře",
-   "h": "https://www.dvere-vascodoors.cz/"
-  },
-  {
    "t": "Poptávka podlah",
    "h": "/cenova-kalkulace/"
   }
@@ -101,6 +105,10 @@
   {
    "t": "Užitečné informace",
    "items": [
+    {
+     "t": "Vinylové podlahy",
+     "h": "/podlahy-vinylove/"
+    },
     {
      "t": "Masivní dřevěné podlahy",
      "h": "/drevene-podlahy-a-parkety/masivni-drevene-podlahy/"
@@ -173,6 +181,10 @@
   {
    "t": "Servis dveří",
    "h": "https://www.servisdvere.cz/"
+  },
+  {
+   "t": "Interiérové dveře Praha",
+   "h": "https://www.interierove-dvere-praha.cz/"
   }
  ],
  "kontakt": {
@@ -183,7 +195,14 @@
    "Najdete nás v centru Prahy, jen 5 minut chůze od Jiřího z Poděbrad. Přijďte si s námi popovídat, všechno vám vysvětlíme, ukážeme a klidně i uděláme kávu. Schůzka je nezávazná – slibujeme, že vás do ničeho nebudeme tlačit (maximálně do pohodlného křesla).",
    "Těšíme se na každého návštěvníka, zpětnou vazbu i pochvalu. A pokud nás rozesmějete, možná dostanete i magnetku zdarma! 😊"
   ],
-  "notice": "Od 29. 9. 2026 do 6. 10. 2026 osobní schůzka ve studiu pouze po telefonické domluvě.",
+  "notice": "",
   "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/02/IMG_6395.jpg"
+ },
+ "removed": {
+  "/drevene-trivrstve-podlahy-menu/drevene-podlahy-moland/": "/drevene-trivrstve-podlahy-menu/",
+  "/podlahy-vinylove/vinylove-podlahy-lepene/ter-hurne-luxusni-vinylove-dilce/": "/podlahy-vinylove/vinylove-podlahy-lepene/",
+  "/podlahy-vinylove/vinylove-plovouci-podlahy/vinylove-dilce-ter-hurne/": "/podlahy-vinylove/vinylove-plovouci-podlahy/",
+  "/podlahy-vinylove/vinylove-podlahy-lepene/tarkett-vinylove-dilce/": "/podlahy-vinylove/vinylove-podlahy-lepene/",
+  "/podlahy-vinylove/vinylove-podlahy-lepene/vinylove-lepene-podlahy-amtico-first/": "/podlahy-vinylove/vinylove-podlahy-lepene/"
  }
 }

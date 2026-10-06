@@ -14,7 +14,7 @@
 <link rel="icon" href="{{ R }}assets/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ R }}assets/style.css?v={{ V.css }}">
 <script type="application/ld+json">{{ ld | safe }}</script>
 </head>
@@ -45,9 +45,8 @@
 </header>
 <div class="mnav" id="mnav" hidden>
   <nav>
-    <a href="{{ R }}">Úvod</a>
     {% for n in S.nav %}<a href="{{ L(n.h) }}">{{ n.t }}</a>{% endfor %}
-    {% for n in S.nav_more %}<a href="{{ L(n.h) }}" class="mnav__sm">{{ n.t }}</a>{% endfor %}
+    {% set main_h = S.nav | map(attribute='h') | list %}{% for n in S.nav_more if n.h not in main_h %}<a href="{{ L(n.h) }}" class="mnav__sm">{{ n.t }}</a>{% endfor %}
   </nav>
   <div class="mnav__foot">
     <a href="tel:{{ S.phone_href }}">{{ S.phone }}</a>

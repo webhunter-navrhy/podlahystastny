@@ -2,11 +2,12 @@
 {% block main %}
 <section class="phero">
   <div class="shell">
-    <nav class="crumbs" aria-label="Drobečková navigace"><a href="{{ R }}">Úvod</a>{% for c in P.crumbs %}<span>/</span><a href="{{ L(c.path) }}">{{ c.title }}</a>{% endfor %}<span>/</span><span aria-current="page">{{ P.title }}</span></nav>
+    <nav class="crumbs" aria-label="Drobečková navigace"><a class="crumbs__home" href="{{ R }}"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11.5 12 4l9 7.5M5.5 9.5V20h13V9.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Úvod</a>{% for c in P.crumbs %}<span>/</span><a href="{{ L(c.path) }}">{{ c.title }}</a>{% endfor %}<span>/</span><span aria-current="page">{{ P.title }}</span></nav>
     <div class="phero__grid">
       <h1 class="phero__h1 reveal">{{ P.title }}</h1>
       {% if P.lead %}<p class="phero__lead reveal" style="--d:.1s">{{ P.lead | safe }}</p>{% endif %}
     </div>
+    {% if P.jump %}<p class="phero__jump reveal" style="--d:.2s"><a class="btn btn--red" href="#ukazky">Ukázky našich prací <span class="arr">↓</span></a><a class="btn btn--line" href="{{ L('/ukazky-nasi-prace/') }}">Všechny reference</a></p>{% endif %}
   </div>
   {{ rings('phero__rings') }}
 </section>
@@ -16,7 +17,7 @@
     <article class="prose">
       {% if P.path == '/kontakt/' %}{% set K = S.kontakt %}
       <div class="kt">
-        <p class="kt__notice"><span class="dot"></span>{{ K.notice }} Tel. <a href="tel:{{ S.phone_href }}">{{ S.phone }}</a></p>
+        {% if K.notice %}<p class="kt__notice"><span class="dot"></span>{{ K.notice }} Tel. <a href="tel:{{ S.phone_href }}">{{ S.phone }}</a></p>{% endif %}
         <h2>{{ K.h2 }}</h2>
         <p class="kt__lead">{{ K.lead }}</p>
         {% for p in K.p %}<p>{{ p }}</p>{% endfor %}
@@ -27,14 +28,14 @@
           <div><span class="info-k">Adresa</span><p class="info-big">{{ S.address }}<br>{{ S.city }}<br>{{ S.zip }}</p><a class="link" href="{{ S.map }}" target="_blank" rel="noopener">Otevřít v mapě <span class="arr">↗</span></a></div>
           <div><span class="info-k">Otevírací doba</span><dl class="hours">{% for h in S.hours %}<dt>{{ h[0] }}</dt><dd>{{ h[1] }}</dd>{% endfor %}</dl><p class="small">{{ S.hours_note }}</p></div>
         </div>
-        <p class="small">IČO: {{ S.ico }} · DIČ: {{ S.dic }} · <a href="https://www.terasy-drevoplast.cz/">www.terasy-drevoplast.cz</a> · <a href="https://www.dvere-vascodoors.cz">www.dvere-vascodoors.cz</a></p>
+        <p class="small">IČO: {{ S.ico }} · DIČ: {{ S.dic }}{% for s in S.sister %} · <a href="{{ s.h }}" target="_blank" rel="noopener">{{ s.h | replace('https://','') | trim('/') }}</a>{% endfor %}</p>
         <h2>Napište nám</h2>
         {% include "form.html" %}
       </div>
       {% else %}
       {% for b in P.blocks %}
-        {% if b.t == 'h' %}<h{{ b.l }} class="{{ 'c' if b.center }}">{{ b.x }}</h{{ b.l }}>
-        {% elif b.t == 'sub' %}<h3 class="sub">{{ b.h | safe }}</h3>
+        {% if b.t == 'h' %}<h{{ b.l }} class="{{ 'c' if b.center }}"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.x }}</h{{ b.l }}>
+        {% elif b.t == 'sub' %}<h3 class="sub"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.h | safe }}</h3>
         {% elif b.t == 'p' %}<p class="{{ 'c' if b.center }}">{{ b.h | safe }}</p>
         {% elif b.t == 'ul' %}<ul class="{{ 'checks checks--ink' if b.check else 'dots' }}">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ul>
         {% elif b.t == 'ol' %}<ol class="nums">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ol>
@@ -58,6 +59,10 @@
       {% if P.children %}
         <h2>V této sekci</h2>
         <div class="cards">{% for c in P.children %}<a class="card" href="{{ L(c.path) }}">{% if c.thumb %}<figure>{{ pic(c.thumb, c.title) }}</figure>{% endif %}<div><h3>{{ c.title }}</h3>{% if c.excerpt %}<p>{{ c.excerpt }}</p>{% endif %}<span class="link">Zobrazit <span class="arr">→</span></span></div></a>{% endfor %}</div>
+      {% endif %}
+      {% if P.reviews %}
+        <h2>{{ P.reviews.h2 }}</h2>
+        <div class="quotes">{% for r in P.reviews['items'] %}<figure class="quote"><blockquote>„{{ r.q }}“</blockquote><figcaption>{{ r.a }}</figcaption></figure>{% endfor %}</div>
       {% endif %}
       {% if P.empty_note %}<p>{{ P.empty_note | safe }}</p>{% endif %}
     </article>

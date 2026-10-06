@@ -9016,7 +9016,7 @@
    },
    {
     "t": "p",
-    "h": "Pokud jste si pořídili <a href=\"@/amtico-spacia-parquet\">vinylovou podlahu</a>, měli byste vědět jak ji správně čistit a jakou ji dopřát ochrannou péči. Prodejci tento druh podlahy často označují jako nezničitelný a věčný, avšak bez správné péče ji můžete lehce zničit, jako jakoukoliv jinou podlahu. Všimli jste si, že ženy při čištění pleti používají speciální přípravky na odstraňování mastnoty, hydrataci, regeneraci a čištění pórů? Dobře vědí proč to dělají, pokud se totiž na pleti zanesou póry, tak je jasné, že obličej bude plný viditelných nečistot.<br> Stejně tak je to i u vinylových podlah. <a href=\"@/vinylove-dilce-ter-hurne\">Vinylové podlahy</a> mají na svém povrchu póry, které když se zanesou nečistotami, tak se budou špatně odstraňovat a stejně tak jako plet, potřebují k čištění a ochraně speciální přípravky. Pokud máte starou vinylovou podlahu, je možné, že jste ji čistili běžnými čistícími prostředky, porušili nášlapnou vrstvu a do podlahy se usazují nečistoty, které nejdou odstranit, nebo jdou odstranit velmi těžko.<br> Předejít se tomu dá, když po pokládce nové vinylové podlahy uděláte nebo si necháte udělat základní čištění podlahy, přebroušení a nalakování PU vrstvou ochranného laku. Nebo můžete zvolit takzvanou optiku, díky které si můžete vybrat zda bude povrch lesklý, matný, extramatný nebo ultramatný. Ultramatný povrch vypadá perfektně na dřevěných dekorech a lesklý například na imitaci dlažby, kde působí mokrým efektem.<br> Díky těmto úpravám se povrch <a href=\"@/vinylove-podlahy\">vinylové podlahy</a> zacelí, umožní snadné čištění, póry se nezanáší a prodlužuje se tak její životnost. Důležité je používat i speciální čistící prostředky určené pro vinylové podlahy. Pokud své podlaze věnujete správnou péči a ochranu, tak se Vám odvděčí svoji dlouhou životností a bude stále vypadat jako nová.",
+    "h": "Pokud jste si pořídili <a href=\"/podlahy-vinylove/\">vinylovou podlahu</a>, měli byste vědět jak ji správně čistit a jakou ji dopřát ochrannou péči. Prodejci tento druh podlahy často označují jako nezničitelný a věčný, avšak bez správné péče ji můžete lehce zničit, jako jakoukoliv jinou podlahu. Všimli jste si, že ženy při čištění pleti používají speciální přípravky na odstraňování mastnoty, hydrataci, regeneraci a čištění pórů? Dobře vědí proč to dělají, pokud se totiž na pleti zanesou póry, tak je jasné, že obličej bude plný viditelných nečistot.<br> Stejně tak je to i u vinylových podlah. <a href=\"/podlahy-vinylove/\">Vinylové podlahy</a> mají na svém povrchu póry, které když se zanesou nečistotami, tak se budou špatně odstraňovat a stejně tak jako plet, potřebují k čištění a ochraně speciální přípravky. Pokud máte starou vinylovou podlahu, je možné, že jste ji čistili běžnými čistícími prostředky, porušili nášlapnou vrstvu a do podlahy se usazují nečistoty, které nejdou odstranit, nebo jdou odstranit velmi těžko.<br> Předejít se tomu dá, když po pokládce nové vinylové podlahy uděláte nebo si necháte udělat základní čištění podlahy, přebroušení a nalakování PU vrstvou ochranného laku. Nebo můžete zvolit takzvanou optiku, díky které si můžete vybrat zda bude povrch lesklý, matný, extramatný nebo ultramatný. Ultramatný povrch vypadá perfektně na dřevěných dekorech a lesklý například na imitaci dlažby, kde působí mokrým efektem.<br> Díky těmto úpravám se povrch <a href=\"@/vinylove-podlahy\">vinylové podlahy</a> zacelí, umožní snadné čištění, póry se nezanáší a prodlužuje se tak její životnost. Důležité je používat i speciální čistící prostředky určené pro vinylové podlahy. Pokud své podlaze věnujete správnou péči a ochranu, tak se Vám odvděčí svoji dlouhou životností a bude stále vypadat jako nová.",
     "center": false
    },
    {
@@ -19974,18 +19974,18 @@
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG-20191129-WA0019.jpg",
-    "alt": "",
-    "w": 463,
-    "h": 617,
-    "align": "right"
-   },
-   {
     "t": "h",
     "l": 2,
     "x": "Renovace parket a dřevěných masivních podlah",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG-20191129-WA0019.jpg",
+    "alt": "Renovace parket – rozebraná podlaha u radiátoru před opravou podkladu",
+    "w": 463,
+    "h": 459,
+    "align": "right"
    },
    {
     "t": "p",

@@ -517,3 +517,40 @@ a:hover .arr{transform:translateX(5px)}
 .person a{display:block;text-decoration:none;font-size:.9rem;font-weight:500}
 .kt__grid{display:grid;grid-template-columns:1fr 1fr;gap:2rem;padding:2rem 0;border-block:1px solid var(--line);margin-bottom:1.4rem}
 @media (max-width:700px){.people,.kt__grid{grid-template-columns:1fr}}
+
+/* Úpravy podle připomínek klienta (6. 10. 2026): klidné, dobře čitelné nadpisy stejného stylu na všech stránkách */
+:root{--serif:'Lora',Georgia,serif;--h1:clamp(2.3rem,4.2vw,4rem);--h2:clamp(1.8rem,3vw,2.7rem)}
+.hero__h1{font:600 var(--h1)/1.14 var(--serif);letter-spacing:-.01em}
+.phero__h1{font:600 clamp(2.1rem,4vw,3.5rem)/1.14 var(--serif);letter-spacing:-.01em}
+.h2{font-weight:500;line-height:1.16;letter-spacing:-.01em}
+.h2 em,.hero__h1 em{font-style:normal;color:inherit}
+.h2--xl{font-size:clamp(2rem,3.8vw,3.4rem)}
+.prose h2{font-size:clamp(1.55rem,2.3vw,2.1rem);font-weight:500;line-height:1.2;letter-spacing:-.005em}
+.intro__lead{font-size:clamp(1.5rem,2.4vw,2.2rem);line-height:1.3;letter-spacing:-.005em}
+.cat__t{font-size:clamp(1.35rem,2.2vw,2rem);font-weight:500;letter-spacing:-.005em}
+.card h3{font-size:1.3rem!important;font-weight:500;line-height:1.2!important}
+.side__big{font-size:1.45rem!important;line-height:1.2!important}
+.choice__body h3,.reno__box h3{font-size:1.65rem;font-weight:500}
+.why__list h3{font-size:1.45rem;font-weight:500}
+.info-big{font-size:1.6rem}
+.mnav nav a{font-size:1.6rem}
+.pcta .h2{font-size:clamp(1.8rem,3vw,2.8rem)}
+.rv blockquote{font-size:clamp(1.3rem,2.1vw,1.9rem);line-height:1.4}
+.fact__n{font-size:clamp(2.6rem,4.4vw,4.2rem)}
+.hdr__nav{gap:1.35rem}
+/* drobečky: výraznější odkaz na úvod */
+.crumbs{font-size:.9rem;align-items:center}
+.crumbs__home{display:inline-flex;align-items:center;gap:.45rem;padding:.4rem .85rem;border:1px solid rgba(32,30,28,.22);border-radius:999px;background:var(--white);color:var(--ink);font-weight:600;transition:border-color .3s,color .3s}
+.crumbs__home:hover{border-color:var(--red)}
+/* skok na ukázky prací */
+.phero__jump{display:flex;flex-wrap:wrap;gap:.8rem;margin:2.2rem 0 0;position:relative;z-index:1}
+/* recenze na stránce Reference */
+.quotes{display:grid;gap:1.2rem;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin:1.5rem 0 1rem}
+.quote{margin:0;padding:1.6rem 1.5rem;background:var(--white);border:1px solid var(--line);border-radius:var(--r);display:flex;flex-direction:column;justify-content:space-between;gap:1rem}
+.quote blockquote{margin:0;font:400 italic 1.05rem/1.6 var(--serif);color:var(--ink)}
+.quote figcaption{font:600 .88rem/1.2 var(--sans);color:var(--red)}
+@media (max-width:1180px){.hdr__nav{gap:1.05rem;font-size:.84rem}}
+@media (max-width:700px){.hero__h1{font-size:clamp(2rem,9vw,2.8rem)}.phero__h1{font-size:clamp(1.9rem,8.5vw,2.6rem)}.phero__jump .btn{flex:1 1 auto}}
+.hdr__nav>a,.more__btn,.hdr__cta .btn,.hdr__tel{white-space:nowrap}
+@media (max-width:1380px){.hdr__tel{display:none}}
+@media (max-width:1140px){.hdr__nav,.hdr__cta{display:none}.burger{display:block}}

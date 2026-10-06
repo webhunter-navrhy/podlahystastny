@@ -9,6 +9,9 @@ D = lambda n: json.load(open(os.path.join(ROOT, '_data', n), encoding='utf-8'))
 S, H, PAGES = D('site.json'), D('home.json'), D('pages.json')
 IMAP = D('pages_images_map.json'); IMAP.update(D('home_images_map.json'))
 DOMAIN = S['domain']
+# stránky, které klient nechce (značky už nevede) – nezobrazují se, stará URL přesměruje na rodiče
+REMOVED = S.get('removed', {})
+GONE = re.compile(r'moland|ter ?h[üu]rne|tarkett|amtico', re.I)
 
 if os.path.exists(OUT): shutil.rmtree(OUT)
 os.makedirs(OUT)
@@ -21,7 +24,8 @@ V = {k: hashlib.md5(open(os.path.join(OUT, 'assets', f), 'rb').read()).hexdigest
 by_path = {p['path']: p for p in PAGES}
 by_id = {p['id']: p for p in PAGES}
 kids = {}
-for p in PAGES: kids.setdefault(p['parent'], []).append(p)
+for p in PAGES:
+    if p['path'] not in REMOVED: kids.setdefault(p['parent'], []).append(p)
 for v in kids.values(): v.sort(key=lambda p: (p['order'], p['title']))
 
 def IM(u):
@@ -67,8 +71,13 @@ def prep_blocks(p, L):
             if not b['items']: continue
         elif b['t'] == 'img' and not IM(b['src']): continue
         elif b['t'] == 'cards':
-            b['items'] = [c for c in b['items'] if c.get('title')]
+            b['items'] = [c for c in b['items'] if c.get('title') and not GONE.search(c['title'] + ' ' + (c.get('href') or ''))]
         out.append(b)
+    # ukázky prací bývají až pod dlouhým textem – kotva, ať se na ně dá skočit z hlavičky
+    gi = next((i for i, b in enumerate(out) if b['t'] == 'gallery'), None)
+    if gi is not None and gi > 6:
+        hi = gi - 1 if out[gi - 1]['t'] in ('h', 'sub') else gi
+        out[hi] = dict(out[hi], anchor='ukazky')
     return out
 
 def first_img(p):
@@ -109,6 +118,11 @@ write('/', env.get_template('home.html').render(S=S, H=H, R=R, L=L, IM=IM, V=V, 
 tpl = env.get_template('page.html')
 for p in PAGES:
     if p['path'] == '/': continue
+    if p['path'] in REMOVED:
+        depth = len([x for x in p['path'].split('/') if x]); R = '../' * depth
+        to = R + REMOVED[p['path']].lstrip('/')
+        write(p['path'], '<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex"><title>Přesměrování</title><link rel="canonical" href="%s"><meta http-equiv="refresh" content="0;url=%s"><a href="%s">Pokračovat</a>' % (DOMAIN + REMOVED[p['path']], to, to))
+        continue
     depth = len([x for x in p['path'].split('/') if x])
     R = '../' * depth; L = make_L(R)
     blocks = prep_blocks(p, L)
@@ -132,6 +146,14 @@ for p in PAGES:
         section = {'title': top['title'], 'items': [{'path': x['path'], 'title': x['title']} for x in items][:16]}
     children = [{'path': c['path'], 'title': c['title'], 'thumb': first_img(c), 'excerpt': excerpt(c)} for c in kids.get(p['id'], [])]
     if any(b['t'] == 'cards' for b in blocks): children = []
+    reviews = None
+    reno = by_path.get('/rekonstrukce-a-renovace-podlah/')
+    if p['path'] == '/ukazky-nasi-prace/':
+        reviews = H['reviews']
+        if reno:
+            gal = next(b for b in reno['blocks'] if b['t'] == 'gallery' and any(IM(it['src']) for it in b['items']))
+            thumb = next(it['src'] for it in gal['items'] if IM(it['src']))
+            children.append({'path': reno['path'] + '#ukazky', 'title': 'Renovace parket a dřevěných podlah', 'thumb': thumb, 'excerpt': 'Ukázky renovací starých parket a masivních dřevěných podlah.'})
     empty_note = None
     if not blocks and not children:
         if 'teras' in p['path']:
@@ -139,8 +161,11 @@ for p in PAGES:
         elif p['parent'] in kids:
             children = [{'path': c['path'], 'title': c['title'], 'thumb': first_img(c), 'excerpt': excerpt(c)} for c in kids[p['parent']] if c['id'] != p['id']]
     desc = p['description'] or excerpt(p, 155)
-    P = dict(p, blocks=blocks, lead=lead, cover=cover, crumbs=[{'path': c['path'], 'title': c['title']} for c in crumbs], section=section, children=children, empty_note=empty_note)
-    nav_active = next((n['h'] for n in S['nav'] if p['path'].startswith(n['h'])), '')
+    if section and section['title'] == 'Reference' and reno:
+        section['items'].insert(-1 if section['items'][-1]['title'] == 'Ke stažení' else len(section['items']), {'path': '/rekonstrukce-a-renovace-podlah/#ukazky', 'title': 'Renovace parket a dřevěných podlah'})
+    jump = any(b.get('anchor') == 'ukazky' for b in blocks)
+    P = dict(p, blocks=blocks, reviews=reviews, jump=jump, lead=lead, cover=cover, crumbs=[{'path': c['path'], 'title': c['title']} for c in crumbs], section=section, children=children, empty_note=empty_note)
+    nav_active = next((n['h'] for n in S['nav'] if n['h'] != '/' and p['path'].startswith(n['h'])), '')
     write(p['path'], tpl.render(S=S, P=P, R=R, L=L, IM=IM, V=V, title=p['seo_title'] or p['title'], description=desc,
           og=p.get('og_image') or '', ld=LD, announce=H['announce'], body_class='sub', active=nav_active))
 

@@ -4,11 +4,7 @@
   <div class="shell hero__grid">
     <div class="hero__text">
       <p class="eyebrow reveal"><span class="dot"></span>{{ H.hero.eyebrow }}</p>
-      <h1 class="hero__h1" aria-label="{{ H.hero.h1a }} {{ H.hero.h1b }} {{ H.hero.h1c }}">
-        <span class="ln" aria-hidden="true">{% for w in H.hero.h1a.split() %}<span class="w"><span style="--i:{{ loop.index0 }}">{{ w }}</span></span> {% endfor %}</span>
-        <span class="ln" aria-hidden="true">{% for w in H.hero.h1b.split() %}<span class="w"><span style="--i:{{ loop.index0 + 2 }}">{{ w }}</span></span> {% endfor %}</span>
-        <span class="ln ln--em" aria-hidden="true"><span class="w"><span style="--i:6"><em>renovace</em></span></span> <span class="w"><span style="--i:7">podlah</span></span></span>
-      </h1>
+      <h1 class="hero__h1 reveal">{{ H.hero.h1a }}<br> {{ H.hero.h1b }} {{ H.hero.h1c }}</h1>
       <p class="hero__sub reveal" style="--d:.5s">{{ H.hero.sub }}</p>
       <div class="hero__actions reveal" style="--d:.65s">
         <a class="btn btn--red magnetic" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka <span class="arr">→</span></a>
