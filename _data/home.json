@@ -23,15 +23,42 @@
   "img2_alt": "Renovace starých parket – rozebrání a nové položení"
  },
  "marquee": [
-  "Vinylové a SPC podlahy",
-  "Dřevěné třívrstvé podlahy",
-  "Masivní parkety",
-  "Renovace parket",
-  "Schodové hrany",
-  "Laminátové podlahy",
-  "Korkové podlahy",
-  "Samonivelační stěrky",
-  "Podlahové lišty"
+  {
+   "t": "Vinylové a SPC podlahy",
+   "h": "/podlahy-vinylove/"
+  },
+  {
+   "t": "Dřevěné třívrstvé podlahy",
+   "h": "/drevene-trivrstve-podlahy-menu/"
+  },
+  {
+   "t": "Masivní parkety",
+   "h": "/drevene-podlahy-a-parkety/masivni-drevene-parkety/"
+  },
+  {
+   "t": "Renovace parket",
+   "h": "/rekonstrukce-a-renovace-podlah/"
+  },
+  {
+   "t": "Schodové hrany",
+   "h": "/schodove-hrany/"
+  },
+  {
+   "t": "Laminátové podlahy",
+   "h": "/laminatove-podlahy-menu/"
+  },
+  {
+   "t": "Korkové podlahy",
+   "h": "/korkove-podlahy/"
+  },
+  {
+   "t": "Samonivelační stěrky",
+   "h": "/samonivelacni-sterka/"
+  },
+  {
+   "t": "Podlahové lišty",
+   "h": "/podlahove-listy/"
+  }
  ],
  "intro": {
   "lead": "Hledáte novou podlahu v Praze, potřebujete vyměnit starou podlahu nebo zachránit původní parkety?",

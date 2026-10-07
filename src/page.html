@@ -73,22 +73,22 @@
         <nav class="side__nav">{% for s in P.section['items'] %}<a href="{{ L(s.path) }}" class="{{ 'is-on' if s.path == P.path }}">{{ s.title }}</a>{% endfor %}</nav>
       </div>
       {% endif %}
-      <div class="side__cta">
+      {% if P.path not in ["/cenova-kalkulace/","/kontakt/"] %}<div class="side__cta">
         {{ rings('side__rings') }}
         <span class="info-k">Podlahové studio Praha 2</span>
         <p class="side__big">Přijďte si vybrat podlahu osobně</p>
         <p>{{ S.address }}, {{ S.city }}</p>
         <a class="btn btn--red btn--block" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka</a>
         <a class="side__tel" href="tel:{{ S.phone_href }}">{{ S.phone }}</a>
-      </div>
+      </div>{% endif %}
     </aside>
   </div>
 </section>
-<section class="pcta dark">
+{% if P.path not in ["/cenova-kalkulace/","/kontakt/"] %}<section class="pcta dark">
   <div class="shell pcta__grid">
     <h2 class="h2 reveal">Máte už vybranou podlahu nebo řešíte staré parkety a nevíte, zda je renovovat?</h2>
     <div class="reveal" style="--d:.1s"><p>Pošlete nám fotografie a základní informace o prostoru nebo si domluvte osobní návštěvu.</p>
       <div class="pcta__actions"><a class="btn btn--red magnetic" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka <span class="arr">→</span></a><a class="btn btn--light" href="{{ L('/kontakt/') }}">Kontakt a otevírací doba</a></div></div>
   </div>
-</section>
+</section>{% endif %}
 {% endblock %}

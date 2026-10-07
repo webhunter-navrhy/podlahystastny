@@ -30,7 +30,7 @@
   <div class="shell hdr__in">
     <a class="hdr__logo" href="{{ R }}" aria-label="Podlahy Šťastný – úvod"><img src="{{ R }}assets/logo.png" alt="Podlahy Šťastný" width="500" height="303"></a>
     <nav class="hdr__nav" aria-label="Hlavní menu">
-      {% for n in S.nav %}<a href="{{ L(n.h) }}" class="{{ 'is-on' if active == n.h }}">{{ n.t }}</a>{% endfor %}
+      {% for n in S.nav %}<a href="{{ L(n.h) }}" class="{{ 'is-on' if active == n.h }}{{ ' nav-hl' if n.hl }}">{{ n.t }}</a>{% endfor %}
       <div class="more">
         <button class="more__btn" aria-expanded="false">Další <svg width="10" height="6" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></button>
         <div class="more__menu">{% for n in S.nav_more %}<a href="{{ L(n.h) }}">{{ n.t }}</a>{% endfor %}</div>
@@ -38,7 +38,7 @@
     </nav>
     <div class="hdr__cta">
       <a class="hdr__tel" href="tel:{{ S.phone_href }}">{{ S.phone }}</a>
-      <a class="btn btn--red btn--sm" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka</a>
+      {% if active not in ['/cenova-kalkulace/','/kontakt/'] %}<a class="btn btn--red btn--sm" href="{{ L('/cenova-kalkulace/') }}">Nezávazná poptávka</a>{% endif %}
     </div>
     <button class="burger" aria-label="Menu" aria-expanded="false"><span></span><span></span></button>
   </div>

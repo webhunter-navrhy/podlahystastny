@@ -51,6 +51,11 @@
    "h": "/"
   },
   {
+   "t": "Poptávka",
+   "h": "/cenova-kalkulace/",
+   "hl": true
+  },
+  {
    "t": "Vinylové podlahy",
    "h": "/podlahy-vinylove/"
   },
@@ -95,10 +100,6 @@
   {
    "t": "Korkové podlahy",
    "h": "/korkove-podlahy/"
-  },
-  {
-   "t": "Poptávka podlah",
-   "h": "/cenova-kalkulace/"
   }
  ],
  "footer_cols": [
@@ -183,8 +184,16 @@
    "h": "https://www.servisdvere.cz/"
   },
   {
-   "t": "Interiérové dveře Praha",
-   "h": "https://www.interierove-dvere-praha.cz/"
+   "t": "Podlahy Floorify",
+   "h": "https://www.podlahyfloorify.cz/"
+  },
+  {
+   "t": "Masivní dřevěné podlahy",
+   "h": "https://www.masivnidrevenepodlahy.cz/"
+  },
+  {
+   "t": "Profi terasy Praha",
+   "h": "https://www.profiterasypraha.cz/"
   }
  ],
  "kontakt": {

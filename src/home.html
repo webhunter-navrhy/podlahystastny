@@ -24,7 +24,7 @@
   <a class="scrollcue" href="#uvod" aria-label="Pokračovat dolů"><span></span>Posuňte dolů</a>
 </section>
 
-<div class="marquee" aria-hidden="true"><div class="marquee__track">{% for r in range(2) %}{% for m in H.marquee %}<span>{{ m }}</span><i></i>{% endfor %}{% endfor %}</div></div>
+<div class="marquee"><div class="marquee__track">{% for r in range(2) %}{% for m in H.marquee %}<a href="{{ L(m.h) }}">{{ m.t }}</a><i></i>{% endfor %}{% endfor %}</div></div>
 
 <section class="intro" id="uvod">
   <div class="shell intro__grid">
