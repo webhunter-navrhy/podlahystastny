@@ -67,7 +67,7 @@
       {% if P.empty_note %}<p>{{ P.empty_note | safe }}</p>{% endif %}
     </article>
     <aside class="side">
-      {% if P.section %}
+      {% if P.section and not P.path.startswith('/podlahy-vinylove') %}
       <div class="side__box">
         <span class="info-k">{{ P.section.title }}</span>
         <nav class="side__nav">{% for s in P.section['items'] %}<a href="{{ L(s.path) }}" class="{{ 'is-on' if s.path == P.path }}">{{ s.title }}</a>{% endfor %}</nav>
@@ -84,7 +84,7 @@
     </aside>
   </div>
 </section>
-{% if P.path not in ["/cenova-kalkulace/","/kontakt/"] %}<section class="pcta dark">
+{% if false %}<section class="pcta dark">
   <div class="shell pcta__grid">
     <h2 class="h2 reveal">Máte už vybranou podlahu nebo řešíte staré parkety a nevíte, zda je renovovat?</h2>
     <div class="reveal" style="--d:.1s"><p>Pošlete nám fotografie a základní informace o prostoru nebo si domluvte osobní návštěvu.</p>
