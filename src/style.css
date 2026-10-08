@@ -79,7 +79,7 @@ a:hover .arr{transform:translateX(5px)}
 .mnav[hidden]{display:none}
 .mnav nav{display:grid}
 .mnav nav a{font:400 2rem/1.25 var(--serif);text-decoration:none;padding:.35rem 0;border-bottom:1px solid var(--line)}
-.mnav nav a.mnav__sm{font:500 1rem/1.4 var(--sans);padding:.7rem 0}
+.mnav nav a.mnav__sm{font:400 1.6rem/1.25 var(--serif);padding:.35rem 0}
 .mnav__foot{display:grid;gap:.4rem;padding-top:2rem;font-weight:500}
 .mnav__foot a{text-decoration:none}
 
