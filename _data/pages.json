@@ -2850,240 +2850,343 @@
   "path": "/ecoline-click/",
   "title": "Ecoline Click",
   "seo_title": "Ecoline Click - Podlahy Šťastný",
-  "description": "Vinylová podlaha Ecoline Click s integrovanou podložkou – praktické a tiché řešení pro každý interiér Hledáte podlahu, která je odolná, snadná na pokládku a navíc tichá při chůzi? Vinylová podlaha Ecoline Click s integrovanou podložkou je moderní volbou pro domácnosti, kanceláře i komerční prostory. Kombinuje vysokou funkčnost, estetiku a jednoduchou instalaci bez nutnosti samostatné podložky.",
+  "description": "Ecoline Click – vinylová podlaha na HDF desce s integrovanou korkovou podložkou: skladba, akustika, podlahové vytápění, voděodolnost a pokládka. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
     "t": "h",
     "l": 2,
-    "x": "Vinylová podlaha Ecoline Click s integrovanou podložkou – praktické a tiché řešení pro každý interiér",
+    "x": "Ecoline Click – vinylová podlaha na HDF desce s korkovou podložkou",
     "center": false
    },
    {
     "t": "p",
-    "h": "Hledáte podlahu, která je odolná, snadná na pokládku a navíc tichá při chůzi? Vinylová podlaha <strong>Ecoline Click s integrovanou podložkou</strong> je moderní volbou pro domácnosti, kanceláře i komerční prostory. Kombinuje vysokou funkčnost, estetiku a jednoduchou instalaci bez nutnosti samostatné podložky.",
+    "h": "<a href=\"@/dekory-ecoline-click/\">DEKORY PODLAH NAJDETE – ZDE</a>",
     "center": false
    },
    {
     "t": "p",
-    "h": "<a href=\"@/dekory-ecoline-click/\">DEKORY ECOLINE CLICK – ZDE</a>",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Co je vinylová podlaha Ecoline Click?",
+    "h": "Ecoline Click je plovoucí vinylová podlaha, která se konstrukcí výrazně liší od dnešních tenkých rigidních SPC podlah. Základem není minerální SPC jádro, ale pevná nosná HDF deska, na které je vinylová nášlapná vrstva. Ze spodní strany je již z výroby integrovaná korková akustická podložka.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Ecoline Click je typ <strong>plovoucí vinylové podlahy</strong> s click systémem, který umožňuje rychlou a čistou montáž bez lepidla. Vyznačuje se <strong>pevnou konstrukcí</strong>, realistickým dekorem a praktickou <strong>integrovanou podložkou</strong>, která zajišťuje vyšší komfort a lepší akustické vlastnosti.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Integrovaná podložka – ticho a komfort v jednom",
+    "h": "Výsledkem je podlaha s celkovou tloušťkou 9,5 mm, která nabízí pevný došlap, příjemnou akustiku a komfort při chůzi. Díky zámkovému systému se instaluje plovoucím způsobem bez celoplošného lepení.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Jednou z hlavních výhod podlahy Ecoline Click je <strong>vestavěná protihluková podložka</strong>, která:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "tlumí kročejový hluk (ideální do bytových domů),",
-     "vyrovnává drobné nerovnosti podkladu,",
-     "urychluje montáž – není třeba žádná samostatná podložka."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Výhody vinylové podlahy Ecoline Click",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "<strong>Rychlá pokládka</strong> – click systém je vhodný i pro svépomocnou montáž.",
-     "<strong>Odolnost proti vlhkosti</strong> – lze použít i v kuchyních či chodbách.",
-     "<strong>Snadná údržba</strong> – povrch odolává běžné špíně i chemikáliím.",
-     "<strong>Příjemný došlap</strong> – díky integrované podložce je chůze měkká a tichá.",
-     "<strong>Moderní designy</strong> – věrné imitace dřeva i kamene, které působí přirozeně."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Kam se hodí vinylová podlaha Ecoline Click?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podlaha je vhodná pro širokou škálu prostor:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "byty a rodinné domy,",
-     "kanceláře a komerční prostory,",
-     "rekonstrukce i novostavby,",
-     "prostředí s podlahovým topením (kompatibilní s většinou systémů)."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Technické parametry – na co se můžete spolehnout",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podlahy Ecoline Click jsou vyráběny z kvalitních materiálů s důrazem na dlouhou životnost. Běžně nabízí:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "<strong>nášlapnou vrstvu</strong> o tloušťce 0,3–0,5 mm,",
-     "<strong>celkovou tloušťku</strong> 4–5 mm včetně podložky,",
-     "<strong>odolnost proti otěru</strong> v třídě 23/31 nebo vyšší,",
-     "<strong>voděodolnou konstrukci</strong>, vhodnou do vlhkého prostředí,",
-     "rychlou pokládku na původní podlahu (beton, starý vinyl, dlažbu apod.)."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Proč zvolit právě Ecoline Click?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pokud hledáte <strong>kvalitní vinylovou podlahu s jednoduchou montáží a tichým provozem</strong>, Ecoline Click je skvělou volbou. Díky integrované podložce ušetříte čas i náklady, a navíc získáte vyšší uživatelský komfort. Moderní dekory dodají prostoru elegantní a útulný vzhled.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Máte zájem o podlahu Ecoline Click?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Nabízíme odborné poradenství, ukázky dekorů i profesionální pokládku. Rádi vám pomůžeme vybrat ideální řešení právě pro váš interiér. — ### *Zkušenost zákazníka: Ticho v bytě je znát* „Při výměně podlahy v panelákovém bytě jsme chtěli něco moderního, odolného a tichého. Ecoline Click nás přesvědčila díky podložce – žádné klapání, rychlá montáž a krásný dekor dubu. Ani jsme nemuseli dávat žádnou extra podložku. Super řešení!“ —",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "O značce Ecoline – když je důležitá kvalita i rozumná cena",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Značka <strong>Ecoline</strong> se zaměřuje na výrobu podlahových krytin s důrazem na funkčnost, jednoduchost pokládky a udržitelnost. Podlahy z kolekce <strong>Ecoline Click</strong> jsou navrženy tak, aby nabídly <strong>kvalitu za dostupnou cenu</strong>, bez zbytečných kompromisů v oblasti designu nebo odolnosti. Výrobní procesy probíhají v souladu s evropskými normami a produkty jsou testovány na zdravotní nezávadnost i životnost.",
+    "h": "Ecoline Click je určena především do bytů a rodinných domů, ale třída použití 23/32 umožňuje její použití také v odpovídajících komerčních prostorách.",
     "center": false
    },
    {
     "t": "h",
     "l": 3,
-    "x": "Výroba a certifikace",
+    "x": "Jaká je skladba podlahy Ecoline Click?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Podlahy Ecoline Click pocházejí z moderních výrobních linek v EU a splňují přísné požadavky na:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "emise formaldehydu (certifikace E1),",
-     "odolnost proti opotřebení (třídy zátěže 23/31 a vyšší),",
-     "voděodolnost díky kompaktní vinylové struktuře,",
-     "vhodnost pro podlahové topení – nízký tepelný odpor."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Pro koho je Ecoline Click ideální volbou?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Tato vinylová podlaha je určená pro ty, kdo hledají <strong>všestranné a praktické řešení</strong> do běžných domácností i mírně zatěžovaných komerčních prostor. Je perfektní volbou pro:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "byty v panelových domech (tlumení kročejového hluku),",
-     "rodinné domy s dětmi a domácími mazlíčky (odolnost vůči poškrábání),",
-     "rekonstrukce (lze pokládat na starší podkladové vrstvy),",
-     "kanceláře, malé provozovny nebo hotely (příjemný design a snadná údržba)."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Click systém a integrovaná podložka – ideální dvojice",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pokud jste někdy pokládali podlahu, víte, že podložka je důležitá – tlumí hluk, zajišťuje stabilitu a zvyšuje komfort. Podlahy Ecoline Click tento krok zjednodušují, protože mají <strong>podložku již integrovanou</strong>. To znamená:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "rychlejší montáž (žádné rolování podložky navíc),",
-     "nižší náklady,",
-     "lepší akustické vlastnosti a pohodlnější chůzi."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Reálné dekory, které vypadají jako dřevo",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Ecoline Click nabízí dekory inspirované <strong>přírodními odstíny dřeva</strong> – dub, borovice nebo šedavé tóny pro moderní interiéry. Povrch má jemnou strukturu a matný finiš, který působí přirozeně a příjemně na dotek. —",
+    "h": "Konstrukce Ecoline Click je jednou z jejích hlavních předností a zároveň důvodem, proč tuto podlahu nelze zaměňovat za klasický SPC vinyl.",
     "center": false
    },
    {
     "t": "h",
     "l": 3,
-    "x": "Zkušenost zákazníka",
+    "x": "Vinylová nášlapná vrstva 0,40 mm",
     "center": false
    },
    {
     "t": "p",
-    "h": "<em>„Nechtěli jsme studenou dlažbu do chodby, ale zároveň jsme potřebovali něco, co zvládne boty a vlhkost. Ecoline Click s podložkou nás překvapil – montáž šla rychle, dekor vypadá jako pravý dub a chůze po podlaze je opravdu tichá.“</em> —",
+    "h": "Vrchní část podlahy tvoří odolná vinylová vrstva s nášlapnou vrstvou 0,40 mm, která chrání dekor proti běžnému opotřebení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch má protiskluznost R10 a dobrou odolnost proti běžným chemikáliím a nečistotám.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Závěr – proč se vyplatí o Ecoline Click uvažovat?",
+    "l": 3,
+    "x": "Dekorativní vinylová vrstva",
     "center": false
    },
    {
     "t": "p",
-    "h": "Vinylová podlaha <strong>Ecoline Click s integrovanou podložkou</strong> je ideálním řešením pro ty, kdo chtějí spojit <strong>praktické výhody vinylu s jednoduchostí montáže a atraktivním vzhledem</strong>. Díky tomu, že podložka je součástí každé lamely, šetříte nejen čas, ale i peníze. A výsledek? Tichý, pohodlný a elegantní interiér bez zbytečného stresu z instalace.",
+    "h": "Dekor vytváří výsledný vzhled podlahy. Kolekce Ecoline Click je zaměřena především na přirozené dřevěné dekory v různých odstínech.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Máte zájem o vzorek nebo se chcete na něco zeptat? Rádi vám poradíme a podlahu předvedeme osobně. Poznámka pro tebe: Tento článek můžeš: · vložit jako samostatnou podstránku „O podlaze Ecoline Click“, · doplnit do detailu produktu jako záložku (technické informace / zajímavosti), · rozdělit na blogové příspěvky nebo použít části v popisech. Pokud chceš, mohu ti připravit i technický list produktu ve stylu PDF",
+    "h": "Vinylový povrch přináší proti klasickým laminátovým podlahám příjemnější došlap a věrnější vzhled i strukturu dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nosná HDF deska",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Základem celé lamely je pevná HDF deska, která podlaze dodává tuhost a stabilitu. Součástí nosné desky je také zámkový spoj, pomocí kterého se jednotlivé lamely spojují.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pevnost zámkového spoje je podle technického listu vyšší než 450 kg/m.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Integrovaná korková podložka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spodní část podlahy tvoří integrovaná korková akustická podložka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek pomáhá omezovat přenos kročejového hluku a současně přispívá k příjemnějšímu došlapu. Výrobce u Ecoline Click uvádí útlum kročejového hluku 16 dB.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky integrovanému korku není při standardní pokládce potřeba přidávat další běžnou akustickou podložku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Ecoline Click není voděodolné SPC",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je potřeba upozornit na jeden důležitý rozdíl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ecoline Click není SPC ani jiná minerální rigidní podlaha. Nosnou část tvoří HDF deska, a proto ji nelze označovat jako 100% voděodolnou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je důležité zejména při výběru podlahy do koupelny nebo jiných prostor s pravidelným působením vody.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ecoline Click bez problémů zvládá běžný provoz domácnosti a standardní údržbu, ale kvůli HDF nosné desce ji nedoporučujeme zaměňovat s voděodolnými SPC podlahami určenými do prostor s vyšším rizikem působení vody.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč je Ecoline Click zajímavá i vedle dnešních SPC podlah?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na první pohled by se mohlo zdát, že konstrukce na HDF desce je proti moderním SPC podlahám zastaralá. Ve skutečnosti má ale jiné vlastnosti a pro některé zákazníky může být právě tato skladba výhodou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Celková tloušťka 9,5 mm, pevná HDF deska a korková spodní vrstva vytvářejí podlahu s příjemným a pevným došlapem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korková podložka zároveň pomáhá s akustikou a eliminuje potřebu samostatné běžné podložky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ecoline Click proto dává smysl zejména tam, kde zákazník hledá komfortní plovoucí vinyl do obytného interiéru a nepotřebuje vlastnosti voděodolného SPC jádra.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Třída zátěže 23/32 – nejen do domácnosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ecoline Click má podle technického listu třídu použití 23/32.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třída 23 představuje vysoké zatížení v obytných prostorách. Podlahu tak lze použít například v obývacích pokojích, ložnicích, dětských pokojích, pracovnách nebo chodbách.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třída 32 umožňuje použití také ve středně zatěžovaných komerčních prostorách, například v kancelářích nebo menších provozovnách, pokud způsob používání odpovídá klasifikaci podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Ecoline Click a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu lze kombinovat s teplovodním podlahovým vytápěním.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Technický list uvádí tepelný odpor 0,088 m² K/W a maximální povolenou teplotu podkladu 27 °C.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je ale dobré vědět, že kvůli HDF nosné desce a integrované korkové podložce má Ecoline Click vyšší tepelný odpor než tenký celoplošně lepený vinyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je tedy hlavním požadavkem co nejrychlejší a nejefektivnější přenos tepla z podlahového vytápění, může být vhodnější jiný typ vinylové podlahy. Při výběru je proto potřeba posuzovat celou skladbu a způsob využití místnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad pod Ecoline Click musí být rovný",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Integrovaná korková podložka slouží především ke zlepšení akustických a uživatelských vlastností podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neslouží k vyrovnávání nerovného podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad před pokládkou musí být rovný, pevný, stabilní, čistý a suchý. Výraznější nerovnosti způsobují při chůzi pohyb plovoucí podlahy a zbytečně zatěžují zámkové spoje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před realizací proto doporučujeme podklad vždy zkontrolovat. Pokud nesplňuje požadovanou rovinnost, je potřeba jej nejprve vhodným způsobem připravit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lze Ecoline Click položit na stávající podlahu?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při rekonstrukcích může být v některých případech možné položit Ecoline Click na vhodnou stávající podlahovou krytinu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neznamená to ale, že ji lze bez kontroly položit například na jakoukoli starou dlažbu, vinyl nebo jiný povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Původní podklad musí být pevný, stabilní a dostatečně rovný. Vždy je také potřeba zohlednit celkovou výšku nové podlahy 9,5 mm a její návaznost na dveře, zárubně, okolní místnosti, kuchyňskou linku nebo balkonové dveře.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Akustika a integrovaný korek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednou z nejzajímavějších vlastností Ecoline Click je právě spojení HDF nosné desky s korkovou podložkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výrobce uvádí útlum kročejového hluku 16 dB. To je zajímavé zejména v bytech a vícepodlažních objektech, kde hraje akustika podlahy důležitou roli.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotná hodnota podlahové krytiny ale neznamená, že podlaha automaticky vyřeší všechny problémy s hlukem. Výslednou akustiku ovlivňuje také konstrukce stropu, podklad, okolní konstrukce a provedení celé podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Zdravotní nezávadnost a Greenguard Gold",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ecoline Click má certifikaci Greenguard Gold, která sleduje nízké emise těkavých organických látek do vnitřního prostředí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je důležitý parametr zejména při výběru podlahy do bytů, rodinných domů, ložnic nebo dětských pokojů, kde trávíme velkou část dne.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pro koho je Ecoline Click vhodná?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ecoline Click bychom doporučili zákazníkům, kteří hledají komfortní plovoucí vinylovou podlahu na HDF desce, chtějí příjemnou akustiku a dávají přednost integrované přírodní korkové podložce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dobře se hodí do bytů, rodinných domů, kanceláří a dalších interiérů odpovídajících třídě použití 23/32.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je ale hlavním požadavkem 100% voděodolná konstrukce, co nejnižší stavební výška nebo minimální tepelný odpor, doporučíme raději jiný typ vinylové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto není dobré vybírat podlahu pouze podle dekoru nebo ceny. Každá konstrukce má své výhody a správný výběr závisí na konkrétním prostoru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Prodej a pokládka Ecoline Click v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "S výběrem vinylové podlahy Ecoline Click vám rádi poradíme podle konkrétní místnosti, zatížení, podkladu a případného podlahového vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme zajistit také kontrolu a přípravu podkladu a následnou odbornou pokládku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucí vinylové podlahy totiž o výsledku nerozhoduje pouze kvalita samotného materiálu. Stejně důležitý je rovný a správně připravený podklad, dodržení dilatačních pravidel a kvalitně provedená montáž.",
     "center": false
    }
   ]
