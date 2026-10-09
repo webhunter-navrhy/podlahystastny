@@ -21370,7 +21370,7 @@
   "path": "/drevene-trivrstve-podlahy-menu/",
   "title": "Dřevěné třívrstvé podlahy",
   "seo_title": "Dřevěné třívrstvé podlahy - Podlahy Šťastný",
-  "description": "Třívrstvé dřevěné podlahy si našly své pevné místo na našem trhu již před mnoha lety. Třívrstvá dřevěná podlaha, jak již název napovídá, se skládá z tří vrstev.",
+  "description": "Třívrstvé dřevěné podlahy: skladba, jednolamelové a třílamelové provedení, povrchy, podlahové vytápění, pokládka a renovace. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
@@ -21397,188 +21397,439 @@
     ]
    },
    {
-    "t": "p",
-    "h": "Dřevo, přírodní surovina, která nás provází od počátku věků. Tato jedinečná surovina, ze které se vyrábí i podlahové krytiny, má nedocenitené vlastnosti a po celé roky řadí dřevěné podlahy na přední příčky v oblíbenosti.",
+    "t": "h",
+    "l": 2,
+    "x": "Třívrstvé dřevěné podlahy – skutečné dřevo v moderní konstrukci",
     "center": false
    },
    {
     "t": "p",
-    "h": "Třívrstvé dřevěné podlahy patří mezi nejprodávanější dřevěné podlahy pro domácnosti i do komerčních prostorů. Jak už název napovídá, skládají se ze třech vrstev, které je tvoří dokonale stabilní a odolné. Oproti masivním dřevěným podlahám jsou rozměrově stabilnější a méně náchylné při změnách vlhkosti a teploty.",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2022/04/48542424_1920.jpg",
-    "alt": "",
-    "w": 409,
-    "h": 229,
-    "align": "right"
-   },
-   {
-    "t": "p",
-    "h": "Třívrstvá dřevěná podlaha má jedinečný vzhled. Každá podlaha je originální a naprosto stejnou u nikoho jiného nenajdete. Je to jako s lidskými otisky prstů, letokruhy, suky, zbarvení – nic z toho se neopakuje ani na dvou lamelách. Třívrstvé dřevěné podlahy poskytují všechny benefity pravého dřeva. Vykouzlí vám doma jedinečnou atmosféru plnou pohody a vůně dřeva – to nedokáže ani ta nejlepší imitace. Na dotyk a při chůzi jsou podlahy velmi příjemné, hřejivé, skvěle udržují teplo a chrání končetiny při došlapu. Hodí se také pro podlahové vytápění. Díky regulaci vzduchu podlahy nevyvolávají alergie a i proto jsou čím dál oblíbenější součástí domácností.",
+    "h": "Třívrstvá dřevěná podlaha není imitace dřeva ani kompromis mezi masivem a jinými podlahovými krytinami. Je to skutečná dřevěná podlaha, která spojuje přírodní nášlapnou vrstvu s konstrukcí navrženou pro větší rozměrovou stabilitu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Mají velmi dlouhou životnost, což u mnohých výrobců dokazuje i záruka na podlahu, která se může pohybovat i okolo 35 let. Životnost je také jednou z věcí, která se dá prodloužit a ovlivnit. Narozdíl od podlah, které nejsou ze dřeva, se tyto dají až několikanásobně přebrousit a s novou nanesenou povrchovou úpravou tak získávají vzhled nové podlahy. A i když péče o třívrstvou dřevěnou podlahu není nikterak náročná, určitě ji doporučujeme jednou za čas ošetřit speciálním přípravkem, vhodným pro tento typ podlahy.",
+    "h": "Právě díky tomu patří kvalitní třívrstvé podlahy mezi naše oblíbená řešení pro moderní byty, rodinné domy i reprezentativní interiéry.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Pokládka probíhá buď plovoucím způsobem nebo celoplošným lepením. U pokládky dřevěných podlah je důležité mít čistý, rovný podklad a správnou teplotu a vlhkost prostředí. Vyberte si svou podlahu a vše ostatní nechte klidně na nás. Rádi se postaráme o přípravu podkladu, samotnou pokládku a poradíme si i s tou nejsložitější situací.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Třívrstvé dřevěné podlahy se vyrábějí z nejrůznějších druhů dřevin, v nejrůznějším barevném provedení a povrchových úpravách. Z tak široké nabídky nebudete mít problém si vybrat podlahu do jakéhokoliv interiéru.",
+    "h": "Dřevo má jednu vlastnost, kterou vinyl, laminát ani keramická dlažba dokonale nenapodobí – každé prkno je originál. Kresba letokruhů, suky, barevné rozdíly i přirozené změny odstínu vytvářejí podlahu, která se neopakuje a s časem získává vlastní charakter.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Masivní vs. třívrstvé dřevěné podlahy – jaký je mezi nimi rozdíl?",
+    "l": 3,
+    "x": "Co znamená třívrstvá dřevěná podlaha?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Dřevěné podlahy jsou symbolem elegance, přírodního vzhledu a dlouhé životnosti. Pokud zvažujete dřevěnou podlahu, pravděpodobně narazíte na dvě hlavní možnosti – masivní dřevěné podlahy a třívrstvé dřevěné podlahy. Obě varianty mají své výhody a hodí se do různých typů interiérů. Jaký je mezi nimi rozdíl a kterou si vybrat?",
+    "h": "Název vychází z její konstrukce. Podlahová lamela je tvořena třemi vzájemně spojenými vrstvami, jejichž orientace pomáhá omezovat přirozené pohyby dřeva.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Masivní dřevěné podlahy – tradice a dlouhá životnost",
+    "l": 4,
+    "x": "1. Nášlapná vrstva z ušlechtilého dřeva",
     "center": false
    },
    {
     "t": "p",
-    "h": "Masivní podlahy jsou vyrobené z jednoho kusu dřeva, nejčastěji dubu, buku, jasanu nebo smrku. Díky své tloušťce (obvykle 15–22 mm) jsou extrémně odolné a lze je mnohokrát renovovat broušením. Masivní dřevo reaguje na změny teploty a vlhkosti, proto se doporučuje do stabilních podmínek.",
+    "h": "To je část, kterou vidíte a po které chodíte. Nejčastěji se používá dub, ale setkat se můžeme také s jasanem, ořechem a dalšími dřevinami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nášlapná vrstva může mít podle výrobce a kolekce různou tloušťku. Právě její tloušťka je důležitá nejen pro celkovou kvalitu podlahy, ale také pro možnost její budoucí renovace.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Výhody masivních podlah",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Dlouhá životnost – vydrží desítky let",
-     "Možnost opakované renovace",
-     "Přirozený vzhled a vůně dřeva"
-    ],
-    "auto": true,
-    "check": true
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Nevýhody",
+    "l": 4,
+    "x": "2. Středová nosná vrstva",
     "center": false
    },
    {
     "t": "p",
-    "h": "✘ Náchylnost na změny vlhkosti – může se smršťovat nebo roztahovat",
+    "h": "Prostřední vrstva zajišťuje pevnost a rozměrovou stabilitu celé lamely. Její vlákna jsou zpravidla orientována napříč vůči vrchní vrstvě.",
     "center": false
    },
    {
     "t": "p",
-    "h": "✘ Vyšší pořizovací cena a náročnější pokládka",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Masivní podlahy jsou skvělou volbou pro milovníky přírodního materiálu, kteří hledají trvalé řešení s možností renovace.",
+    "h": "Tato křížová konstrukce pomáhá omezit přirozené rozpínání a sesychání dřeva při změnách teploty a relativní vlhkosti vzduchu.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Třívrstvé dřevěné podlahy – stabilita a praktičnost",
+    "l": 4,
+    "x": "3. Spodní stabilizační vrstva",
     "center": false
    },
    {
     "t": "p",
-    "h": "Třívrstvé podlahy jsou složené ze tří vrstev dřeva, kde vrchní vrstva je z kvalitního dřeva (např. dub, jasan), zatímco střední a spodní vrstvy jsou z",
+    "h": "Spodní vrstva konstrukci uzavírá a pomáhá vyrovnávat síly působící na jednotlivé části podlahového dílce.",
     "center": false
    },
    {
     "t": "p",
-    "h": "méně náročných dřevin. Díky této konstrukci je podlaha stabilnější, méně pracuje a je vhodná i na podlahové vytápění.",
+    "h": "Výsledkem je stabilní dřevěná podlaha, která si zachovává přirozené vlastnosti pravého dřeva, ale reaguje na změny prostředí méně než srovnatelná masivní prkna.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Výhody třívrstvých podlah",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Lepší stabilita, minimální roztažnost a smrštění",
-     "Snadnější pokládka – často se dodává se zámkovým spojem",
-     "Vhodné pro podlahové vytápění"
-    ],
-    "auto": true,
-    "check": true
-   },
-   {
-    "t": "p",
-    "h": "Nevýhody:",
+    "l": 3,
+    "x": "Jednolamelová, dvoulamelová nebo třílamelová podlaha?",
     "center": false
    },
    {
     "t": "p",
-    "h": "✘ Nižší životnost oproti masivním podlahám",
+    "h": "Třívrstvá konstrukce neznamená, že podlaha musí být tvořena třemi pruhy dřeva na povrchu. To jsou dvě rozdílné věci.",
     "center": false
    },
    {
     "t": "p",
-    "h": "✘ Možnost broušení je omezená na tloušťku nášlapné vrstvy",
+    "h": "Jednolamelová podlaha má na povrchu vzhled jednoho širokého prkna. Právě tuto variantu často volíme do moderních interiérů a větších místností, kde může naplno vyniknout přirozená kresba dřeva.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Třívrstvé podlahy jsou ideální pro ty, kteří hledají dřevěnou podlahu s nižší údržbou a snadnější instalací, a přitom chtějí zachovat přirozený vzhled dřeva.",
+    "h": "Dvoulamelové a třílamelové provedení skládá pohledovou vrstvu z více pásků dřeva. Výsledkem je živější kresba, která může připomínat tradiční parketové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výběr proto není pouze otázkou ceny. Formát a členění nášlapné vrstvy dokážou výrazně změnit charakter celé místnosti.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Kterou podlahu si vybrat?",
+    "l": 3,
+    "x": "Dubová třívrstvá podlaha – každé prkno může vypadat jinak",
     "center": false
    },
    {
     "t": "p",
-    "h": "Chcete podlahu na celý život? Sáhněte po masivní dřevěné podlaze.",
+    "h": "U přírodního dřeva nevybíráme pouze odstín. Velkou roli hraje také třídění dřeva neboli sortace.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Hledáte stabilní podlahu, vhodnou na podlahové topení? Zvolte třívrstvou variantu.",
+    "h": "Podle zvolené kolekce může být povrch velmi klidný a barevně vyrovnaný, nebo naopak rustikální, s výraznějšími suky, barevnými rozdíly, bělovým dřevem a přirozenou kresbou.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Máte rádi možnost renovace? Masivní podlaha se dá brousit opakovaně.",
+    "h": "Právě to považujeme za jednu z největších předností dřevěné podlahy.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Chcete snadnější pokládku? Třívrstvé podlahy často nabízejí klikový systém.",
+    "h": "Dvě místnosti položené ze stejného typu dubu nikdy nebudou úplně stejné. Dřevo není potištěný dekor. Každá lamela vznikla z jiného kusu stromu a nese jeho přirozenou kresbu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kartáčování, kouřování, moření – dřevo nemusí vypadat jen jedním způsobem",
     "center": false
    },
    {
     "t": "p",
-    "h": "Dveře a podlahy Šťastný vám rádi pomůžeme s výběrem a postaráme se o odbornou montáž. Ať už si vyberete masivní nebo třívrstvou dřevěnou podlahu, můžete se spolehnout na kvalitní práci a férový přístup.",
+    "h": "Moderní třívrstvé podlahy nabízejí mnohem více než několik odstínů přírodního dubu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Navštivte nás Vozová 10 Praha 2 a nechte si poradit od odborníků",
+    "h": "Kartáčováním lze zvýraznit strukturu letokruhů. Kouřové úpravy dokážou dřevu dodat hlubší odstín a zvýraznit přirozené barevné rozdíly. Mořením lze vytvořit světlé, přírodní i velmi tmavé povrchy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používají se také různé typy hran a povrchového opracování. Jemná mikrospára dokáže zvýraznit jednotlivá prkna, zatímco hladší provedení vytváří opticky souvislejší plochu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu může stejná dřevina působit moderně, minimalisticky, rustikálně i historicky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Olejovaná, nebo lakovaná dřevěná podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchová úprava ovlivňuje nejen vzhled, ale také způsob údržby a budoucí renovace podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Olejovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej zvýrazňuje přirozenou strukturu a charakter dřeva. Povrch působí velmi přirozeně a je příjemný na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou olejovaných podlah je také možnost průběžného ošetřování a u některých poškození lokální opravy. Olejovaný povrch ale vyžaduje pravidelnou péči vhodnými prostředky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Lakovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytváří na dřevě ochrannou vrstvu a běžná údržba je velmi jednoduchá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moderní matné a ultramatné laky už přitom nemusí působit leskle nebo uměle. Kvalitní lakovaná podlaha může vzhledem velmi připomínat přírodní neošetřené dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správná volba proto závisí na způsobu používání místnosti a také na tom, jaký vzhled od podlahy očekáváte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Třívrstvá dřevěná podlaha a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě zde má třívrstvá konstrukce velkou výhodu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky své rozměrové stabilitě jsou vybrané třívrstvé dřevěné podlahy vhodné pro podlahové vytápění. Vždy ale záleží na konkrétním výrobku, tloušťce podlahy, dřevině, způsobu pokládky a parametrech topného systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud instalujeme dřevěnou podlahu na podlahové vytápění, často doporučujeme celoplošné lepení. Podlaha je pevně spojená s podkladem, při chůzi působí kompaktně a správně navržená skladba umožňuje dobrý přenos tepla.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo je ale stále přírodní materiál. Proto je nutné dodržovat doporučenou teplotu podlahy a zejména správnou relativní vlhkost vzduchu v interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Celoplošně lepená, nebo plovoucí pokládka?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Řadu třívrstvých dřevěných podlah lze instalovat oběma způsoby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Celoplošné lepení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud to konkrétní podmínky umožňují, celoplošné lepení je řešení, kterému u kvalitní dřevěné podlahy často dáváme přednost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha je pevně spojená s podkladem, při chůzi působí kompaktněji, omezuje se její vertikální pohyb a tento způsob je vhodný také v kombinaci s podlahovým vytápěním.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Plovoucí pokládka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U podlah vybavených vhodným zámkovým systémem je možné zvolit také plovoucí instalaci na odpovídající podložku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je rychlejší montáž bez celoplošného lepení. I zde ale musí být podklad dostatečně rovný, pevný, suchý a správně připravený.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Způsob pokládky proto doporučujeme rozhodnout až podle konkrétní podlahy, podkladu a celé skladby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevěná podlaha, kterou lze po letech renovovat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednou z největších hodnot kvalitní dřevěné podlahy je její obnovitelnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na rozdíl od podlah s potištěným dekorem lze povrch skutečného dřeva podle tloušťky nášlapné vrstvy a rozsahu poškození renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nemusí to přitom vždy znamenat kompletní broušení celé podlahy. U některých olejovaných povrchů lze provést hloubkové čištění, lokální opravy nebo obnovení olejové vrstvy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při větším opotřebení lze vhodnou dřevěnou podlahu přebrousit a vytvořit nový povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po letech tak nemusíte automaticky kupovat novou podlahu. Můžete obnovit tu, kterou už doma máte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jak dlouho třívrstvá dřevěná podlaha vydrží?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Životnost kvalitní dřevěné podlahy nelze vyjádřit pouze číslem v záručním listu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhoduje kvalita samotné podlahy, tloušťka nášlapné vrstvy, způsob instalace, podmínky v interiéru, pravidelná údržba i možnost budoucí renovace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správně vybraná a položená dřevěná podlaha proto není spotřebním materiálem na několik let. Může být dlouhodobou součástí interiéru, kterou lze postupně udržovat a obnovovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Příprava podkladu je stejně důležitá jako samotná podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani nejdražší dřevěná podlaha nedokáže napravit špatně připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou kontrolujeme zejména rovinnost, pevnost a zbytkovou vlhkost podkladu. U podlahového vytápění je důležité také správné provedení topné zkoušky a dodržení technologického postupu před instalací.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle stavu podkladu může být potřeba broušení, penetrace, lokální opravy nebo vyrovnání vhodnou stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve na správně připraveném podkladu může kvalitní dřevěná podlaha ukázat všechny své přednosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Třívrstvá podlaha není levnější náhražka masivu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní a třívrstvé dřevěné podlahy jsou dvě rozdílné konstrukce a každá má své místo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masiv je vyroben z jednoho kusu dřeva. Třívrstvá podlaha využívá vícevrstvou konstrukci, která omezuje přirozené rozměrové změny dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bychom třívrstvou podlahu neoznačovali za horší nebo méně hodnotnou variantu masivní podlahy. U kvalitních výrobků jde o technicky propracovanou dřevěnou podlahu, která je velmi dobře použitelná v moderních interiérech a u vhodných kolekcí také na podlahovém vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volba mezi masivem a třívrstvou konstrukcí závisí především na konkrétním interiéru, podkladu, způsobu vytápění a očekávání zákazníka.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jakou třívrstvou dřevěnou podlahu vybrat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při výběru doporučujeme nesledovat pouze cenu za metr čtvereční.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitá je tloušťka a kvalita nášlapné vrstvy, konstrukce podlahy, rozměr prken, třídění dřeva, povrchová úprava, způsob spojení a doporučený způsob instalace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dvě dubové podlahy, které vypadají na malé fotografii téměř stejně, mohou mít ve skutečnosti úplně jinou konstrukci, třídění, povrch i možnosti budoucí renovace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto dává smysl vidět skutečné vzorky a jednotlivé varianty porovnat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Prodej a pokládka třívrstvých dřevěných podlah v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěným podlahám se věnujeme dlouhodobě a zákazníkům pomáháme nejen s výběrem samotného dekoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Posoudíme podklad, doporučíme vhodnou konstrukci a povrchovou úpravu, připravíme podklad a zajistíme odbornou pokládku třívrstvé dřevěné podlahy včetně detailů, napojení, soklových lišt nebo řešení schodů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si chcete dřevo skutečně prohlédnout a porovnat jednotlivé povrchy, navštivte naše podlahové studio na Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dřevěné podlahy totiž fotografie na internetu nikdy neukáže všechno. Strukturu, kresbu, odstín a především skutečný charakter dřeva je nejlepší vidět naživo.",
     "center": false
    }
   ]
