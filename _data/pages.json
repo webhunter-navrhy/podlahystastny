@@ -20999,13 +20999,13 @@
   "path": "/rekonstrukce-a-renovace-podlah/",
   "title": "Renovace dřevěných masivních podlah a parket",
   "seo_title": "Renovace masivních dřevěných podlah a parket Praha- Podlahy Šťastný",
-  "description": "Stejně jako u masivních dřevěných podlah, tak i u dřevěných parket je možné provádět jejich několikanásobnou renovaci a rekonstrukci. Renovace starých dřevěných podlah a parket rychle a profesionálně za rozumné ceny.",
+  "description": "Renovace starých parket, broušení, oprava a přeložení původních parket i pokládka nových masivních parket v Praze. Podlahy Šťastný.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
     "t": "h",
     "l": 2,
-    "x": "Renovace parket a dřevěných masivních podlah",
+    "x": "Masivní dřevěné parkety – renovace i přeložení starých parket",
     "center": false
    },
    {
@@ -21018,186 +21018,318 @@
    },
    {
     "t": "p",
-    "h": "Odborný přístup pro dokonalý výsledek",
+    "h": "Masivní dřevěné parkety patří mezi podlahy, které mohou sloužit desítky let. A právě možnost opravy a renovace je jedním z největších rozdílů mezi skutečnou dřevěnou podlahou a řadou moderních podlahových krytin.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Dřevěné podlahy a parkety patří mezi nejkrásnější a nejtrvanlivější podlahové krytiny, ale časem ztrácí svůj původní vzhled. Opotřebení, škrábance, nerovnosti nebo uvolněné parkety jsou běžné problémy, které vyžadují profesionální renovaci. Pokud chcete, aby vaše podlaha vypadala jako nová, nestačí ji jen přebrousit – klíčem k perfektnímu výsledku je precizní postup a odborné provedení.",
+    "h": "Proto se nezabýváme pouze pokládkou nových dubových parket. Velkou část naší práce tvoří také renovace starých parketových podlah, broušení parket, opravy poškozených míst a v případě potřeby i kompletní rozebrání a přeložení původních parket.",
     "center": false
    },
    {
     "t": "p",
-    "h": "V naší firmě se zaměřujeme na kompletní renovace dřevěných podlah, včetně složitějších oprav, které zahrnují demontáž parket, vyrovnání podkladu a jejich opětovné složení. Tento postup je u starších podlah často nezbytný pro dosažení dlouhodobé stability a estetiky.",
+    "h": "Starou dřevěnou podlahu totiž není vždy nutné vyhodit. Pokud je samotné dřevo v dobrém stavu, dokážeme často zachránit i parkety, které na první pohled vypadají, že mají nejlepší roky dávno za sebou.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Kdy je potřeba renovace parket?",
+    "l": 3,
+    "x": "Nové masivní parkety – podlaha z jednoho kusu dřeva",
     "center": false
    },
    {
     "t": "p",
-    "h": "Renovace dřevěné podlahy je vhodná v těchto případech:",
+    "h": "Masivní parketa je vyrobena z jednoho kusu dřeva v celé své tloušťce. V českých interiérech se tradičně používá především dub, který nabízí krásnou kresbu, vysokou odolnost a velmi dobré možnosti budoucí renovace.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Dřevěné masivní podlahy se řadí mezi ty s nejvyšší životností, ale stejně tak jako u ostatních podlah se na nich i přes důslednou péči projeví jejich užívání. Naštěstí existuje řešení, díky kterému nemusíte pořizovat podlahu novou nebo podlahu skrývat pod kobercem a tím řešením je jejich reko",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Viditelné opotřebení – Poškrábaný, matný nebo zašlý povrch.",
-     "Uvolněné parkety – Pokud parkety vržou nebo se hýbou, znamená to, že podklad ztratil stabilitu.",
-     "Nerovnosti podlahy – Starší dřevěné podlahy často trpí nerovným podkladem, což se projeví na jejich vzhledu i stabilitě.",
-     "Povrchová úprava ztratila ochranu – Starý lak nebo olej už nechrání dřevo a podlaha se rychleji poškozuje.",
-     "Plánovaná rekonstrukce interiéru – Renovace podlahy může být součástí celkové modernizace prostoru."
-    ],
-    "auto": true,
-    "check": true
-   },
-   {
-    "t": "p",
-    "h": "Jak probíhá odborná renovace parket?",
+    "h": "Jednotlivé parkety se při nové realizaci zpravidla celoplošně lepí na správně připravený podklad. Po položení následuje broušení celé plochy, tmelení, jemné broušení a finální povrchová úprava olejem nebo lakem.",
     "center": false
    },
    {
     "t": "p",
-    "h": "1. Diagnostika stavu podlahy",
+    "h": "Výsledná podlaha tak nevzniká ve výrobní hale. Její konečný vzhled vytváří podlahář až přímo v konkrétním interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Renovace starých parket – ne každá stará podlaha patří do kontejneru",
     "center": false
    },
    {
     "t": "p",
-    "h": "Nejprve posoudíme stav parket a určíme nejvhodnější postup renovace. Zjistíme, zda je možné podlahu pouze brousit, nebo zda je potřeba podklad vyrovnat a parkety znovu sestavit.",
+    "h": "Při rekonstrukcích bytů se často setkáváme s původními parketami starými několik desítek let.",
     "center": false
    },
    {
     "t": "p",
-    "h": "2. Demontáž starých parket (pokud je potřeba)",
+    "h": "Na první pohled mohou být zašlé, poškrábané, místy uvolněné nebo mezi nimi mohou být větší spáry. To ale ještě neznamená, že je potřeba celou podlahu odstranit.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Pokud podlaha není stabilní, parkety odborně rozebereme, očistíme od starého lepidla a připravíme na opětovné složení.",
+    "h": "Nejdříve posoudíme stav samotného dřeva, tloušťku parket, jejich soudržnost s podkladem, předchozí renovace a celkový stav podlahové konstrukce.",
     "center": false
    },
    {
     "t": "p",
-    "h": "3. Vyrovnání podkladu",
+    "h": "Pokud jsou parkety technicky v pořádku, může stačit jejich oprava a kompletní renovace.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Broušení parket dokáže změnit podlahu k nepoznání",
     "center": false
    },
    {
     "t": "p",
-    "h": "Podklad musí být dokonale rovný, aby parkety držely pevně a nedocházelo k jejich kroucení nebo vrzání. Používáme různé metody:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "OSB desky – Pevný a stabilní podklad vhodný pro renovace s většími výškovými rozdíly.",
-     "Farmacolové desky – Speciální podkladové desky, které pomáhají vyrovnat drobné nerovnosti a zajistit pevnost podlahy.",
-     "Nivelace samonivelační stěrkou – Ideální pro precizní vyrovnání povrchu u betonu nebo jiných tvrdých podkladů."
-    ],
-    "auto": true,
-    "check": false
-   },
-   {
-    "t": "p",
-    "h": "4. Opětovné složení a přilepení parket",
+    "h": "Při klasické renovaci staré parketové podlahy odstraníme broušením původní opotřebovanou povrchovou vrstvu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Po vyrovnání podkladu parkety vrátíme zpět, přilepíme kvalitním lepidlem a zajistíme jejich pevné spojení.",
+    "h": "Podle stavu podlahy následuje oprava uvolněných nebo poškozených parket, tmelení spár a další jemné broušení.",
     "center": false
    },
    {
     "t": "p",
-    "h": "5. Tmelení a precizní broušení",
+    "h": "Nakonec zvolíme novou povrchovou úpravu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Parkety přetmelíme, abychom vyplnili spáry a dosáhli dokonale hladkého povrchu. Poté podlahu několikrát brousíme různými zrnitostmi, dokud nezíská perfektní vzhled bez nerovností.",
+    "h": "Parkety lze lakovat nebo olejovat, případně můžeme vhodným způsobem upravit také jejich výsledný odstín. Ze staré zažloutlé podlahy tak nemusí vzniknout pouze „stejná podlaha jako dříve, jen nově nalakovaná“.",
     "center": false
    },
    {
     "t": "p",
-    "h": "6. Povrchová úprava: Přírodní oleje pro maximální ochranu",
+    "h": "Renovace může dát interiéru úplně nový charakter.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy už samotné broušení parket nestačí?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Po broušení je nutné podlahu ošetřit kvalitním ochranným nátěrem. Doporučujeme špičkové přírodní oleje, které jsou zdravotně nezávadné a ekologické:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Osmo – Vysoce odolný olej s přírodním složením, který chrání dřevo proti vlhkosti a mechanickému poškození.",
-     "Magik 2K – Dvousložkový olej s extrémní odolností, vhodný pro intenzivně zatěžované prostory.",
-     "Biofa – Ekologický olej s přírodním složením, který zvýrazňuje strukturu dřeva a zajišťuje dlouhou životnost podlahy."
-    ],
-    "auto": true,
-    "check": false
-   },
-   {
-    "t": "p",
-    "h": "Proč si nechat renovovat parkety od profesionálů?",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Zachování originálního vzhledu – Profesionální renovace umožňuje obnovit původní krásu dřeva bez nutnosti výměny celé podlahy.",
-     "Delší životnost podlahy – Kvalitní oprava a ochrana prodlouží životnost parket o desítky let.",
-     "Ekologické řešení – Namísto výměny podlahy využíváme přírodní a zdravotně nezávadné produkty, které jsou šetrné k životnímu prostředí.",
-     "Precizní provedení – Na rozdíl od běžného broušení parket umíme kompletní renovaci včetně podkladu, což zaručuje perfektní stabilitu a dlouhodobý výsledek."
-    ],
-    "auto": true,
-    "check": true
-   },
-   {
-    "t": "p",
-    "h": "Kolik stojí renovace parket?",
+    "h": "Ne každou starou podlahu lze opravit pouze bruskou.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Cena renovace závisí na rozsahu prací a stavu podlahy. Základní přebroušení a olejování je cenově dostupnější, zatímco kompletní renovace s vyrovnáním podkladu a lepením parket vyžaduje větší investici.",
+    "h": "Setkáváme se například s parketami, které se výrazně pohybují, vržou, jsou místy propadlé nebo byly v minulosti položeny na podklad, který už není v dobrém technickém stavu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Pokud chcete přesnou cenovou kalkulaci, kontaktujte nás – rádi se přijedeme podívat a připravíme individuální nabídku.",
+    "h": "V takovém případě je potřeba zjistit proč se podlaha chová špatně.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Máte doma staré parkety, které si zaslouží nový život?",
+    "h": "Pouhé přebroušení sice na chvíli zlepší její vzhled, ale neodstraní problém ukrytý pod parketami.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Kontaktujte nás a nechte si odborně zrenovovat dřevěnou podlahu. Pracujeme s nejmodernějšími technologiemi, ekologickými materiály a dbáme na",
+    "h": "A právě tehdy může přijít na řadu rozebrání a přeložení původních parket.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Přeložení starých parket – zachováme původní dřevo a opravíme podklad",
     "center": false
    },
    {
     "t": "p",
-    "h": "precizní provedení. Vaše podlaha bude opět krásná, stabilní a chráněná na dlouhá léta!",
+    "h": "Pokud jsou samotné parkety kvalitní, ale problém je v podkladu nebo způsobu jejich původního uložení, může mít smysl podlahu kompletně rozebrat.",
     "center": false
    },
    {
     "t": "p",
-    "h": "nstrukce, kterou je dokonce možné provádět opakovaně. Díky ní znovu vdechnete své staré podlaze život. Jak bude rekonstrukce probíhat se určí při důkladném posouzením jejího stavu. Podlaha,která vrže, hýbe se, či má velké spáry bude potřebovat renovaci rozsáhlejší než podlaha, která má na povrchu škrábance nebo vybledlý lak. V případě mírného poškození podlahy se přebrousí vrchní vrstva laku a zbaví se nečistot, následně se přetmelí, jemně obrousí a nakonec přelakuje.",
+    "h": "Původní parkety opatrně demontujeme a podle jejich stavu očistíme od zbytků původního lepidla nebo dalších materiálů.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Stejně jako u masivních dřevěných podlah, tak i u dřevěných parket je možné provádět jejich několikanásobnou renovaci a rekonstrukci. Ta se zpravidla provádí jednou za 10 až 20 let, záleží samozřejmě na jejím opotřebení. Na jejím opotřebení také záleží postup, jakým se podlaha bude renovovat. V konečném výsledku bude podlaha jako nová a může se dokonce změnit vzhled podlahy jejím obarvením v nejrůznějších odstínech či mořením. Při mírném opotřebení se důkladně zbrousí povrch podlahy v minimálním rozsahu a to do hloubky 1 mm, zatmelí, jemně přebrousí a nakonec se nanese vrstva laku nebo oleje. Mírným poškozením se rozumí například škrábance, poškozený lak atd.",
+    "h": "Následně se můžeme dostat k tomu nejdůležitějšímu – opravě samotného podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad podle konkrétní situace opravíme, zpevníme nebo vyrovnáme tak, aby splňoval požadavky pro novou pokládku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Použitelné původní parkety následně znovu položíme, doplníme chybějící nebo neopravitelné kusy vhodnými parketami a celou plochu dokončíme broušením a novou povrchovou úpravou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem může být technicky nově provedená podlaha, která si přitom zachová původní dřevo a charakter interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč staré parkety vůbec zachraňovat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U starých dubových parket může být největší hodnotou právě materiál, který už v bytě máte.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je dřevo zdravé a parkety mají dostatečnou tloušťku pro další opracování, byla by někdy škoda kvalitní původní materiál vyhodit pouze proto, že podlaha momentálně nevypadá dobře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovace nebo přeložení může být zajímavé také při rekonstrukci starších pražských bytů, kde původní parketová podlaha tvoří přirozenou součást charakteru interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne vždy je ale záchrana starých parket technicky nebo ekonomicky rozumná. Proto nejprve zjišťujeme skutečný stav podlahy a teprve potom doporučíme, zda má smysl renovovat, přeložit, nebo položit nové parkety.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rybí kost, řemenový vzor a další způsoby pokládky",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní parkety umožňují vytvořit různé podlahové vzory.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mezi nejznámější patří klasická rybí kost, která se vrací nejen do rekonstruovaných městských bytů, ale také do moderních interiérů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další možností je podélné neboli řemenové uspořádání a podle formátu parket také různé geometrické skladby a bordury.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při překládání starých parket se snažíme podle možností zachovat původní charakter podlahy. U nové realizace můžeme naopak způsob pokládky přizpůsobit architektuře konkrétní místnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Povrchová úprava – olej, lak i změna vzhledu starých parket",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Finální povrchová úprava výrazně ovlivňuje vzhled i následnou údržbu parket.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olejovaný povrch nechává více vyniknout přirozenou strukturu dřeva a umožňuje jeho průběžné ošetřování.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lakovaný povrch vytváří souvislou ochrannou vrstvu a nabízí jednoduchou běžnou údržbu. Moderní matné a ultramatné laky přitom dokážou zachovat velmi přirozený vzhled dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U renovovaných parket nemusíme automaticky obnovovat jejich původní odstín. Podle dřeva a požadovaného výsledku můžeme pracovat také s barevností a vytvořit podlahu, která lépe odpovídá novému interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "U parket rozhoduje příprava podkladu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ať už pokládáme nové parkety nebo překládáme původní, kvalita podkladu je pro výsledek zásadní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kontrolujeme jeho rovinnost, pevnost a vlhkost. Podle skutečného stavu může následovat broušení, oprava trhlin, zpevnění, penetrace nebo vyrovnání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve na správně připravený podklad má smysl parkety znovu pokládat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto u problematické staré podlahy nestačí pouze říct: „přebrousíme ji“. Nejdříve potřebujeme zjistit, v jakém stavu je celá podlahová konstrukce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nové parkety, renovace, nebo kompletní přeložení?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každá stará dřevěná podlaha potřebuje trochu jiný přístup.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někde stačí broušení a nová povrchová úprava. Jinde je potřeba opravit jednotlivé uvolněné parkety. A u podlah se špatným podkladem může být nejlepším řešením kompletní rozebrání, oprava podkladu a přeložení původních parket.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud už původní materiál zachránit nelze, můžeme navrhnout pokládku nových masivních parket.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naším cílem není za každou cenu prodat novou podlahu. Nejdříve se snažíme zjistit, jestli má smysl zachránit tu, kterou už máte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Renovace a pokládka parket v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěným podlahám se věnujeme dlouhodobě a s naším týmem zajišťujeme pokládku nových masivních parket, broušení a renovace starých parket i kompletní přeložení původních parketových podlah.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Postaráme se o posouzení stavu podlahy, přípravu nebo opravu podkladu, doplnění chybějících parket, broušení, tmelení a finální olejování nebo lakování.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máte doma staré parkety a nevíte, zda je renovovat, přeložit nebo vyměnit, rádi se na ně podíváme a navrhneme řešení podle jejich skutečného stavu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy Šťastný – nové parkety, renovace a přeložení starých parket v Praze.",
     "center": false
    },
    {
