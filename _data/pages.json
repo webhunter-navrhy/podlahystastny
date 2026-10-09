@@ -9448,7 +9448,7 @@
   "path": "/drevene-trivrstve-podlahy-menu/stastny-wood/",
   "title": "WOOD Šťastný",
   "seo_title": "WOOD Šťastný - Podlahy Šťastný",
-  "description": "Česká firma Podlahy Šťastný, působící na trhu již od roku 2003 do Vašeho interiéru vrstvené dřevěné podlahy v nejvyšší kvalitě. Pevnou sendvičovou konstrukci tvoří spodní dřevěná protitažná vrstva, střed smrková nebo kaučuková laťka a vrchní nášlapná vrstva je tvořena z ušlechtilých evropských i exotických dřevin.Podlahy v různých povrchových úpravách, formátech a barevných odstínech jsou díky",
+  "description": "Třívrstvé dřevěné podlahy WOOD Šťastný: dřevěné podlahy od roku 2003, poradenství, konstrukce, povrchy, celoplošné lepení a podlahové vytápění. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
@@ -9460,13 +9460,34 @@
     "align": "right"
    },
    {
-    "t": "p",
-    "h": "<strong>Česká firma Podlahy Šťastný, působící na trhu již od roku 2003 do Vašeho interiéru <strong>vrstvené dřevěné podlahy</strong> v nejvyšší kvalitě. Pevnou sendvičovou konstrukci tvoří spodní dřevěná protitažná vrstva, střed smrková nebo kaučuková laťka a vrchní nášlapná vrstva je tvořena z ušlechtilých evropských i exotických dřevin.</strong><br><strong>Podlahy v různých povrchových úpravách, formátech a barevných odstínech jsou díky své stabilní konstrukci vhodné pro podlahové vytápění, jsou snadno udržovatelné, příjemné při chůzi naboso, umožňují několika násobnou renovaci a perfektně izolují zvuk i teplo. Pro ještě lepší tlumení takzvaného kročejového hluku je vhodné podlahy celoplošně přilepit k podkladu.</strong><br><strong>Z bezkonkurenční nabídky prken dubu evropského a amerického si vybere snad každý a pokud ne, je v nabídce dalších 14 druhů dřevin jako jsou například merbau, javor, wenge, americký ořech atd.</strong><br><strong>Vrstvené <strong>dřevěné podlahy</strong> Šťastný jsou to pravé pro opravdové milovníky a znalce dřeva. Vytvoří z Vašeho interiéru útulné, elegantní a jedinečné prostředí.</strong>",
+    "t": "h",
+    "l": 2,
+    "x": "Dřevěné podlahy jsou naše práce už od roku 2003",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Proto zejména v zimním období nedochází při změnách teploty a vlhkosti k tvorbě spár.</strong>",
+    "h": "Dřevěným podlahám se věnujeme od roku 2003. Za tu dobu jsme s naším týmem položili a renovovali podlahy v bytech, rodinných domech, kancelářích i náročných interiérech a měli možnost pracovat s mnoha druhy dřeva, konstrukcemi i povrchovými úpravami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu dnes zákazníkům nenabízíme pouze vzorek podlahy a cenu za metr čtvereční. Dokážeme poradit, jaká dřevěná podlaha je vhodná pro konkrétní prostor, podklad a způsob používání, jakou zvolit konstrukci, povrchovou úpravu a zda je lepší plovoucí pokládka, nebo celoplošné lepení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V nabídce máme kvalitní vrstvené dřevěné podlahy v různých formátech, tříděních a povrchových úpravách – od klidných dubových prken až po výrazné rustikální podlahy s přirozenými suky a kresbou dřeva. Vedle evropského dubu pracujeme také s americkým ořechem a dalšími dřevinami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vícevrstvá konstrukce dodává dřevěné podlaze dobrou rozměrovou stabilitu a u vhodných výrobků umožňuje použití také na podlahovém vytápění. Podle tloušťky nášlapné vrstvy lze kvalitní dřevěnou podlahu v budoucnu také renovovat a výrazně tak prodloužit její životnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou pozornost věnujeme samotné pokládce. U dřevěných podlah často doporučujeme celoplošné lepení, díky kterému je podlaha pevně spojená s podkladem, působí při chůzi kompaktně a je vhodným řešením také pro řadu realizací s podlahovým vytápěním.",
     "center": false
    },
    {
@@ -9482,9 +9503,10 @@
    },
    {
     "t": "h",
-    "l": 4,
-    "x": "TŘÍVRSTVÉ DŘEVĚNÉ PODLAHY WOOD Šťastný",
-    "center": false
+    "l": 2,
+    "x": "Dekory a kolekce WOOD Šťastný",
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "gallery",
@@ -9609,7 +9631,7 @@
    {
     "t": "h",
     "l": 2,
-    "x": "SCHODOVÉ HRANY Z VINYLU A TŘÍVRSTVÉ DŘEVĚNÉ PODLAHY",
+    "x": "Schodové hrany ve stejném dekoru jako vaše podlaha",
     "center": false
    },
    {
@@ -9622,35 +9644,29 @@
    },
    {
     "t": "p",
-    "h": "Máme pro Vás naprostý <strong>unikát!</strong>",
+    "h": "Chcete propojit podlahu a schody do jednoho celku? Z námi nabízených vinylových i třívrstvých dřevěných podlah dokážeme vyrobit schodové hrany ve stejném dekoru jako samotná podlaha.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Více jak 15 let zkušeností, nadšení do práce a kreativita zapříčinily to, že umíme vyrobit a namontovat schodové hrany. <strong>Toto know-how se týká jak třívrstvé dřevěné plovoucí podlahy, tak i vinylové podlahy</strong>. Tyto <strong>schodové hrany</strong> mají tedy stejnou barvu jako Vaše podlaha.",
+    "h": "Schod tak nepůsobí jako dodatečně obložený jiným materiálem. Nášlapná plocha, schodová hrana i navazující podlaha mohou mít stejný odstín, kresbu a povrchovou úpravu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Jako jediní v ČR umíme schodové hrany.",
+    "h": "Schodové hrany vyrábíme na míru podle konkrétní podlahy a následně zajistíme také jejich odbornou montáž. Díky tomu můžeme řešit nejen rovná schodiště, ale také atypické rozměry, podesty a návaznosti schodů na okolní podlahu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Sjednotit vzhled vinylové podlahy a schodů je jednoduché. Využijte jedinečné vlastnosti vinylové podlahy i pro schody a zvolte schody z vinylu. Jednotný vzhled sluší každému interiéru. Vybírejte z různých dekorů kolekcí <strong>Silent Step:</strong> <strong>Longline Step</strong>, <strong>Ecoline Step</strong> nebo <strong>Stoneline Step</strong>.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Vinylové schody mají jedinečné vlastnosti. Jsou vyrobeny z jednoho kusu vinylu (systém <strong>All in One</strong>), maximálně odolné, mají autentický vzhled a jejich údržba je minimální. Z dalších předností je třeba vyzvednout excelentní zpracování detailů, patentovaný spojovací systém pro realizaci bez přechodových lišt a snadné napojování schodů.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Bezpečné a komfortní schody z vinylu vynikají snadnou montáží a jedinečným vzhledem bez přechodových lišt a spojů.",
+    "h": "Vyberete si podlahu – my k ní dokážeme vyrobit schody ve stejném designu.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "#dekory",
+   "label": "Dekory WOOD Šťastný"
+  }
  },
  {
   "id": 8338,
