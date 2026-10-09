@@ -10986,11 +10986,11 @@
  },
  {
   "id": 7076,
-  "parent": 0,
+  "parent": "23",
   "order": 5,
   "path": "/drevene-trivrstve-podlahy-esco/",
-  "title": "ESCO",
-  "seo_title": "ESCO - Podlahy Šťastný",
+  "title": "Podlahy Esco",
+  "seo_title": "Podlahy Esco - Podlahy Šťastný",
   "description": "Dřevěné dvouvrstvé podlahy. Dvouvrstvá podlaha. Nabízí výhodnou alternativu k podlahám třívrstvé konstrukce.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
@@ -13421,8 +13421,8 @@
   "parent": 23,
   "order": 0,
   "path": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/",
-  "title": "Barlinek",
-  "seo_title": "Barlinek - Podlahy Šťastný",
+  "title": "Podlahy Barlinek",
+  "seo_title": "Podlahy Barlinek - Podlahy Šťastný",
   "description": "Dřevěné třívrstvé podlahy Barlinek: skutečné dřevo, kartáčování, olej a lak, podlahové vytápění, pokládka a renovace. Dekory a kolekce na jednom místě. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
@@ -13907,9 +13907,124 @@
    {
     "t": "h",
     "l": 2,
-    "x": "Dekory a kolekce Barlinek",
+    "x": "Barlinek parkety",
+    "center": false,
+    "anchor": "parkety"
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevěné třívrstvé parkety Barlinek – přírodní krása, která vydrží generace",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud sníte o podlaze, která propojí přírodní krásu dřeva s moderní technologií a dlouhou životností, dřevěné třívrstvé parkety <strong>Barlinek</strong> jsou tou správnou volbou. Tento renomovaný evropský výrobce patří mezi špičku v oboru a nabízí řešení, které je ideální jak pro rodinné domy, tak i náročné komerční prostory.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co jsou třívrstvé parkety a čím vynikají?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá dřevěná podlaha je složená ze tří vrstev: nášlapné vrstvy z pravého dřeva, středové nosné vrstvy (většinou z měkkého dřeva) a spodní stabilizační vrstvy. Tato konstrukce zajišťuje vysokou <strong>rozměrovou stabilitu</strong>, a zároveň si podlaha uchovává všechny estetické a přírodní vlastnosti masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Výhody parket Barlinek",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Reálný dřevěný povrch</strong> – každý dílec má unikátní kresbu, žádný dekor se neopakuje.",
+     "<strong>Vysoce přesné zámky BARCLICK® nebo 5Gc</strong> – rychlá a pevná pokládka bez lepidla.",
+     "<strong>Možnost broušení a renovace</strong> – na rozdíl od laminátu lze parkety opravit.",
+     "<strong>Ekologická volba</strong> – dřevo pochází z trvale udržitelných lesů, certifikace FSC®.",
+     "<strong>Kompatibilita s podlahovým vytápěním</strong> – vhodné i pro moderní nízkoenergetické stavby."
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Design, který osloví každý styl interiéru",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek nabízí širokou škálu dekorů – od klasického dubu v přírodním odstínu až po elegantní bělené, kartáčované nebo kouřově tónované varianty. Povrchová úprava může být olejovaná nebo matně lakovaná, dle preferencí zákazníka.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nejžádanější kolekce",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Taste of Life</strong> – luxusní výběr dřevin s důrazem na detail a přírodní krásu.",
+     "<strong>Decor Line</strong> – moderní dekory a povrchové úpravy pro aktuální interiérové trendy.",
+     "<strong>Life Line</strong> – praktické řešení pro každodenní život s důrazem na odolnost."
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kvalitní zámky = rychlá a pevná pokládka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedním z hlavních benefitů parket Barlinek jsou jejich precizní zámkové systémy, jako je <strong>BARCLICK®</strong> nebo <strong>5Gc</strong>. Díky nim je instalace velmi snadná, rychlá a spolehlivá. Spoje perfektně drží a podlaha zůstává stabilní i při změnách vlhkosti a teplot.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč si vybrat Barlinek právě u nás?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsme odborníci na dřevěné podlahy a s produkty značky Barlinek máme dlouholeté zkušenosti. Nabízíme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Široký výběr vzorků na prodejně",
+     "Odborné poradenství",
+     "Profesionální pokládku včetně přípravy podkladu",
+     "Férové ceny a individuální přístup"
+    ]
+   },
+   {
+    "t": "hr"
+   },
+   {
+    "t": "p",
+    "h": "<strong>Hledáte podlahu, která bude krásná i po letech?</strong> Přijďte si prohlédnout kolekce Barlinek do naší prodejny, nebo nás kontaktujte pro nezávaznou kalkulaci.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory a kolekce Podlahy Barlinek",
     "center": false,
     "anchor": "dekory"
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Barlinek – dřevěné třívrstvé podlahy",
+    "center": false
    },
    {
     "t": "ul",
@@ -14412,6 +14527,12 @@
     ]
    },
    {
+    "t": "h",
+    "l": 3,
+    "x": "Barlinek parkety",
+    "center": false
+   },
+   {
     "t": "p",
     "h": "Pure Classico",
     "center": false
@@ -14573,7 +14694,7 @@
   ],
   "dekory": {
    "href": "#dekory",
-   "label": "Dekory Barlinek"
+   "label": "Dekory Podlahy Barlinek"
   }
  },
  {
@@ -21976,21 +22097,15 @@
     "items": [
      {
       "href": "@/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/",
-      "title": "Barlinek",
-      "excerpt": "Dřevěné třívrstvé podlahy Barlinek díky své vrstvené konstrukci poskytují vysokou stabilitu a odolnost proti vlhkostním a teplotním výkyvům. Tyto podlahy ...",
+      "title": "Podlahy Barlinek",
+      "excerpt": "Dřevěné třívrstvé podlahy i parkety Barlinek na jednom místě – včetně všech dekorů a kolekcí.",
       "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/unnamed.jpg"
      },
      {
-      "href": "@/barlinek-parkety/",
-      "title": "Barlinek parkety",
-      "excerpt": "DEKORY NAJDETE - ZDE Dřevěné třívrstvé parkety Barlinek – přírodní krása, která vydrží generace Pokud sníte o podlaze, která propojí ...",
-      "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/03/drevena_podlaha_Barlinek_Dub_Raisins_herringbone-e1734879838349-1024x1024-1.webp"
-     },
-     {
-      "href": "@/drevene-trivrstve-podlahy-menu/stastny-wood/",
-      "title": "WOOD Šťastný",
-      "excerpt": "Česká firma Podlahy Šťastný, působící na trhu již od roku 2003 do Vašeho interiéru vrstvené dřevěné podlahy v nejvyšší kvalitě ...",
-      "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/03/empiry.webp"
+      "href": "@/drevene-trivrstve-podlahy-esco/",
+      "title": "Podlahy Esco",
+      "excerpt": "Dubové podlahy ESCO – řemeslná kvalita z Moravy, šest stylových kolekcí a dekory ESCO.",
+      "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/1534267.jpg"
      }
     ]
    },
