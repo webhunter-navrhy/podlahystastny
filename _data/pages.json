@@ -3956,24 +3956,29 @@
   "path": "/dekory/",
   "title": "Dekory",
   "seo_title": "Dekory - Podlahy Šťastný",
-  "description": "VINYLOVÉ PODLAHY NEXT STEP Vinylové Rigidní podlahy Next Step jsou vyrobeny ze 100% voděodolných materiálů, nejsou náchylné na změny vlhkosti a zámek spojující dílce je vodotěsný. Podrobné informace naleznete v montážním návodu a záručním listu který naleznete na našich web stránkách. Large 228.6 × 1523 mm Standard 198 x 1234 mm Stromeček 127.9 x 639.5",
+  "description": "Dekory vinylových podlah Next Step – světlé, přírodní i tmavé odstíny, rozdíly mezi formáty a rady, jak vybrat dekor k interiéru. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
     "t": "h",
     "l": 2,
-    "x": "VINYLOVÉ PODLAHY NEXT STEP",
-    "center": true
+    "x": "Dekory vinylových podlah Next Step",
+    "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Vinylové Rigidní podlahy</strong> Next Step jsou vyrobeny ze 100% voděodolných materiálů, nejsou náchylné na změny vlhkosti a zámek spojující dílce je vodotěsný.",
-    "center": true
+    "h": "Výběr podlahy není jen otázkou technických parametrů. Dekor podlahy výrazně ovlivňuje vzhled celého interiéru, a proto kolekce <strong>Next Step</strong> nabízí různé odstíny a kresby inspirované přírodním dřevem.",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Podrobné informace naleznete v montážním návodu a záručním listu který naleznete na našich web stránkách.",
-    "center": true
+    "h": "Najdete zde světlé, přírodní i tmavší tóny, jemnější kresbu dřeva i výraznější dekory s viditelnými suky a strukturou. Podlahu tak můžete sladit s moderním interiérem, klasickým bytem i venkovským stylem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podrobné informace naleznete v montážním návodu a záručním listu, který naleznete na našich web stránkách.",
+    "center": false
    },
    {
     "t": "h",
@@ -4163,44 +4168,78 @@
     "t": "hr"
    },
    {
-    "t": "p",
-    "h": "Díky této vlastnosti a dokonalé výrobě, jsou <strong>vinylové podlahy</strong> Next Step ideální do místností, jako jsou kuchyně, koupelny a chodby. Lze je montovat bez omezení dilatačních spár ve dveřích do všech místnostech v domě či kancelářích. Po14 denní zkoušce působení vody, nezpůsobilo na <strong>vinylové podlaze</strong> žádné změny ve struktuře dílců. Technické parametry zůstaly nezměněny.",
-    "center": true
+    "t": "h",
+    "l": 2,
+    "x": "Světlé, přírodní nebo tmavé dekory?",
+    "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Vinylové podlahy</strong> jsou zajímavou alternativou, k již tradičním dřevěným podlahám, laminátovým dílcům a dlaždicím.",
-    "center": true
+    "h": "<strong>Světlé dekory</strong> působí vzdušně a dokážou místnost opticky zvětšit. Dobře fungují v menších bytech, moderních interiérech nebo tam, kde chcete vytvořit světlý a čistý prostor.",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Co spojuje výhody všech těchto <strong>vinylových podlah</strong> :",
-    "center": true
+    "h": "<strong>Přírodní odstíny dřeva</strong> patří mezi nejuniverzálnější. Snadno se kombinují s bílými, černými i dřevěnými dveřmi a dobře ladí s většinou nábytku. Jsou dobrou volbou také v případě, kdy chcete stejnou podlahu použít ve více místnostech.",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Vysoce odolné proti poškození poškrábáním, vlivem slunečního svitu nevyblednou, takže vaše krásná <strong>vinylová podlaha</strong> zůstane stejně krásná po mnoho dalších let.",
-    "center": true
+    "h": "<strong>Tmavší a výraznější dekory</strong> dodají interiéru charakter a kontrast. Vyniknou především ve větších a dobře osvětlených místnostech, kde mohou vytvořit výrazný základ celého interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Vzhled dřeva bez jednotvárnosti",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Naše podlahy se velmi snadno instalují, a proto jsou <strong>vinylové podlahy</strong> nejlepší volbou pro rychlou renovaci ve vašem bytě. Vinylové podlahy se také velmi snadno udržují a čistí.",
-    "center": true
+    "h": "U podlahy je důležité, aby jednotlivé lamely nepůsobily jako stále se opakující obrázek. Právě střídání kresby a odstínů pomáhá vytvořit přirozenější vzhled celé plochy.",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Ale to není vše. <strong>Vinylové podlahové dílce</strong> vypadají jako dřevěné podlahy a tím si dokážete vytvořit hřejivý pocit domácího prostředí.",
-    "center": true
+    "h": "Při pokládce proto jednotlivé dílce předem rozkládáme a kombinujeme tak, aby vedle sebe nebyly stejné nebo příliš podobné kresby. Výsledná podlaha potom působí přirozeněji a více připomíná skutečné dřevo.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekor vybírejte podle celého interiéru",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Dokonale tlumí kročejoví hluk a zajišťuje akustický komfort celou rodinu.",
-    "center": true
+    "h": "Podlaha zabírá velkou část místnosti, a proto doporučujeme její odstín vybírat společně s dveřmi, nábytkem, kuchyní a barvou stěn.",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Velkou důležitou vlastností <strong>vinylových podlahových dílců</strong> je možnost instalace na podlahové vytápění. Podlaha se velmi rychle nahřeje a udržuje si stálou teplotu.",
-    "center": true
+    "h": "Velkou roli hraje také světlo. Stejný dekor může v showroomu, na fotografii a přímo u vás doma působit úplně jinak. Denní světlo, orientace oken i teplota umělého osvětlení mohou odstín podlahy výrazně změnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto doporučujeme nespoléhat pouze na fotografie na internetu a před konečným rozhodnutím si prohlédnout skutečný vzorek.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jaký dekor Next Step vybrat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje jeden univerzálně nejlepší odstín. Správný dekor je ten, který bude fungovat s vaším interiérem jako celek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si výběrem nejste jistí, rádi vám pomůžeme jednotlivé dekory vinylových podlah Next Step porovnat a vybrat odstín, který bude odpovídat dveřím, nábytku i celkovému stylu vašeho interiéru.",
+    "center": false
    }
   ]
  },
