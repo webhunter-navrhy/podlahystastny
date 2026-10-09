@@ -33,6 +33,7 @@
         {% include "form.html" %}
       </div>
       {% else %}
+      {% if P.dekory %}<p class="dekrow"><a class="btn btn--line" href="{{ L(P.dekory.href) if P.dekory.href[0] != '#' else P.dekory.href }}">{{ P.dekory.label }} <span class="arr">{{ "↓" if P.dekory.href[0] == "#" else "→" }}</span></a></p>{% endif %}
       {% for b in P.blocks %}
         {% if b.t == 'h' %}<h{{ b.l }} class="{{ 'c' if b.center }}"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.x }}</h{{ b.l }}>
         {% elif b.t == 'sub' %}<h3 class="sub"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.h | safe }}</h3>

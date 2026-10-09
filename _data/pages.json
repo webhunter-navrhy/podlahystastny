@@ -2861,11 +2861,6 @@
    },
    {
     "t": "p",
-    "h": "<a href=\"@/dekory-ecoline-click/\">DEKORY PODLAH NAJDETE – ZDE</a>",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "Ecoline Click je plovoucí vinylová podlaha, která se konstrukcí výrazně liší od dnešních tenkých rigidních SPC podlah. Základem není minerální SPC jádro, ale pevná nosná HDF deska, na které je vinylová nášlapná vrstva. Ze spodní strany je již z výroby integrovaná korková akustická podložka.",
     "center": false
    },
@@ -3189,7 +3184,11 @@
     "h": "U plovoucí vinylové podlahy totiž o výsledku nerozhoduje pouze kvalita samotného materiálu. Stejně důležitý je rovný a správně připravený podklad, dodržení dilatačních pravidel a kvalitně provedená montáž.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-ecoline-click/",
+   "label": "Dekory Ecoline Click"
+  }
  },
  {
   "id": 21462,
@@ -4368,11 +4367,6 @@
    },
    {
     "t": "p",
-    "h": "<a href=\"@/dekory/\">DEKORY BARLINEK NAJDETE ZDE</a>",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "<strong>Vinylové podlahy</strong> Next Step DLE+ jsou jedinečnou, digitálně vytvořenou krásou přírodního dřeva uzavřenou v moderních, technologicky vyspělých minerálních podlahových dílcích. Kombinace super odolné vinylové vrstvy s unikátním kartáčováním, které velmi připomíná přirozenou strukturu dřeva. <strong>Vinylové podlahy</strong> Next Step DLE+ jsou výjimečně odolné, odolné proti vlhkosti a poškrábání. Jsou ideální <strong>vinylovou podlahou</strong> do místností s velkým provozem, stejně jako do koupelen a kuchyní. Navíc se snadno instalují a udržují. Díky široké škále vzorů a barev vám <strong>vinylové podlahy</strong> umožňují vytvářet jedinečný interiérový ​​design, přizpůsobený individuálním preferencím.",
     "center": true
    },
@@ -4625,7 +4619,11 @@
     "h": 477,
     "align": ""
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory/",
+   "label": "Dekory Barlinek Next Step"
+  }
  },
  {
   "id": 18233,
@@ -5490,11 +5488,6 @@
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "p",
-    "h": "DEKORY NAJDETE – ZDE",
-    "center": false
-   },
-   {
     "t": "h",
     "l": 2,
     "x": "Dřevěné třívrstvé parkety Barlinek – přírodní krása, která vydrží generace",
@@ -5601,7 +5594,11 @@
     "h": "<a href=\"/kontakt\">Zeptejte se nás</a> <a href=\"/produkty/drevene-podlahy/barlinek\">Zobrazit produkty Barlinek</a>",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/#dekory",
+   "label": "Dekory Barlinek"
+  }
  },
  {
   "id": 15390,
@@ -5622,11 +5619,6 @@
    {
     "t": "p",
     "h": "Pokud hledáte laminátovou podlahu, která spojuje odolnost, atraktivní vzhled a precizní zpracování, značka MyFloor od německého výrobce Classen je ideální volbou. Tato podlaha představuje vrchol technické kvality v kombinaci s důrazem na design, ekologii a dlouhou životnost.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "<a href=\"@/dekory-my-floor/\">DEKORY NAJDETE – ZDE</a>",
     "center": false
    },
    {
@@ -5782,7 +5774,11 @@
     "h": "Německý výrobce značka MY FLOOR striktně dodržuje pravidla ekologie a ochrany životního prostředí. Dřevo na výrobu získává z udržitelných lesů. Podlahy MY Floor jsou vyrobeny z přírodních obnovitelných surovin a materiálů na bázi dřeva s nízkým znečištěním. Kvalitní a odolné laminátové podlahy mají dlouhou životnost. Výrobce je hrdým držitele certifikátu modrý anděl.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-my-floor/",
+   "label": "Dekory My Floor"
+  }
  },
  {
   "id": 14612,
@@ -7613,11 +7609,6 @@
    },
    {
     "t": "p",
-    "h": "<a href=\"@/dekory-projectline-acoustic-click/\">DEKORY PODLAH NAJDETE – ZDE</a>",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "Conceptline Acoustic Click a Projectline Acoustic Click jsou plovoucí vinylové podlahy s pevnou kompozitní konstrukcí, zámkovým spojem a integrovanou akustickou podložkou. Obě kolekce jsou určené pro zákazníky, kteří hledají odolnou vinylovou podlahu s jednoduchou údržbou, nízkou konstrukční výškou a rychlou pokládkou bez celoplošného lepení.",
     "center": false
    },
@@ -7972,7 +7963,11 @@
     "h": "Protože ani kvalitní vinylová podlaha není pouze o samotném materiálu. O výsledném vzhledu a dlouhé životnosti rozhoduje správný výběr podlahy, kvalitně připravený podklad a profesionálně provedená pokládka.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-projectline-acoustic-click/",
+   "label": "Dekory Karndean Projectline Acoustic Click"
+  }
  },
  {
   "id": 10458,
@@ -7993,11 +7988,6 @@
    {
     "t": "p",
     "h": "Společnost Karndean International GmbH je renomovaným německým výrobcem vinylových podlah, který klade důraz na kvalitu, design a ekologickou šetrnost. Jejich kolekce Conceptline a Projectline představují špičku v oblasti lepených vinylových podlahových krytin, vhodných pro široké spektrum použití.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "<a href=\"@/dekory-karndean-international/\">DEKORY KARNDEAN INTERNATIONAL – ZDE</a>",
     "center": false
    },
    {
@@ -8221,7 +8211,11 @@
     "h": "Rádi vám pomůžeme s výběrem vhodného dekoru i konstrukce podlahy. Nabízíme konzultace, vzorky a profesionální poradenství při výběru i pokládce. Neváhejte nás kontaktovat – těšíme se na vaši poptávku.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-karndean-international/",
+   "label": "Dekory Karndean International"
+  }
  },
  {
   "id": 10378,
@@ -10354,11 +10348,6 @@
   "blocks": [
    {
     "t": "p",
-    "h": "<a href=\"@/dekory-floorify/\">DEKORY FLOORIFY – ZDE</a>",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "<strong>Floorify</strong> je belgická značka rigidních vinylových podlah, která spojuje vysokou odolnost s realistickým vzhledem dřeva, kamene a betonu. Podlahy jsou voděodolné, rozměrově stabilní a díky pevnému rigidnímu jádru vhodné jak pro novostavby, tak pro rekonstrukce.",
     "center": false
    },
@@ -10729,11 +10718,6 @@
     "center": false
    },
    {
-    "t": "p",
-    "h": "Dekory vinylových podlah Floorify najdete <a href=\"@/dekory-floorify/\">zde</a>.",
-    "center": false
-   },
-   {
     "t": "h",
     "l": 2,
     "x": "Kam je podlaha Floorify vhodná?",
@@ -10803,7 +10787,11 @@
     "h": "U podlahy totiž nerozhoduje pouze značka nebo dekor. O výsledku rozhoduje celý systém – správně připravený podklad, vhodná podložka, kvalitní rigidní podlaha a profesionálně provedená montáž.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-floorify/",
+   "label": "Dekory Floorify"
+  }
  },
  {
   "id": 88,
@@ -11002,11 +10990,6 @@
    },
    {
     "t": "p",
-    "h": "<a href=\"@/dekory-podlah-esco-kolonial/\">DEKORY PODLAH NAJDETE – ZDE</a>",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "Dub je stálicí mezi podlahovými materiály. Je to dřevo s duší, které v interiérech zanechává silný dojem už po staletí. Značka ESCO z Moravy navazuje na tuto bohatou tradici a posouvá ji do 21. století díky špičkovému zpracování, moderním úpravám a hlubokému respektu k přírodě.",
     "center": false
    },
@@ -11101,7 +11084,11 @@
     "h": "📞 Rádi vám poradíme osobně nebo telefonicky.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-podlah-esco-kolonial/",
+   "label": "Dekory ESCO"
+  }
  },
  {
   "id": 6938,
@@ -11113,11 +11100,6 @@
   "description": "Lepené vinylové podlahy Expona Commercial a Domestic – rozdíly, příprava podkladu a odborná pokládka. Podlahy Šťastný, Praha a okolí.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
-   {
-    "t": "p",
-    "h": "<a href=\"@/dekory-expona/\">DEKORY EXPONA – ZDE</a>",
-    "center": false
-   },
    {
     "t": "p",
     "h": "Vinylové podlahy Expona patří mezi kvalitní designové podlahoviny určené pro bytové i komerční prostory. Vynikají realistickými dekory dřeva, kamene a dalších materiálů, nízkou konstrukční výškou a především stabilitou, kterou poskytuje celoplošné lepení k podkladu.",
@@ -11370,7 +11352,11 @@
     "h": "<strong>Podlahy Šťastný – prodej, příprava podkladu a profesionální pokládka vinylových podlah Expona v Praze a okolí.</strong>",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-expona/",
+   "label": "Dekory Expona"
+  }
  },
  {
   "id": 6773,
@@ -12051,11 +12037,6 @@
     "center": false
    },
    {
-    "t": "p",
-    "h": "<a href=\"@/dekory-designflooring/\">DEKORY NAJDETE – ZDE</a>",
-    "center": false
-   },
-   {
     "t": "h",
     "l": 2,
     "x": "Vinylové lepené dílce Designflooring – britská elegance a maximální odolnost pro každý interiér",
@@ -12172,7 +12153,11 @@
     "h": "<strong>Chcete si vinylové lepené dílce Designflooring prohlédnout naživo a získat vzorky?</strong> Navštivte naši prodejnu nebo nás kontaktujte – rádi vám pomůžeme vybrat vinylovou podlahu přesně podle vašich představ.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-designflooring/",
+   "label": "Dekory Designflooring"
+  }
  },
  {
   "id": 5509,
@@ -13422,7 +13407,7 @@
   "path": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/",
   "title": "Barlinek",
   "seo_title": "Barlinek - Podlahy Šťastný",
-  "description": "Dřevěné třívrstvé podlahy Barlinek. Přírodní, hřejivé podlahy se zámkovým spojem. Kolekce Senses, Tastes of Life, Pure, Decor, Life.",
+  "description": "Dřevěné třívrstvé podlahy Barlinek: skutečné dřevo, kartáčování, olej a lak, podlahové vytápění, pokládka a renovace. Dekory a kolekce na jednom místě. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
@@ -13434,9 +13419,481 @@
     "align": "right"
    },
    {
-    "t": "p",
-    "h": "Dřevěné třívrstvé podlahy <strong>Barlinek</strong> díky své vrstvené konstrukci poskytují vysokou stabilitu a odolnost proti vlhkostním a teplotním výkyvům. Tyto podlahy snadno a rychle položíte „click“ plovoucím způsobem nebo celoplošným lepením a jsou vhodné také pro podlahové vytápění. Podlahy zachovávají veškeré výhody dřevěných podlah, umožňují několika násobnou renovaci, jsou hřejivé a příjemné na dotyk, neelektrizují, nepřitahují prachani roztoče, perfektně tlumí hluk a díky absorbci vlhkosti regulují mikroklima místnosti. Ať užhledáte podlahu do bytu či na chatu, v moderním či rustikálním stylu, leskou či matnou, ve formátu prken či podélných parket, ze široké nabídky dekorů a barev si jistě tu svoji vyberete.",
+    "t": "h",
+    "l": 2,
+    "x": "Dřevěné podlahy Barlinek – přírodní dřevo v moderní třívrstvé konstrukci",
     "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy Barlinek patří mezi podlahy, které dokážou spojit přirozený vzhled skutečného dřeva s moderní vícevrstvou konstrukcí. Nejde o laminát ani o imitaci dřeva – pohledovou a nášlapnou část podlahy tvoří pravé dřevo a celá konstrukce je vyrobena ze tří vzájemně orientovaných dřevěných vrstev.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě konstrukce, široký výběr povrchů a formátů dělají z Barlinku zajímavou podlahu pro moderní byty, rodinné domy i rekonstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vybírat lze od klidných přírodních dubů přes rustikálnější prkna s výraznými suky až po kartáčované, mořené, olejované nebo matně lakované povrchy. Vedle klasických velkých prken nabízí Barlinek také třílamelové podlahy, klasickou rybí kost a francouzský Chevron.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Barlinek je skutečná dřevěná podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dřevěné podlahy považujeme za důležité říct jednu věc: každé prkno je originál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek používá pro pohledovou vrstvu skutečné dřevo. Kresba letokruhů, suky, barevné rozdíly a další přirozené znaky proto nejsou vadou ani vytištěným vzorem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě naopak. Jsou součástí charakteru přírodního materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dvě prkna stejného dekoru nemusí vypadat naprosto stejně a výsledná položená plocha se může lišit od malého vzorku nebo fotografie na monitoru. U dřevěné podlahy je proto důležité vybírat nejen barvu, ale také třídění dřeva, množství suků, kresbu a celkový charakter kolekce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jak je třívrstvá podlaha Barlinek vyrobena?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konstrukci tvoří tři vrstvy skutečného dřeva uspořádané tak, aby se vzájemně stabilizovaly.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vrchní vrstva z ušlechtilého dřeva",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pohledovou část tvoří vybrané přírodní dřevo. U velké části nabídky je to dub, Barlinek ale pracuje také s dalšími dřevinami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tato vrstva určuje výsledný vzhled podlahy a je již z výroby opatřena finální povrchovou úpravou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Středová vrstva",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Prostřední část je tvořena jehličnatým dřevem orientovaným napříč vůči vrchní a spodní vrstvě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Křížové uspořádání pomáhá omezovat přirozené rozměrové změny dřeva způsobené kolísáním teploty a relativní vlhkosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Spodní stabilizační vrstva",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spodní dřevěná vrstva konstrukci uzavírá a společně se středovou vrstvou pomáhá udržovat rozměrovou stabilitu celé podlahové lamely.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem je 100% dřevěná podlaha s konstrukcí stabilnější než srovnatelná podlaha vyrobená z jednoho kusu masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Velké dubové prkno 2200 × 180 mm",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedním z typických formátů Barlinek je jednolamelové prkno Grande o rozměru 2200 × 180 mm a tloušťce 14 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě velké jednolamelové formáty máme rádi v otevřených interiérech, obývacích pokojích a větších místnostech. Dlouhé prkno nechává vyniknout přirozenou kresbu dřeva a podlaha díky menšímu množství spojů působí klidněji a hodnotněji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U tohoto formátu se běžně setkáte s balením 2,77 m².",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne všechny podlahy Barlinek ale mají stejné rozměry. Konkrétní formát, tloušťku a skladbu proto vždy uvádíme u vybraného dekoru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Od klidného dubu až po výrazně rustikální podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U Barlinku není dub jako dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé kolekce se liší množstvím suků, barevnými rozdíly a celkovou kresbou dřeva. Některé podlahy jsou velmi klidné a elegantní, jiné naopak záměrně ukazují výraznější přírodní charakter materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je při výběru důležité.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejný odstín podlahy může v klidném třídění působit minimalisticky a v rustikálním třídění úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto doporučujeme nevybírat dřevěnou podlahu pouze podle jedné malé lamely nebo fotografie. U výraznějších sortací je potřeba představit si vzhled celé položené plochy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kartáčované dřevo má úplně jiný charakter",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velká část dřevěných podlah Barlinek využívá kartáčování povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při kartáčování se zvýrazní přirozená struktura dřeva a rozdíl mezi měkčími a tvrdšími částmi letokruhů. Povrch díky tomu nepůsobí dokonale hladce a získává výraznější kresbu také na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V kombinaci s olejem, matným lakem, mořením a různými odstíny lze ze stejné dřeviny vytvořit velmi rozdílné podlahy – od světlého skandinávského dubu až po tmavé a výrazné rustikální povrchy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Olejované a lakované podlahy Barlinek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek nabízí dřevěné podlahy s různými typy finální povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Olejovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej nechává velmi dobře vyniknout přirozenou strukturu a kresbu dřeva. Povrch působí přirozeně a příjemně na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou olejovaných podlah je také možnost jejich průběžného ošetřování a obnovy vhodnými prostředky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Lakovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytváří ochrannou vrstvu na povrchu dřeva a usnadňuje běžnou údržbu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek používá také matné povrchové úpravy, díky kterým si dřevo zachovává přirozený vzhled a nemusí působit leskle nebo uměle.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volba mezi olejem a lakem proto není pouze otázkou vzhledu. Záleží také na způsobu používání podlahy a na tom, jakou údržbu od ní očekáváte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Barlinek a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá konstrukce Barlinek je vhodná také pro použití na podlahovém vytápění při dodržení podmínek výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U standardní třívrstvé podlahy o tloušťce 14 mm uvádí Barlinek tepelný odpor přibližně 0,1 m²K/W a tepelnou vodivost 0,14 W/mK.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu lze podle konkrétního systému instalovat plovoucím způsobem nebo celoplošným lepením.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U podlahového vytápění dáváme zpravidla přednost celoplošnému lepení, protože podlaha je přímo spojená s podkladem, působí při chůzi kompaktně a odpadá tepelný odpor samostatné podložky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před montáží je nutné správně připravit a vyhřát podklad a následně dodržovat podmínky výrobce pro provoz dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Plovoucí pokládka nebo celoplošné lepení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou část podlah Barlinek lze instalovat dvěma způsoby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Plovoucí pokládka využívá zámkové spoje jednotlivých prken a vhodnou podložku. Výhodou je rychlá montáž bez celoplošného lepení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Celoplošné lepení spojuje dřevěnou podlahu přímo s připraveným podkladem. Tento způsob často volíme u kvalitních dřevěných podlah, podlahového vytápění a v situacích, kdy chceme pevnější a kompaktnější pocit při chůzi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek u řady velkoformátových prken používá kombinaci podélného spoje Barclick a čelního zámku 5Gc.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní způsob pokládky ale vždy volíme podle vybraného výrobku, podkladu a podmínek v místnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rybí kost a Chevron Barlinek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek už dávno není pouze klasické dlouhé prkno.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro zákazníky, kteří chtějí výraznější podlahu, nabízí také klasickou rybí kost (Herringbone) a francouzský vzor Chevron.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě spojení tradičního parketového vzoru s moderní třívrstvou konstrukcí je zajímavé například při rekonstrukcích městských bytů, ale stejně dobře může fungovat v moderní novostavbě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rybí kost dokáže být dominantním prvkem interiéru, aniž by bylo potřeba nahrazovat pravé dřevo jeho imitací.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lze podlahu Barlinek renovovat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano – a právě to je jeden z podstatných rozdílů mezi skutečnou dřevěnou podlahou a podlahou s potištěným dekorem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možnost renovace závisí na konkrétní tloušťce nášlapné vrstvy, stavu podlahy a rozsahu poškození.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U olejovaných podlah přitom nemusí být vždy nutné přistupovat rovnou k broušení. Povrch lze podle jeho stavu hloubkově vyčistit, znovu ošetřit olejem nebo řešit některá poškození lokálně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při větším opotřebení lze vhodnou podlahu profesionálně přebrousit a vytvořit nový povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní dřevěná podlaha proto nemusí po letech automaticky skončit výměnou za novou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevo potřebuje správné prostředí",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá konstrukce výrazně zlepšuje rozměrovou stabilitu podlahy, ale Barlinek je stále skutečné dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A dřevo přirozeně reaguje na prostředí, ve kterém se nachází.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výrobce doporučuje udržovat v interiéru odpovídající teplotu a relativní vlhkost vzduchu. Především během topné sezóny je důležité nenechat vzduch dlouhodobě příliš vyschnout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správné mikroklima pomáhá omezit vznik spár, sesychání a další přirozené reakce dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad pod dřevěnou podlahu Barlinek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní dřevěná podlaha potřebuje stejně kvalitně připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou proto kontrolujeme především rovinnost, pevnost a zbytkovou vlhkost podkladu. U podlahového vytápění je nutné dodržet také předepsaný postup vyhřátí potěru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud podklad požadavky nesplňuje, je potřeba jej před montáží upravit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Příprava podkladu není zbytečná práce navíc. Je to jeden ze základních předpokladů, aby se dřevěná podlaha mohla dlouhodobě chovat tak, jak má.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jakou podlahu Barlinek vybrat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při výběru doporučujeme nesledovat pouze název dekoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitý je formát prkna, třídění dřeva, množství suků, barevné rozdíly, kartáčování, povrchová úprava, fáze hran a způsob pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velké jednolamelové prkno může působit úplně jinak než stejný odstín ve třílamelovém provedení nebo v rybí kosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak se může zásadně lišit klidně tříděný dub od výrazně rustikální varianty plné přirozených znaků.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto doporučujeme dřevěnou podlahu vidět naživo a jednotlivé vzorky skutečně porovnat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevěné podlahy Barlinek v našem studiu v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy Barlinek nabízíme zákazníkům, kteří chtějí skutečnou dřevěnou podlahu, ale zároveň očekávají stabilní moderní konstrukci a široký výběr vzhledu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pomůžeme vám vybrat vhodný dekor, třídění, formát i povrchovou úpravu. Zároveň posoudíme stav podkladu a doporučíme, zda je pro konkrétní realizaci vhodnější plovoucí pokládka, nebo celoplošné lepení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zajistíme také přípravu podkladu a kompletní odbornou pokládku podlahy Barlinek v Praze a okolí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A protože pracujeme nejen s podlahou samotnou, dokážeme u vybraných realizací řešit také schody a schodové hrany ve stejném dřevě a dekoru jako navazující podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud vybíráte dřevěnou podlahu Barlinek, přijďte si jednotlivé varianty prohlédnout do našeho podlahového studia v Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěnou podlahu je dobré vidět na fotografii. Ještě lepší je ale vzít ji do ruky, vidět skutečnou kresbu dřeva a porovnat několik prken vedle sebe.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory a kolekce Barlinek",
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "ul",
@@ -14097,7 +14554,11 @@
     "h": "Vyberete si podlahu – my k ní dokážeme vyrobit schody ve stejném designu.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "#dekory",
+   "label": "Dekory Barlinek"
+  }
  },
  {
   "id": 4504,
@@ -14766,11 +15227,6 @@
     "center": false
    },
    {
-    "t": "p",
-    "h": "<a href=\"@/dekory-kronotex/\">DEKORY NAJDETE – ZDE</a>",
-    "center": false
-   },
-   {
     "t": "h",
     "l": 2,
     "x": "Proč si vybrat Kronotex?",
@@ -14860,7 +15316,11 @@
     "h": "Německý výrobce Kronotex nabízí velice oblíbené laminátové podlahy s p<strong>arketovým vzorem</strong>, které se vyznačují příznivou cenou při zachování vysoké kvality zpracování. Tento druh podlahové krytiny se výborně hodí <strong>do veškerých bytových</strong> a <strong>méně zatěžovaných komerčních prostor</strong>.",
     "center": false
    }
-  ]
+  ],
+  "dekory": {
+   "href": "@/dekory-kronotex/",
+   "label": "Dekory Kronotex"
+  }
  },
  {
   "id": 2190,

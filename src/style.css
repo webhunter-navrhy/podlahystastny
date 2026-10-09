@@ -564,3 +564,5 @@ a:hover .arr{transform:translateX(5px)}
 /* jednotný font: nadpisy Lora, text Plus Jakarta Sans, žádná kurzíva ani obrysové písmo */
 .marquee span,.choice__band,.install__after,.stairs__stroke,.rv blockquote,.quote blockquote{font-style:normal}
 .step__n,.cat__n{font-family:var(--serif);font-weight:500}
+.dekrow{margin:0 0 2rem}
+.dekrow .btn{font-size:.95rem}
