@@ -10094,212 +10094,458 @@
   "path": "/podlahy-vinylove/celovinylove-podlahy/podlahy-vinylove-floorify/",
   "title": "Floorify",
   "seo_title": "Floorify - Podlahy Šťastný",
-  "description": "Rigidní vinylové podlahy Floorify přinášejí nejlepší spojení vlastností zámkových podlah. Ať už si vyberete autentické hřejivé dekory dřeva, či elegantní vzhled betonu.",
+  "description": "Rigidní vinylové podlahy Floorify – skladba, formáty, tloušťka, voděodolnost, podlahové vytápění a správná příprava podkladu. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "h",
-    "l": 2,
-    "x": "Rigidní vinylové podlahy Floorify – když kvalita a design jdou ruku v ruce",
+    "t": "p",
+    "h": "<a href=\"@/dekory-floorify/\">DEKORY FLOORIFY – ZDE</a>",
     "center": false
    },
    {
     "t": "p",
-    "h": "Hledáte podlahu, která je extrémně odolná, voděodolná, stabilní a přitom krásná na pohled? Seznamte se s <strong>vinylovými podlahami Floorify</strong> – belgickou značkou, která kombinuje přírodní vzhled dřeva a kamene s pokročilou technologií rigidního jádra. Floorify je synonymem pro dlouhou životnost, jednoduchou údržbu a moderní estetiku.",
+    "h": "<strong>Floorify</strong> je belgická značka rigidních vinylových podlah, která spojuje vysokou odolnost s realistickým vzhledem dřeva, kamene a betonu. Podlahy jsou voděodolné, rozměrově stabilní a díky pevnému rigidnímu jádru vhodné jak pro novostavby, tak pro rekonstrukce.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<a href=\"@/dekory-floorify/\">DEKORY NAJDETE - ZDE</a>",
+    "h": "Velkou předností Floorify je také výběr formátů. Vedle klasických vinylových prken jsou k dispozici dlouhá a XL prkna, velkoformátové dlaždice i podlahy skládané do vzoru rybí kosti.",
     "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Co je rigidní vinylová podlaha?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Rigidní vinyl"
-   },
-   {
-    "t": "p",
-    "h": "je pokročilý typ podlahy s tuhým jádrem (tzv. rigid core), které zajišťuje:"
-   },
-   {
-    "t": "ul",
-    "items": [
-     "vysokou rozměrovou stabilitu,",
-     "odolnost proti promáčknutí,",
-     "snadnou pokládku i na nerovný podklad,",
-     "voděodolnost a pevnost v každém detailu."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Díky těmto vlastnostem jsou podlahy Floorify vhodné do domácností i komerčních prostor."
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Proč si vybrat právě Floorify?",
+    "x": "Jaká je skladba vinylové podlahy Floorify?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Floorify není jen další značka na trhu. Je to inovativní belgická společnost, která vyrábí podlahy s důrazem na:"
-   },
-   {
-    "t": "ul",
-    "items": [
-     "<strong>prémiový vzhled</strong> – autentické dekory dřeva a kamene,",
-     "<strong>ekologii a zdraví</strong> – bez ftalátů, nízké emise VOC, 100% recyklovatelné,",
-     "<strong>komfort</strong> – příjemné na dotek, tiché při chůzi, kompatibilní s podlahovým topením,",
-     "<strong>praktické využití</strong> – snadná údržba, rychlá pokládka bez lepidla, integrovaná podložka."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Technické parametry podlah Floorify",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "<strong>Typ pokládky:</strong> plovoucí s klik systémem (Uniclic)",
-     "<strong>Celková tloušťka:</strong> 4–4,5 mm + 1 mm integrované podložky",
-     "<strong>Nášlapná vrstva:</strong> 0,55 mm (vhodné i pro komerční prostory)",
-     "<strong>Rozměrová stálost:</strong> vhodné do místností s velkými výkyvy teplot",
-     "<strong>Voděodolnost:</strong> 100 % (možné do koupelen, kuchyní, vstupních hal)",
-     "<strong>Akustika:</strong> velmi tiché díky akustické podložce (zvuková izolace až -21 dB)",
-     "<strong>Třída zátěže:</strong> 23/33 – pro domácí i intenzivní komerční využití"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Kolekce podlah Floorify",
+    "h": "Floorify není klasický měkký vinyl. Jedná se o vícevrstvou rigidní podlahu s tuhým jádrem, které zajišťuje stabilitu jednotlivých dílců.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Značka Floorify nabízí tři hlavní produktové řady, které se liší dekorem a rozměry:",
+    "h": "Konstrukce podlahy Floorify se skládá ze čtyř základních vrstev:",
     "center": false
    },
    {
     "t": "h",
     "l": 3,
-    "x": "1. Floorify Planks – klasické vinylové „prkno“",
+    "x": "Matná ochranná PU vrstva",
     "center": false
    },
    {
     "t": "p",
-    "h": "Formát: cca 1520 x 225 mm<br> Vzhled přírodního dřeva ve více než 20 odstínech. Ideální pro moderní i rustikální interiéry. Autentická struktura a matný povrch dodávají pocit skutečného dřeva pod nohama.",
+    "h": "Vrchní povrchová úprava chrání podlahu před nečistotami a skvrnami a současně usnadňuje její běžnou údržbu.",
     "center": false
    },
    {
     "t": "h",
     "l": 3,
-    "x": "2. Floorify Tiles – elegantní vinylové „dlaždice“",
+    "x": "Transparentní nášlapná vrstva 0,55 mm",
     "center": false
    },
    {
     "t": "p",
-    "h": "Formát: 600 x 900 mm<br> Nabízí stylový vzhled betonu, kamene nebo mramoru. Výborně se hodí do kuchyní, koupelen nebo komerčních prostor, kde chcete chladný vzhled, ale teplý a tichý povrch.",
+    "h": "Odolná transparentní vrstva chrání dekor před každodenním opotřebením. Nášlapná vrstva 0,55 mm umožňuje použití podlahy nejen v domácnostech, ale také v odpovídajících komerčních prostorách.",
     "center": false
    },
    {
     "t": "h",
     "l": 3,
-    "x": "3. Floorify XL Planks – extra dlouhá prkna",
+    "x": "Dekorativní vrstva ve vysokém rozlišení",
     "center": false
    },
    {
     "t": "p",
-    "h": "Formát: až 2000 mm délky<br> Prostorný efekt v interiéru, ideální do otevřených místností. Výběr prémiových dekorů s výraznou kresbou dřeva a autentickým kartáčovaným efektem.",
+    "h": "Právě tato vrstva vytváří výsledný vzhled podlahy. V kombinaci s povrchovou strukturou dokáže Floorify velmi věrně napodobit kresbu přírodního dřeva, kamene nebo betonu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Voděodolné Floorify Rigid Core",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Základem celé konstrukce je pevné rigidní jádro Floorify. Dodává dílcům potřebnou tuhost, rozměrovou stabilitu a odolnost a současně pomáhá tlumit zvuk.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod samotnou podlahu se používá samostatná podložka Floorify, která není součástí lamely. Výrobce nabízí podložku Performance o tloušťce 1,5 mm a Comfort o tloušťce 2 mm.",
     "center": false
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Kde se rigidní podlahy Floorify uplatní?",
+    "x": "Proč je rigidní jádro důležité?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Díky svým vlastnostem se podlahy Floorify hodí téměř kamkoli:"
+    "h": "Pevné jádro je jedním z hlavních rozdílů mezi rigidní podlahou a klasickým lepeným vinylem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rigidní konstrukce dodává jednotlivým lamelám nebo dlaždicím větší tuhost a stabilitu. Podlahu proto lze pokládat plovoucím způsobem pomocí zámkového systému bez celoplošného lepení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani rigidní podlaha však neznamená, že lze ignorovat stav podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí být pevný, stabilní, suchý, čistý a dostatečně rovný. Samostatná podložka Floorify dokáže pomoci s drobnými nerovnostmi, ale nemůže nahrazovat správnou přípravu špatného nebo výrazně nerovného podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před každou pokládkou proto doporučujeme stav podkladu nejprve odborně posoudit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Tloušťka podlah Floorify",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Floorify se vyrábí v několika formátech a podle konkrétní kolekce se liší také tloušťka jednotlivých dílců.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotné rigidní dílce mají tloušťku4 mm, 4,5 mm nebo 6 mm. K tomu je nutné připočítat samostatnou podložku Floorify Performance 1,5 mm nebo Comfort 2 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledná konstrukční výška podlahového systému se tak podle zvolené kombinace pohybuje přibližně od 5,5 do 8 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nízká konstrukční výška je výhodná zejména při rekonstrukcích, kde často řešíme návaznost nové podlahy na dveře, zárubně nebo okolní podlahové krytiny.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nášlapná vrstva 0,55 mm a třída zátěže 33",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy Floorify mají nášlapnou vrstvu 0,55 mm a vybrané kolekce jsou zařazeny do třídy použití 33.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu nejsou určeny pouze do běžných domácností. Při dodržení podmínek výrobce je lze použít také v zatěžovaných prostorách, například kancelářích, obchodech nebo dalších komerčních interiérech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Odolnost ale neznamená nezničitelnost. Stejně jako u ostatních podlah doporučujeme používat kvalitní ochranné prvky pod nábytkem a u vstupů zachytit písek a další abrazivní nečistoty.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Voděodolná podlaha do kuchyně i koupelny",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rigidní vinyl Floorify je voděodolný, a proto jej lze použít také v kuchyních, koupelnách, chodbách a dalších prostorách, kde může podlaha přijít do kontaktu s vodou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou výhodou je možnost použít stejný dekor v několika navazujících místnostech a vytvořit tak vizuálně sjednocený interiér.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní způsob instalace ve vlhkých prostorách musí vždy odpovídat montážnímu předpisu výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Floorify a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky nízké konstrukční výšce a nízkému tepelnému odporu lze Floorify kombinovat také s vhodným systémem podlahového vytápění nebo chlazení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro podlahové vytápění je vhodná především podložka Floorify Performance, která má velmi nízký tepelný odpor a umožňuje dobrý přenos tepla mezi podkladem a podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vždy je ale nutné dodržet technologické podmínky Floorify pro konkrétní systém vytápění a skladbu podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Podložka Floorify Performance nebo Comfort?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podložka je součástí celého podlahového systému Floorify a její výběr není dobré podceňovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Performance – 1,5 mm",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pevnější podložka poskytuje velmi dobrou podporu zámkovým spojům a je vhodná pro intenzivnější používání podlahy. Díky nízkému tepelnému odporu je vhodnou volbou také pro podlahové vytápění a chlazení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Performance výrobce doporučuje také pod podlahy skládané do vzoru Herringbone, Twist a Chevron, kde je velké množství zámkových spojů.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Comfort – 2 mm",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podložka Comfort je zaměřena především na omezení přenosu kročejového hluku do místností pod podlahou. Je proto zajímavým řešením například v bytech nebo vícepodlažních objektech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výrobce u této podložky uvádí snížení kročejového hluku až o ΔLw 21 dB.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Formáty podlah Floorify",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednou z předností Floorify je možnost vybírat nejen dekor, ale také velikost a způsob uspořádání podlahových dílců.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Planks – klasická prkna",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr 1219 × 178 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasický formát vhodný například do menších pokojů, ložnic, chodeb nebo místností, kde by příliš velká lamela nepůsobila přirozeně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Long Planks – dlouhá prkna",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr 1524 × 225 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Univerzální formát vhodný do středních a větších místností. Delší lamela zvýrazňuje kresbu dřeva a vytváří klidnější vzhled podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify XL Planks – dvoumetrová prkna",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr 2000 × 240 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkoformátová prkna vyniknou zejména ve větších obývacích pokojích, otevřených kuchyních a dalších prostorných interiérech. Menší počet spojů vytváří dojem souvislejší dřevěné plochy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Herringbone – rybí kost",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr 750 × 125 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rigidní vinyl skládaný do oblíbeného vzoru rybí kosti spojuje tradiční vzhled parketové podlahy s vlastnostmi moderního vinylu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Big Tiles – velkoformátové dlaždice",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr 900 × 600 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velké vinylové dlaždice nabízejí vzhled kamene nebo betonu bez pocitu studené keramické dlažby. Dobře fungují v moderních kuchyních, koupelnách a otevřených interiérech.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Floorify Small Tiles – menší dlaždice",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr 610 × 305 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Menší formát je vhodný zejména do koupelen, chodeb, kuchyní a menších prostor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Floorify nabízí také další designové formáty, například Twist a Chevron, které umožňují vytvořit výraznější a méně tradiční vzhled podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Realistické dekory dřeva, kamene a betonu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U Floorify není zajímavá pouze technická konstrukce. Velká pozornost je věnována také vzhledu samotného povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dekory dřeva využívají realistickou kresbu, matný povrch a strukturu, která podlahu přibližuje vzhledu skutečného dřeva. U dlaždic lze naopak vybírat z dekorů inspirovaných kamenem, betonem a dalšími minerálními povrchy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výběr konkrétního dekoru doporučujeme vždy podle skutečného vzorku. Odstín podlahy se může na monitoru výrazně lišit a výsledný vzhled ovlivňuje také denní světlo, umělé osvětlení, barva dveří, stěn a nábytku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dekory vinylových podlah Floorify najdete <a href=\"@/dekory-floorify/\">zde</a>.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kam je podlaha Floorify vhodná?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Floorify lze podle konkrétního typu a při dodržení montážních podmínek použít v celé řadě prostor:",
+    "center": false
    },
    {
     "t": "ul",
     "items": [
-     "do domácností – obývací pokoje, ložnice, chodby, dětské pokoje, kuchyně,",
-     "do koupelen a vlhkých prostor – 100% odolné proti vodě,",
-     "do kanceláří, butiků, kaváren nebo hotelových pokojů – vysoká třída zátěže,",
-     "na podlahové topení – rychlá vodivost tepla díky nízkému tepelnému odporu."
+     "obývací pokoje a kuchyně,",
+     "ložnice a dětské pokoje,",
+     "chodby a vstupní prostory,",
+     "koupelny,",
+     "kanceláře,",
+     "obchody a další komerční prostory,",
+     "interiéry s podlahovým vytápěním nebo chlazením."
     ]
    },
    {
-    "t": "ul",
-    "items": [
-     "--"
-    ],
-    "auto": true,
-    "check": false
-   },
-   {
     "t": "h",
-    "l": 3,
-    "x": "Tip od podlaháře",
+    "l": 2,
+    "x": "Pokládka Floorify – podklad nepodceňujte",
     "center": false
    },
    {
     "t": "p",
-    "h": "<em>„Pokud chcete pevnou a stabilní podlahu, kterou zvládnete položit i sami bez zbytečného brousění nebo vyrovnávání podkladu, Floorify je skvělá volba. Díky integrované podložce ušetříte čas a máte zajištěnou i skvělou akustiku.“</em>",
+    "h": "Přestože má Floorify pevné rigidní jádro a kvalitní podložku, není správné tvrdit, že lze podlahu položit na jakýkoliv nerovný podklad bez přípravy.",
     "center": false
    },
    {
-    "t": "ul",
-    "items": [
-     "--"
-    ],
-    "auto": true,
-    "check": false
+    "t": "p",
+    "h": "Podklad musí splňovat předepsané tolerance výrobce. Musí být pevný, stabilní, čistý a suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Floorify lze při splnění těchto podmínek instalovat například na beton, cementový nebo anhydritový potěr, vhodné dřevěné podklady nebo stávající keramickou dlažbu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před realizací proto podklad nejprve kontrolujeme. Pokud jeho stav neodpovídá požadavkům výrobce, navrhneme vhodný způsob přípravy nebo vyrovnání.",
+    "center": false
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Proč podlahu Floorify vyzkoušet osobně?",
+    "x": "Floorify v našem podlahovém studiu v Praze",
     "center": false
    },
    {
     "t": "p",
-    "h": "Ať už vás láká vzhled dubového prkna nebo betonové dlaždice, Floorify nabízí nepřehlédnutelný vizuální i funkční zážitek. Přijďte si podlahu osahat, poslechnout a projít se po ní. Rozdíl pocítíte na první krok.",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "--"
-    ],
-    "auto": true,
-    "check": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Závěrem",
+    "h": "Pokud vybíráte rigidní vinylovou podlahu Floorify, doporučujeme nespoléhat pouze na fotografie na internetu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Rigidní vinylové podlahy Floorify</strong> představují spojení technologie, designu a praktičnosti. Jsou ideální pro každého, kdo chce krásnou, tichou, odolnou a voděodolnou podlahu bez kompromisů. Pokud hledáte podlahu, která něco vydrží – a zároveň skvěle vypadá – Floorify je řešení, které stojí za to zvážit.",
+    "h": "V našem podlahovém studiu vám pomůžeme s výběrem vhodného dekoru a formátu, poradíme se správnou skladbou podlahy a podložkou a můžeme zajistit také odbornou přípravu podkladu a kompletní pokládku.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Potřebujete poradit s výběrem kolekce nebo pokládkou? Ozvěte se nám, rádi vám pomůžeme.</strong>",
+    "h": "U podlahy totiž nerozhoduje pouze značka nebo dekor. O výsledku rozhoduje celý systém – správně připravený podklad, vhodná podložka, kvalitní rigidní podlaha a profesionálně provedená montáž.",
     "center": false
    }
   ]
