@@ -10570,7 +10570,7 @@
   "path": "/podlahy-vinylove/vinylove-podlahy-lepene/vinylove-podlahy-bez-ftalatu/",
   "title": "Expona",
   "seo_title": "Expona - Podlahy Šťastný",
-  "description": "Vinylové podlahy Expona Domestic patří mezi jedničky na evropském trhu, jak z pohledu kvality, tak i ceny.",
+  "description": "Lepené vinylové podlahy Expona Commercial a Domestic – rozdíly, příprava podkladu a odborná pokládka. Podlahy Šťastný, Praha a okolí.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
@@ -10580,232 +10580,255 @@
    },
    {
     "t": "p",
-    "h": "Meta data"
+    "h": "Vinylové podlahy Expona patří mezi kvalitní designové podlahoviny určené pro bytové i komerční prostory. Vynikají realistickými dekory dřeva, kamene a dalších materiálů, nízkou konstrukční výškou a především stabilitou, kterou poskytuje celoplošné lepení k podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle způsobu využití lze vybírat například mezi kolekcemi <strong>Expona Commercial</strong> pro více zatěžované prostory a <strong>Expona Domestic</strong> určenou především do bytů a rodinných domů.",
+    "center": false
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Vinylové podlahy Expona Commercial – odolnost a design pro náročné provozy",
+    "x": "Expona Commercial – odolný vinyl pro náročnější provoz",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Vinylové dílce Expona Commercial</strong> patří mezi nejoblíbenější podlahoviny pro komerční a veřejné prostory. Jejich klíčovým parametrem je <strong>nášlapná vrstva 0,55 mm (cca 20 mil)</strong>, která zajišťuje vysokou odolnost proti opotřebení, poškrábání a skvrnám. Odborné zdroje doporučují pro prostory s vysokou zátěží právě 20–40 mil (0,5–1,0 mm) silnou vrstvu což Expona Commercial splňuje a překonává požadavky pro obchody, kanceláře, restaurace, školní zařízení či zdravotnické provozy.",
+    "h": "<strong>Expona Commercial</strong> je lepená vinylová podlaha vhodná pro komerční, veřejné i více zatěžované obytné prostory. Nášlapná vrstva <strong>0,55 mm</strong> poskytuje vysokou odolnost při každodenním používání.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Kolekce Expona Commercial nabízí <strong>širokou paletu dekorů</strong> – od realistických imitací dubu, jasanu nebo ořechu přes moderní betonové a industriální vzory až po vzory kůže či kovu. Díky <strong>PUR povrchové úpravě</strong> je podlaha odolná vůči skvrnám a snadno se čistí; nepotřebuje voskování ani dodatečné nátěry. Lepený způsob pokládky zaručuje výbornou rozměrovou stabilitu a vysoký <strong>akustický komfort</strong>, takže se Expona Commercial hodí i do prostor, kde se vyžaduje tichý provoz.",
+    "h": "Uplatnění najde například v kancelářích, obchodech, restauracích, hotelech, recepcích, ordinacích a dalších provozech, kde jsou na podlahu kladeny vyšší nároky.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Hlavní výhody Expona Commercial:</strong>",
+    "h": "Velkou předností kolekce je výběr dekorů. K dispozici jsou věrné imitace dřeva, kamene, betonu i moderních designových povrchů. Díky tomu lze odolnou komerční podlahu použít i v interiérech, kde je důležitý reprezentativní vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchová PUR úprava usnadňuje běžnou údržbu a zvyšuje odolnost povrchu proti nečistotám a skvrnám.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Hlavní výhody Expona Commercial",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "<strong>Vyšší odolnost a životnost</strong> – nášlapná vrstva 0,55 mm obstojí v náročném provozu:contentReference[oaicite:4]{index=4}.",
-     "<strong>PUR povrch</strong> – zvyšuje odolnost proti skvrnám, chemikáliím a usnadňuje údržbu.",
-     "<strong>Stabilní lepený systém</strong> – minimalizuje riziko rozvolnění spár a zajišťuje tichý krok.",
-     "<strong>Široký výběr dekorů</strong> – realistické dřevo, kámen, beton, moderní designové vzory.",
-     "<strong>Nízká konstrukční výška</strong> – ideální pro renovace i novostavby.",
-     "<strong>Vhodná pro hotely, restaurace, kanceláře, školy, obchody i zdravotnická zařízení</strong>."
+     "nášlapná vrstva 0,55 mm pro vyšší provozní zatížení,",
+     "celoplošně lepená konstrukce,",
+     "vysoká rozměrová stabilita,",
+     "nízká konstrukční výška,",
+     "snadná údržba díky PUR povrchové úpravě,",
+     "realistické dekory dřeva, kamene, betonu a dalších materiálů,",
+     "vhodná pro kanceláře, hotely, restaurace, obchody a další zatěžované prostory,",
+     "vhodná také do více namáhaných částí domácností."
     ]
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Expona Domestic – elegantní vinyl pro moderní domácnosti",
+    "x": "Expona Domestic – lepený vinyl pro byty a rodinné domy",
     "center": false
    },
    {
     "t": "p",
-    "h": "Pro obytné prostory je určena <strong>řada Expona Domestic</strong>. Disponuje nášlapnou vrstvou 0,4 mm (cca 16 mil), která je podle odborných doporučení dostačující pro běžnou domácí zátěž:contentReference[oaicite:5]{index=5}. Díky menší tloušťce má tato kolekce nižší konstrukční výšku a je vhodná i pro rekonstrukce bez nutnosti zkracovat dveře či měnit přechodové lišty.",
+    "h": "<strong>Expona Domestic</strong> je určena především pro obytné prostory. Nášlapná vrstva <strong>0,4 mm</strong> poskytuje dostatečnou odolnost pro běžný provoz domácnosti a díky nízké konstrukční výšce je podlaha zajímavým řešením také při rekonstrukcích.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Kvalitní zpracování a <strong>věrné dekory dřeva nebo kamene</strong> vytvářejí přirozený vzhled, který se hodí do moderních bytů, venkovských stylů i skandinávských interiérů. Nášlapná vrstva je opatřena ochrannou úpravou PUR, takže podlaha odolá běžnému poškrábání, skvrnám a nevyžaduje voskování. Expona Domestic lze instalovat <strong>lepenou formou</strong> pro maximální stabilitu nebo jako volně pokládané dílce (v závislosti na podkladu), což ocení zejména majitelé bytů.",
+    "h": "Vhodná je například do obývacích pokojů, ložnic, dětských pokojů, kuchyní, chodeb a dalších obytných místností.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Výhody Expona Domestic:</strong>",
+    "h": "Stejně jako u kolekce Commercial je velký důraz kladen na vzhled. Dekory věrně napodobují přírodní dřevo, kámen a další materiály a umožňují podlahu sladit s moderním, klasickým i rustikálním interiérem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Expona Domestic je <strong>lepená vinylová podlaha</strong>. Jednotlivé dílce se celoplošně lepí na odborně připravený podklad. Nejedná se o plovoucí ani volně pokládanou podlahu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Hlavní výhody Expona Domestic",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "<strong>0,4 mm nášlapná vrstva</strong> – dostatečná pro obývací pokoje, ložnice, kuchyně i dětské pokoje:contentReference[oaicite:6]{index=6}.",
-     "<strong>PUR povrch</strong> – snadná údržba, odolnost proti skvrnám a nečistotám.",
-     "<strong>Nízká tloušťka</strong> – umožňuje pokládku i v malých prostorách, bez úpravy dveří.",
-     "<strong>Různorodé dekory</strong> – od běleného dubu až po tmavý kámen pro moderní kuchyně.",
-     "<strong>Vhodné pro lepenou i volnou pokládku</strong> – dle stavu podkladu a preferencí."
+     "nášlapná vrstva 0,4 mm vhodná pro běžné domácí zatížení,",
+     "nízká konstrukční výška,",
+     "celoplošné lepení k podkladu,",
+     "snadná údržba,",
+     "PUR povrchová úprava,",
+     "široký výběr dekorů,",
+     "vhodná pro byty a rodinné domy,",
+     "dobrá volba také při rekonstrukcích."
     ]
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Zkušenosti z praxe – proč montéři doporučují Expona",
+    "x": "Proč doporučujeme lepené vinylové podlahy",
     "center": false
    },
    {
     "t": "p",
-    "h": "Montážníci, kteří pracují s <strong>vinylovými podlahami Expona</strong>, oceňují jejich přesnost a konzistenci. Dílce se při správné přípravě podkladu nekroutí ani neprohýbají, spáry zůstávají čisté a dekory jsou barevně jednotné. Řada Commercial vyniká svojí stabilitou a odolností i při velké zátěži – podlahu jsme instalovali například v recepcích advokátních kanceláří, hotelových lobby i v kuchyních bister a po letech provozu drží bez problémů. Expona Domestic je zase oblíbená při rekonstrukcích bytů kvůli nízké konstrukční výšce, která minimalizuje stavební zásahy. Zákazníci oceňují možnost vybrat si dekor podle stylu interiéru – od světlého dubu v severském stylu po tmavý kámen do moderní kuchyně.",
+    "h": "U kvalitního lepeného vinylu není důležitý pouze samotný materiál. Velkou roli hraje <strong>správná příprava podkladu a odborná pokládka</strong>.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou celoplošného lepení je především stabilita podlahy. Správně nalepené dílce se neposouvají a podlaha působí pevně a kompaktně. Nízká konstrukční výška navíc umožňuje použití lepeného vinylu v místech, kde není dostatek prostoru pro vyšší plovoucí podlahové systémy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl je také vhodným řešením pro <strong>podlahové vytápění</strong>, protože mezi podlahovou krytinou a připraveným podkladem nevzniká další volná mezivrstva.",
     "center": false
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Doporučení pro zákazníky – na co si dát pozor",
+    "x": "Příprava podkladu pod lepený vinyl Expona",
     "center": false
    },
    {
     "t": "p",
-    "h": "Při výběru vinylové podlahy je klíčových několik faktorů:",
+    "h": "Právě příprava podkladu rozhoduje o tom, jak bude hotová vinylová podlaha vypadat a jak dlouho bude bez problémů sloužit.",
     "center": false
    },
    {
-    "t": "ol",
+    "t": "p",
+    "h": "Podklad musí být především:",
+    "center": false
+   },
+   {
+    "t": "ul",
     "items": [
-     "<strong>Nepodceňujte přípravu podkladu</strong> – pro lepené vinylové dílce Expona je nutný zcela rovný, suchý a pevný podklad. Nerovnosti se mohou projevit v kratší životnosti. V případě potřeby doporučujeme aplikovat samonivelační stěrku nebo použít OSB/Farmacolové desky.",
-     "<strong>Neorientujte se jen podle vzhledu</strong> – Expona nabízí krásné dekory, ale důležité je zohlednit i účel místnosti. Do bytů bez velké zátěže postačí Domestic, do komerčních prostor vyberte Commercial s tlustší nášlapnou vrstvou:contentReference[oaicite:7]{index=7}.",
-     "<strong>Vyberte si správnou povrchovou úpravu</strong> – vinyl s PUR ochrannou vrstvou je snadný na údržbu a odolný proti skvrnám, což ocení rodiny s dětmi nebo domácími mazlíčky.",
-     "<strong>Vsaďte na odbornou pokládku</strong> – kvalitní podlaha vyžaduje zkušené montážníky. Správné lepidlo, přesné rozvržení vzoru a dodržení technologických postupů mají zásadní vliv na výsledný vzhled a životnost podlahy."
+     "rovný,",
+     "pevný,",
+     "suchý,",
+     "čistý,",
+     "soudržný,",
+     "zbavený prachu a dalších nečistot, které by mohly ovlivnit přilnavost lepidla."
     ]
    },
    {
-    "t": "h",
-    "l": 2,
-    "x": "Závěr",
+    "t": "p",
+    "h": "Lepený vinyl je poměrně tenký materiál, a proto dokáže časem zvýraznit nedostatky podkladu. Nerovnosti, přechody, spáry nebo jiné vady se mohou následně projevit i na povrchu hotové podlahy.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Vinylové podlahy <strong>Expona Commercial</strong> a <strong>Expona Domestic</strong> představují špičkové řešení pro komerční i obytné prostory. Kolekce Commercial s nášlapnou vrstvou 0,55 mm poskytuje extrémní odolnost a stabilitu pro hotely, restaurace, kanceláře nebo obchody. Domácí řada Domestic s nášlapnou vrstvou 0,4 mm nabízí realistické dekory a komfortní chůzi pro obývací pokoje, ložnice či kuchyně. Obě kolekce využívají PUR povrchovou úpravu pro snadnou údržbu a estetickou dlouhodobou hodnotu. Při výběru dbejte na kvalitní podklad, vhodnou tloušťku nášlapné vrstvy a profesionální pokládku – jedině tak vám vinylová podlaha Expona bude sloužit mnoho let v perfektním stavu.",
+    "h": "Proto podklad před pokládkou vždy posuzujeme a podle jeho stavu volíme odpovídající technologický postup. V řadě případů je nutné podklad přebrousit, penetrovat a vyrovnat vhodnou samonivelační nebo opravnou stěrkou.",
     "center": false
    },
    {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/06/objectflor-commerecial-white-oak-4037-r.jpg",
-    "alt": "",
-    "w": 1920,
-    "h": 1080,
-    "align": "right"
-   },
-   {
-    "t": "hr"
+    "t": "p",
+    "h": "<strong>Vinylové dílce Expona nepokládáme přímo na OSB nebo Fermacell pouze proto, že jsou desky na pohled rovné.</strong> Deskové podklady vyžadují správnou skladbu a odbornou přípravu tak, aby se spoje desek, jejich pohyb nebo jiné nerovnosti později neprokreslily do vinylové krytiny.",
+    "center": false
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Expona Domestic – elegantní vinyl pro moderní domácnosti",
+    "x": "Expona a podlahové vytápění",
     "center": false
    },
    {
     "t": "p",
-    "h": "Řada Expona Domestic je navržena s ohledem na komfort a estetiku v obytných prostorech. Nabízí kvalitní zpracování, propracované dekory a příjemný pocit při chůzi, a to vše při zachování jednoduché údržby a dlouhé životnosti.",
+    "h": "Díky malé konstrukční výšce a celoplošnému spojení s podkladem jsou lepené vinylové podlahy vhodné také pro použití s podlahovým vytápěním, pokud jsou dodrženy podmínky výrobce podlahy, lepidla a celého podlahového systému.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Tato kolekce využívá nášlapnou vrstvu o tloušťce 0,4 mm, která plně postačuje pro běžnou domácí zátěž. Díky věrné imitaci přírodních materiálů, jako je dřevo nebo kámen, působí podlaha přirozeně a ladí s různými styly interiérů – od minimalistických po rustikální.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Expona Domestic je vhodná pro lepenou i volně pokládanou montáž (v závislosti na podkladu), přičemž vyniká nízkou konstrukční výškou, která umožňuje instalaci i při rekonstrukcích bez nutnosti výrazného zásahu do stávajících vrstev. Je ideální volbou pro obývací pokoje, kuchyně, ložnice nebo dětské pokoje.",
+    "h": "Důležité je zejména správné vyschnutí podkladu, dodržení předepsaných teplot a technologického postupu před pokládkou, během instalace i při následném spuštění vytápění.",
     "center": false
    },
    {
     "t": "h",
-    "l": 3,
-    "x": "Zkušenosti z praxe: Proč máme rádi práci s podlahami Expona",
+    "l": 2,
+    "x": "Zkušenosti s pokládkou podlah Expona",
     "center": false
    },
    {
     "t": "p",
-    "h": "Z pohledu montážníka musím říct, že podlahy Expona patří k těm, se kterými se pracuje opravdu dobře. Při správné přípravě podkladu drží perfektně, nijak se nekroutí, neprohýbají a spáry zůstávají čisté. Nejvíc si cením stálé kvality materiálu – ať už pokládáme vzor dřeva nebo betonu, jednotlivé dílce sedí přesně a barevně jsou konzistentní.",
+    "h": "S vinylovými podlahami Expona máme zkušenosti jak v domácnostech, tak v komerčních prostorách.",
     "center": false
    },
    {
     "t": "p",
-    "h": "U řady Commercial je velké plus její rozměrová stabilita a odolnost při větší zátěži. Tuhle podlahu jsme instalovali třeba do recepce advokátní kanceláře i do kuchyně v bistru – a drží bez problému.",
+    "h": "Z pohledu podlaháře oceňujeme především přesnost jednotlivých dílců, stabilitu materiálu a kvalitní zpracování dekorů. Pokud je správně připravený podklad a dodržen technologický postup lepení, vznikne velmi přesná a stabilní podlaha s čistými spárami.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Naopak Expona Domestic využíváme často při rekonstrukcích bytů. Díky její nízké konstrukční výšce není potřeba složitě upravovat dveře nebo přechody. A zákazníci oceňují, že si můžou vybrat dekor podle stylu bytu – třeba bílý dub do severského interiéru nebo tmavší kámen do moderní kuchyně.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Co doporučuju všem klientům, je nepodcenit přípravu podkladu – hlavně u lepené varianty. Pokud je podklad rovný, pevný a čistý, výsledek je perfektní a podlaha bude sloužit roky bez problémů.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Doporučení pro zákazníky: Na co si dát pozor při výběru vinylové podlahy",
+    "h": "Expona Commercial volíme zejména tam, kde očekáváme vyšší provozní zatížení. Expona Domestic je naopak velmi dobrou volbou pro zákazníky, kteří hledají kvalitní lepený vinyl do bytu nebo rodinného domu a chtějí nízkou konstrukční výšku a široký výběr dekorů.",
     "center": false
    },
    {
     "t": "h",
-    "l": 3,
-    "x": "1. Nepodceňujte podklad",
+    "l": 2,
+    "x": "Na co si dát při výběru lepeného vinylu pozor",
     "center": false
    },
    {
     "t": "p",
-    "h": "Lepené vinylové podlahy, jako jsou Expona Commercial a Domestic, vyžadují naprosto rovný, pevný a suchý podklad. Nerovnosti se po instalaci mohou projevit a zkrátit životnost podlahy. U nás vždy",
+    "h": "<strong>Nevybírejte pouze podle dekoru.</strong> Krásný vzhled je důležitý, ale podlahu je potřeba zvolit také podle zatížení a způsobu využití prostoru.",
     "center": false
    },
    {
     "t": "p",
-    "h": "nejdřív podklad posoudíme a doporučíme ideální řešení – samonivelační stěrku, OSB nebo Farmacolovou desku.",
+    "h": "<strong>Nepodceňujte podklad.</strong> Ani kvalitní vinyl nedokáže napravit špatně připravený podklad. Právě jeho rovinnost, pevnost a zbytková vlhkost mají zásadní vliv na výsledek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "<strong>Dodržujte doporučenou technologii.</strong> Typ penetrace, stěrky a lepidla volíme podle konkrétního podkladu a požadavků výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "<strong>Svěřte pokládku zkušenému podlaháři.</strong> U lepeného vinylu rozhodují detaily – příprava podkladu, rozměření místnosti, založení první řady, množství lepidla, správná doba odvětrání i následné zaválcování podlahy.",
     "center": false
    },
    {
     "t": "h",
-    "l": 3,
-    "x": "2. Nevybírejte jen podle vzhledu",
+    "l": 2,
+    "x": "Expona Commercial nebo Expona Domestic?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Expona nabízí krásné dekory, ale je důležité vybírat také podle účelu místnosti. Do domácností bez vysoké zátěže skvěle poslouží Expona Domestic. Naopak do provozoven, kanceláří nebo frekventovaných chodeb doporučujeme Expona Commercial s vyšší odolností.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "3. Zvažte povrchovou úpravu",
+    "h": "Pro běžný byt nebo rodinný dům je zpravidla dostačující <strong>Expona Domestic s nášlapnou vrstvou 0,4 mm</strong>.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Vinyl s PUR povrchem je snadný na údržbu, odolný proti skvrnám a nevyžaduje žádné voskování. Pro domácnosti s dětmi, domácími mazlíčky nebo do prostor, kde se hodně chodí, je to skvělá volba.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "4. Využijte odbornou montáž",
+    "h": "Do více zatěžovaných prostor, kanceláří, obchodů, restaurací, hotelů a dalších komerčních provozů doporučujeme <strong>Expona Commercial s nášlapnou vrstvou 0,55 mm</strong>.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Kvalitní podlaha si zaslouží i kvalitní pokládku. Správné lepidlo, rozvržení vzoru a důsledné dodržení technologických postupů mají zásadní vliv na výsledný vzhled i životnost podlahy. U nás máte jistotu, že to bude provedeno tak, jak má.",
+    "h": "Samotný výběr podlahy je ale pouze první část realizace. Pro dlouhou životnost lepeného vinylu je stejně důležité správně posoudit stávající podklad, navrhnout jeho přípravu a následně dodržet celý technologický postup pokládky.",
     "center": false
    },
    {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/06/Expona-Commercial-REAL-1.jpg",
-    "alt": "",
-    "w": 2000,
-    "h": 1027,
-    "align": ""
+    "t": "p",
+    "h": "<strong>Podlahy Šťastný – prodej, příprava podkladu a profesionální pokládka vinylových podlah Expona v Praze a okolí.</strong>",
+    "center": false
    }
   ]
  },
