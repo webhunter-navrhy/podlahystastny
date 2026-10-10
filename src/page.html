@@ -33,14 +33,14 @@
         {% include "form.html" %}
       </div>
       {% else %}
-      {% if P.dekory %}<p class="dekrow"><a class="btn btn--line" href="{{ L(P.dekory.href) if P.dekory.href[0] != '#' else P.dekory.href }}">{{ P.dekory.label }} <span class="arr">{{ "↓" if P.dekory.href[0] == "#" else "→" }}</span></a></p>{% endif %}
+      {% if P.dekory %}<p class="dekrow">{% for d in (P.dekory if P.dekory is not mapping else [P.dekory]) %}<a class="btn btn--line" href="{{ L(d.href) if d.href[0] != '#' else d.href }}">{{ d.label }} <span class="arr">{{ "↓" if d.href[0] == "#" else "→" }}</span></a> {% endfor %}</p>{% endif %}
       {% for b in P.blocks %}
         {% if b.t == 'h' %}<h{{ b.l }} class="{{ 'c' if b.center }}"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.x }}</h{{ b.l }}>
         {% elif b.t == 'sub' %}<h3 class="sub"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.h | safe }}</h3>
         {% elif b.t == 'p' %}<p class="{{ 'c' if b.center }}">{{ b.h | safe }}</p>
         {% elif b.t == 'ul' %}<ul class="{{ 'checks checks--ink' if b.check else 'dots' }}">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ul>
         {% elif b.t == 'ol' %}<ol class="nums">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ol>
-        {% elif b.t == 'img' %}{% set m = IM(b.src) %}{% if m %}<figure class="fig {{ 'fig--side' if b.align in ('left','right') and (b.w or m.w) < 900 else 'fig--wide' }}{{ ' fig--small' if (b.w or m.w) < 420 }}"><a href="{{ R }}{{ m.p }}" class="lbx" data-cap="{{ b.cap or b.alt }}">{{ pic(b.src, b.alt or P.title) }}</a>{% if b.cap %}<figcaption>{{ b.cap }}</figcaption>{% endif %}</figure>{% endif %}
+        {% elif b.t == 'img' %}{% set m = IM(b.src) %}{% if m %}<figure class="fig {{ 'fig--side' if b.align in ('left','right') and (b.w or m.w) < 900 else 'fig--wide' }}{{ ' fig--big' if b.big }}{{ ' fig--small' if (b.w or m.w) < 420 }}"><a href="{{ R }}{{ m.p }}" class="lbx" data-cap="{{ b.cap or b.alt }}">{{ pic(b.src, b.alt or P.title) }}</a>{% if b.cap %}<figcaption>{{ b.cap }}</figcaption>{% endif %}</figure>{% endif %}
         {% elif b.t == 'gallery' %}
           {% set named = b['items']|selectattr('title')|list|length > (b['items']|length * 0.6) %}
           <div class="gal {{ 'gal--swatch' if named else 'gal--photo' }}">

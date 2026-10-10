@@ -363,6 +363,8 @@ a:hover .arr{transform:translateX(5px)}
 .fig img{border-radius:4px;width:100%}
 .fig--side{float:right;width:42%;margin:.4rem 0 1.4rem 2rem}
 .fig--small{width:min(220px,40%)}
+.fig--side.fig--big{width:58%}
+.dekrow .btn{margin:0 .5rem .5rem 0}
 .fig figcaption{font-size:.8rem;color:var(--muted);margin-top:.5rem}
 .prose h2,.prose .gal,.prose .cards,.prose .tbl,.prose .form,.prose hr{clear:both}
 .gal{display:grid;gap:10px;margin:1.4rem 0 2.4rem}

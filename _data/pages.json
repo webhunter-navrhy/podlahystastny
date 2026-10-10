@@ -15374,7 +15374,8 @@
     "alt": "",
     "w": 370,
     "h": 384,
-    "align": "right"
+    "align": "right",
+    "big": true
    },
    {
     "t": "h",
@@ -15844,6 +15845,605 @@
    {
     "t": "p",
     "h": "Dřevěnou podlahu je dobré vidět na fotografii. Ještě lepší je ale vzít ji do ruky, vidět skutečnou kresbu dřeva a porovnat několik prken vedle sebe.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Hybridní podlahy Barlinek Smart Wood",
+    "center": false,
+    "anchor": "hybridni"
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Voděodolná dřevěná podlaha, která dává smysl",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná podlaha je krásná, nadčasová a příjemná na dotek. Má ale jednu slabinu – vodu. A právě to je důvod, proč vznikly hybridní podlahy Smart Wood od Barlinek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spojují v sobě to nejlepší z obou světů:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "přirozený vzhled pravého dřeva",
+     "vysokou odolnost moderních materiálů",
+     "a hlavně voděodolnost, kterou u klasické dřevěné podlahy nenajdete"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Co je vlastně Smart Wood?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Smart Wood je hybridní podlaha s pravou dřevěnou nášlapnou vrstvou, která je doplněná o moderní konstrukci odolnou vůči vlhkosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na první pohled i dotek je to poctivé dřevo, ale uvnitř se skrývá technologie, která řeší jeho největší slabiny.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Futuris-Esthetic-Klasicky-Stromecek-91-1-1024x1024.webp",
+    "alt": "Hybridní podlaha Barlinek Smart Wood",
+    "w": 1024,
+    "h": 1024,
+    "align": ""
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Výsledek? Podlaha, která vypadá jako dřevo, ale chová se mnohem praktičtěji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hlavní výhody, které dávají smysl v reálném životě",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Voděodolnost",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Smart Wood zvládne běžný provoz v domácnosti bez stresu. Rozlitá voda, mokré boty nebo kuchyňský provoz už nejsou problém.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Ideální řešení pro:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "kuchyně",
+     "chodby",
+     "obývací prostory",
+     "rodiny s dětmi nebo domácími mazlíčky"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Pravý dřevěný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na rozdíl od vinylu nebo laminátu se díváte i chodíte po skutečném dřevě.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "autentická kresba",
+     "příjemný teplý pocit na dotek",
+     "přirozený vzhled bez „plastového efektu“"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Vysoká stabilita",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Díky konstrukci je podlaha:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "méně citlivá na změny vlhkosti",
+     "stabilní i při větších plochách",
+     "vhodná i pro podlahové vytápění"
+    ]
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Revona-Origin-interer.webp",
+    "alt": "Hybridní podlaha Barlinek Smart Wood",
+    "w": 702,
+    "h": 725,
+    "align": ""
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Odolnost pro každodenní život",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle není podlaha „na okrasu“.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Je dělaná tak, aby:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "vydržela běžný provoz domácnosti",
+     "nebyla citlivá na každou chybu",
+     "sloužila dlouhodobě bez zbytečných starostí"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Pro koho je Smart Wood ideální?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro lidi, kteří chtějí dřevo, ale nechtějí řešit jeho slabiny Pro rodiny, kde podlaha opravdu žije Pro zákazníky, kteří hledají vyšší standard než vinyl, ale praktičtější řešení než klasický masiv.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Harmon-Esthetic-interer.webp",
+    "alt": "Hybridní podlaha Barlinek Smart Wood",
+    "w": 702,
+    "h": 725,
+    "align": ""
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Smart Wood vs. vinyl nebo SPC podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý materiál má svoje místo – a my to říkáme narovinu.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Vinyl (např. Floorify) → maximální odolnost, jednoduchost",
+     "SPC podlahy → pevné, stabilní, cenově dostupné",
+     "Smart Wood → kompromis mezi krásou dřeva a praktičností"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Pokud chceš pocit dřeva, Smart Wood dává mnohem větší smysl než imitace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležité: Podlaha je jen polovina výsledku",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeš mít tu nejlepší podlahu na trhu… ale špatná pokládka ji spolehlivě zničí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Proto u nás nejde jen o prodej.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "poradíme s výběrem",
+     "připravíme podklad",
+     "podlahu precizně položíme",
+     "doladíme detaily, které dělají rozdíl"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Jsme řemeslníci, ne krabicový prodejci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přijď si podlahu opravdu vyzkoušet",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu si nevybereš z katalogu. Musíš si na ni sáhnout, projít se po ní a vidět ji naživo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahové studio Šťastný – Praha, Vinohrady nezávazná schůzka reálné vzorky odborné vysvětlení bez tlaku",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Shrnutí",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Hybridní podlahy Smart Wood od Barlinek jsou ideální volba pro každého, kdo:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "chce pravé dřevo",
+     "potřebuje vyšší odolnost",
+     "nechce dělat kompromis mezi vzhledem a praktičností"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Chceš vědět, jestli je Smart Wood vhodný právě pro tebe?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ozvi se nám nebo se zastav ve studiu Slavíkova 29, Praha 2 Rádi ti ukážeme rozdíly naživo – a to je vždycky víc než tisíc slov.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Hybridní podlahy Praha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo, které vydrží víc než jen hezký první dojem",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hybridní podlahy představují moderní řešení pro všechny, kteří chtějí přirozený vzhled dřeva, ale bez jeho slabin. Nejde o imitaci – jde o technologicky vylepšenou podlahu, která je připravená na reálný život.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V našem studiu v Praze vám ukážeme, jaký je rozdíl mezi klasickým dřevem, vinylem a hybridní podlahou – naživo, ne z katalogu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Co jsou hybridní podlahy a proč dávají smysl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hybridní podlaha kombinuje pravý dřevěný povrch s odolným jádrem, které zajišťuje vyšší stabilitu a odolnost vůči vlhkosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "To znamená, že získáte:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "vzhled a pocit skutečného dřeva",
+     "vyšší odolnost proti vodě",
+     "menší citlivost na změny prostředí"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Výsledek je podlaha, která dobře vypadá a zároveň funguje v každodenním provozu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Hybridní podlaha do bytu i domu v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý byt i dům má jiné podmínky – a právě proto hybridní podlahy dávají velký smysl hlavně ve městě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Ideální využití:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "byty v činžovních domech",
+     "novostavby s podlahovým vytápěním",
+     "rekonstrukce starších bytů",
+     "rodinné domy s vysokým provozem"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "V Praze často řešíme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "nerovné podklady",
+     "kombinaci místností (kuchyň + obývák)",
+     "vyšší vlhkost v interiéru"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Hybridní podlahy tyhle situace zvládají výrazně lépe než klasické dřevo.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Výhody, které oceníš až při používání",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Odolnost proti vlhkosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žádný stres z rozlité vody nebo běžného provozu domácnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Stabilní konstrukce",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha drží tvar a nepracuje tolik jako klasické dřevo.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Přirozený vzhled",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to plast. Je to dřevo, které má charakter.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Komfort při chůzi",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teplý a příjemný povrch – přesně to, co od podlahy očekáváš.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proč nestačí jen vybrat podlahu",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Tohle je zásadní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "80 % problémů s podlahou nevzniká materiálem, ale pokládkou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Proto u nás:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "neprodáváme krabice",
+     "ale řešíme podlahu jako celek"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     "kontrola a příprava podkladu",
+     "doporučení správného systému pokládky"
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     "precizní montáž bez kompromisů",
+     "detaily, které běžně nikdo neřeší – ale jsou vidět"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Děláme podlahy tak, aby vydržely roky, ne jen do předání zakázky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hybridní podlahy vs. ostatní řešení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na rovinu – každý materiál má své místo.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Laminát → levné řešení, ale citlivé na vodu",
+     "Vinyl / SPC → odolné, ale bez pocitu dřeva",
+     "Masivní dřevo → krásné, ale náročné na údržbu"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Hybridní podlaha je ideální kompromis: dřevo + odolnost + stabilita",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahové studio Praha – vyber si naživo",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Fotka nikdy neřekne všechno. Podlahu musíš vidět, osahat a projít se po ní.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Podlahové studio Šťastný – Praha (Vinohrady)",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "U nás:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "uvidíš reálné vzorky",
+     "vysvětlíme rozdíly bez marketingových keců",
+     "poradíme podle tvého prostoru, ne podle katalogu"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Schůzka je nezávazná. Jen přijdeš a uvidíš rozdíl.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Kolik stojí hybridní podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Cena se vždy odvíjí od:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "typu podlahy",
+     "stavu podkladu",
+     "rozsahu pokládky"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Proto děláme nabídky vždy na míru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale platí jedno: dobře udělaná podlaha je levnější než špatná, kterou budeš za pár let řešit znovu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Realizace hybridních podlah v Praze a okolí",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Provádíme kompletní realizace:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Praha a okolí",
+     "byty, domy i komerční prostory"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Od zaměření až po finální detail.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chceš podlahu, která dává smysl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ozvi se nám nebo se zastav ve studiu. Ukážeme ti rozdíly, které na internetu neuvidíš.",
     "center": false
    },
    {
@@ -16471,8 +17071,9 @@
    {
     "t": "h",
     "l": 3,
-    "x": "Barlinek parkety",
-    "center": false
+    "x": "Barlinek Rybí kost a chevron",
+    "center": false,
+    "anchor": "rybi-kost"
    },
    {
     "t": "p",
@@ -16634,10 +17235,16 @@
     "center": false
    }
   ],
-  "dekory": {
-   "href": "#dekory",
-   "label": "Dekory Podlahy Barlinek"
-  }
+  "dekory": [
+   {
+    "href": "#dekory",
+    "label": "Barlinek – dřevěné třívrstvé podlahy a její dekory"
+   },
+   {
+    "href": "#rybi-kost",
+    "label": "Barlinek Rybí kost a chevron Dekory"
+   }
+  ]
  },
  {
   "id": 4504,
@@ -25132,610 +25739,6 @@
    },
    {
     "t": "form"
-   }
-  ]
- },
- {
-  "id": "hybrid1",
-  "parent": "4830",
-  "order": "10",
-  "path": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/hybridni-podlahy-smart-wood/",
-  "title": "Hybridní podlahy Smart Wood",
-  "seo_title": "Hybridní podlahy Barlinek Smart Wood - Podlahy Šťastný",
-  "description": "Hybridní podlahy Barlinek Smart Wood: pravé dřevo s voděodolnou konstrukcí, vhodné i pro podlahové vytápění. Pro koho jsou ideální a jak se liší od vinylu a SPC.",
-  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
-  "blocks": [
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Voděodolná dřevěná podlaha, která dává smysl",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěná podlaha je krásná, nadčasová a příjemná na dotek. Má ale jednu slabinu – vodu. A právě to je důvod, proč vznikly hybridní podlahy Smart Wood od Barlinek.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Spojují v sobě to nejlepší z obou světů:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "přirozený vzhled pravého dřeva",
-     "vysokou odolnost moderních materiálů",
-     "a hlavně voděodolnost, kterou u klasické dřevěné podlahy nenajdete"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Co je vlastně Smart Wood?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Smart Wood je hybridní podlaha s pravou dřevěnou nášlapnou vrstvou, která je doplněná o moderní konstrukci odolnou vůči vlhkosti.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Na první pohled i dotek je to poctivé dřevo, ale uvnitř se skrývá technologie, která řeší jeho největší slabiny.",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Futuris-Esthetic-Klasicky-Stromecek-91-1-1024x1024.webp",
-    "alt": "Hybridní podlaha Barlinek Smart Wood",
-    "w": 1024,
-    "h": 1024,
-    "align": ""
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Výsledek? Podlaha, která vypadá jako dřevo, ale chová se mnohem praktičtěji.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Hlavní výhody, které dávají smysl v reálném životě",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Voděodolnost",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Smart Wood zvládne běžný provoz v domácnosti bez stresu. Rozlitá voda, mokré boty nebo kuchyňský provoz už nejsou problém.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Ideální řešení pro:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "kuchyně",
-     "chodby",
-     "obývací prostory",
-     "rodiny s dětmi nebo domácími mazlíčky"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Pravý dřevěný povrch",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Na rozdíl od vinylu nebo laminátu se díváte i chodíte po skutečném dřevě.",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "autentická kresba",
-     "příjemný teplý pocit na dotek",
-     "přirozený vzhled bez „plastového efektu“"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Vysoká stabilita",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Díky konstrukci je podlaha:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "méně citlivá na změny vlhkosti",
-     "stabilní i při větších plochách",
-     "vhodná i pro podlahové vytápění"
-    ]
-   },
-   {
-    "t": "img",
-    "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Revona-Origin-interer.webp",
-    "alt": "Hybridní podlaha Barlinek Smart Wood",
-    "w": 702,
-    "h": 725,
-    "align": ""
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Odolnost pro každodenní život",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Tohle není podlaha „na okrasu“.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Je dělaná tak, aby:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "vydržela běžný provoz domácnosti",
-     "nebyla citlivá na každou chybu",
-     "sloužila dlouhodobě bez zbytečných starostí"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Pro koho je Smart Wood ideální?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pro lidi, kteří chtějí dřevo, ale nechtějí řešit jeho slabiny Pro rodiny, kde podlaha opravdu žije Pro zákazníky, kteří hledají vyšší standard než vinyl, ale praktičtější řešení než klasický masiv.",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Harmon-Esthetic-interer.webp",
-    "alt": "Hybridní podlaha Barlinek Smart Wood",
-    "w": 702,
-    "h": 725,
-    "align": ""
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Smart Wood vs. vinyl nebo SPC podlaha",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Každý materiál má svoje místo – a my to říkáme narovinu.",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Vinyl (např. Floorify) → maximální odolnost, jednoduchost",
-     "SPC podlahy → pevné, stabilní, cenově dostupné",
-     "Smart Wood → kompromis mezi krásou dřeva a praktičností"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Pokud chceš pocit dřeva, Smart Wood dává mnohem větší smysl než imitace.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Důležité: Podlaha je jen polovina výsledku",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Můžeš mít tu nejlepší podlahu na trhu… ale špatná pokládka ji spolehlivě zničí.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Proto u nás nejde jen o prodej.",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "poradíme s výběrem",
-     "připravíme podklad",
-     "podlahu precizně položíme",
-     "doladíme detaily, které dělají rozdíl"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Jsme řemeslníci, ne krabicový prodejci.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Přijď si podlahu opravdu vyzkoušet",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podlahu si nevybereš z katalogu. Musíš si na ni sáhnout, projít se po ní a vidět ji naživo.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podlahové studio Šťastný – Praha, Vinohrady nezávazná schůzka reálné vzorky odborné vysvětlení bez tlaku",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Shrnutí",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Hybridní podlahy Smart Wood od Barlinek jsou ideální volba pro každého, kdo:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "chce pravé dřevo",
-     "potřebuje vyšší odolnost",
-     "nechce dělat kompromis mezi vzhledem a praktičností"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Chceš vědět, jestli je Smart Wood vhodný právě pro tebe?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Ozvi se nám nebo se zastav ve studiu Slavíkova 29, Praha 2 Rádi ti ukážeme rozdíly naživo – a to je vždycky víc než tisíc slov.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Hybridní podlahy Praha",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevo, které vydrží víc než jen hezký první dojem",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Hybridní podlahy představují moderní řešení pro všechny, kteří chtějí přirozený vzhled dřeva, ale bez jeho slabin. Nejde o imitaci – jde o technologicky vylepšenou podlahu, která je připravená na reálný život.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "V našem studiu v Praze vám ukážeme, jaký je rozdíl mezi klasickým dřevem, vinylem a hybridní podlahou – naživo, ne z katalogu.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Co jsou hybridní podlahy a proč dávají smysl?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Hybridní podlaha kombinuje pravý dřevěný povrch s odolným jádrem, které zajišťuje vyšší stabilitu a odolnost vůči vlhkosti.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "To znamená, že získáte:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "vzhled a pocit skutečného dřeva",
-     "vyšší odolnost proti vodě",
-     "menší citlivost na změny prostředí"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Výsledek je podlaha, která dobře vypadá a zároveň funguje v každodenním provozu.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Hybridní podlaha do bytu i domu v Praze",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Každý byt i dům má jiné podmínky – a právě proto hybridní podlahy dávají velký smysl hlavně ve městě.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Ideální využití:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "byty v činžovních domech",
-     "novostavby s podlahovým vytápěním",
-     "rekonstrukce starších bytů",
-     "rodinné domy s vysokým provozem"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "V Praze často řešíme:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "nerovné podklady",
-     "kombinaci místností (kuchyň + obývák)",
-     "vyšší vlhkost v interiéru"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Hybridní podlahy tyhle situace zvládají výrazně lépe než klasické dřevo.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Výhody, které oceníš až při používání",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Odolnost proti vlhkosti",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Žádný stres z rozlité vody nebo běžného provozu domácnosti.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Stabilní konstrukce",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podlaha drží tvar a nepracuje tolik jako klasické dřevo.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Přirozený vzhled",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Není to plast. Je to dřevo, které má charakter.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Komfort při chůzi",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Teplý a příjemný povrch – přesně to, co od podlahy očekáváš.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Proč nestačí jen vybrat podlahu",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Tohle je zásadní.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "80 % problémů s podlahou nevzniká materiálem, ale pokládkou.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Proto u nás:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "neprodáváme krabice",
-     "ale řešíme podlahu jako celek"
-    ]
-   },
-   {
-    "t": "ul",
-    "items": [
-     "kontrola a příprava podkladu",
-     "doporučení správného systému pokládky"
-    ]
-   },
-   {
-    "t": "ul",
-    "items": [
-     "precizní montáž bez kompromisů",
-     "detaily, které běžně nikdo neřeší – ale jsou vidět"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Děláme podlahy tak, aby vydržely roky, ne jen do předání zakázky.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Hybridní podlahy vs. ostatní řešení",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Na rovinu – každý materiál má své místo.",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Laminát → levné řešení, ale citlivé na vodu",
-     "Vinyl / SPC → odolné, ale bez pocitu dřeva",
-     "Masivní dřevo → krásné, ale náročné na údržbu"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Hybridní podlaha je ideální kompromis: dřevo + odolnost + stabilita",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podlahové studio Praha – vyber si naživo",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Fotka nikdy neřekne všechno. Podlahu musíš vidět, osahat a projít se po ní.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Podlahové studio Šťastný – Praha (Vinohrady)",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "U nás:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "uvidíš reálné vzorky",
-     "vysvětlíme rozdíly bez marketingových keců",
-     "poradíme podle tvého prostoru, ne podle katalogu"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Schůzka je nezávazná. Jen přijdeš a uvidíš rozdíl.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Kolik stojí hybridní podlaha?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Cena se vždy odvíjí od:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "typu podlahy",
-     "stavu podkladu",
-     "rozsahu pokládky"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Proto děláme nabídky vždy na míru.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Ale platí jedno: dobře udělaná podlaha je levnější než špatná, kterou budeš za pár let řešit znovu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Realizace hybridních podlah v Praze a okolí",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Provádíme kompletní realizace:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Praha a okolí",
-     "byty, domy i komerční prostory"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Od zaměření až po finální detail.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Chceš podlahu, která dává smysl?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Ozvi se nám nebo se zastav ve studiu. Ukážeme ti rozdíly, které na internetu neuvidíš.",
-    "center": false
    }
   ]
  }
