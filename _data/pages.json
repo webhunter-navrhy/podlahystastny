@@ -21,6 +21,20 @@
     "center": false
    },
    {
+    "t": "sub",
+    "h": "Charakteristika"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Broušená struktura povrchu",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "Široká škála třídění",
+     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
+    ],
+    "esco": true
+   },
+   {
     "t": "gallery",
     "items": [
      {
@@ -55,6 +69,20 @@
     "t": "p",
     "h": "Kolonial zachycuje kouzlo dubového dřeva, které je zvýrazněno kartáčovaným povrchem. Ten zdůrazňuje texturu dubu a zároveň zvýrazňuje vlákna dřeva. U Kolonialu se můžete rozhodnout pro libovolné třídění, takže záleží jen na vás, zda se do vašeho prostoru lépe hodí rustikálnější nebo čistší vzhled dřeva.",
     "center": false
+   },
+   {
+    "t": "sub",
+    "h": "Charakteristika"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Kartáčovaná povrchová struktura",
+     "Široká škála třídění",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
+    ],
+    "esco": true
    },
    {
     "t": "gallery",
@@ -111,6 +139,20 @@
     "t": "p",
     "h": "Soft Tone oživuje decentní vzhled interiérů. Široká nabídka barev a lehce kartáčovaný povrch zdůrazňují autenticitu. Podtrhněte ji volbou rustikálního třídění s výraznými suky nebo se nechte okouzlit klidnějším vzhledem. Můžete se ale i rozhodnout pro něco mezi tím.",
     "center": false
+   },
+   {
+    "t": "sub",
+    "h": "Charakteristika"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Lehce kartáčovaná struktura povrchu",
+     "Úplná škála třídění",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
+    ],
+    "esco": true
    },
    {
     "t": "gallery",
@@ -187,6 +229,20 @@
     "t": "p",
     "h": "U kolekce Harfa Vintage se naplno projevuje syrová krása dubu. Tuto kolekci odlišuje efekt příčného katrování, jehož výsledkem je podlaha s jedinečným vzorem. Ponořte svůj interiér zcela do vintage atmosféry, která je k dispozici ve třech nadčasových odstínech.",
     "center": false
+   },
+   {
+    "t": "sub",
+    "h": "Charakteristika"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Kartáčovaná a nepravidelně katrovaná struktura povrchu",
+     "Úplná škála třídění",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
+    ],
+    "esco": true
    },
    {
     "t": "gallery",
@@ -3853,29 +3909,31 @@
   "order": 0,
   "path": "/akcni-nabidka-podlah/",
   "title": "Akční nabídka podlah",
-  "seo_title": "Akční nabídka podlah - Podlahy Šťastný",
-  "description": "Nepromeškejte jedinečnou akci na vinylové podlahy na různé kolekce. Váš domov si zaslouží tu nejlepší péči a my vám ji teď přinášíme za skvělé ceny! Vše pro vaši krásnou novou podlahu. Vinylové podlahy v akci. V současné době nabízíme vinylové dekory v lepené i zámkové variantě. Akční cena na tyto dekory je 660 Kč bez",
+  "seo_title": "Vinylové podlahy v akci – 660 Kč/m² bez DPH | Podlahy Šťastný",
+  "description": "Akční vinylové podlahy za 660 Kč bez DPH za m². Dekory Dub v lepené i zámkové variantě. Podlahové studio Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "p",
-    "h": "Nepromeškejte jedinečnou akci na <em>vinylové podlahy</em> na různé kolekce.",
+    "t": "h",
+    "l": 2,
+    "x": "Vinylové podlahy v akci – 660 Kč bez DPH za m²",
     "center": true
    },
    {
     "t": "p",
-    "h": "Váš domov si zaslouží tu nejlepší péči a my vám ji teď přinášíme za skvělé ceny! Vše pro vaši krásnou novou <em>podlahu</em>.",
+    "h": "Nepromeškejte akci na <strong>vinylové podlahy</strong>. Vybrané dekory v lepené i zámkové variantě nabízíme za akční cenu <strong>660 Kč bez DPH za m²</strong>.",
     "center": true
    },
    {
-    "t": "p",
-    "h": "<em>Vinylové podlahy v akci</em>. V současné době nabízíme vinylové dekory v lepené i zámkové variantě.",
-    "center": true
+    "t": "h",
+    "l": 2,
+    "x": "Které vinylové podlahy jsou v akci",
+    "center": false
    },
    {
     "t": "p",
-    "h": "Akční cena na tyto dekory je <strong>660 Kč</strong> <strong>bez DPH m2</strong>",
-    "center": true
+    "h": "Akce platí na dekory z kolekce Dub, které vidíte níže: Dub Sand, Dub Gold, Dub Desert, Dub Cream, Dub Silk, Dub Peach, Dub Ginger, Dub Balsamico a Dub Arctic. Dostupné jsou v <strong>lepené</strong> i <strong>zámkové</strong> variantě.",
+    "center": false
    },
    {
     "t": "gallery",
@@ -3931,6 +3989,28 @@
       "desc": ""
      }
     ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Lepený, nebo zámkový vinyl? Pomůžeme s výběrem",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každá varianta se hodí do trochu jiného prostoru. Rozdíly jsme sepsali na stránce <a href=\"@/rozdil-mezi-vinylama-lepeny-rigidni-a-hdf-deska/\">Rozdíl mezi vinylovými podlahami</a>. Více o jednotlivých řešeních najdete také u <a href=\"@/podlahy-vinylove/vinylove-podlahy-lepene/\">lepených vinylových podlah</a>, <a href=\"@/podlahy-vinylove/celovinylove-podlahy/\">rigidních vinylových podlah</a> a <a href=\"@/podlahy-vinylove/vinylove-plovouci-podlahy/\">vinylových podlah na HDF desce</a>.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jak si akční podlahu objednat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Napište nám přes <a href=\"@/cenova-kalkulace/\">nezávaznou poptávku</a> nebo využijte <a href=\"@/kontakt/\">kontakty na podlahové studio</a>. Poradíme s výběrem dekoru i s pokládkou. Jak o novou podlahu později pečovat, najdete v rubrice <a href=\"@/pece-o-podlahu/\">Péče o podlahu</a>.",
+    "center": false
    }
   ]
  },
