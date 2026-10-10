@@ -23260,13 +23260,13 @@
   "path": "/laminatove-podlahy-menu/",
   "title": "Laminátové podlahy",
   "seo_title": "Laminátové podlahy - Podlahy Šťastný",
-  "description": "Laminátové podlahy patří k velice oblíbeným podlahám. Pokud jste se rozhodli pro tento druh podlahy, v naší nabídce si vyberete z mnoha druhů za skvělou cenu.",
+  "description": "Laminátové podlahy: odolnost, třídy AC, voda, podlahové topení, podložka a odborná pokládka v Praze. Podlahy Šťastný.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
     "t": "h",
     "l": 2,
-    "x": "Laminátové podlahy : Elegantní a praktické řešení pro váš interiér",
+    "x": "Laminátové podlahy – moderní podlaha, která už dávno není jen levnou imitací dřeva",
     "center": false
    },
    {
@@ -23287,11 +23287,6 @@
     ]
    },
    {
-    "t": "p",
-    "h": "Laminátové podlahy patří mezi nejvyhledávanější podlahové krytiny díky svému atraktivnímu vzhledu, trvanlivosti a příznivé ceně. Jsou vhodné do různých typů interiérů a nabízejí skvělý poměr mezi kvalitou a cenou.",
-    "center": false
-   },
-   {
     "t": "img",
     "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/05/sunset-alsafloor-solid-medium-original.jpg",
     "alt": "",
@@ -23301,91 +23296,401 @@
    },
    {
     "t": "p",
-    "h": "<strong>Hlavní výhody laminátových podlah</strong>",
+    "h": "Laminátové podlahy se za poslední roky výrazně změnily. Z jednoduché podlahové krytiny, kterou si většina lidí vybavuje především jako levnější náhradu dřeva, se stala technicky propracovaná podlaha s vysokou odolností, přesnými zámkovými spoji a dekory, které dokážou na první pohled velmi věrně napodobit skutečné dřevo.",
     "center": false
    },
    {
     "t": "p",
-    "h": "1. Vysoká odolnost a dlouhá životnost",
+    "h": "Právě kombinace odolnosti, jednoduché údržby, velkého výběru dekorů a rozumné ceny dělá z kvalitního laminátu stále zajímavou volbu do bytů, rodinných domů i komerčních prostor.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Díky vícevrstvé konstrukci jsou laminátové podlahy mimořádně odolné vůči opotřebení, škrábancům a vlhkosti. Kvalitní modely mohou vydržet desítky let bez viditelných známek poškození.",
+    "h": "Ne každý laminát je ale stejný. Rozdíly mezi jednotlivými podlahami mohou být výrazné – nejen v ceně, ale především v kvalitě nosné desky, zámku, povrchu, odolnosti proti vodě a celkové životnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Z čeho se laminátová podlaha vyrábí?",
     "center": false
    },
    {
     "t": "p",
-    "h": "2. Jednoduchá údržba",
+    "h": "Laminát není plastová ani vinylová podlaha. Jeho konstrukce je úplně jiná.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Laminátové podlahy se snadno čistí díky hladkému povrchu, který neabsorbuje nečistoty. Pravidelné vysávání a občasné vytření vlhkým hadříkem pomáhá udržet jejich krásný vzhled.",
+    "h": "Základem kvalitní laminátové podlahy je zpravidla HDF nosná deska s vysokou hustotou, která podlaze dodává pevnost a stabilitu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "3. Široký výběr designů",
+    "h": "Na ní se nachází dekorativní vrstva s kresbou dřeva, kamene nebo jiného materiálu a vrchní transparentní ochranná vrstva, která chrání povrch proti běžnému opotřebení.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Dostupné jsou v mnoha designech a dekorech imitujících přírodní dřevo, kámen nebo dlažbu. Díky tomu lze snadno najít variantu, která harmonicky doplní váš interiér.",
+    "h": "Ze spodní strany je konstrukce doplněna stabilizační vrstvou.",
     "center": false
    },
    {
     "t": "p",
-    "h": "4. Snadná instalace",
+    "h": "Výsledné vlastnosti proto neurčuje pouze tloušťka podlahy. Velkou roli hraje kvalita HDF desky, zámkového spoje a především odolnost povrchu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Laminát, který opravdu vypadá jako dřevo",
     "center": false
    },
    {
     "t": "p",
-    "h": "Systém click spojů umožňuje rychlou a jednoduchou pokládku bez nutnosti použití lepidla či speciálního nářadí, což usnadňuje instalaci i svépomocí.",
+    "h": "Právě vzhled je oblast, ve které udělaly moderní laminátové podlahy obrovský krok dopředu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "5. Ekonomická výhodnost",
+    "h": "U kvalitních kolekcí už nejde jen o fotografii dubu vytištěnou na podlaze. Výrobci pracují s matnými povrchy, strukturou pórů, zvýrazněním suků, mikrospárami a různými formáty lamel.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Jak vybrat správnou laminátovou podlahu?</strong>",
+    "h": "U některých podlah struktura povrchu dokonce navazuje na kresbu konkrétního dekoru. Když na obrázku vidíte suk nebo letokruh, můžete jeho strukturu vnímat také na dotek.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Při výběru laminátové podlahy je vhodné zvážit několik klíčových faktorů:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Tloušťka materiálu – Standardní rozmezí je 6 až 12 mm. Silnější podlahy jsou odolnější vůči zatížení.",
-     "Třída odolnosti – Laminátové podlahy se dělí do kategorií podle odolnosti (např. AC3, AC4, AC5), což pomáhá určit jejich vhodnost pro konkrétní prostory.",
-     "Voděodolnost – Do místností s vyšší vlhkostí, jako jsou koupelny nebo kuchyně, se doporučují speciální voděodolné varianty."
-    ],
-    "auto": true,
-    "check": false
-   },
-   {
-    "t": "p",
-    "h": "<strong>Závěr</strong>",
+    "h": "Výsledkem může být podlaha, kterou na první pohled není jednoduché od skutečného dřeva rozeznat.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Laminátové podlahy představují praktické, stylové a cenově dostupné řešení pro každý domov. Díky široké nabídce dekorů a jednoduché údržbě jsou ideální volbou pro moderní bydlení. Při správném výběru a péči vám budou sloužit dlouhá léta.",
+    "h": "Rozdíl ale zůstává zásadní: laminát není dřevo a nesnažíme se tvrdit opak. Je to samostatný typ podlahy, jehož předností je především odolný povrch a jednoduchá údržba.",
     "center": false
    },
    {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wordpress/wp-content/uploads/23.jpg",
-    "alt": "",
-    "w": null,
-    "h": null,
-    "align": "right"
+    "t": "h",
+    "l": 2,
+    "x": "Odolnost laminátové podlahy – třída použití a AC nejsou totéž",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při výběru laminátu se často setkáte s označením AC4, AC5 nebo AC6 a zároveň například s třídou použití 31, 32 nebo 33.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tyto údaje není správné zaměňovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "AC třída popisuje odolnost povrchové vrstvy proti oděru, zatímco třída použití hodnotí podlahu z širšího pohledu a určuje, pro jak intenzivní provoz je určena.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do běžného bytu proto není vždy nutné automaticky kupovat podlahu s nejvyšším číslem na obalu. Mnohem důležitější je vybrat podlahu odpovídající konkrétnímu prostoru a způsobu jeho používání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiné požadavky má ložnice a jiné vstupní chodba, kancelář nebo obchodní prostor.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Je silnější laminát automaticky lepší?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Laminátové podlahy se vyrábějí v různých tloušťkách, ale samotná tloušťka ještě neurčuje jejich kvalitu ani odolnost povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní podlaha musí fungovat jako celek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitá je hustota a kvalita nosné desky, pevnost zámkového spoje, povrchová odolnost, přesnost výroby a vhodnost pro konkrétní zatížení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Silnější podlaha může mít své výhody například z hlediska konstrukce nebo pevnosti spoje, ale tvrzení „čím silnější laminát, tím kvalitnější“ jednoduše neplatí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Laminát a voda – tady je potřeba rozlišovat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedním z největších rozdílů mezi jednotlivými laminátovými podlahami je jejich chování při kontaktu s vodou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nosnou část laminátu tvoří HDF deska, která je na dlouhodobé působení vody citlivá. Moderní výrobci proto používají upravené nosné desky, impregnované hrany a speciální konstrukce zámků, které dokážou odolnost proti proniknutí vody výrazně zlepšit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U vybraných kolekcí výrobci deklarují voděodolnost po určitou dobu a za přesně stanovených podmínek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že můžeme každý laminát označit za vodotěsnou podlahu nebo náhradu hydroizolace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud vybíráme laminát do kuchyně, vstupní chodby nebo jiného prostoru s vyšším rizikem kontaktu s vodou, vždy kontrolujeme parametry konkrétní kolekce a podmínky výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Laminátová podlaha na podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Řada moderních laminátových podlah je vhodná také pro podlahové vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitý ale není pouze samotný laminát. Posuzuje se tepelný odpor celé skladby včetně podložky a musí být dodrženy teplotní podmínky stanovené výrobcem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě volba podložky může mít na fungování podlahového vytápění poměrně velký vliv.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto při výběru doporučujeme řešit laminát a podložku jako jeden systém, nikoli jako dvě nezávislé položky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Podložka pod laminát není jen kus pěny",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podložce se někdy při výběru věnuje překvapivě málo pozornosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přitom ovlivňuje akustiku, zatížení zámkových spojů, chování podlahy při chůzi i tepelný odpor celé skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jinou podložku můžeme potřebovat do bytu, kde řešíme kročejový hluk, a jinou nad podlahové vytápění, kde chceme naopak co nejméně bránit průchodu tepla.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdražší nebo nejtlustší podložka proto automaticky není nejlepší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí odpovídat konkrétní podlaze a způsobu použití.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Ani laminát nevyrovná křivý podklad",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další častou chybou je představa, že podložka pod plovoucí podlahou vyřeší nerovnosti podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nevyřeší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí být před pokládkou dostatečně rovný, pevný, stabilní, čistý a suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud má podlaha pod sebou výraznější nerovnosti, při chůzi se pohybuje a dochází k nadměrnému namáhání zámkových spojů. Časem se mohou objevit spáry, vrzání nebo poškození spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto i u laminátové podlahy začíná kvalitní realizace kontrolou podkladu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Plovoucí pokládka a click systém",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Laminátové podlahy se nejčastěji instalují plovoucím způsobem pomocí zámkových spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé lamely nejsou pevně přilepené k podkladu, ale vytvářejí společnou plochu uloženou na vhodné podložce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moderní click systémy umožňují rychlou a přesnou montáž. To ale neznamená, že profesionální pokládka spočívá pouze v „naklikání prken“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je potřeba správně vyřešit dilatace, návaznosti mezi místnostmi, dveře a zárubně, přechody, soklové lišty a maximální rozměry souvislé plochy podle konkrétního výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě detaily často rozhodují o tom, jak bude hotová podlaha vypadat a fungovat za několik let.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Laminát, vinyl, nebo dřevěná podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na tuto otázku neexistuje jedna správná odpověď.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Laminát nabízí velmi odolný povrch, velký výběr dekorů a zajímavý poměr ceny a užitných vlastností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylová podlaha má jinou konstrukci, jiný pocit při chůzi a podle typu také odlišné chování vůči vodě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná podlaha je skutečný přírodní materiál s možností renovace a přirozenou kresbou, kterou žádný tištěný dekor přesně nezopakuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto zákazníkům neříkáme, že jeden typ podlahy je nejlepší pro všechny. Důležité je zjistit, kde bude podlaha položená, jak bude zatěžovaná a co od ní očekáváte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kam se laminátová podlaha hodí?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správně zvolený laminát lze použít v celé řadě interiérů – od ložnice a dětského pokoje přes obývací pokoj až po chodbu, pracovnu nebo komerční prostor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhodující je vždy konkrétní výrobek a jeho třída použití.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do více zatěžovaných místností doporučujeme vybírat podlahu s odpovídající odolností a kvalitním zámkovým spojem. Do prostor, kde hrozí častější kontakt s vodou, zase kolekci, u které výrobce takové použití výslovně umožňuje.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Proč má kvalitní laminát stále smysl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože ne každý zákazník potřebuje nebo chce dřevěnou či vinylovou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní laminát může nabídnout velmi odolný povrch, realistický vzhled, jednoduchou údržbu a široký výběr formátů a dekorů za cenu, která může být proti některým jiným podlahovým krytinám zajímavější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Současně ale platí, že mezi nejlevnějším laminátem z hobby marketu a kvalitní podlahou renomovaného výrobce může být velký rozdíl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto při výběru nesledujeme pouze cenu za metr čtvereční.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Laminátové podlahy – prodej a pokládka v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "S podlahami pracujeme od roku 2003 a zákazníkům pomáháme nejen s výběrem dekoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní místnosti doporučíme vhodný typ laminátové podlahy, zátěžovou třídu a podložku, posoudíme stav podkladu a v případě potřeby zajistíme také jeho přípravu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Následně se postaráme o odbornou pokládku včetně soklových lišt, přechodů a napojení na další části interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud vybíráte laminátovou podlahu do bytu, rodinného domu nebo komerčního prostoru, rádi vám jednotlivé možnosti ukážeme a vysvětlíme jejich skutečné rozdíly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy Šťastný – laminátové podlahy, příprava podkladu a odborná pokládka v Praze.",
+    "center": false
    }
   ]
  },
