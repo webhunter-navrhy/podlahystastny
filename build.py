@@ -102,7 +102,7 @@ env = Environment(loader=FileSystemLoader(os.path.join(ROOT, 'src')), autoescape
 LD = json.dumps({"@context": "https://schema.org", "@type": "HomeAndConstructionBusiness", "name": S['name'], "url": DOMAIN + '/',
     "telephone": S['phone'], "email": S['email'], "image": DOMAIN + '/wp-content/uploads/2021/01/IMG_6395.jpg',
     "address": {"@type": "PostalAddress", "streetAddress": S['address'], "addressLocality": "Praha 2 – Vinohrady", "postalCode": S['zip'], "addressCountry": "CZ"},
-    "openingHours": ["Mo-Tu 09:00-18:00", "We-Th 09:00-17:00", "Fr 09:00-16:30"], "areaServed": "Praha a okolí"}, ensure_ascii=False)
+    "openingHours": ["Mo-Th 09:00-17:00"], "areaServed": "Praha a okolí"}, ensure_ascii=False)
 
 def write(path, html_):
     fp = os.path.join(OUT, path.strip('/'), 'index.html') if path.strip('/') else os.path.join(OUT, 'index.html')

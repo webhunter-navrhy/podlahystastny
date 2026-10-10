@@ -25926,18 +25926,6 @@
     "center": false
    },
    {
-    "t": "h",
-    "l": 2,
-    "x": "Od 29.9.2026 do 6.10.2026 Ososbní schůzka ve studiu pouze po telefonícké domluvě.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Tel. 728 252 929.",
-    "center": false
-   },
-   {
     "t": "img",
     "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/02/IMG_6395.jpg",
     "alt": "",
@@ -26023,22 +26011,12 @@
    },
    {
     "t": "p",
-    "h": "Po – Út otevřeno od 9 – 18 hodin",
+    "h": "Po – Čt otevřeno od 9 – 17 hodin",
     "center": false
    },
    {
     "t": "p",
-    "h": "St – Čt otevřeno od 9 – 17 hodin",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pátek otevřeno od 9 – 16:30 hodin",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Poledni pauza : 12 -13 hod",
+    "h": "Pátek pouze na domluvě",
     "center": false
    },
    {
