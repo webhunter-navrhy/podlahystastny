@@ -77,7 +77,7 @@ def prep_blocks(p, L):
     gi = next((i for i, b in enumerate(out) if b['t'] == 'gallery'), None)
     if gi is not None and gi > 6:
         hi = gi - 1 if out[gi - 1]['t'] in ('h', 'sub') else gi
-        out[hi] = dict(out[hi], anchor='ukazky')
+        if not out[hi].get('anchor'): out[hi] = dict(out[hi], anchor='ukazky')
     return out
 
 def first_img(p):

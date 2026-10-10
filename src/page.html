@@ -40,7 +40,7 @@
         {% elif b.t == 'p' %}<p class="{{ 'c' if b.center }}">{{ b.h | safe }}</p>
         {% elif b.t == 'ul' %}<ul class="{{ 'checks checks--ink' if b.check else 'dots' }}">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ul>
         {% elif b.t == 'ol' %}<ol class="nums">{% for i in b['items'] %}<li>{{ i | safe }}</li>{% endfor %}</ol>
-        {% elif b.t == 'img' %}{% set m = IM(b.src) %}{% if m %}<figure class="fig {{ 'fig--side' if b.align in ('left','right') and (b.w or m.w) < 900 else 'fig--wide' }}{{ ' fig--big' if b.big }}{{ ' fig--l' if b.align=='left' }}{{ ' fig--small' if (b.w or m.w) < 420 }}"><a href="{{ R }}{{ m.p }}" class="lbx" data-cap="{{ b.cap or b.alt }}">{{ pic(b.src, b.alt or P.title) }}</a>{% if b.cap %}<figcaption>{{ b.cap }}</figcaption>{% endif %}</figure>{% endif %}
+        {% elif b.t == 'img' %}{% set m = IM(b.src) %}{% if m %}<figure class="fig {{ 'fig--side' if b.align in ('left','right') and (b.w or m.w) < 900 else 'fig--wide' }}{{ ' fig--big' if b.big }}{{ ' fig--l' if b.align=='left' }}{{ ' fig--small' if (b.w or m.w) < 420 and not b.big }}"><a href="{{ R }}{{ m.p }}" class="lbx" data-cap="{{ b.cap or b.alt }}">{{ pic(b.src, b.alt or P.title) }}</a>{% if b.cap %}<figcaption>{{ b.cap }}</figcaption>{% endif %}</figure>{% endif %}
         {% elif b.t == 'gallery' %}
           {% set named = b['items']|selectattr('title')|list|length > (b['items']|length * 0.6) %}
           <div class="gal {{ 'gal--swatch' if named else 'gal--photo' }}">
