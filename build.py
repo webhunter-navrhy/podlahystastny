@@ -145,7 +145,7 @@ for p in PAGES:
             items += kids.get(c['id'], [])
         section = {'title': top['title'], 'items': [{'path': x['path'], 'title': x['title']} for x in items][:16]}
     children = [{'path': c['path'], 'title': c['title'], 'thumb': first_img(c), 'excerpt': excerpt(c)} for c in kids.get(p['id'], [])]
-    if any(b['t'] == 'cards' for b in blocks): children = []
+    if any(b['t'] == 'cards' for b in blocks) or p.get('dekory'): children = []  # okénka nahoře už na podstránky vedou
     reviews = None
     reno = by_path.get('/rekonstrukce-a-renovace-podlah/')
     if p['path'] == '/ukazky-nasi-prace/':

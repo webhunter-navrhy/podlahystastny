@@ -1,130 +1,65 @@
 [
  {
   "id": 21752,
-  "parent": 0,
-  "order": 0,
+  "parent": 7076,
+  "order": 2,
   "path": "/dekory-podlah-esco-kolonial/",
-  "title": "Dekory podlah ESCO",
-  "seo_title": "Dekory podlah ESCO - Podlahy Šťastný",
-  "description": "Chateau Pokud dáváte přednost podlaze hladké na dotek, je pro vás vhodnou volbou podlaha Chateau. Tato kolekce se vyznačuje broušeným povrchem, díky jemuž je dřevo hladké a má rovnoměrné zabarvení. Chateau je k dispozici ve čtyřech teplých barvách a široké škále třídění. Kolonial Kolonial zachycuje kouzlo dubového dřeva, které je zvýrazněno kartáčovaným povrchem. Ten zdůrazňuje",
+  "title": "Dřevěné podlahy ESCO Kolonial",
+  "seo_title": "Dřevěné podlahy ESCO Kolonial - Podlahy Šťastný",
+  "description": "ESCO Kolonial – dekory a popis kolekce. Pokud je Chateau o hladkosti, ESCO Kolonial je o struktuře dřeva. Charakteristickým znakem této kolekce je",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
     "t": "h",
     "l": 2,
-    "x": "Chateau",
+    "x": "Dekory ESCO Kolonial",
     "center": false,
-    "anchor": "chateau"
+    "anchor": "dekory"
    },
    {
-    "t": "h",
-    "l": 3,
-    "x": "ESCO Chateau – když má vyniknout samotná kresba dubu",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Kolekce ESCO Chateau ukazuje evropský dub v jeho čistší a klidnější podobě. Je charakteristická hladce broušeným povrchem, který není kartáčovaný ani záměrně postaršovaný. Díky tomu působí dřevo jemněji a barevně vyrovnaněji.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Chateau bychom doporučili zákazníkům, kteří chtějí skutečnou dubovou podlahu, ale neláká je výrazná struktura nebo silně rustikální vzhled.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "V čem je ESCO Chateau jiné?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "U této kolekce není hlavním efektem strukturování povrchu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Právě naopak.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Broušený povrch nechává vyniknout přirozenou kresbu, odstín a třídění samotného dubu. Podlaha je na dotek hladší a v interiéru může působit čistěji a elegantněji než výrazně kartáčované kolekce.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "To ale neznamená, že musí být bez charakteru.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Výsledný vzhled lze výrazně ovlivnit výběrem třídění dřeva. Klidnější sortace vytvoří uhlazenější plochu, zatímco rustikálnější dub přinese větší suky a přirozené barevné rozdíly.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Od přírodního dubu až po velmi tmavou podlahu",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Chateau není pouze jedna „přírodní dubová podlaha“.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "ESCO tuto kolekci nabízí v několika barevných variantách – od přirozeného dubu přes teplejší tóny až po výrazně tmavé kouřové provedení.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Díky kombinaci barvy a třídění lze stejnou kolekci použít v moderním minimalistickém interiéru i v prostoru, kde chceme zachovat tradičnější charakter dřeva.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Masivní i třívrstvé provedení",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podle konkrétního rozměru a provedení je ESCO Chateau dostupné jako třívrstvá podlaha se smrkovým středem i jako masivní dubová podlaha.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "K dispozici nejsou pouze klasická dlouhá prkna. U vybraných variant lze pracovat také s rybí kostí.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Chateau proto není zajímavé pouze barvou. Kombinací konstrukce, třídění, rozměru a způsobu pokládky lze vytvořit velmi rozdílné podlahy.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Povrch je z výroby dokončen systémem Osmo PolyX.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Pro koho bychom ESCO Chateau doporučili?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pro zákazníka, který hledá hladkou dubovou podlahu bez výrazného kartáčování, chce nechat vyniknout přirozenou kresbu dřeva a preferuje čistší, klidnější vzhled.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "ESCO Chateau – evropský dub bez zbytečných efektů. Hlavní roli zde hraje samotné dřevo.",
-    "center": false
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Antik-1.jpg",
+      "title": "Antik",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Basecoat.jpg",
+      "title": "Basecoat",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Gotik.jpg",
+      "title": "Gotik",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Kourova-bila.jpg",
+      "title": "Kouřová bílá",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Lehce-kourova.jpg",
+      "title": "Lehce kouřová",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Natural.jpg",
+      "title": "Natural",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Prirodni-bila.jpg",
+      "title": "Přírodní bílá",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Svetle-seda.jpg",
+      "title": "Světle šedá",
+      "desc": ""
+     }
+    ]
    },
    {
     "t": "sub",
@@ -133,48 +68,16 @@
    {
     "t": "ul",
     "items": [
-     "Broušená struktura povrchu",
-     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "Kartáčovaná povrchová struktura",
      "Široká škála třídění",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
      "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
     ],
     "esco": true
    },
    {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Antik.jpg",
-      "title": "Antik",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Hluboce-kourova.jpg",
-      "title": "Hluboce kouřová",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Naturel.jpg",
-      "title": "Naturel",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Orech.jpg",
-      "title": "Ořech",
-      "desc": ""
-     }
-    ]
-   },
-   {
     "t": "h",
     "l": 2,
-    "x": "Kolonial",
-    "center": false,
-    "anchor": "kolonial"
-   },
-   {
-    "t": "h",
-    "l": 3,
     "x": "ESCO Kolonial – dub, jehož strukturu nejen vidíte, ale také cítíte",
     "center": false
    },
@@ -281,139 +184,50 @@
     "t": "p",
     "h": "ESCO Kolonial je podle nás takový zlatý střed nabídky ESCO – dostatečně přirozený, výrazný, ale stále velmi univerzální.",
     "center": false
-   },
+   }
+  ]
+ },
+ {
+  "id": "esco-chateau",
+  "parent": 7076,
+  "order": 1,
+  "path": "/dekory-podlah-esco-chateau/",
+  "title": "Dřevěné podlahy ESCO Chateau",
+  "seo_title": "Dřevěné podlahy ESCO Chateau - Podlahy Šťastný",
+  "description": "ESCO Chateau – dekory a popis kolekce. Kolekce ESCO Chateau ukazuje evropský dub v jeho čistší a klidnější podobě. Je charakteristická hladce broušeným",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
    {
-    "t": "sub",
-    "h": "Charakteristika"
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Kartáčovaná povrchová struktura",
-     "Široká škála třídění",
-     "Osmo Polyx + Osmo Polyx Top-Coating",
-     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
-    ],
-    "esco": true
+    "t": "h",
+    "l": 2,
+    "x": "Dekory ESCO Chateau",
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "gallery",
     "items": [
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Antik-1.jpg",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Antik.jpg",
       "title": "Antik",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Basecoat.jpg",
-      "title": "Basecoat",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Hluboce-kourova.jpg",
+      "title": "Hluboce kouřová",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Gotik.jpg",
-      "title": "Gotik",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Naturel.jpg",
+      "title": "Naturel",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Kourova-bila.jpg",
-      "title": "Kouřová bílá",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Lehce-kourova.jpg",
-      "title": "Lehce kouřová",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Natural.jpg",
-      "title": "Natural",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Prirodni-bila.jpg",
-      "title": "Přírodní bílá",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Svetle-seda.jpg",
-      "title": "Světle šedá",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Orech.jpg",
+      "title": "Ořech",
       "desc": ""
      }
     ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Soft Tone",
-    "center": false,
-    "anchor": "soft-tone"
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "ESCO Soft Tone – když rozhoduje barva a jemnost",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Kolekce ESCO Soft Tone stojí někde mezi úplně hladkým povrchem Chateau a výrazně kartáčovaným Kolonialem.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dub je zde lehce kartáčovaný. Struktura dřeva zůstává viditelná a hmatatelná, ale není dominantním prvkem celé podlahy.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Právě proto se Soft Tone velmi dobře kombinuje s moderními interiéry, kde chceme skutečné dřevo, ale nechceme, aby podlaha působila příliš rustikálně.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Největší síla Soft Tone? Barevnost",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Tady bychom se při výběru soustředili především na odstín.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Soft Tone má mimořádně širokou barevnou paletu – od světlých odstínů Ivory nebo Extra White přes Raw Look a přírodní tóny až po šedé, béžové a kouřové varianty.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Díky tomu lze podlahu velmi dobře sladit s dveřmi, nábytkem, kuchyní nebo celkovou barevností interiéru.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "A přitom stále vybíráte skutečný evropský dub, nikoli potištěný dekor.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Soft Tone navíc umožňuje volit různé třídění dřeva. Stejný odstín tak může být klidný a čistý, nebo naopak výraznější se suky.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Podle konkrétního provedení je dostupný jako třívrstvá i masivní podlaha. Zajímavostí je také možnost klasického prkna, rybí kosti a Chevronu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Povrch je dokončen systémem Osmo PolyX.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "ESCO Soft Tone bychom doporučili tam, kde má být dubová podlaha přirozenou součástí interiéru, nikoli jeho nejvýraznějším prvkem.",
-    "center": false
    },
    {
     "t": "sub",
@@ -422,12 +236,141 @@
    {
     "t": "ul",
     "items": [
-     "Lehce kartáčovaná struktura povrchu",
-     "Úplná škála třídění",
+     "Broušená struktura povrchu",
      "Osmo Polyx + Osmo Polyx Top-Coating",
+     "Široká škála třídění",
      "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
     ],
     "esco": true
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "ESCO Chateau – když má vyniknout samotná kresba dubu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kolekce ESCO Chateau ukazuje evropský dub v jeho čistší a klidnější podobě. Je charakteristická hladce broušeným povrchem, který není kartáčovaný ani záměrně postaršovaný. Díky tomu působí dřevo jemněji a barevně vyrovnaněji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chateau bychom doporučili zákazníkům, kteří chtějí skutečnou dubovou podlahu, ale neláká je výrazná struktura nebo silně rustikální vzhled.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "V čem je ESCO Chateau jiné?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U této kolekce není hlavním efektem strukturování povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě naopak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Broušený povrch nechává vyniknout přirozenou kresbu, odstín a třídění samotného dubu. Podlaha je na dotek hladší a v interiéru může působit čistěji a elegantněji než výrazně kartáčované kolekce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že musí být bez charakteru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledný vzhled lze výrazně ovlivnit výběrem třídění dřeva. Klidnější sortace vytvoří uhlazenější plochu, zatímco rustikálnější dub přinese větší suky a přirozené barevné rozdíly.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Od přírodního dubu až po velmi tmavou podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chateau není pouze jedna „přírodní dubová podlaha“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "ESCO tuto kolekci nabízí v několika barevných variantách – od přirozeného dubu přes teplejší tóny až po výrazně tmavé kouřové provedení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky kombinaci barvy a třídění lze stejnou kolekci použít v moderním minimalistickém interiéru i v prostoru, kde chceme zachovat tradičnější charakter dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Masivní i třívrstvé provedení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního rozměru a provedení je ESCO Chateau dostupné jako třívrstvá podlaha se smrkovým středem i jako masivní dubová podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "K dispozici nejsou pouze klasická dlouhá prkna. U vybraných variant lze pracovat také s rybí kostí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chateau proto není zajímavé pouze barvou. Kombinací konstrukce, třídění, rozměru a způsobu pokládky lze vytvořit velmi rozdílné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch je z výroby dokončen systémem Osmo PolyX.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pro koho bychom ESCO Chateau doporučili?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro zákazníka, který hledá hladkou dubovou podlahu bez výrazného kartáčování, chce nechat vyniknout přirozenou kresbu dřeva a preferuje čistší, klidnější vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "ESCO Chateau – evropský dub bez zbytečných efektů. Hlavní roli zde hraje samotné dřevo.",
+    "center": false
+   }
+  ]
+ },
+ {
+  "id": "esco-soft-tone",
+  "parent": 7076,
+  "order": 3,
+  "path": "/dekory-podlah-esco-soft-tone/",
+  "title": "Dřevěné podlahy ESCO Soft Tone",
+  "seo_title": "Dřevěné podlahy ESCO Soft Tone - Podlahy Šťastný",
+  "description": "ESCO Soft Tone – dekory a popis kolekce. Kolekce ESCO Soft Tone stojí někde mezi úplně hladkým povrchem Chateau a výrazně kartáčovaným Kolonialem. Dub je",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory ESCO Soft Tone",
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "gallery",
@@ -495,15 +438,142 @@
     ]
    },
    {
+    "t": "sub",
+    "h": "Charakteristika"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Lehce kartáčovaná struktura povrchu",
+     "Úplná škála třídění",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
+    ],
+    "esco": true
+   },
+   {
     "t": "h",
     "l": 2,
-    "x": "Harfa Vintage",
-    "center": false,
-    "anchor": "harfa-vintage"
+    "x": "ESCO Soft Tone – když rozhoduje barva a jemnost",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kolekce ESCO Soft Tone stojí někde mezi úplně hladkým povrchem Chateau a výrazně kartáčovaným Kolonialem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dub je zde lehce kartáčovaný. Struktura dřeva zůstává viditelná a hmatatelná, ale není dominantním prvkem celé podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto se Soft Tone velmi dobře kombinuje s moderními interiéry, kde chceme skutečné dřevo, ale nechceme, aby podlaha působila příliš rustikálně.",
+    "center": false
    },
    {
     "t": "h",
     "l": 3,
+    "x": "Největší síla Soft Tone? Barevnost",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady bychom se při výběru soustředili především na odstín.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Soft Tone má mimořádně širokou barevnou paletu – od světlých odstínů Ivory nebo Extra White přes Raw Look a přírodní tóny až po šedé, béžové a kouřové varianty.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu lze podlahu velmi dobře sladit s dveřmi, nábytkem, kuchyní nebo celkovou barevností interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A přitom stále vybíráte skutečný evropský dub, nikoli potištěný dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Soft Tone navíc umožňuje volit různé třídění dřeva. Stejný odstín tak může být klidný a čistý, nebo naopak výraznější se suky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního provedení je dostupný jako třívrstvá i masivní podlaha. Zajímavostí je také možnost klasického prkna, rybí kosti a Chevronu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch je dokončen systémem Osmo PolyX.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "ESCO Soft Tone bychom doporučili tam, kde má být dubová podlaha přirozenou součástí interiéru, nikoli jeho nejvýraznějším prvkem.",
+    "center": false
+   }
+  ]
+ },
+ {
+  "id": "esco-harfa-vintage",
+  "parent": 7076,
+  "order": 4,
+  "path": "/dekory-podlah-esco-harfa-vintage/",
+  "title": "Dřevěné podlahy ESCO Harfa Vintage",
+  "seo_title": "Dřevěné podlahy ESCO Harfa Vintage - Podlahy Šťastný",
+  "description": "ESCO Harfa Vintage – dekory a popis kolekce. Harfa Vintage se od předchozích kolekcí pozná prakticky okamžitě. Jejím charakteristickým prvkem je",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory ESCO Harfa Vintage",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Basecoat-1.jpg",
+      "title": "Basecoat",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/GOTIK-1.jpg",
+      "title": "GOTIK",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/LEHCE-KOUROVA-1.jpg",
+      "title": "LEHCE KOUŘOVÁ",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "sub",
+    "h": "Charakteristika"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Kartáčovaná a nepravidelně katrovaná struktura povrchu",
+     "Úplná škála třídění",
+     "Osmo Polyx + Osmo Polyx Top-Coating",
+     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
+    ],
+    "esco": true
+   },
+   {
+    "t": "h",
+    "l": 2,
     "x": "ESCO Harfa Vintage – podlaha, na které mají být stopy opracování vidět",
     "center": false
    },
@@ -572,37 +642,42 @@
     "t": "p",
     "h": "Harfa Vintage není pro zákazníka, který hledá dokonale uhlazenou podlahu. Je pro člověka, který chce strukturu dřeva vidět a nechce, aby každé prkno vypadalo stejně.",
     "center": false
-   },
+   }
+  ]
+ },
+ {
+  "id": "esco-pelgrim",
+  "parent": 7076,
+  "order": 5,
+  "path": "/dekory-podlah-esco-pelgrim/",
+  "title": "Dřevěné podlahy ESCO Pelgrim",
+  "seo_title": "Dřevěné podlahy ESCO Pelgrim - Podlahy Šťastný",
+  "description": "ESCO Pelgrim – dekory a popis kolekce. U kolekce Pelgrim jde ESCO ještě dál. Povrch není pouze kartáčovaný nebo katrovaný. Dřevo je hoblované, speciálně",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
    {
-    "t": "sub",
-    "h": "Charakteristika"
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Kartáčovaná a nepravidelně katrovaná struktura povrchu",
-     "Úplná škála třídění",
-     "Osmo Polyx + Osmo Polyx Top-Coating",
-     "K dispozici jako třívrstvá podlaha se smrkovým jádrem nebo jako masivní podlaha"
-    ],
-    "esco": true
+    "t": "h",
+    "l": 2,
+    "x": "Dekory ESCO Pelgrim",
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "gallery",
     "items": [
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Basecoat-1.jpg",
-      "title": "Basecoat",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Hluboce-kourova-1.jpg",
+      "title": "Hluboce kouřová",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/GOTIK-1.jpg",
-      "title": "GOTIK",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Kourova-bila-1.jpg",
+      "title": "Kouřová bílá",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/LEHCE-KOUROVA-1.jpg",
-      "title": "LEHCE KOUŘOVÁ",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Naturel-1.jpg",
+      "title": "Naturel",
       "desc": ""
      }
     ]
@@ -610,13 +685,6 @@
    {
     "t": "h",
     "l": 2,
-    "x": "Pelgrim",
-    "center": false,
-    "anchor": "pelgrim"
-   },
-   {
-    "t": "h",
-    "l": 3,
     "x": "ESCO Pelgrim – nový dub, který nemusí vypadat nově",
     "center": false
    },
@@ -690,23 +758,57 @@
     "t": "p",
     "h": "ESCO Pelgrim je nová podlaha pro člověka, který nechce, aby vypadala jako právě vybalená z krabice.",
     "center": false
+   }
+  ]
+ },
+ {
+  "id": "esco-karel-iv",
+  "parent": 7076,
+  "order": 6,
+  "path": "/dekory-podlah-esco-karel-iv/",
+  "title": "Dřevěné podlahy ESCO Karel IV",
+  "seo_title": "Dřevěné podlahy ESCO Karel IV - Podlahy Šťastný",
+  "description": "ESCO Karel IV – dekory a popis kolekce. Pokud bychom měli z kolekcí ESCO vybrat podlahu, která nejvíce staví na ručním opracování a řemeslném charakteru,",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory ESCO Karel IV",
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "gallery",
     "items": [
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Hluboce-kourova-1.jpg",
-      "title": "Hluboce kouřová",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Antik-2.jpg",
+      "title": "Antik",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Kourova-bila-1.jpg",
-      "title": "Kouřová bílá",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Bahenni-dub.jpg",
+      "title": "Bahenní dub",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Naturel-1.jpg",
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Eben.jpg",
+      "title": "Eben",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Horcicna-seda.jpg",
+      "title": "Hořčičná šedá",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Naturel-2.jpg",
       "title": "Naturel",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Olivove-zelena.jpg",
+      "title": "Olivově zelená",
       "desc": ""
      }
     ]
@@ -714,13 +816,6 @@
    {
     "t": "h",
     "l": 2,
-    "x": "Karel IV",
-    "center": false,
-    "anchor": "karel-iv"
-   },
-   {
-    "t": "h",
-    "l": 3,
     "x": "ESCO Karel IV – nejvýraznější podlaha z nabídky ESCO",
     "center": false
    },
@@ -811,41 +906,6 @@
     "t": "p",
     "h": "ESCO Karel IV není podlaha, která se snaží být dokonalá. Její hodnotou je právě to, že každý kus dřeva může ukázat vlastní charakter.",
     "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Antik-2.jpg",
-      "title": "Antik",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Bahenni-dub.jpg",
-      "title": "Bahenní dub",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Eben.jpg",
-      "title": "Eben",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Horcicna-seda.jpg",
-      "title": "Hořčičná šedá",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Naturel-2.jpg",
-      "title": "Naturel",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/07/Olivove-zelena.jpg",
-      "title": "Olivově zelená",
-      "desc": ""
-     }
-    ]
    }
   ]
  },
@@ -12357,44 +12417,44 @@
   ],
   "dekory": [
    {
-    "href": "@/dekory-podlah-esco-kolonial/#chateau",
+    "href": "@/dekory-podlah-esco-chateau/",
     "label": "ESCO Chateau – Dekory",
-    "title": "Chateau",
+    "title": "ESCO Chateau",
     "sub": "hladký dub",
     "img": "local://esco/CHATEAU"
    },
    {
-    "href": "@/dekory-podlah-esco-kolonial/#kolonial",
+    "href": "@/dekory-podlah-esco-kolonial/",
     "label": "ESCO Kolonial – Dekory",
-    "title": "Kolonial",
+    "title": "ESCO Kolonial",
     "sub": "kartáčovaný",
     "img": "local://esco/KOLONIAL"
    },
    {
-    "href": "@/dekory-podlah-esco-kolonial/#soft-tone",
+    "href": "@/dekory-podlah-esco-soft-tone/",
     "label": "ESCO Soft Tone – Dekory",
-    "title": "Soft Tone",
+    "title": "ESCO Soft Tone",
     "sub": "jemně kartáčovaný",
     "img": "local://esco/SOFT-TONE"
    },
    {
-    "href": "@/dekory-podlah-esco-kolonial/#harfa-vintage",
+    "href": "@/dekory-podlah-esco-harfa-vintage/",
     "label": "ESCO Harfa Vintage – Dekory",
-    "title": "Harfa Vintage",
+    "title": "ESCO Harfa Vintage",
     "sub": "katrovaný",
     "img": "local://esco/HARFA-VINTAGE"
    },
    {
-    "href": "@/dekory-podlah-esco-kolonial/#pelgrim",
+    "href": "@/dekory-podlah-esco-pelgrim/",
     "label": "ESCO Pelgrim – Dekory",
-    "title": "Pelgrim",
+    "title": "ESCO Pelgrim",
     "sub": "zestárlý dub",
     "img": "local://esco/PELGRIM"
    },
    {
-    "href": "@/dekory-podlah-esco-kolonial/#karel-iv",
+    "href": "@/dekory-podlah-esco-karel-iv/",
     "label": "ESCO Karel IV – Dekory",
-    "title": "Karel IV",
+    "title": "ESCO Karel IV",
     "sub": "ruční práce",
     "img": "local://esco/KAREL-IV"
    }
@@ -15415,15 +15475,6 @@
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/unnamed.jpg",
-    "alt": "",
-    "w": 370,
-    "h": 384,
-    "align": "right",
-    "big": true
-   },
-   {
     "t": "h",
     "l": 2,
     "x": "Dřevěné podlahy Barlinek – přírodní dřevo v moderní třívrstvé konstrukci",
@@ -15532,132 +15583,6 @@
    {
     "t": "h",
     "l": 3,
-    "x": "Velké dubové prkno 2200 × 180 mm",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Jedním z typických formátů Barlinek je jednolamelové prkno Grande o rozměru 2200 × 180 mm a tloušťce 14 mm.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Právě velké jednolamelové formáty máme rádi v otevřených interiérech, obývacích pokojích a větších místnostech. Dlouhé prkno nechává vyniknout přirozenou kresbu dřeva a podlaha díky menšímu množství spojů působí klidněji a hodnotněji.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "U tohoto formátu se běžně setkáte s balením 2,77 m².",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Ne všechny podlahy Barlinek ale mají stejné rozměry. Konkrétní formát, tloušťku a skladbu proto vždy uvádíme u vybraného dekoru.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Od klidného dubu až po výrazně rustikální podlahu",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "U Barlinku není dub jako dub.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Jednotlivé kolekce se liší množstvím suků, barevnými rozdíly a celkovou kresbou dřeva. Některé podlahy jsou velmi klidné a elegantní, jiné naopak záměrně ukazují výraznější přírodní charakter materiálu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "To je při výběru důležité.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Stejný odstín podlahy může v klidném třídění působit minimalisticky a v rustikálním třídění úplně jinak.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Proto doporučujeme nevybírat dřevěnou podlahu pouze podle jedné malé lamely nebo fotografie. U výraznějších sortací je potřeba představit si vzhled celé položené plochy.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Kartáčované dřevo má úplně jiný charakter",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Velká část dřevěných podlah Barlinek využívá kartáčování povrchu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Při kartáčování se zvýrazní přirozená struktura dřeva a rozdíl mezi měkčími a tvrdšími částmi letokruhů. Povrch díky tomu nepůsobí dokonale hladce a získává výraznější kresbu také na dotek.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "V kombinaci s olejem, matným lakem, mořením a různými odstíny lze ze stejné dřeviny vytvořit velmi rozdílné podlahy – od světlého skandinávského dubu až po tmavé a výrazné rustikální povrchy.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Olejované a lakované podlahy Barlinek",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Barlinek nabízí dřevěné podlahy s různými typy finální povrchové úpravy.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Olejovaný povrch",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Olej nechává velmi dobře vyniknout přirozenou strukturu a kresbu dřeva. Povrch působí přirozeně a příjemně na dotek.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Výhodou olejovaných podlah je také možnost jejich průběžného ošetřování a obnovy vhodnými prostředky.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Lakovaný povrch",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Lak vytváří ochrannou vrstvu na povrchu dřeva a usnadňuje běžnou údržbu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Barlinek používá také matné povrchové úpravy, díky kterým si dřevo zachovává přirozený vzhled a nemusí působit leskle nebo uměle.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Volba mezi olejem a lakem proto není pouze otázkou vzhledu. Záleží také na způsobu používání podlahy a na tom, jakou údržbu od ní očekáváte.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
     "x": "Barlinek a podlahové vytápění",
     "center": false
    },
@@ -15715,32 +15640,6 @@
    {
     "t": "p",
     "h": "Konkrétní způsob pokládky ale vždy volíme podle vybraného výrobku, podkladu a podmínek v místnosti.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Rybí kost a Chevron Barlinek",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Barlinek už dávno není pouze klasické dlouhé prkno.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pro zákazníky, kteří chtějí výraznější podlahu, nabízí také klasickou rybí kost (Herringbone) a francouzský vzor Chevron.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Právě spojení tradičního parketového vzoru s moderní třívrstvou konstrukcí je zajímavé například při rekonstrukcích městských bytů, ale stejně dobře může fungovat v moderní novostavbě.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Rybí kost dokáže být dominantním prvkem interiéru, aniž by bylo potřeba nahrazovat pravé dřevo jeho imitací.",
     "center": false
    },
    {
@@ -15896,9 +15795,1085 @@
    {
     "t": "h",
     "l": 2,
-    "x": "Hybridní podlahy Barlinek Smart Wood",
+    "x": "Schodové hrany ve stejném dekoru jako vaše podlaha",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/02/image0.jpg",
+    "alt": "",
+    "w": 676,
+    "h": 406,
+    "align": "right"
+   },
+   {
+    "t": "p",
+    "h": "Chcete propojit podlahu a schody do jednoho celku? Z námi nabízených vinylových i třívrstvých dřevěných podlah dokážeme vyrobit schodové hrany ve stejném dekoru jako samotná podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Schod tak nepůsobí jako dodatečně obložený jiným materiálem. Nášlapná plocha, schodová hrana i navazující podlaha mohou mít stejný odstín, kresbu a povrchovou úpravu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Schodové hrany vyrábíme na míru podle konkrétní podlahy a následně zajistíme také jejich odbornou montáž. Díky tomu můžeme řešit nejen rovná schodiště, ale také atypické rozměry, podesty a návaznosti schodů na okolní podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vyberete si podlahu – my k ní dokážeme vyrobit schody ve stejném designu.",
+    "center": false
+   }
+  ],
+  "dekory": [
+   {
+    "href": "@/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/prkna/",
+    "label": "Dřevěné podlahy Barlinek prkna – Dekory",
+    "title": "Dřevěné podlahy Barlinek prkna",
+    "sub": "Dekory",
+    "img": "https://www.barlinek.cz/wp-content/uploads/2023/09/BC1-DBE1-OX4-XXZ-D14180-I_Dab_Calvados_Grande_aranzacja_1920x1080.jpg"
+   },
+   {
+    "href": "@/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/stromecek-chevron/",
+    "label": "Dřevěné podlahy Barlinek stromeček – Chevron – Dekory",
+    "title": "Dřevěné podlahy Barlinek stromeček – Chevron",
+    "sub": "Dekory",
+    "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/03/drevena_podlaha_Barlinek_Dub_Raisins_herringbone-e1734879838349-1024x1024-1.webp"
+   },
+   {
+    "href": "@/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/hybridni-podlahy-smart-wood/",
+    "label": "Hybridní podlahy Barlinek – Dekory",
+    "title": "Hybridní podlahy Barlinek",
+    "sub": "Dekory",
+    "img": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Revona-Origin-interer.webp"
+   }
+  ]
+ },
+ {
+  "id": "bl-prkna",
+  "parent": 4830,
+  "order": 1,
+  "path": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/prkna/",
+  "title": "Dřevěné podlahy Barlinek prkna",
+  "seo_title": "Dřevěné podlahy Barlinek prkna - Podlahy Šťastný",
+  "description": "Dekory dřevěných třívrstvých podlah Barlinek v prknech (Decor Line, Life Line, Pure Line, Senses, Tastes of Life) – prodej a pokládka v Praze, studio Praha 2.",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory – dřevěné podlahy Barlinek prkna",
     "center": false,
-    "anchor": "hybridni"
+    "anchor": "dekory"
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Decor Line",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy kolekce DECOR jsou nešablonovité, často avantgardní vzory podlah získané díky pokročilým technikám zpracování a barvení dřeva.",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-SUNNY-MOLTI-3WG000640.jpg",
+      "title": "DUB SUNNY MOLTI - 3WG000640",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/JASAN-PLATINIUM-MOLTI-3WG000654.jpg",
+      "title": "JASAN PLATINIUM MOLTI - 3WG000654",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Life line",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy LIFE jsou v sobě spojují funkčnost a kvalitu BARLINKU s výhodnou cenou. Kolekce je určena pro ty, kteří svým blízkým vytváří domov a proto jsou jejich nároky vysoké.",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/BUK-MASURIA-MOLTI-3WG000655.jpg",
+      "title": "BUK MASURIA MOLTI - 3WG000655",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-ASKANIA-MOLTI-3WG000311.jpg",
+      "title": "DUB ASKANIA MOLTI - 3WG000311",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-SAIMAA-MOLTI-3WG000650.jpg",
+      "title": "JASAN SAIMAA MOLTI - 3WG000650",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Pure line",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy kolece PURE jsou ty nejkvalitnější stylové podlahy, u nichž jsme zvláštním způsobem zdůraznili přírodní vlastnosti dřeva.",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-ASKANIA-GRANDE-1WG000675.jpg",
+      "title": "DUB ASKANIA GRANDE - 1WG000675",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-ASKANIA-PICCOLO-1WG000608.jpg",
+      "title": "DUB ASKANIA PICCOLO - 1WG000608",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AZURE-WINDOW-1-GRANDE-1WG000281.jpg",
+      "title": "DUB AZURE WINDOW 1 GRANDE - 1WG000281",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AZURE-WINDOW-2-GRANDE-1WG000814.jpg",
+      "title": "DUB AZURE WINDOW 2 GRANDE - 1WG000814",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BIANCO-GRANDE-1WG000700.jpg",
+      "title": "DUB BIANCO GRANDE - 1WG000700",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BONET-GRANDE-1WG000813.jpg",
+      "title": "DUB BONET GRANDE - 1WG000813",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BOWFELL-MEDIO-1WG000788.jpg",
+      "title": "DUB BOWFELL MEDIO - 1WG000788",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BRIGHT-GRANDE-1WG000890.jpg",
+      "title": "DUB BRIGHT GRANDE - 1WG000890",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BRIGHT-PICCOLO-1WG000888.jpg",
+      "title": "DUB BRIGHT PICCOLO - 1WG000888",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BROWN-SUGAR-PICCOLO-1WG000304.jpg",
+      "title": "DUB BROWN SUGAR PICCOLO - 1WG000304",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CAPPUCCINO-MEDIO-1WG000830.jpg",
+      "title": "DUB CAPPUCCINO MEDIO - 1WG000830",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CARAMEL-GRANDE-1WG000284.jpg",
+      "title": "DUB CARAMEL GRANDE - 1WG000284",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CARAMEL-MEDIO-1WG000773.jpg",
+      "title": "DUB CARAMEL MEDIO - 1WG000773",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-COCONUT-PICCOLO-1WG000615.jpg",
+      "title": "DUB COCONUT PICCOLO - 1WG000615",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CONCHI-PICCOLO-1WG000609.jpg",
+      "title": "DUB CONCHI PICCOLO - 1WG000609",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CREME-BRULEE-GRANDE-1WG000628.jpg",
+      "title": "DUB CREME BRULEE GRANDE - 1WG000628",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-DARTMOOR-1-GRANDE-1WG000758.jpg",
+      "title": "DUB DARTMOOR 1 GRANDE - 1WG000758",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-DARTMOOR-2-GRANDE-1WG000860.jpg",
+      "title": "DUB DARTMOOR 2 GRANDE - 1WG000860",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GARDA-MEDIO-1WG000793.jpg",
+      "title": "DUB GARDA MEDIO - 1WG000793",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRAND-CANYON-1-GRANDE-1WG000621.jpg",
+      "title": "DUB GRAND CANYON 1 GRANDE - 1WG000621",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRAND-CANYON-2-GRANDE-1WG000889.jpg",
+      "title": "DUB GRAND CANYON 2 GRANDE - 1WG000889",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRAND-CANYON-MEDIO-1WG000760.jpg",
+      "title": "DUB GRAND CANYON MEDIO - 1WG000760",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CHESTNUT-GRANDE-1WG000754.jpg",
+      "title": "DUB CHESTNUT GRANDE - 1WG000754",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MADEIRA-PICCOLO-1WG000689.jpg",
+      "title": "DUB MADEIRA PICCOLO - 1WG000689",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MERSEY-MEDIO-1WG000772.jpg",
+      "title": "DUB MERSEY MEDIO - 1WG000772",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MONT-BLANC-GRANDE-1WG000740.jpg",
+      "title": "DUB MONT BLANC GRANDE - 1WG000740",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MONT-BLANC-MEDIO-1WG000783.jpg",
+      "title": "DUB MONT BLANC MEDIO - 1WG000783",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-NUDE-GRANDE-1WG000672.jpg",
+      "title": "DUB NUDE GRANDE - 1WG000672",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-NUGAT-PICCOLO-1WG000729.jpg",
+      "title": "DUB NUGAT PICCOLO - 1WG000729",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-RAISINS-GRANDE-1WG000285.jpg",
+      "title": "DUB RAISINS GRANDE - 1WG000285",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-RAISINS-MEDIO-1WG000774.jpg",
+      "title": "DUB RAISINS MEDIO - 1WG000774",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-SAHARA-GRANDE-1WG000741.jpg",
+      "title": "DUB SAHARA GRANDE - 1WG000741",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-SANDWICK-PICCOLO-1WG000895.jpg",
+      "title": "DUB SANDWICK PICCOLO - 1WG000895",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-TARTUFO-GRANDE-1WG000666.jpg",
+      "title": "DUB TARTUFO GRANDE - 1WG000666",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-COFFEE-GRANDE-1WG000676.jpg",
+      "title": "JASAN COFFEE GRANDE - 1WG000676",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-MILKSHAKE-GRANDE-1WG000664.jpg",
+      "title": "JASAN MILKSHAKE GRANDE - 1WG000664",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-PLATINIUM-GRANDE-1WG000554.jpg",
+      "title": "JASAN PLATINIUM GRANDE - 1WG000554",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Pure line vintage",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy z kolekce PURE LINE VINTAGE jsou tou pravou ochutnávkou pro všechny znalce dřeva. Řada se skládá ze tří dekorů, z nichž každý vyzdvihuje přirozené vlastnosti dřeva, typické pro podlahy nacházející se v historických panstvích a ve výjimečných domech",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-PORTO-GRANDE-1WG000624.jpg",
+      "title": "DUB PORTO GRANDE - 1WG000624",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-MARSALA-GRANDE-1WG000550.jpg",
+      "title": "DUB MARSALA GRANDE - 1WG000550",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-MADEIRA-MEDIO-1WG000775.jpg",
+      "title": "DUB MADEIRA MEDIO - 1WG000775",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-MADEIRA-GRANDE-1WG000811.jpg",
+      "title": "DUB MADEIRA GRANDE - 1WG000811",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-LAGER-PICCOLO-1WG000611.jpg",
+      "title": "DUB LAGER PICCOLO - 1WG000611",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-IVORY-GRANDE-1WG000626.jpg",
+      "title": "DUB IVORY GRANDE - 1WG000626",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-CALVADOS-GRANDE-1WG000622.jpg",
+      "title": "DUB CALVADOS GRANDE - 1WG000622",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-AZORES-MEDIO-1WG000791.jpg",
+      "title": "DUB AZORES MEDIO - 1WG000791",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Senses Collection",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy řady SENSES představují kombinaci velkých rozměrů, tlumených barev a přirozené krásy. Kolekce je určena pro lidi, kteří si uvědomují sílu detailu a vědí, že v exkluzivním interiéru je méně někdy více a že krása spočívá v kvalitě surovin a přesném provedení.",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-DELIGHT-SENSES-1WG000801.jpg",
+      "title": "DUB DELIGHT SENSES - 1WG000801",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-EXCITE-SENSES-1WG000637.jpg",
+      "title": "DUB EXCITE SENSES - 1WG000637",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GENTLE-1-SENSES-1WG000555.jpg",
+      "title": "DUB GENTLE 1 SENSES - 1WG000555",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GENTLE-2-SENSES-1WG000899.jpg",
+      "title": "DUB GENTLE 2 SENSES - 1WG000899",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-HARMONY-SENSES-1WG000635.jpg",
+      "title": "DUB HARMONY SENSES - 1WG000635",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CHEER-SENSES-1WG000816.jpg",
+      "title": "DUB CHEER SENSES - 1WG000816",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-INTENSE-SENSES-1WG000561.jpg",
+      "title": "DUB INTENSE SENSES - 1WG000561",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-JOY-1-SENSES-1WG000636.jpg",
+      "title": "DUB JOY 1 SENSES - 1WG000636",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-JOY-2-SENSES-1WG000853.jpg",
+      "title": "DUB JOY 2 SENSES - 1WG000853",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-SENSE-SENSES-1WG000634.jpg",
+      "title": "DUB SENSE SENSES - 1WG000634",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-STILL-1-SENSES-1WG000800.jpg",
+      "title": "DUB STILL 1 SENSES - 1WG000800",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-STILL-2-SENSES-1WG000867.jpg",
+      "title": "DUB STILL 2 SENSES - 1WG000867",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-TENDER-SENSES-1WG000633.jpg",
+      "title": "DUB TENDER SENSES - 1WG000633",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-TOUCH-SENSES-1WG000556.jpg",
+      "title": "DUB TOUCH SENSES - 1WG000556",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Tastes of Life",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěné podlahy Taste of Life se vyznačují svým jedinečným designérským provedením. Přírodní dub a jasan v 21 odstínech, které odrážejí moderní sezónní barvy. Kolekce dřevěných podlah Taste of Life je každý rok aktualizována o nové vzory podle současných trendů.",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AFFOGATO-GRANDE-1WG000536.jpg",
+      "title": "DUB AFFOGATO GRANDE - 1WG000536",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AMARETTI-MEDIO-1WG000789.jpg",
+      "title": "DUB AMARETTI MEDIO - 1WG000789",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BANANA-SONG-GRANDE-1WG000538.jpg",
+      "title": "DUB BANANA SONG GRANDE - 1WG000538",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BISCOTTI-GRANDE-1WG000798.jpg",
+      "title": "DUB BISCOTTI GRANDE - 1WG000798",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BISCUITS-GRANDE-1WG000630.jpg",
+      "title": "DUB BISCUITS GRANDE - 1WG000630",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BONET-MEDIO-1WG000792.jpg",
+      "title": "DUB BONET MEDIO - 1WG000792",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CAPPUCCINO-GRANDE-1WG000537.jpg",
+      "title": "DUB CAPPUCCINO GRANDE - 1WG000537",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CARDAMOMO-GRANDE-1WG000665.jpg",
+      "title": "DUB CARDAMOMO GRANDE - 1WG000665",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRISSINI-GRANDE-1WG000663.jpg",
+      "title": "DUB GRISSINI GRANDE - 1WG000663",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CHEESECAKE-GRANDE-1WG000710.jpg",
+      "title": "DUB CHEESECAKE GRANDE - 1WG000710",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MARZIPAN-MUFFIN-GRANDE-1WG000539.jpg",
+      "title": "DUB MARZIPAN MUFFIN GRANDE - 1WG000539",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-PUDDING-GRANDE-1WG000661.jpg",
+      "title": "DUB PUDDING GRANDE - 1WG000661",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-HAZELNUT-GRANDE-1WG000632.jpg",
+      "title": "JASAN HAZELNUT GRANDE - 1WG000632",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-LEMON-SORBET-GRANDE-1W1000489.jpg",
+      "title": "JASAN LEMON SORBET GRANDE - 1W1000489",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Prkna Barlinek – co je dobré vědět",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parametry",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Formát: 14x180x2200 mm",
+     "Konstrukce: 3 vrstvá podlaha",
+     "Horní dýha: 2,5 – 3 mm",
+     "Povrchová úprava: Oxidativní olej Saicos",
+     "Fáze: 4x",
+     "Spoj: Klik",
+     "Struktura povrchu: kartáčování",
+     "Vhodné pro teplovodní podlahové topení: Ano",
+     "Obsah balení: 2,77 m2"
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Velké dubové prkno 2200 × 180 mm",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedním z typických formátů Barlinek je jednolamelové prkno Grande o rozměru 2200 × 180 mm a tloušťce 14 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě velké jednolamelové formáty máme rádi v otevřených interiérech, obývacích pokojích a větších místnostech. Dlouhé prkno nechává vyniknout přirozenou kresbu dřeva a podlaha díky menšímu množství spojů působí klidněji a hodnotněji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U tohoto formátu se běžně setkáte s balením 2,77 m².",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne všechny podlahy Barlinek ale mají stejné rozměry. Konkrétní formát, tloušťku a skladbu proto vždy uvádíme u vybraného dekoru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Od klidného dubu až po výrazně rustikální podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U Barlinku není dub jako dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé kolekce se liší množstvím suků, barevnými rozdíly a celkovou kresbou dřeva. Některé podlahy jsou velmi klidné a elegantní, jiné naopak záměrně ukazují výraznější přírodní charakter materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je při výběru důležité.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejný odstín podlahy může v klidném třídění působit minimalisticky a v rustikálním třídění úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto doporučujeme nevybírat dřevěnou podlahu pouze podle jedné malé lamely nebo fotografie. U výraznějších sortací je potřeba představit si vzhled celé položené plochy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kartáčované dřevo má úplně jiný charakter",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velká část dřevěných podlah Barlinek využívá kartáčování povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při kartáčování se zvýrazní přirozená struktura dřeva a rozdíl mezi měkčími a tvrdšími částmi letokruhů. Povrch díky tomu nepůsobí dokonale hladce a získává výraznější kresbu také na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V kombinaci s olejem, matným lakem, mořením a různými odstíny lze ze stejné dřeviny vytvořit velmi rozdílné podlahy – od světlého skandinávského dubu až po tmavé a výrazné rustikální povrchy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Olejované a lakované podlahy Barlinek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek nabízí dřevěné podlahy s různými typy finální povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Olejovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej nechává velmi dobře vyniknout přirozenou strukturu a kresbu dřeva. Povrch působí přirozeně a příjemně na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou olejovaných podlah je také možnost jejich průběžného ošetřování a obnovy vhodnými prostředky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Lakovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytváří ochrannou vrstvu na povrchu dřeva a usnadňuje běžnou údržbu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek používá také matné povrchové úpravy, díky kterým si dřevo zachovává přirozený vzhled a nemusí působit leskle nebo uměle.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volba mezi olejem a lakem proto není pouze otázkou vzhledu. Záleží také na způsobu používání podlahy a na tom, jakou údržbu od ní očekáváte.",
+    "center": false
+   }
+  ]
+ },
+ {
+  "id": "bl-chevron",
+  "parent": 4830,
+  "order": 2,
+  "path": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/stromecek-chevron/",
+  "title": "Dřevěné podlahy Barlinek stromeček – Chevron",
+  "seo_title": "Dřevěné podlahy Barlinek stromeček – Chevron - Podlahy Šťastný",
+  "description": "Dekory dřevěných podlah Barlinek ve vzoru stromeček (rybí kost) a Chevron – třívrstvé parkety Pure Classico, prodej a pokládka v Praze.",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory – Barlinek stromeček (rybí kost) a Chevron",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BIANCO-STROMECEK-130-1WC000021-1.jpg",
+      "title": "DUB BIANCO STROMEČEK 130 - 1WC000021",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BRIGHT-CHEVRON-1WV000006-1.jpg",
+      "title": "DUB BRIGHT CHEVRON - 1WV000006",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BRIGHT-STROMECEK-110-1WC000016-1.jpg",
+      "title": "DUB BRIGHT STROMEČEK 110 - 1WC000016",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BROWN-SUGAR-STROMECEK-130-1WC000006-1.jpg",
+      "title": "DUB BROWN SUGAR STROMEČEK 130 - 1WC000006",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CAPPUCCINO-STROMECEK-110-1WC000001-1.jpg",
+      "title": "DUB CAPPUCCINO STROMEČEK 110 - 1WC000001",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CAPPUCCINO-STROMECEK-130-1WC000010-1.jpg",
+      "title": "DUB CAPPUCCINO STROMEČEK 130 - 1WC000010",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CARAMEL-CHEVRON-1WV000001-1.jpg",
+      "title": "DUB CARAMEL CHEVRON - 1WV000001",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CARAMEL-STROMECEK-110-1WC000004-1.jpg",
+      "title": "DUB CARAMEL STROMEČEK 110 - 1WC000004",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CARAMEL-STROMECEK-130-1WC000007-1.jpg",
+      "title": "DUB CARAMEL STROMEČEK 130 - 1WC000007",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-GRAND-CANYON-STROMECEK-130-1WC000011-1.jpg",
+      "title": "DUB GRAND CANYON STROMEČEK 130 - 1WC000011",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-MAINLAND-CHEVRON-1WV000004-1.jpg",
+      "title": "DUB MAINLAND CHEVRON - 1WV000004",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-MAINLAND-STROMECEK-110-1WC000003-1.jpg",
+      "title": "DUB MAINLAND STROMEČEK 110 - 1WC000003",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-MARZIPAN-MUFFIN-STROMECEK-130-1WC000014-1.jpg",
+      "title": "DUB MARZIPAN MUFFIN STROMEČEK 130 - 1WC000014",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-RAISINS-CHEVRON-1WV000003-1.jpg",
+      "title": "DUB RAISINS CHEVRON - 1WV000003",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-RAMSEY-STROMECEK-110-1WC000015-1.jpg",
+      "title": "DUB RAMSEY STROMEČEK 110 - 1WC000015",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-SALT-CHEVRON-1WV000007-1.jpg",
+      "title": "DUB SALT CHEVRON - 1WV000007",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-SERENE-CHEVRON-1WV000005-1.jpg",
+      "title": "DUB SERENE CHEVRON - 1WV000005",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-SERENE-STROMECEK-110-1WC000002-1.jpg",
+      "title": "DUB SERENE STROMEČEK 110 - 1WC000002",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-TOFFEE-STROMECEK-130-1WC000017-1.jpg",
+      "title": "DUB TOFFEE STROMEČEK 130 - 1WC000017",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-TRIVOR-CHEVRON-1WV000002-1.jpg",
+      "title": "DUB TRIVOR CHEVRON - 1WV000002",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/JASAN-AURIC-STROMECEK-130-1WC000019-1.jpg",
+      "title": "JASAN AURIC STROMEČEK 130 - 1WC000019",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/JASAN-MOONLIGHT-STROMECEK-130-1WC000018-1.jpg",
+      "title": "JASAN MOONLIGHT STROMEČEK 130 - 1WC000018",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Pure Classico",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná třívrstvá dubová parketa se vzorem stromečku, jejíž hrany jsou po celém obvodu frézovány a tvoří mikro spáry mezi jednotlivými díly. Povrch podlahy s větším množstvím suků je kartáčován, barven do světlého odstínu a ošetřen matným lakem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Rybí kost a Chevron Barlinek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek už dávno není pouze klasické dlouhé prkno.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro zákazníky, kteří chtějí výraznější podlahu, nabízí také klasickou rybí kost (Herringbone) a francouzský vzor Chevron.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě spojení tradičního parketového vzoru s moderní třívrstvou konstrukcí je zajímavé například při rekonstrukcích městských bytů, ale stejně dobře může fungovat v moderní novostavbě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rybí kost dokáže být dominantním prvkem interiéru, aniž by bylo potřeba nahrazovat pravé dřevo jeho imitací.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Barlinek parkety",
+    "center": false,
+    "anchor": "parkety"
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevěné třívrstvé parkety Barlinek – přírodní krása, která vydrží generace",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud sníte o podlaze, která propojí přírodní krásu dřeva s moderní technologií a dlouhou životností, dřevěné třívrstvé parkety <strong>Barlinek</strong> jsou tou správnou volbou. Tento renomovaný evropský výrobce patří mezi špičku v oboru a nabízí řešení, které je ideální jak pro rodinné domy, tak i náročné komerční prostory.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co jsou třívrstvé parkety a čím vynikají?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá dřevěná podlaha je složená ze tří vrstev: nášlapné vrstvy z pravého dřeva, středové nosné vrstvy (většinou z měkkého dřeva) a spodní stabilizační vrstvy. Tato konstrukce zajišťuje vysokou <strong>rozměrovou stabilitu</strong>, a zároveň si podlaha uchovává všechny estetické a přírodní vlastnosti masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Výhody parket Barlinek",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Reálný dřevěný povrch</strong> – každý dílec má unikátní kresbu, žádný dekor se neopakuje.",
+     "<strong>Vysoce přesné zámky BARCLICK® nebo 5Gc</strong> – rychlá a pevná pokládka bez lepidla.",
+     "<strong>Možnost broušení a renovace</strong> – na rozdíl od laminátu lze parkety opravit.",
+     "<strong>Ekologická volba</strong> – dřevo pochází z trvale udržitelných lesů, certifikace FSC®.",
+     "<strong>Kompatibilita s podlahovým vytápěním</strong> – vhodné i pro moderní nízkoenergetické stavby."
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Design, který osloví každý styl interiéru",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Barlinek nabízí širokou škálu dekorů – od klasického dubu v přírodním odstínu až po elegantní bělené, kartáčované nebo kouřově tónované varianty. Povrchová úprava může být olejovaná nebo matně lakovaná, dle preferencí zákazníka.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nejžádanější kolekce",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<strong>Taste of Life</strong> – luxusní výběr dřevin s důrazem na detail a přírodní krásu.",
+     "<strong>Decor Line</strong> – moderní dekory a povrchové úpravy pro aktuální interiérové trendy.",
+     "<strong>Life Line</strong> – praktické řešení pro každodenní život s důrazem na odolnost."
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kvalitní zámky = rychlá a pevná pokládka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedním z hlavních benefitů parket Barlinek jsou jejich precizní zámkové systémy, jako je <strong>BARCLICK®</strong> nebo <strong>5Gc</strong>. Díky nim je instalace velmi snadná, rychlá a spolehlivá. Spoje perfektně drží a podlaha zůstává stabilní i při změnách vlhkosti a teplot.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč si vybrat Barlinek právě u nás?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsme odborníci na dřevěné podlahy a s produkty značky Barlinek máme dlouholeté zkušenosti. Nabízíme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Široký výběr vzorků na prodejně",
+     "Odborné poradenství",
+     "Profesionální pokládku včetně přípravy podkladu",
+     "Férové ceny a individuální přístup"
+    ]
+   },
+   {
+    "t": "hr"
+   },
+   {
+    "t": "p",
+    "h": "<strong>Hledáte podlahu, která bude krásná i po letech?</strong> Přijďte si prohlédnout kolekce Barlinek do naší prodejny, nebo nás kontaktujte pro nezávaznou kalkulaci.",
+    "center": false
+   }
+  ]
+ },
+ {
+  "id": "bl-hybrid",
+  "parent": 4830,
+  "order": 3,
+  "path": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/hybridni-podlahy-smart-wood/",
+  "title": "Hybridní podlahy Barlinek",
+  "seo_title": "Hybridní podlahy Barlinek - Podlahy Šťastný",
+  "description": "Dekory hybridních podlah Barlinek Smart Wood – voděodolná podlaha s pravým dřevěným povrchem. Prodej a pokládka v Praze, studio Praha 2.",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory – hybridní podlahy Barlinek Smart Wood",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Aurantis-Esthetic.webp",
+      "title": "DUB AURANTIS ESTHETIC",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Essenza-Esthetic-Klasicky-Stromecek-126.webp",
+      "title": "DUB ESSENZA ESTHETIC KLASICKÝ STROMEČEK 126",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Essenza-Esthetic.webp",
+      "title": "DUB ESSENZA ESTHETIC",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Evana-Esthetic.webp",
+      "title": "DUB EVANA ESTHETIC",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Futuris-Esthetic-Klasicky-Stromecek-91.webp",
+      "title": "DUB FUTURIS ESTHETIC KLASICKÝ STROMEČEK 91",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Futuris-Esthetic-Klasicky-Stromecek-126.webp",
+      "title": "DUB FUTURIS ESTHETIC KLASICKÝ STROMEČEK 126",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Futuris-Esthetic.webp",
+      "title": "DUB FUTURIS ESTHETIC",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Harmon-Esthetic.webp",
+      "title": "DUB HARMON ESTHETIC",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Revona-Origin.webp",
+      "title": "DUB REVONA ORIGIN",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Verano-Esthetic.webp",
+      "title": "DUB VERANO ESTHETIC",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Vitaria-Origin-Klasicky-Stromecek-91.webp",
+      "title": "DUB VITARIA ORIGIN KLASICKÝ STROMEČEK 91",
+      "desc": ""
+     },
+     {
+      "src": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Vitaria-Origin.webp",
+      "title": "DUB VITARIA ORIGIN",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Hybridní podlahy Barlinek Smart Wood",
+    "center": false
    },
    {
     "t": "h",
@@ -16491,817 +17466,6 @@
     "t": "p",
     "h": "Ozvi se nám nebo se zastav ve studiu. Ukážeme ti rozdíly, které na internetu neuvidíš.",
     "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Barlinek parkety",
-    "center": false,
-    "anchor": "parkety"
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Dřevěné třívrstvé parkety Barlinek – přírodní krása, která vydrží generace",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Pokud sníte o podlaze, která propojí přírodní krásu dřeva s moderní technologií a dlouhou životností, dřevěné třívrstvé parkety <strong>Barlinek</strong> jsou tou správnou volbou. Tento renomovaný evropský výrobce patří mezi špičku v oboru a nabízí řešení, které je ideální jak pro rodinné domy, tak i náročné komerční prostory.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Co jsou třívrstvé parkety a čím vynikají?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Třívrstvá dřevěná podlaha je složená ze tří vrstev: nášlapné vrstvy z pravého dřeva, středové nosné vrstvy (většinou z měkkého dřeva) a spodní stabilizační vrstvy. Tato konstrukce zajišťuje vysokou <strong>rozměrovou stabilitu</strong>, a zároveň si podlaha uchovává všechny estetické a přírodní vlastnosti masivního dřeva.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Výhody parket Barlinek",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "<strong>Reálný dřevěný povrch</strong> – každý dílec má unikátní kresbu, žádný dekor se neopakuje.",
-     "<strong>Vysoce přesné zámky BARCLICK® nebo 5Gc</strong> – rychlá a pevná pokládka bez lepidla.",
-     "<strong>Možnost broušení a renovace</strong> – na rozdíl od laminátu lze parkety opravit.",
-     "<strong>Ekologická volba</strong> – dřevo pochází z trvale udržitelných lesů, certifikace FSC®.",
-     "<strong>Kompatibilita s podlahovým vytápěním</strong> – vhodné i pro moderní nízkoenergetické stavby."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Design, který osloví každý styl interiéru",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Barlinek nabízí širokou škálu dekorů – od klasického dubu v přírodním odstínu až po elegantní bělené, kartáčované nebo kouřově tónované varianty. Povrchová úprava může být olejovaná nebo matně lakovaná, dle preferencí zákazníka.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Nejžádanější kolekce",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "<strong>Taste of Life</strong> – luxusní výběr dřevin s důrazem na detail a přírodní krásu.",
-     "<strong>Decor Line</strong> – moderní dekory a povrchové úpravy pro aktuální interiérové trendy.",
-     "<strong>Life Line</strong> – praktické řešení pro každodenní život s důrazem na odolnost."
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Kvalitní zámky = rychlá a pevná pokládka",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Jedním z hlavních benefitů parket Barlinek jsou jejich precizní zámkové systémy, jako je <strong>BARCLICK®</strong> nebo <strong>5Gc</strong>. Díky nim je instalace velmi snadná, rychlá a spolehlivá. Spoje perfektně drží a podlaha zůstává stabilní i při změnách vlhkosti a teplot.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Proč si vybrat Barlinek právě u nás?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Jsme odborníci na dřevěné podlahy a s produkty značky Barlinek máme dlouholeté zkušenosti. Nabízíme:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Široký výběr vzorků na prodejně",
-     "Odborné poradenství",
-     "Profesionální pokládku včetně přípravy podkladu",
-     "Férové ceny a individuální přístup"
-    ]
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Hledáte podlahu, která bude krásná i po letech?</strong> Přijďte si prohlédnout kolekce Barlinek do naší prodejny, nebo nás kontaktujte pro nezávaznou kalkulaci.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Dekory a kolekce Podlahy Barlinek",
-    "center": false,
-    "anchor": "dekory"
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Barlinek – dřevěné třívrstvé podlahy",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "Formát: 14x180x2200 mm",
-     "Konstrukce: 3 vrstvá podlaha",
-     "Horní dýha: 2,5 – 3 mm",
-     "Povrchová úprava: Oxidativní olej Saicos",
-     "Fáze: 4x",
-     "Spoj: Klik",
-     "Struktura povrchu: kartáčování",
-     "Vhodné pro teplovodní podlahové topení: Ano",
-     "Obsah balení: 2,77 m2"
-    ]
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Decor Line",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěné podlahy kolekce DECOR jsou nešablonovité, často avantgardní vzory podlah získané díky pokročilým technikám zpracování a barvení dřeva.",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-SUNNY-MOLTI-3WG000640.jpg",
-      "title": "DUB SUNNY MOLTI - 3WG000640",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/JASAN-PLATINIUM-MOLTI-3WG000654.jpg",
-      "title": "JASAN PLATINIUM MOLTI - 3WG000654",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Life line",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěné podlahy LIFE jsou v sobě spojují funkčnost a kvalitu BARLINKU s výhodnou cenou. Kolekce je určena pro ty, kteří svým blízkým vytváří domov a proto jsou jejich nároky vysoké.",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/BUK-MASURIA-MOLTI-3WG000655.jpg",
-      "title": "BUK MASURIA MOLTI - 3WG000655",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-ASKANIA-MOLTI-3WG000311.jpg",
-      "title": "DUB ASKANIA MOLTI - 3WG000311",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-SAIMAA-MOLTI-3WG000650.jpg",
-      "title": "JASAN SAIMAA MOLTI - 3WG000650",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Pure line",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěné podlahy kolece PURE jsou ty nejkvalitnější stylové podlahy, u nichž jsme zvláštním způsobem zdůraznili přírodní vlastnosti dřeva.",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-ASKANIA-GRANDE-1WG000675.jpg",
-      "title": "DUB ASKANIA GRANDE - 1WG000675",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-ASKANIA-PICCOLO-1WG000608.jpg",
-      "title": "DUB ASKANIA PICCOLO - 1WG000608",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AZURE-WINDOW-1-GRANDE-1WG000281.jpg",
-      "title": "DUB AZURE WINDOW 1 GRANDE - 1WG000281",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AZURE-WINDOW-2-GRANDE-1WG000814.jpg",
-      "title": "DUB AZURE WINDOW 2 GRANDE - 1WG000814",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BIANCO-GRANDE-1WG000700.jpg",
-      "title": "DUB BIANCO GRANDE - 1WG000700",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BONET-GRANDE-1WG000813.jpg",
-      "title": "DUB BONET GRANDE - 1WG000813",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BOWFELL-MEDIO-1WG000788.jpg",
-      "title": "DUB BOWFELL MEDIO - 1WG000788",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BRIGHT-GRANDE-1WG000890.jpg",
-      "title": "DUB BRIGHT GRANDE - 1WG000890",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BRIGHT-PICCOLO-1WG000888.jpg",
-      "title": "DUB BRIGHT PICCOLO - 1WG000888",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BROWN-SUGAR-PICCOLO-1WG000304.jpg",
-      "title": "DUB BROWN SUGAR PICCOLO - 1WG000304",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CAPPUCCINO-MEDIO-1WG000830.jpg",
-      "title": "DUB CAPPUCCINO MEDIO - 1WG000830",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CARAMEL-GRANDE-1WG000284.jpg",
-      "title": "DUB CARAMEL GRANDE - 1WG000284",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CARAMEL-MEDIO-1WG000773.jpg",
-      "title": "DUB CARAMEL MEDIO - 1WG000773",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-COCONUT-PICCOLO-1WG000615.jpg",
-      "title": "DUB COCONUT PICCOLO - 1WG000615",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CONCHI-PICCOLO-1WG000609.jpg",
-      "title": "DUB CONCHI PICCOLO - 1WG000609",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CREME-BRULEE-GRANDE-1WG000628.jpg",
-      "title": "DUB CREME BRULEE GRANDE - 1WG000628",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-DARTMOOR-1-GRANDE-1WG000758.jpg",
-      "title": "DUB DARTMOOR 1 GRANDE - 1WG000758",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-DARTMOOR-2-GRANDE-1WG000860.jpg",
-      "title": "DUB DARTMOOR 2 GRANDE - 1WG000860",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GARDA-MEDIO-1WG000793.jpg",
-      "title": "DUB GARDA MEDIO - 1WG000793",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRAND-CANYON-1-GRANDE-1WG000621.jpg",
-      "title": "DUB GRAND CANYON 1 GRANDE - 1WG000621",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRAND-CANYON-2-GRANDE-1WG000889.jpg",
-      "title": "DUB GRAND CANYON 2 GRANDE - 1WG000889",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRAND-CANYON-MEDIO-1WG000760.jpg",
-      "title": "DUB GRAND CANYON MEDIO - 1WG000760",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CHESTNUT-GRANDE-1WG000754.jpg",
-      "title": "DUB CHESTNUT GRANDE - 1WG000754",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MADEIRA-PICCOLO-1WG000689.jpg",
-      "title": "DUB MADEIRA PICCOLO - 1WG000689",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MERSEY-MEDIO-1WG000772.jpg",
-      "title": "DUB MERSEY MEDIO - 1WG000772",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MONT-BLANC-GRANDE-1WG000740.jpg",
-      "title": "DUB MONT BLANC GRANDE - 1WG000740",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MONT-BLANC-MEDIO-1WG000783.jpg",
-      "title": "DUB MONT BLANC MEDIO - 1WG000783",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-NUDE-GRANDE-1WG000672.jpg",
-      "title": "DUB NUDE GRANDE - 1WG000672",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-NUGAT-PICCOLO-1WG000729.jpg",
-      "title": "DUB NUGAT PICCOLO - 1WG000729",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-RAISINS-GRANDE-1WG000285.jpg",
-      "title": "DUB RAISINS GRANDE - 1WG000285",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-RAISINS-MEDIO-1WG000774.jpg",
-      "title": "DUB RAISINS MEDIO - 1WG000774",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-SAHARA-GRANDE-1WG000741.jpg",
-      "title": "DUB SAHARA GRANDE - 1WG000741",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-SANDWICK-PICCOLO-1WG000895.jpg",
-      "title": "DUB SANDWICK PICCOLO - 1WG000895",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-TARTUFO-GRANDE-1WG000666.jpg",
-      "title": "DUB TARTUFO GRANDE - 1WG000666",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-COFFEE-GRANDE-1WG000676.jpg",
-      "title": "JASAN COFFEE GRANDE - 1WG000676",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-MILKSHAKE-GRANDE-1WG000664.jpg",
-      "title": "JASAN MILKSHAKE GRANDE - 1WG000664",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-PLATINIUM-GRANDE-1WG000554.jpg",
-      "title": "JASAN PLATINIUM GRANDE - 1WG000554",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Pure line vintage",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěné podlahy z kolekce PURE LINE VINTAGE jsou tou pravou ochutnávkou pro všechny znalce dřeva. Řada se skládá ze tří dekorů, z nichž každý vyzdvihuje přirozené vlastnosti dřeva, typické pro podlahy nacházející se v historických panstvích a ve výjimečných domech",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-PORTO-GRANDE-1WG000624.jpg",
-      "title": "DUB PORTO GRANDE - 1WG000624",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-MARSALA-GRANDE-1WG000550.jpg",
-      "title": "DUB MARSALA GRANDE - 1WG000550",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-MADEIRA-MEDIO-1WG000775.jpg",
-      "title": "DUB MADEIRA MEDIO - 1WG000775",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-MADEIRA-GRANDE-1WG000811.jpg",
-      "title": "DUB MADEIRA GRANDE - 1WG000811",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-LAGER-PICCOLO-1WG000611.jpg",
-      "title": "DUB LAGER PICCOLO - 1WG000611",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-IVORY-GRANDE-1WG000626.jpg",
-      "title": "DUB IVORY GRANDE - 1WG000626",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-CALVADOS-GRANDE-1WG000622.jpg",
-      "title": "DUB CALVADOS GRANDE - 1WG000622",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-AZORES-MEDIO-1WG000791.jpg",
-      "title": "DUB AZORES MEDIO - 1WG000791",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Senses Collection",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěné podlahy řady SENSES představují kombinaci velkých rozměrů, tlumených barev a přirozené krásy. Kolekce je určena pro lidi, kteří si uvědomují sílu detailu a vědí, že v exkluzivním interiéru je méně někdy více a že krása spočívá v kvalitě surovin a přesném provedení.",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-DELIGHT-SENSES-1WG000801.jpg",
-      "title": "DUB DELIGHT SENSES - 1WG000801",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-EXCITE-SENSES-1WG000637.jpg",
-      "title": "DUB EXCITE SENSES - 1WG000637",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GENTLE-1-SENSES-1WG000555.jpg",
-      "title": "DUB GENTLE 1 SENSES - 1WG000555",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GENTLE-2-SENSES-1WG000899.jpg",
-      "title": "DUB GENTLE 2 SENSES - 1WG000899",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-HARMONY-SENSES-1WG000635.jpg",
-      "title": "DUB HARMONY SENSES - 1WG000635",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CHEER-SENSES-1WG000816.jpg",
-      "title": "DUB CHEER SENSES - 1WG000816",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-INTENSE-SENSES-1WG000561.jpg",
-      "title": "DUB INTENSE SENSES - 1WG000561",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-JOY-1-SENSES-1WG000636.jpg",
-      "title": "DUB JOY 1 SENSES - 1WG000636",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-JOY-2-SENSES-1WG000853.jpg",
-      "title": "DUB JOY 2 SENSES - 1WG000853",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-SENSE-SENSES-1WG000634.jpg",
-      "title": "DUB SENSE SENSES - 1WG000634",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-STILL-1-SENSES-1WG000800.jpg",
-      "title": "DUB STILL 1 SENSES - 1WG000800",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-STILL-2-SENSES-1WG000867.jpg",
-      "title": "DUB STILL 2 SENSES - 1WG000867",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-TENDER-SENSES-1WG000633.jpg",
-      "title": "DUB TENDER SENSES - 1WG000633",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-TOUCH-SENSES-1WG000556.jpg",
-      "title": "DUB TOUCH SENSES - 1WG000556",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Tastes of Life",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěné podlahy Taste of Life se vyznačují svým jedinečným designérským provedením. Přírodní dub a jasan v 21 odstínech, které odrážejí moderní sezónní barvy. Kolekce dřevěných podlah Taste of Life je každý rok aktualizována o nové vzory podle současných trendů.",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AFFOGATO-GRANDE-1WG000536.jpg",
-      "title": "DUB AFFOGATO GRANDE - 1WG000536",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-AMARETTI-MEDIO-1WG000789.jpg",
-      "title": "DUB AMARETTI MEDIO - 1WG000789",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BANANA-SONG-GRANDE-1WG000538.jpg",
-      "title": "DUB BANANA SONG GRANDE - 1WG000538",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BISCOTTI-GRANDE-1WG000798.jpg",
-      "title": "DUB BISCOTTI GRANDE - 1WG000798",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BISCUITS-GRANDE-1WG000630.jpg",
-      "title": "DUB BISCUITS GRANDE - 1WG000630",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-BONET-MEDIO-1WG000792.jpg",
-      "title": "DUB BONET MEDIO - 1WG000792",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CAPPUCCINO-GRANDE-1WG000537.jpg",
-      "title": "DUB CAPPUCCINO GRANDE - 1WG000537",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CARDAMOMO-GRANDE-1WG000665.jpg",
-      "title": "DUB CARDAMOMO GRANDE - 1WG000665",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-GRISSINI-GRANDE-1WG000663.jpg",
-      "title": "DUB GRISSINI GRANDE - 1WG000663",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-CHEESECAKE-GRANDE-1WG000710.jpg",
-      "title": "DUB CHEESECAKE GRANDE - 1WG000710",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-MARZIPAN-MUFFIN-GRANDE-1WG000539.jpg",
-      "title": "DUB MARZIPAN MUFFIN GRANDE - 1WG000539",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/DUB-PUDDING-GRANDE-1WG000661.jpg",
-      "title": "DUB PUDDING GRANDE - 1WG000661",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-HAZELNUT-GRANDE-1WG000632.jpg",
-      "title": "JASAN HAZELNUT GRANDE - 1WG000632",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2023/08/JASAN-LEMON-SORBET-GRANDE-1W1000489.jpg",
-      "title": "JASAN LEMON SORBET GRANDE - 1W1000489",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Barlinek Rybí kost a chevron",
-    "center": false,
-    "anchor": "rybi-kost"
-   },
-   {
-    "t": "p",
-    "h": "Pure Classico",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Dřevěná třívrstvá dubová parketa se vzorem stromečku, jejíž hrany jsou po celém obvodu frézovány a tvoří mikro spáry mezi jednotlivými díly. Povrch podlahy s větším množstvím suků je kartáčován, barven do světlého odstínu a ošetřen matným lakem.",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BIANCO-STROMECEK-130-1WC000021-1.jpg",
-      "title": "DUB BIANCO STROMEČEK 130 - 1WC000021",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BRIGHT-CHEVRON-1WV000006-1.jpg",
-      "title": "DUB BRIGHT CHEVRON - 1WV000006",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BRIGHT-STROMECEK-110-1WC000016-1.jpg",
-      "title": "DUB BRIGHT STROMEČEK 110 - 1WC000016",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BROWN-SUGAR-STROMECEK-130-1WC000006-1.jpg",
-      "title": "DUB BROWN SUGAR STROMEČEK 130 - 1WC000006",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CAPPUCCINO-STROMECEK-110-1WC000001-1.jpg",
-      "title": "DUB CAPPUCCINO STROMEČEK 110 - 1WC000001",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CAPPUCCINO-STROMECEK-130-1WC000010-1.jpg",
-      "title": "DUB CAPPUCCINO STROMEČEK 130 - 1WC000010",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CARAMEL-CHEVRON-1WV000001-1.jpg",
-      "title": "DUB CARAMEL CHEVRON - 1WV000001",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CARAMEL-STROMECEK-110-1WC000004-1.jpg",
-      "title": "DUB CARAMEL STROMEČEK 110 - 1WC000004",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-CARAMEL-STROMECEK-130-1WC000007-1.jpg",
-      "title": "DUB CARAMEL STROMEČEK 130 - 1WC000007",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-GRAND-CANYON-STROMECEK-130-1WC000011-1.jpg",
-      "title": "DUB GRAND CANYON STROMEČEK 130 - 1WC000011",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-MAINLAND-CHEVRON-1WV000004-1.jpg",
-      "title": "DUB MAINLAND CHEVRON - 1WV000004",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-MAINLAND-STROMECEK-110-1WC000003-1.jpg",
-      "title": "DUB MAINLAND STROMEČEK 110 - 1WC000003",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-MARZIPAN-MUFFIN-STROMECEK-130-1WC000014-1.jpg",
-      "title": "DUB MARZIPAN MUFFIN STROMEČEK 130 - 1WC000014",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-RAISINS-CHEVRON-1WV000003-1.jpg",
-      "title": "DUB RAISINS CHEVRON - 1WV000003",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-RAMSEY-STROMECEK-110-1WC000015-1.jpg",
-      "title": "DUB RAMSEY STROMEČEK 110 - 1WC000015",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-SALT-CHEVRON-1WV000007-1.jpg",
-      "title": "DUB SALT CHEVRON - 1WV000007",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-SERENE-CHEVRON-1WV000005-1.jpg",
-      "title": "DUB SERENE CHEVRON - 1WV000005",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-SERENE-STROMECEK-110-1WC000002-1.jpg",
-      "title": "DUB SERENE STROMEČEK 110 - 1WC000002",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-TOFFEE-STROMECEK-130-1WC000017-1.jpg",
-      "title": "DUB TOFFEE STROMEČEK 130 - 1WC000017",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-TRIVOR-CHEVRON-1WV000002-1.jpg",
-      "title": "DUB TRIVOR CHEVRON - 1WV000002",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/JASAN-AURIC-STROMECEK-130-1WC000019-1.jpg",
-      "title": "JASAN AURIC STROMEČEK 130 - 1WC000019",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/JASAN-MOONLIGHT-STROMECEK-130-1WC000018-1.jpg",
-      "title": "JASAN MOONLIGHT STROMEČEK 130 - 1WC000018",
-      "desc": ""
-     }
-    ]
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Schodové hrany ve stejném dekoru jako vaše podlaha",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/02/image0.jpg",
-    "alt": "",
-    "w": 676,
-    "h": 406,
-    "align": "right"
-   },
-   {
-    "t": "p",
-    "h": "Chcete propojit podlahu a schody do jednoho celku? Z námi nabízených vinylových i třívrstvých dřevěných podlah dokážeme vyrobit schodové hrany ve stejném dekoru jako samotná podlaha.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Schod tak nepůsobí jako dodatečně obložený jiným materiálem. Nášlapná plocha, schodová hrana i navazující podlaha mohou mít stejný odstín, kresbu a povrchovou úpravu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Schodové hrany vyrábíme na míru podle konkrétní podlahy a následně zajistíme také jejich odbornou montáž. Díky tomu můžeme řešit nejen rovná schodiště, ale také atypické rozměry, podesty a návaznosti schodů na okolní podlahu.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Vyberete si podlahu – my k ní dokážeme vyrobit schody ve stejném designu.",
-    "center": false
-   }
-  ],
-  "dekory": [
-   {
-    "href": "#dekory",
-    "label": "Dřevěné podlahy Barlinek prkna – Dekory",
-    "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-SUNNY-MOLTI-3WG000640.jpg",
-    "sub": "Dekory",
-    "title": "Prkna"
-   },
-   {
-    "href": "#rybi-kost",
-    "label": "Dřevěné podlahy Barlinek stromeček-Chevron – Dekory",
-    "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BIANCO-STROMECEK-130-1WC000021-1.jpg",
-    "sub": "Dekory",
-    "title": "Rybí kost"
-   },
-   {
-    "href": "#hybridni",
-    "label": "Hybridní podlahy Barlinek – Dekory",
-    "img": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Revona-Origin-interer.webp",
-    "sub": "Dekory",
-    "title": "Hybridní"
    }
   ]
  },

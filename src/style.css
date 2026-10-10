@@ -582,3 +582,4 @@ a:hover .arr{transform:translateX(5px)}
 .dektile .dt b{font:400 1.5rem/1.1 var(--serif);color:var(--red,#C40000)}
 .dektile .dt i{font-style:normal;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--red,#C40000);text-align:right}
 @media(max-width:800px){.dektiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.dektiles{grid-template-columns:1fr;gap:1.4rem}.dektile figure{aspect-ratio:4/3}.dektile .dt b{font-size:1.35rem}}
