@@ -13980,32 +13980,34 @@
   "path": "/blog/",
   "title": "Blog",
   "seo_title": "Blog - Podlahy Šťastný",
-  "description": "Jak správně připravit problematický podklad před nivelační stěrkou (parkety + beton v jednom bytě – reálná praxe podlaháře) Příprava problematického podkladu před nivelační stěrkou: parkety a beton v jednom bytě Příprava podkladu před nivelační stěrkou – parkety, beton a trhliny Vyrovnání starých parket a betonu před pokládkou podlahy Jak spojit parkety a beton do jednoho",
+  "description": "Příprava podkladu pod podlahu: křivý beton, anhydrit, staré parkety, OSB, dlažba i praskliny. Jak podklad posoudit a vyrovnat před pokládkou. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "p",
-    "h": "<strong>Jak správně připravit problematický podklad před nivelační stěrkou</strong>",
+    "t": "h",
+    "l": 2,
+    "x": "Příprava podkladu pod podlahu – poradíme si i s problematickým podkladem",
     "center": false
    },
    {
     "t": "p",
-    "h": "<em>(parkety + beton v jednom bytě – reálná praxe podlaháře)</em>",
+    "h": "Když se řekne nová podlaha, většina lidí začne vybírat dekor, materiál a barvu. My se ale při první návštěvě často díváme úplně jinam – na to, co je pod ní.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Příprava problematického podkladu před nivelační stěrkou: parkety a beton v jednom bytě</strong>",
+    "h": "Za roky podlahářské praxe jsme se setkali prakticky se vším. Křivý beton, popraskaný anhydrit, staré parkety, dlažba, OSB desky, Fermacell, nesoudržné potěry, zbytky starých lepidel i místnosti, kde se na několika metrech potkají dva nebo tři úplně odlišné podklady.",
     "center": false
    },
    {
-    "t": "ul",
-    "items": [
-     "Příprava podkladu před nivelační stěrkou – parkety, beton a trhliny",
-     "Vyrovnání starých parket a betonu před pokládkou podlahy",
-     "Jak spojit parkety a beton do jednoho pevného podkladu",
-     "Nivelační stěrka na parkety a beton: správný technologický postup"
-    ]
+    "t": "p",
+    "h": "A právě příprava podkladu často rozhoduje o tom, jestli bude nová podlaha bez problémů fungovat mnoho let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje jeden univerzální postup pro každý podklad. Existuje správné řešení pro konkrétní stavbu.",
+    "center": false
    },
    {
     "t": "img",
@@ -14016,75 +14018,243 @@
     "align": ""
    },
    {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Proč je příprava podkladu důležitější než samotná podlaha</strong>",
+    "t": "h",
+    "l": 3,
+    "x": "Kvalitní podlaha začíná ještě před její pokládkou",
     "center": false
    },
    {
     "t": "p",
-    "h": "U podlah platí jedno jednoduché pravidlo:<br><strong>jaký je podklad, taková bude i výsledná podlaha</strong>.",
+    "h": "Můžete koupit velmi kvalitní dřevěnou nebo vinylovou podlahu, ale pokud ji položíme na špatně připravený podklad, samotná kvalita podlahy nás nezachrání.",
     "center": false
    },
    {
     "t": "p",
-    "h": "V tomto konkrétním bytě se jednalo o kombinaci:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "starých parket se spárami,",
-     "a betonu ve velmi špatném technickém stavu."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Takový podklad není možné jen „zalít stěrkou“ a doufat, že to bude fungovat. Bez správného technologického postupu by velmi rychle došlo k:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "prasklinám ve stěrce,",
-     "oddělení vrstev,",
-     "nebo k přenášení pohybů parket do nové podlahy."
-    ]
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Stav podkladu před zahájením prací</strong>",
+    "h": "Podklad musí podle typu následné krytiny splňovat požadavky na rovinnost, pevnost, soudržnost, stabilitu a zbytkovou vlhkost.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Podklad byl složen ze dvou zcela odlišných materiálů:",
+    "h": "U některých podlah potřebujeme téměř dokonale hladkou plochu. Jiné systémy jsou o něco tolerantnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žádná podlaha ale neumí napravit podklad, který se rozpadá, výrazně se pohybuje nebo obsahuje nevyřešené konstrukční problémy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto před zahájením prací nejdříve zjišťujeme, co pod novou podlahou skutečně máme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "S jakými podklady si dokážeme poradit?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při rekonstrukcích se málokdy setkáváme pouze s krásným novým potěrem připraveným k okamžité pokládce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Běžně řešíme:",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "<strong>dřevěné parkety</strong>, které pracovaly a měly otevřené spáry,",
-     "<strong>beton</strong>, který byl lokálně drolivý, popraskaný a nesoudržný."
+     "starý nebo nový beton",
+     "cementové potěry",
+     "anhydritové potěry",
+     "staré dřevěné podlahy a parkety",
+     "OSB desky",
+     "Fermacell a další suché podlahové systémy",
+     "původní keramickou dlažbu",
+     "popraskané a nesoudržné podklady",
+     "zbytky starých lepidel a stěrek",
+     "výškové rozdíly mezi místnostmi",
+     "kombinaci několika různých materiálů v jedné ploše",
+     "podklady s podlahovým vytápěním."
     ]
    },
    {
     "t": "p",
-    "h": "Největším rizikem bylo <strong>místo styku parket a betonu</strong>, kde hrozí:",
+    "h": "Každý z těchto podkladů se chová jinak.",
     "center": false
    },
    {
-    "t": "ul",
-    "items": [
-     "rozdílné pohyby materiálů,",
-     "vznik vlasových trhlin,",
-     "a následné poškození nivelační stěrky."
-    ]
+    "t": "p",
+    "h": "A právě proto nepoužíváme jednu penetraci a jednu nivelační stěrku na všechno.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nejprve diagnostika, potom materiál",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správná příprava podkladu nezačíná otevřením pytle se stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Začíná kontrolou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle situace zjišťujeme rovinnost, pevnost a soudržnost povrchu, zbytkovou vlhkost, přítomnost trhlin, pohyb jednotlivých částí a návaznost různých materiálů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U rekonstrukcí je důležité také zjistit, co se nachází pod stávající vrstvou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Některé problémy jsou vidět okamžitě. Jiné se objeví až po odstranění původní podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se technologický postup někdy definitivně určuje až ve chvíli, kdy skutečně vidíme stav celé konstrukce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Křivý beton není jediný problém",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Častá představa je, že příprava podkladu znamená pouze jeho vyrovnání nivelační stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ve skutečnosti může být rovinnost jen jednou částí problému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Beton nebo cementový potěr může být například rovný, ale jeho povrch může být nesoudržný, popraskaný nebo příliš vlhký.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V takovém případě nemá smysl pouze nalít další vrstvu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle skutečného stavu může být potřeba podklad obrousit, odstranit nesoudržné části, opravit trhliny, zpevnit, napenetrovat nebo použít vhodný epoxidový systém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve potom řešíme jeho finální vyrovnání.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Anhydrit potřebuje jiný přístup než beton",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Anhydritový potěr má jiné vlastnosti než cementový podklad a podle toho k němu musíme přistupovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou kontrolujeme především jeho stav, povrch a zbytkovou vlhkost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nových realizací je právě nedostatečně vyschlý potěr jedním z problémů, který není dobré řešit odhadem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad může na povrchu vypadat suchý, ale uvnitř může stále obsahovat příliš mnoho vlhkosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto tam, kde je to potřeba, vlhkost měříme a vycházíme z požadavků konkrétní podlahy, lepidla a celé skladby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Staré parkety nemusí vždy ven",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi zajímavou situací jsou staré parkety.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jsou pevné, stabilní a celá skladba to umožňuje, nemusí být automaticky nutné je vybourat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve ale musíme zjistit jejich skutečný stav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud se jednotlivé parkety pohybují, jsou uvolněné nebo je problém v podkladu pod nimi, pouhé překrytí další vrstvou problém nevyřeší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle situace lze parkety stabilizovat, opravit, přeložit nebo použít speciální systém pro vytvoření nového podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě kombinace starých parket a minerálního podkladu patří mezi případy, kde zkušenost s přípravou podkladu hraje zásadní roli.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Reálná realizace: parkety a špatný beton v jednom bytě",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V jednom z bytů jsme řešili podklad, který dobře ukazuje, proč nelze při rekonstrukci postupovat podle jednoho univerzálního návodu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Část bytu tvořily staré parkety s otevřenými spárami, další část velmi špatný betonový podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potřebovali jsme z těchto dvou rozdílných materiálů vytvořit jeden funkční podklad pro následnou pokládku nové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednoduše všechno zalít nivelační stěrkou by nebylo správné řešení.",
+    "center": false
    },
    {
     "t": "img",
@@ -14095,111 +14265,123 @@
     "align": ""
    },
    {
-    "t": "p",
-    "h": "Než bylo možné podklad sjednotit, bylo nutné <strong>stabilizovat parkety</strong>.",
+    "t": "h",
+    "l": 3,
+    "x": "Nejdříve bylo potřeba stabilizovat parkety",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Zatažení spár mezi parketami – první důležitý krok</strong>",
+    "h": "Otevřené spáry mezi parketami jsme nejprve zatáhli vhodným materiálem tak, abychom připravili povrch pro další technologické kroky.",
     "center": false
    },
    {
     "t": "p",
-    "h": "K tomu jsem použil:",
+    "h": "Zásadní bylo ověřit, že původní dřevěný podklad má dostatečnou stabilitu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nivelační stěrka totiž nedokáže vyřešit konstrukci, která se pod ní pohybuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve po stabilizaci jsme mohli pokračovat ve sjednocování celé plochy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Epoxidová pryskyřice a křemičitý písek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro další přípravu jsme použili epoxidový systém s křemičitým pískem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Epoxidová pryskyřice nám podle konkrétní aplikace umožňuje zpevnit a připravit problematický povrch a vytvořit vhodnou mezivrstvu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do čerstvé epoxidové vrstvy se aplikuje křemičitý písek, který po vytvrzení vytvoří hrubý povrch pro mechanické spojení s další vrstvou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Takové řešení používáme tam, kde to stav podkladu a zvolený technologický systém vyžadují.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde o univerzální recept pro každou podlahu. Materiál a postup vždy volíme podle konkrétní situace.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kritické místo: spojení dřeva a betonu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Největší pozornost bylo potřeba věnovat místu, kde se původní parkety potkávaly s betonem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo a minerální podklad mají rozdílné vlastnosti a rozdílně reagují na změny prostředí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud tento přechod pouze překryjeme stěrkou bez správné přípravy, může se časem objevit trhlina, která se přenese do dalších vrstev.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto u kombinovaných podkladů řešíme nejen rovinu, ale také stabilitu jednotlivých částí a jejich vzájemné napojení.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nivelační stěrka přichází až nakonec",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve po opravě, zpevnění a přípravě podkladu má smysl začít s jeho finálním vyrovnáním.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nivelační stěrku vybíráme podle:",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "<strong>plasbeton</strong>, kterým jsem zatáhl otevřené spáry mezi parketami."
+     "typu původního podkladu",
+     "požadované tloušťky vrstvy",
+     "budoucí podlahové krytiny",
+     "provozního zatížení",
+     "podlahového vytápění",
+     "a použitého technologického systému."
     ]
    },
    {
     "t": "p",
-    "h": "Tím došlo k:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "zpevnění povrchu parket,",
-     "omezení lokálního pohybu jednotlivých lamel,",
-     "a vytvoření lepšího podkladu pro další vrstvy."
-    ]
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Spojení parket a betonu epoxidovou pryskyřicí</strong>",
+    "h": "U problematických nebo kombinovaných podkladů lze podle systému pracovat také s výztužnými vlákny, tkaninou nebo dalšími prvky, které pomáhají vytvořit správnou skladbu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Klíčovým krokem celé realizace bylo <strong>sjednocení obou podkladů do jednoho funkčního celku</strong>.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Použitý postup:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "aplikace <strong>epoxidové pryskyřice EP 70</strong>,",
-     "<strong>zasypání křemičitým pískem</strong> do čerstvé vrstvy."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Tento krok má zásadní význam:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "epoxid podklad <strong>pevně spojí a uzavře</strong>,",
-     "křemičitý písek vytvoří <strong>mechanickou vazbu</strong> pro následující stěrku,",
-     "výrazně se sníží riziko oddělení vrstev."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Výsledkem je <strong>kompaktní, pevný a soudržný podklad</strong>, vhodný pro nivelaci.",
-    "center": false
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Volba nivelační stěrky: proč právě CA 20</strong>",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Na takto připravený podklad byla zvolena <strong>cementová nivelační stěrka CA 20</strong>.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Je vhodná pro:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "bytové prostory,",
-     "vyrovnání problematických podkladů,",
-     "a aplikaci v rozumných tloušťkách."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "CA 20 má však jednu vlastnost, se kterou je potřeba počítat –<br><strong>nemá výrazný tah</strong>.",
+    "h": "Nejdůležitější ale není značka na pytli.",
     "center": false
    },
    {
@@ -14211,114 +14393,322 @@
     "align": ""
    },
    {
-    "t": "hr"
+    "t": "p",
+    "h": "Důležité je vědět, proč daný materiál používáme a co od něj v konkrétní skladbě potřebujeme.",
+    "center": false
    },
    {
-    "t": "p",
-    "h": "<strong>Přidání vláken CRACKMUREX GL 250 – prevence trhlin</strong>",
+    "t": "h",
+    "l": 3,
+    "x": "OSB a Fermacell – i suchý podklad má svoje pravidla",
     "center": false
    },
    {
     "t": "p",
-    "h": "Aby se minimalizovalo riziko vzniku trhlin, přidal jsem do nivelační stěrky:",
+    "h": "Při rekonstrukcích často pracujeme také s OSB deskami, Fermacellem a dalšími deskovými materiály.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je potřeba kontrolovat nejen rovinnost, ale především pevnost celé konstrukce, spoje desek, jejich průhyb a způsob upevnění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Deskový podklad se chová jinak než beton.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud se konstrukce pohybuje, žádná tenká finální stěrka z ní sama o sobě pevnou podlahu neudělá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepených krytin je navíc potřeba správně připravit povrch tak, aby se spoje a pohyb desek později neprokreslily do finální podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Stará dlažba? Někdy může zůstat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani keramickou dlažbu není vždy nutné automaticky vybourat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je pevně spojená s podkladem, stabilní a celá skladba umožňuje její další použití, lze na ni v některých případech navázat vhodným systémem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve ale kontrolujeme jednotlivé dlaždice, dutá místa, rovinnost, povrch a výškové návaznosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy je zachování dlažby rozumné.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jindy je rychlejší a bezpečnější ji odstranit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhoduje skutečný stav, ne to, že „na dlažbu se přece dá položit všechno“.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Praskliny v podkladu se nesmí jen schovat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Prasklina v betonu nebo potěru je informace, že se v konstrukci něco stalo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto ji před dalšími pracemi potřebujeme posoudit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle typu a charakteru trhliny lze použít například epoxidovou pryskyřici, mechanické sešití nebo jiný opravný systém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotné překrytí praskliny nivelační stěrkou není oprava.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud nevyřešíme příčinu nebo pohyb konstrukce, může se trhlina znovu projevit v nové vrstvě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Výškové rozdíly mezi místnostmi",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dalším častým problémem při rekonstrukcích jsou různé výšky podlah.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V jedné místnosti bývaly parkety, vedle dlažba, jinde koberec a po jejich odstranění zjistíme, že každý pokoj začíná v jiné výšce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už nejde pouze o to „udělat podlahu rovnou“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potřebujeme předem spočítat výšku nové krytiny, lepidla nebo podložky, návaznost na dveře, zárubně, schody a ostatní místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správná příprava podkladu proto často začíná ještě před samotným vyrovnáváním – výškovým zaměřením celé realizace.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podlahové vytápění vyžaduje další kontrolu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je v podkladu podlahové vytápění, přibývají další požadavky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nových potěrů řešíme především topnou zkoušku, vyhřátí podkladu, zbytkovou vlhkost a vhodnost následných materiálů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zároveň musíme vědět, kde se topné okruhy nacházejí, pokud plánujeme zásah do podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A samozřejmě vybíráme systém, který je pro podlahové vytápění vhodný.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad připravujeme podle podlahy, která na něj přijde",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jinak připravujeme podklad pro lepený vinyl LVT, jinak pro dřevěnou podlahu a jiné požadavky může mít plovoucí RIGID nebo laminát.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Především u tenkých lepených podlah je kvalita finálního povrchu velmi důležitá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Co necháme pod tenkou krytinou, může být později vidět nahoře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucí podlahy zase potřebujeme dostatečnou rovinnost a stabilitu, aby se podlaha při chůzi nadměrně nepohybovala a nebyly namáhány zámkové spoje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto nepřipravujeme podklad univerzálně. Připravujeme ho pro konkrétní podlahu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co všechno tedy dokážeme při přípravě podkladu řešit?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního stavu realizujeme například:",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "<strong>vlákna CRACKMUREX GL 250</strong>."
+     "broušení a čištění podkladu",
+     "odstranění nesoudržných vrstev",
+     "opravy a sešívání trhlin",
+     "zpevnění problematických podkladů",
+     "epoxidové systémy s křemičitým pískem",
+     "penetrace podle typu podkladu",
+     "lokální opravy",
+     "vyrovnání výškových rozdílů",
+     "stabilizaci problematických částí",
+     "práci s výztužnými systémy",
+     "nivelační a vyrovnávací stěrky",
+     "přípravu starých parket, OSB, Fermacellu nebo dlažby",
+     "přípravu podkladu pro lepený vinyl, dřevěné i plovoucí podlahy."
     ]
    },
    {
     "t": "p",
-    "h": "Tato vlákna:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "zvyšují <strong>pružnost stěrky</strong>,",
-     "pomáhají rozložit pnutí v ploše,",
-     "výrazně snižují riziko <strong>vlasových prasklin</strong>,",
-     "a jsou ideální právě tam, kde se potkávají různé materiály (dřevo / beton)."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Díky této kombinaci vznikla <strong>odolná a stabilní vyrovnávací vrstva</strong>, připravená pro finální podlahovou krytinu.",
-    "center": false
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Výsledek: sjednocený a stabilní podklad</strong>",
+    "h": "Nejde ale o to použít co nejvíce materiálů.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Po vytvrdnutí stěrky vznikl:",
+    "h": "Dobře připravený podklad je ten, kde použijeme právě to, co konkrétní konstrukce skutečně potřebuje.",
     "center": false
    },
    {
-    "t": "ul",
-    "items": [
-     "rovný,",
-     "soudržný,",
-     "mechanicky odolný podklad,"
-    ]
-   },
-   {
-    "t": "p",
-    "h": "který je vhodný pro:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "lepený vinyl,",
-     "SPC / RIGID podlahy,",
-     "i další moderní podlahové krytiny."
-    ]
-   },
-   {
-    "t": "p",
-    "h": "Bez správné přípravy by žádná kvalitní podlaha neměla dlouhou životnost.",
-    "center": false
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Proč se vyplatí svěřit přípravu podkladu odborníkovi</strong>",
+    "t": "h",
+    "l": 3,
+    "x": "Proč přípravu podkladu nepodceňujeme",
     "center": false
    },
    {
     "t": "p",
-    "h": "Příprava podkladu není „neviditelná práce“.<br>Je to <strong>nejdůležitější část celé realizace</strong>, která rozhoduje o tom, jestli:",
+    "h": "Podklad po dokončení nové podlahy už nikdo neuvidí.",
     "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "podlaha vydrží roky,",
-     "nebo se začne po krátké době reklamovat."
-    ]
    },
    {
     "t": "p",
-    "h": "Každý podklad je jiný a vyžaduje:",
+    "h": "A právě proto je tak snadné na něm šetřit.",
     "center": false
    },
    {
-    "t": "ul",
-    "items": [
-     "správnou diagnostiku,",
-     "volbu vhodných materiálů,",
-     "a zkušenost z praxe."
-    ]
+    "t": "p",
+    "h": "Jenže problémy, které se pod podlahou schovají, se mohou později projevit jako praskliny, spáry, vrzání, pohyb podlahy, prokreslení nerovností nebo odtržení lepené krytiny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A v tu chvíli už bývá oprava podstatně složitější a dražší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto raději problém vyřešíme ve chvíli, kdy je podklad ještě odkrytý.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Máte problematický podklad? Nejdříve zjistíme, co s ním",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Křivý beton, popraskaný potěr, staré parkety, OSB, dlažba nebo kombinace několika materiálů ještě neznamenají, že je nutné všechno vybourat a začít od nuly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak ale není správné všechno bez rozmyslu překrýt stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý podklad nejdříve posoudíme a podle jeho skutečného stavu navrhneme vhodný technologický postup.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "S podlahami pracujeme od roku 2003 a za tu dobu jsme řešili řadu standardních i velmi nestandardních podkladů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naším cílem není pouze položit novou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naším cílem je vytvořit pod ní takový podklad, aby celá skladba dlouhodobě fungovala.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podlahy Šťastný – příprava a vyrovnání podkladů pod podlahy v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Řešíme přípravu podkladu, opravy trhlin, nivelaci, problematické a kombinované podklady i kompletní realizaci nové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si nejste jistí, co se skrývá pod vaší současnou podlahou, nemusíte předem znát řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Od toho jsme tady my.",
+    "center": false
    },
    {
     "t": "p",
