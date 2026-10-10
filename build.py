@@ -163,7 +163,7 @@ for p in PAGES:
     desc = p['description'] or excerpt(p, 155)
     if section and section['title'] == 'Reference' and reno:
         section['items'].insert(-1 if section['items'][-1]['title'] == 'Ke stažení' else len(section['items']), {'path': '/rekonstrukce-a-renovace-podlah/#ukazky', 'title': 'Renovace parket a dřevěných podlah'})
-    jump = any(b.get('anchor') == 'ukazky' for b in blocks)
+    jump = False  # tlačítko Ukázky na podstránkách zrušeno (10. 10. 2026, přání klienta)
     P = dict(p, blocks=blocks, reviews=reviews, jump=jump, lead=lead, cover=cover, crumbs=[{'path': c['path'], 'title': c['title']} for c in crumbs], section=section, children=children, empty_note=empty_note)
     nav_active = next((n['h'] for n in S['nav'] if n['h'] != '/' and p['path'].startswith(n['h'])), '')
     write(p['path'], tpl.render(S=S, P=P, R=R, L=L, IM=IM, V=V, title=p['seo_title'] or p['title'], description=desc,
