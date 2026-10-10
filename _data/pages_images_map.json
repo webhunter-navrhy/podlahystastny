@@ -10073,5 +10073,10 @@
   "f": "esco-karel-iv.webp",
   "w": 1000,
   "h": 1000
+ },
+ "local://esco/KOLONIAL": {
+  "f": "esco-kolonial.webp",
+  "w": 1000,
+  "h": 1000
  }
 }

@@ -11922,6 +11922,14 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "local://esco/KOLONIAL",
+    "alt": "Dřevěná podlaha ESCO Kolonial",
+    "w": 1000,
+    "h": 1000,
+    "align": ""
+   },
+   {
     "t": "p",
     "h": "Kolonial patří mezi typické podlahy ESCO.",
     "center": false
