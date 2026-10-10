@@ -18163,6 +18163,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "local://schody/3n",
+    "alt": "Schodová hrana z třívrstvé dřevěné podlahy s nosem",
+    "w": 800,
+    "h": 533,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "p",
     "h": "Z podlahového prkna, které používáme v místnosti, dokážeme vyrobit schodovou hranu na míru a stejným materiálem pokračovat přes nášlap schodu.",
     "center": false
@@ -18178,6 +18187,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "local://schody/3p",
+    "alt": "Schodová hrana z třívrstvé dřevěné podlahy s podstupnicí",
+    "w": 800,
+    "h": 533,
+    "align": "left",
+    "big": false
+   },
+   {
     "t": "p",
     "h": "Hledat dodatečně jiný dubový schod ve „skoro stejné“ barvě může skončit tím, že rozdíl bude po dokončení interiéru ještě výraznější.",
     "center": false
@@ -18186,24 +18204,6 @@
     "t": "p",
     "h": "Pokud použijeme stejnou podlahu, kterou pokládáme v místnosti, schodiště s ní přirozeně souvisí.",
     "center": false
-   },
-   {
-    "t": "img",
-    "src": "local://schody/3n",
-    "alt": "Schodová hrana z třívrstvé dřevěné podlahy s nosem",
-    "w": 800,
-    "h": 533,
-    "align": "",
-    "big": true
-   },
-   {
-    "t": "img",
-    "src": "local://schody/3p",
-    "alt": "Schodová hrana z třívrstvé dřevěné podlahy s podstupnicí",
-    "w": 800,
-    "h": 533,
-    "align": "",
-    "big": true
    },
    {
     "t": "h",
@@ -18217,6 +18217,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "local://schody/mn",
+    "alt": "Schodová hrana z masivního dřeva s nosem",
+    "w": 800,
+    "h": 533,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "p",
     "h": "Masiv nám dává velké možnosti při výrobě atypických rozměrů a detailů a můžeme jej použít jak u nové masivní podlahy, tak při řešení schodiště navazujícího na jiný typ dřevěné podlahy.",
     "center": false
@@ -18225,6 +18234,15 @@
     "t": "p",
     "h": "Podle konkrétní realizace lze vyrobit masivní schodové hrany, nášlapy nebo celé stupně na míru.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "local://schody/m1",
+    "alt": "Schodová hrana z masivního dřeva s podstupnicí",
+    "w": 800,
+    "h": 533,
+    "align": "left",
+    "big": false
    },
    {
     "t": "p",
@@ -18238,30 +18256,12 @@
    },
    {
     "t": "img",
-    "src": "local://schody/mn",
-    "alt": "Schodová hrana z masivního dřeva s nosem",
-    "w": 800,
-    "h": 533,
-    "align": "",
-    "big": true
-   },
-   {
-    "t": "img",
-    "src": "local://schody/m1",
-    "alt": "Schodová hrana z masivního dřeva s podstupnicí",
-    "w": 800,
-    "h": 533,
-    "align": "",
-    "big": true
-   },
-   {
-    "t": "img",
     "src": "local://schody/m2",
     "alt": "Schodová hrana z masivního dřeva s podstupnicí – druhý pohled",
     "w": 800,
     "h": 533,
-    "align": "",
-    "big": true
+    "align": "right",
+    "big": false
    },
    {
     "t": "h",
