@@ -18014,86 +18014,447 @@
   "order": 6,
   "path": "/schodove-hrany/",
   "title": "Schodové hrany",
-  "seo_title": "Schodové hrany - Podlahy Šťastný",
-  "description": "SCHODOVÉ HRANY Z RIGIDNÍHO VINYLU A TŘÍVRSTVÉ DŘEVĚNÉ PODLAHY Schodové hrany na míru z vinylových podlah – Rigid i HDF Vyrábíme precizní schodové hrany z vinylových podlah Rigid i variant s nosnou HDF deskou. Každý schod je přesně přizpůsoben konkrétní podlaze, což zajišťuje dokonalou vizuální kontinuitu mezi podlahovou krytinou a schodištěm. • Rigidní vinylové schodové",
+  "seo_title": "Schodové hrany z vinylu a dřeva na míru - Podlahy Šťastný",
+  "description": "Schodové hrany z vinylových, třívrstvých dřevěných i masivních podlah na míru. Schody ve stejném designu jako podlaha, obložení betonových schodišť, podesty a atypické stupně. Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
     "t": "h",
     "l": 2,
-    "x": "SCHODOVÉ HRANY Z RIGIDNÍHO VINYLU A TŘÍVRSTVÉ DŘEVĚNÉ PODLAHY",
+    "x": "Schodové hrany z vinylových a dřevěných podlah – schody ve stejném designu jako podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máte vybranou krásnou podlahu a v interiéru zároveň schodiště?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nemusíte hledat schodové stupně v podobném odstínu a doufat, že budou s podlahou alespoň trochu ladit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Schodové hrany dokážeme vyrobit přímo z podlahy, kterou používáme v daném interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního materiálu vyrábíme schodové hrany a obkládáme schodiště z vinylových podlah, třívrstvých dřevěných podlah i masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu může podlaha z místnosti přirozeně pokračovat na schodiště ve stejném dekoru, odstínu a povrchové úpravě.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Schodové hrany na míru z vinylových podlah – Rigid i HDF",
+    "l": 3,
+    "x": "Podlaha a schodiště jako jeden celek",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Vyrábíme precizní schodové hrany z vinylových podlah Rigid i variant s nosnou HDF deskou. Každý schod je přesně přizpůsoben konkrétní podlaze, což zajišťuje dokonalou vizuální kontinuitu mezi podlahovou krytinou a schodištěm.</strong>",
+    "h": "Právě návaznost podlahy na schody bývá při návrhu interiéru často podceňovaný detail.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>• Rigidní vinylové schodové hrany jsou vysoce odolné vůči vlhkosti, teplotním výkyvům a mechanickému opotřebení. Díky své stabilní konstrukci bez nutnosti podkladové vrstvy poskytují pevnost a dlouhou životnost. Jsou ideální do prostor s vyšší zátěží, jako jsou komerční interiéry nebo domácnosti s dětmi a domácími mazlíčky.</strong>",
+    "h": "Vyberete dubovou podlahu, položí se celé patro a teprve potom přijde otázka:",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>• Vinylové hrany na HDF desce kombinují pevný nosný materiál s příjemným a teplým došlapem. Tento typ je vhodný do bytových i kancelářských prostor, kde je kladen důraz na estetiku, komfort a snadnou instalaci. HDF jádro zajišťuje tvarovou stabilitu a eliminuje prohýbání.</strong>",
+    "h": "A co uděláme se schody?",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Naše schodové hrany jsou vyráběny s precizními nášlapnými profily, které minimalizují riziko uklouznutí. Díky odbornému zpracování dosahujeme nejen perfektního vzhledu, ale také dlouhé životnosti a snadné údržby.</strong>",
+    "h": "Pokud se na schodiště následně použije jiný materiál nebo pouze podobný odstín, rozdíl může být vidět.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "My proto schodiště řešíme ideálně společně s podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ze stejného materiálu vytvoříme schodovou hranu, nášlapnou část stupně a podle návrhu také další části obložení schodiště.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem není schod s dodatečně připevněným univerzálním profilem, ale detail navržený jako součást celé podlahy.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Schodové hrany na míru z dřevěných třivrstvých podlah",
+    "l": 3,
+    "x": "Schodové hrany z vinylové podlahy",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Hledáte jednotný a elegantní vzhled pro svůj interiér?</strong>",
+    "h": "Schodiště můžeme obložit také stejnou vinylovou podlahou, která pokračuje v místnosti nebo na jednotlivých podlažích domu.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Nabízíme řešení, které propojí vaše podlahy a schodiště do harmonického celku. Specializujeme se na úpravu dřevěné třívrstvé podlahy, ze které vyrábíme schodové hrany na míru. Díky tomu můžeme jakékoli schodiště obložit stejným materiálem, jaký používáme na podlahu, což zajistí dokonalou estetickou i funkční kontinuitu.</strong>",
+    "h": "Podle konkrétního výrobku a jeho konstrukce vytvoříme schodovou hranu tak, aby navazovala na dekor nášlapné plochy.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Naše schodové hrany nevyrábíme sériově, ale přizpůsobujeme je konkrétním požadavkům každé realizace. Výsledkem je precizní zpracování, které zajišťuje dlouhou životnost a vysokou odolnost. Ať už řešíte rekonstrukci nebo novostavbu, naše řešení vám přinese nejen krásný design, ale i bezpečnost a pohodlí při každém kroku.</strong>",
+    "h": "To je zajímavé především u dekorů dřeva.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Ozvěte se nám a my vám pomůžeme vytvořit dokonalý interiér, kde podlaha a schodiště tvoří jeden celek!</strong>",
+    "h": "Pokud například pokládáme dubový vinyl v obytné části domu, nemusíme na schody hledat jiný materiál v přibližně podobné barvě. Použijeme stejný dekor i na schodiště.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rigid, SPC i vinyl na HDF nosiči",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Chcete, aby vaše podlaha a schodiště dokonale ladily? My to umíme!</strong>",
+    "h": "Pracujeme s různými konstrukcemi vinylových podlah.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Jako jedni z mála dokážeme vyrobit schodové hrany přesně z té samé dřevěné třívrstvé podlahy, kterou pokládáme. Žádné kompromisy, žádné odlišné dekory – vaše schodiště bude plynule navazovat na podlahu a vytvoří dokonalý vizuální i materiálový soulad.</strong>",
+    "h": "Podle konkrétního výrobku dokážeme řešit schodové hrany z Rigid/SPC vinylu i z podlah s HDF nosnou deskou.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Naše schodové hrany vyrábíme na zakázku, přesně na míru vašemu schodišti. To znamená, že nemusíte volit mezi estetikou a kvalitou – dostanete obojí. Díky preciznímu opracování a povrchové úpravě vám schody vydrží roky v perfektním stavu a budou nejen krásné, ale i bezpečné a příjemné na došlap.</strong>",
+    "h": "Každá konstrukce ale vyžaduje trochu jiný způsob zpracování.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Investujte do detailu, který pozvedne váš interiér na vyšší úroveň. Dejte svému domovu jedinečný styl – bez kompromisů!</strong>",
+    "h": "Proto nejdříve potřebujeme znát konkrétní podlahu a konstrukci schodiště. Teprve podle toho navrhujeme vhodný způsob výroby hrany a samotného obložení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne každou podlahu je možné zpracovat úplně stejným způsobem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Schodové hrany z třívrstvé dřevěné podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi pěkného výsledku dosahujeme u třívrstvých dřevěných podlah.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Z podlahového prkna, které používáme v místnosti, dokážeme vyrobit schodovou hranu na míru a stejným materiálem pokračovat přes nášlap schodu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu zůstává zachována stejná dřevina, třídění, kresba, odstín i povrchová úprava.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je důležité především u přírodního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hledat dodatečně jiný dubový schod ve „skoro stejné“ barvě může skončit tím, že rozdíl bude po dokončení interiéru ještě výraznější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud použijeme stejnou podlahu, kterou pokládáme v místnosti, schodiště s ní přirozeně souvisí.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "local://schody/3n",
+    "alt": "Schodová hrana z třívrstvé dřevěné podlahy s nosem",
+    "w": 800,
+    "h": 533,
+    "align": "",
+    "big": true
+   },
+   {
+    "t": "img",
+    "src": "local://schody/3p",
+    "alt": "Schodová hrana z třívrstvé dřevěné podlahy s podstupnicí",
+    "w": 800,
+    "h": 533,
+    "align": "",
+    "big": true
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Schodové hrany z masivního dřeva",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Schodiště samozřejmě umíme řešit také z masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masiv nám dává velké možnosti při výrobě atypických rozměrů a detailů a můžeme jej použít jak u nové masivní podlahy, tak při řešení schodiště navazujícího na jiný typ dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní realizace lze vyrobit masivní schodové hrany, nášlapy nebo celé stupně na míru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou výhodou je možnost dalšího opracování dřeva – broušení, tónování a následná povrchová úprava olejem nebo lakem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu můžeme výsledný vzhled sladit s podlahou i dalšími dřevěnými prvky interiéru.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "local://schody/mn",
+    "alt": "Schodová hrana z masivního dřeva s nosem",
+    "w": 800,
+    "h": 533,
+    "align": "",
+    "big": true
+   },
+   {
+    "t": "img",
+    "src": "local://schody/m1",
+    "alt": "Schodová hrana z masivního dřeva s podstupnicí",
+    "w": 800,
+    "h": 533,
+    "align": "",
+    "big": true
+   },
+   {
+    "t": "img",
+    "src": "local://schody/m2",
+    "alt": "Schodová hrana z masivního dřeva s podstupnicí – druhý pohled",
+    "w": 800,
+    "h": 533,
+    "align": "",
+    "big": true
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nejde pouze o schodovou hranu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při obkládání schodiště není důležitá jen přední hrana.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Řešíme celý detail:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "nášlap, čelo schodu, napojení na podlahu, boční zakončení, první a poslední stupeň i návaznost na podestu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě první a poslední schod bývají místa, kde se musí správně propojit několik různých výšek a materiálů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud se schodiště řeší společně s novou podlahou, můžeme si předem připravit potřebné výšky a návaznosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je podstatně lepší než hledat řešení až ve chvíli, kdy je podlaha hotová a schody mají jinou konstrukční výšku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Každé schodiště je trochu jiné",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Schodové hrany proto nevnímáme jako univerzální výrobek, který vytáhneme z regálu a pouze zkrátíme na potřebnou délku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vyrábíme je podle konkrétní podlahy a konkrétního schodiště.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jinak budeme řešit rovné betonové schodiště v novostavbě, jinak staré schody při rekonstrukci a jinak několik stupňů mezi dvěma úrovněmi podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Řešit dokážeme také podesty, atypické stupně a různé přechody mezi podlahou a schodištěm.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Betonové schody musí být nejdříve správně připravené",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně jako u podlahy ani u schodiště nestačí mít pouze pěkný finální materiál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud obkládáme betonové schody, kontrolujeme jejich rovinnost, pevnost a především výšky jednotlivých stupňů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po přidání podlahy a obložení se totiž mění výsledná výška nášlapu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je potřeba celou skladbu spočítat tak, aby po dokončení nevznikl první nebo poslední schod výrazně vyšší či nižší než ostatní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle stavu podkladu proto schody před samotným obkládáním opravujeme a připravujeme pro následné lepení.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Detail schodové hrany vyrábíme podle konkrétní podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou výhodou zakázkové výroby je, že nejsme odkázáni pouze na hotovou schodovou hranu, kterou nabízí výrobce podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U vhodných podlah si dokážeme detail vyrobit a přizpůsobit konkrétní realizaci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To nám umožňuje řešit rozměr nášlapu, přesah hrany, tloušťku konstrukce i způsob napojení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě díky tomu můžeme pracovat také s podlahami, u kterých výrobce žádnou hotovou schodovou hranu v daném dekoru nenabízí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jedna podlaha od místnosti až po poslední schod",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je podle nás největší výhoda tohoto řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máte například dubovou třívrstvou podlahu, může stejný dub pokračovat na schodiště.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jste si vybrali vinyl v konkrétním dekoru, nemusí se před schody najednou změnit na jiný materiál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud realizujeme masivní dřevěnou podlahu, dokážeme navázat masivními schodovými prvky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha a schodiště tak nevypadají jako dvě samostatné zakázky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vypadají jako jeden promyšlený celek.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Schodové hrany na míru a obložení schodiště v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěným a vinylovým podlahám se věnujeme od roku 2003 a kromě samotné pokládky řešíme také detaily, které s podlahou souvisejí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vyrábíme a realizujeme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "schodové hrany z vinylových podlah",
+     "schodové hrany z třívrstvých dřevěných podlah",
+     "schodové hrany a nášlapy z masivního dřeva",
+     "obložení betonových schodišť",
+     "podesty a atypické stupně",
+     "návaznosti schodiště na podlahu",
+     "přípravu a vyrovnání podkladu schodů"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Pokud chcete, aby nová podlaha pokračovala také na schodiště ve stejném designu, je nejlepší řešit obě části současně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme tak už při výběru podlahy posoudit, jak z konkrétního materiálu schodovou hranu vyrobíme a jak celé schodiště technicky provedeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy Šťastný – podlaha nemusí končit u prvního schodu.",
     "center": false
    },
    {

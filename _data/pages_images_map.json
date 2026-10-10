@@ -10093,5 +10093,30 @@
   "f": "smartwood-2.webp",
   "w": 702,
   "h": 725
+ },
+ "local://schody/3n": {
+  "f": "schodove-hrany-3n.webp",
+  "w": 800,
+  "h": 533
+ },
+ "local://schody/3p": {
+  "f": "schodove-hrany-3p.webp",
+  "w": 800,
+  "h": 533
+ },
+ "local://schody/mn": {
+  "f": "schodove-hrany-mn.webp",
+  "w": 800,
+  "h": 533
+ },
+ "local://schody/m1": {
+  "f": "schodove-hrany-m1.webp",
+  "w": 800,
+  "h": 533
+ },
+ "local://schody/m2": {
+  "f": "schodove-hrany-m2.webp",
+  "w": 800,
+  "h": 533
  }
 }
