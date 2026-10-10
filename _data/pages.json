@@ -14084,11 +14084,7066 @@
   "parent": 0,
   "order": 17,
   "path": "/blog/",
-  "title": "Blog",
-  "seo_title": "Blog - Podlahy Šťastný",
-  "description": "Příprava podkladu pod podlahu: křivý beton, anhydrit, staré parkety, OSB, dlažba i praskliny. Jak podklad posoudit a vyrovnat před pokládkou. Podlahy Šťastný, Praha.",
+  "title": "Podlahář radí",
+  "seo_title": "Podlahář radí - Podlahy Šťastný",
+  "description": "Podlahář radí: příprava podkladu, SPC a lepený vinyl, třívrstvé dřevěné podlahy, nové i renovované parkety. Praktické rady z podlahářské praxe. Podlahy Šťastný, Praha.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jak správně připravit podklad a položit SPC podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC podlahy jsou pevné, rozměrově stabilní, odolné proti vodě a při správné pokládce dokážou bez problémů sloužit mnoho let. To ale neznamená, že je můžeme položit na cokoliv a jakkoliv.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Z naší zkušenosti je největší chybou představa, že pevný SPC dílec „srovná“ nebo schová nedokonalosti podkladu. Neschová. Naopak – špatně připravený podklad se může časem projevit vrzáním, pohybem podlahy, namáháním zámkových spojů nebo jejich poškozením.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto u nás platí jednoduché pravidlo:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní SPC podlaha začíná kvalitně připraveným podkladem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nejdříve stavbu dokončit, potom pokládat podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC podlahu není vhodné vozit na rozestavěnou stavbu, kde se ještě omítá, maluje nebo probíhají jiné mokré procesy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou by měla být místnost stavebně uzavřená – tedy osazená okna a vstupní dveře – a dokončené práce, které výrazně zvyšují vzdušnou vlhkost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Prostor musí být suchý a stabilizovaný. Pokud se pod místností nachází sklep nebo jiný nevytápěný prostor, je důležité, aby ani odtud nevznikal problém s nadměrnou vlhkostí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC podlahy lze podle konkrétního typu použít v obývacích pokojích, ložnicích, chodbách, kuchyních, koupelnách i komerčních prostorách. Vždy je ale potřeba respektovat zátěžovou třídu konkrétní podlahy a technické podmínky výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Aklimatizace SPC podlahy před pokládkou",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani SPC podlahu nedoporučujeme přivézt z chladného skladu nebo auta a okamžitě začít pokládat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Materiál necháváme před montáží v místnosti, kde bude instalován, aby se přizpůsobil místním podmínkám.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obecně doporučujeme ponechat podlahu v originálním balení v místě pokládky minimálně 24 hodin, pokud výrobce konkrétního výrobku neurčuje jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Balení skladujeme naležato na rovném a suchém podkladu. Neměla by být opřená o stěnu ani položená tak, aby se jednotlivé dílce mohly deformovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teplota v místnosti by měla být přibližně 18 až 29 °C.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rovný podklad je u SPC naprostý základ",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je jedna z věcí, kterou zákazníkům vysvětlujeme nejčastěji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC je sice pevná podlaha, ale právě její pevnost znamená, že potřebuje kvalitní a dostatečně rovný podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nerovnost podlahy se nemusí projevit okamžitě. Podlaha může po položení vypadat perfektně, ale při chůzi se některá místa začnou mírně prohýbat. Tím dochází k opakovanému namáhání zámkových spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem může být pohyb podlahy, vrzání, rozevírání spojů nebo v krajním případě poškození zámku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto podklad před pokládkou vždy kontrolujeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U konkrétní SPC podlahy je nutné dodržet toleranci rovinnosti stanovenou jejím výrobcem. U některých systémů se například pracuje s maximální nerovností kolem 5 mm na délce 2 metrů a lokálně přibližně 2 mm na 1 metr, ale tyto hodnoty nelze automaticky použít pro každý výrobek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Technický list konkrétní SPC podlahy má vždy přednost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud podklad požadovanou rovinnost nesplňuje, musí se před pokládkou upravit – například broušením, lokální opravou nebo vhodnou vyrovnávací či samonivelační stěrkou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad musí být pevný, čistý a bez pohybu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nestačí pouze rovina.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad pod SPC podlahou musí být také pevný, soudržný, suchý a čistý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před montáží proto odstraňujeme prach, písek, zbytky barev, lepidel, oleje, mastnotu a další nečistoty. Nesoudržná místa je potřeba opravit a praskliny v podkladu vhodným způsobem sanovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad před samotnou pokládkou zpravidla přebrousíme podle jeho stavu a důkladně vysajeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Malé kamínky, zbytky stavebních hmot nebo hrubé nečistoty pod plovoucí SPC podlahou rozhodně nejsou něco, co by se mělo ignorovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vlhkost podkladu – věc, kterou není radno odhadovat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To, že beton nebo anhydrit na pohled vypadá suchý, ještě neznamená, že skutečně suchý je.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou proto doporučujeme změřit zbytkovou vlhkost podkladu a výsledek zaznamenat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Orientační maximální hodnoty mohou být podle konkrétního systému například:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "cementový/betonový podklad do 2 % CM",
+     "anhydritový podklad do 0,5 % CM",
+     "dřevěný podklad přibližně do 12 %"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "U podlahového topení bývají požadavky přísnější. U některých systémů se pracuje přibližně s hodnotami do 1,5 % CM u cementového potěru a do 0,3 % CM u anhydritu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani tady ale není správné slepě používat jedno číslo pro všechny podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhodující je vždy montážní předpis výrobce konkrétní SPC podlahy a podmínky celé skladby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Můžeme SPC položit na starou dlažbu?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V řadě případů ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stávající keramická dlažba ale musí být pevná, nesmí se uvolňovat a její povrch musí splňovat požadovanou rovinnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucí pokládky je navíc důležité zkontrolovat spáry. Pokud jsou příliš široké nebo hluboké, mohou se časem negativně projevit na nové podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U některých systémů se připouštějí spáry přibližně do 5 mm šířky a 2 mm hloubky. Vždy ale kontrolujeme požadavky výrobce konkrétní podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při celoplošném lepení se dlažba zpravidla musí vhodně připravit, odmastit, použít odpovídající adhezní můstek a podle stavu povrch přestěrkovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Starou dlažbu tedy není nutné automaticky vybourat. Nejdříve je potřeba zjistit, v jakém je stavu a jaká skladba nové podlahy se na ni bude pokládat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "SPC na OSB nebo dřevěný podklad",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC podlahu lze za určitých podmínek instalovat také na OSB, dřevotřískové nebo jiné vhodné konstrukční desky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady ale platí ještě více než u betonu:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad se nesmí při chůzi prohýbat ani pohybovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná konstrukce musí být dostatečně tuhá a desky musí být správně upevněné. U některých skladeb používáme dvě vrstvy konstrukčních desek položené s přesazenými spoji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé vrstvy se vhodně spojují a hlavy vrutů musí být zapuštěné tak, aby nevystupovaly nad rovinu podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spoje desek nesmí vytvářet výrazné výškové přechody.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud se OSB při zatížení prohýbá, není řešením na ni jednoduše položit SPC. Nejdříve je potřeba vyřešit samotnou konstrukci podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kam SPC podlahu naopak nepokládáme",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Novou SPC podlahu nepokládáme přímo na měkký a nestabilní podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Typickým příkladem jsou:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "koberce",
+     "měkké PVC krytiny",
+     "měkké pěnové podložky, které nejsou určené pro daný SPC systém",
+     "nestabilní nebo pružící staré podlahové konstrukce"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Příliš měkký podklad dovolí SPC dílcům při zatížení pohyb, a tím se zbytečně namáhají zámkové spoje.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kontrola SPC dílců ještě před pokládkou",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každé balení doporučujeme před a během montáže průběžně kontrolovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Sledujeme především dekor, odstín, povrch, případné mechanické poškození a stav zámkových spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud má dílec viditelnou vadu, nepokládáme ho s tím, že se to vyřeší později.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po zabudování viditelně vadného dílce může být následná reklamace velmi problematická.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Současně kontrolujeme čísla výrobních šarží. Mezi různými výrobními sériemi mohou existovat drobné barevné nebo odstínové rozdíly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ideální je proto použít pro jednu souvislou plochu materiál ze stejné výrobní šarže.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podlahu pokládáme z více balíků současně",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dekor SPC podlahy má napodobovat skutečné dřevo, kámen nebo jiný přírodní materiál. Jednotlivé lamely proto nemusí vypadat úplně stejně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při pokládce odebíráme dílce z několika otevřených balení současně a průběžně kontrolujeme výsledný vzhled plochy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu nevzniknou na jednom místě příliš podobné lamely nebo naopak výrazně odlišná skupina dekorů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to maličkost, která může výsledný vzhled podlahy zásadně ovlivnit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kolik SPC podlahy objednat navíc?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Objednávat přesně tolik metrů, kolik má místnost, většinou nedává smysl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při běžné pokládce doporučujeme počítat přibližně s 5–7 % materiálu navíc.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U členitých místností, většího množství rohů, nik, sloupů nebo při diagonální pokládce může být rozumná rezerva kolem 10 %, někdy i více.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Záleží samozřejmě také na formátu dílců a půdorysu místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A jedna rada z praxe: pokud po dokončení několik celých lamel zůstane, nevyhazujte je. Uložte je. Za několik let se může stejný dekor nebo výrobní šarže shánět velmi obtížně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dilatace SPC podlahy – malá mezera, velký význam",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani rozměrově stabilní SPC podlahu nepokládáme natěsno ke stěnám.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obvodovou dilataci provádíme vždy, pokud montážní předpis konkrétního systému nestanovuje speciální řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dilataci je potřeba zachovat také kolem pevných stavebních konstrukcí – například sloupů, schodišť, trubek, zárubní a dalších prvků.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U některých moderních SPC systémů výrobce umožňuje vytvořit velmi rozsáhlou souvislou plochu bez přerušení ve dveřích. Může jít například až o plochu přibližně 15 × 15 metrů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že toto pravidlo platí pro všechny SPC podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vždy rozhoduje konkrétní zámkový systém a montážní předpis výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pozor na těžký nábytek a kuchyňské linky",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je potřeba rozlišovat mezi plovoucí a celoplošně lepenou SPC podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepené podlahy je situace jiná, protože jednotlivé dílce jsou pevně spojeny s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucí podlahy je ale potřeba dávat pozor na pevně zabudované kuchyňské linky, ostrůvky, vestavěný nábytek a další těžké konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Plovoucí podlaha musí mít možnost přirozeného pohybu. Pokud ji na několika místech pevně sevřeme, může vzniknout problém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto vždy doporučujeme řešit pořadí montáže a konkrétní skladbu ještě před instalací kuchyně nebo vestavěného nábytku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "SPC podlaha a podlahové topení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC podlahy se s podlahovým topením obecně snášejí velmi dobře, ale pouze tehdy, pokud je konkrétní výrobek pro tento způsob použití schválen.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitá není pouze samotná podlaha, ale celá skladba – podklad, případná podložka, způsob montáže a tepelný odpor jednotlivých vrstev.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nového potěru musí být před pokládkou dokončen předepsaný topný nebo nahřívací protokol a podklad musí mít odpovídající zbytkovou vlhkost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahové topení proto není důvod k obavám. Je ale důvodem udělat přípravu podlahy pořádně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Plovoucí, nebo lepená SPC podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obě varianty mají své místo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Plovoucí SPC podlaha se zámkovým spojem umožňuje rychlejší montáž a není pevně spojená s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Celoplošně lepené řešení naopak vytváří pevnější kontakt s podkladem a v některých prostorách může být vhodnější například kvůli vysokému zatížení, akustice nebo podlahovému topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nelze jednoduše říct, že jedna varianta je vždy lepší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správné řešení vybíráme podle konkrétní místnosti, stavu podkladu, zatížení a požadavků zákazníka.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nepodceňujte to, co pod hotovou podlahou nebude vidět",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U podlah se zákazník přirozeně nejvíce soustředí na dekor. Dub světlý, tmavý, rustikální, kámen, velký formát…",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "My podlaháři se ale před pokládkou díváme hlavně dolů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zajímá nás rovinnost, pevnost a vlhkost podkladu, praskliny, konstrukce podlahy, způsob vytápění a návaznosti na ostatní části interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože pěkný dekor dokáže vybrat skoro každý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dobře připravit podklad tak, aby podlaha správně fungovala i za několik let, je ta důležitější část celé práce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si nejste jistí, zda je váš stávající beton, anhydrit, dlažba, OSB nebo stará podlaha vhodná pro pokládku SPC, je lepší nechat podklad předem zkontrolovat. Často se dá problém vyřešit poměrně jednoduše – pokud se na něj přijde ještě před položením nové podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Lepený vinyl – tenká podlaha, která neodpustí špatný podklad",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl patří podle nás mezi nejlepší podlahy do běžného bytu, domu i komerčních prostor. Je nízký, příjemný při chůzi, tichý, dobře se udržuje a výborně funguje s podlahovým topením.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Má ale jednu vlastnost, kterou je dobré vědět ještě před pokládkou:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl prakticky nic neschová.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když máme krásně připravený podklad, výsledkem může být perfektní podlaha na mnoho let. Pokud se ale příprava podkladu odbyde, tenká vinylová krytina nám časem ukáže skoro všechno, co jsme pod ní nechali.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto zákazníkům vždy říkáme:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepeného vinylu není nejtěžší položit vinyl. Nejdůležitější je správně připravit to, na co ho budeme lepit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co je vlastně lepený vinyl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepená vinylová podlaha se skládá z jednotlivých dílců nebo lamel, které se celoplošně lepí přímo k připravenému podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na rozdíl od click vinylu nebo SPC podlahy tedy nevytváří plovoucí podlahu. Nemáme zde zámky ani podložku pod podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylový dílec se stává prakticky součástí připraveného podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Běžná tloušťka lepeného vinylu bývá přibližně 2–3 mm, podle konkrétního výrobku a jeho použití.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě malá konstrukční výška je jednou z jeho velkých výhod.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč máme lepený vinyl rádi?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl má několik vlastností, kvůli kterým ho používáme už mnoho let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je příjemný při chůzi, nevytváří typický „dutý“ zvuk některých plovoucích podlah a velmi dobře přenáší teplo z podlahového vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Navíc je možné krásně řešit přechody mezi místnostmi bez zbytečného množství přechodových lišt.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou výhodou je také možnost lokální opravy. Pokud se například jeden dílec skutečně poškodí, lze ho při správném postupu vyjmout a nahradit novým.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto zákazníkům doporučujeme několik lamel po dokončení realizace uschovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Největší tajemství krásného lepeného vinylu? Podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylový dílec je tenký a kopíruje povrch, na kterém leží.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A to opravdu velmi dobře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud tedy někdo očekává, že nová vinylová podlaha zakryje hrboly, propadliny nebo špatně provedenou stěrku, bude pravděpodobně zklamaný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí být především:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "rovný, pevný, suchý, hladký, soudržný a čistý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To, co před pokládkou vypadá jako nepatrná nerovnost, může být při dopadu světla na hotovou podlahu překvapivě dobře vidět.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A čím větší jsou okna a čím více světla dopadá na podlahu ze strany, tím více se případné nedostatky podkladu zvýrazní.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nestačí podlahu pouze „nějak vystěrkovat“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samonivelační stěrka je u lepeného vinylu běžnou součástí přípravy podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Slovo samonivelační ale někdy vyvolává trochu mylnou představu, že stěrku stačí vylít a ona všechno udělá sama.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tak jednoduché to bohužel není.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve musíme posoudit původní podklad, odstranit nesoudržná místa, správně ho připravit a napenetrovat. Podle situace řešíme praskliny, dilatace nebo jiné poruchy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve potom přichází vhodná vyrovnávací stěrka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po jejím vytvrdnutí podklad znovu kontrolujeme a podle potřeby přebrousíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl totiž potřebuje nejen rovný, ale také hladký povrch.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Broušení a vysávání není zbytečná práce navíc",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když se podíváte na připravenou podlahu před nalepením vinylu, možná vám bude připadat hotová.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahář se na ni ale dívá trochu jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hledáme drobné výstupky, kamínky, stopy po nářadí, přechody ve stěrce nebo jiné nerovnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto připravenou plochu před lepením zpravidla ještě přebrušujeme a následně velmi důkladně vysáváme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod lepeným vinylem totiž nechceme prach, písek ani žádné volné částice.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To, co je pod vinylovým dílcem při montáži, tam s námi pravděpodobně zůstane hodně dlouho.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vlhkost podkladu se neměří pohledem ani rukou",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Už je to určitě suché.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je věta, kterou na stavbách slýcháme poměrně často.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže beton ani anhydrit neumíme spolehlivě změřit pohledem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou lepené vinylové podlahy je proto potřeba ověřit zbytkovou vlhkost podkladu vhodnou metodou a respektovat hodnoty předepsané výrobcem použitého systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ještě důležitější je to u novostaveb a podlahového topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Příliš vysoká zbytková vlhkost může způsobit problémy s lepidlem, stěrkou i celou podlahovou skladbou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proto máme raději číslo z měření než větu: „To už schne dva měsíce.“",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepený vinyl a podlahové topení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady má lepený vinyl jednu ze svých největších předností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky malé tloušťce a přímému spojení s podkladem má zpravidla velmi dobrý přenos tepla.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mezi topným potěrem a podlahovou krytinou totiž nemáme silnou podložku ani vzduchovou mezeru typickou pro některé plovoucí skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je lepený vinyl velmi oblíbený právě v novostavbách a rekonstruovaných domech s podlahovým vytápěním.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí být samozřejmě použit výrobek, lepidlo a celá skladba určená pro podlahové topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nového vytápěného potěru je navíc nutné před pokládkou provést předepsaný topný protokol.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jaké lepidlo používáme na vinyl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady neexistuje jedno univerzální lepidlo na všechno.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výběr závisí na konkrétní vinylové krytině, podkladu, zatížení prostoru, podlahovém topení i doporučení výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používají se například disperzní lepicí systémy, tlaková lepidla nebo speciální lepidla určená pro vyšší zatížení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitá není pouze značka lepidla, ale také jeho správné množství a způsob aplikace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepidlo nanášíme vhodnou zubovou stěrkou a dodržujeme technologický čas.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když položíme vinyl příliš brzy nebo naopak příliš pozdě, můžeme výrazně ovlivnit výslednou pevnost spoje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepidlo tedy není položka, na které bychom doporučovali experimentovat nebo šetřit pár korun za metr.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč vinyl po nalepení válcujeme?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylovou lamelu nestačí položit do lepidla a několikrát po ní přejet rukou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po instalaci je potřeba podlahu podle použitého systému důkladně přitlačit, zpravidla vhodným podlahářským válcem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tím zajistíme správný kontakt vinylového dílce s lepidlem po celé jeho ploše.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu podle potřeby válcujeme během montáže a následně znovu podle technologického postupu použitého lepidla.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to jeden z kroků, který na hotové podlaze nikdo neuvidí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na její životnost ale může mít velký vliv.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dá se lepený vinyl položit na starou dlažbu?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano, někdy je to dokonce velmi dobré řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neznamená to ale, že vezmeme lepidlo a začneme vinyl lepit přímo přes spáry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve musíme zjistit, zda dlažba pevně drží. Uvolněné nebo duté dlaždice je potřeba řešit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch následně správně připravíme, použijeme vhodný kontaktní nebo adhezní systém a dlažbu podle potřeby přestěrkujeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spáry totiž nechceme po několika měsících nebo letech vidět překreslené v nové vinylové podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou tohoto řešení je, že často nemusíme starou keramickou podlahu bourat a můžeme výrazně omezit množství stavebních prací.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co staré parkety nebo dřevěná podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už bychom byli výrazně opatrnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo pracuje jinak než vinyl, beton nebo cementová stěrka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Staré parkety mohou být uvolněné, mohou se pohybovat a mezi jednotlivými díly vznikají spáry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl proto nedoporučujeme jednoduše nalepit přímo na staré parkety bez posouzení celé konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy je možné původní podlahu vhodně překrýt a vytvořit nový stabilní podklad, jindy je lepší starou skladbu odstranit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každá taková podlaha se musí posoudit individuálně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepený vinyl na OSB? Ano, ale ne jen tak",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Také na dřevěných konstrukčních deskách lze vytvořit podklad vhodný pro lepený vinyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotná OSB deska ale většinou není finální povrch, na který bychom chtěli vinyl rovnou nalepit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spoje desek, jejich struktura a případný pohyb konstrukce se mohou později projevit na povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve tedy musí být dřevěná konstrukce dostatečně pevná a bez průhybu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potom vytvoříme vhodnou mezivrstvu nebo použijeme systém určený pro přípravu dřevěného podkladu pod pružné podlahové krytiny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdůležitější je zabránit tomu, aby se pohyb konstrukce přenesl do nové vinylové podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dilatace u lepeného vinylu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je velký rozdíl proti plovoucím SPC a click podlahám.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Celoplošně lepená vinylová podlaha je pevně spojená s podkladem a nepotřebuje pracovat jako jedna velká plovoucí deska.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu můžeme často vytvářet krásné souvislé plochy mezi místnostmi bez přechodových lišt.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ovšem neznamená, že můžeme ignorovat konstrukční a dilatační spáry samotné stavby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud má podklad skutečnou konstrukční dilataci, není správným řešením ji jednoduše přestěrkovat a nalepit přes ni vinyl s nadějí, že se nic nestane.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dilatace stavby má svůj důvod a podle toho se musí řešit i skladba nové podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kuchyňská linka nebo vestavěný nábytek? Tady má lepený vinyl výhodu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucích podlah musíme dávat velký pozor na to, abychom podlahu těžkou vestavbou nezablokovali.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U správně provedeného celoplošně lepeného vinylu je situace jiná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha je pevně spojená s podkladem, takže kuchyňské linky, vestavěné skříně nebo těžký nábytek nepředstavují stejný problém jako u plovoucí podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "I proto máme lepený vinyl rádi při rekonstrukcích celých bytů a domů.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vinyl do koupelny a kuchyně",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl se velmi dobře hodí také do kuchyní a podle konkrétního výrobku i do koupelen.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotný vinylový dílec se vody většinou nebojí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je ale potřeba rozlišovat mezi větou „vinyl je voděodolný“ a větou „celá podlahová konstrukce je vodotěsná“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To rozhodně není totéž.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V koupelnách proto musíme správně vyřešit podklad, napojení, prostupy a případnou hydroizolaci tam, kde ji konstrukce vyžaduje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylová podlaha sama o sobě nenahrazuje hydroizolační systém.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jakou nášlapnou vrstvu vinylu vybrat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neřešíme pouze vzhled a celkovou tloušťku podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi důležitá je také nášlapná vrstva a zátěžová třída.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiné požadavky máme na podlahu v ložnici a jiné v kanceláři, obchodě, restauraci nebo jiném silně zatěžovaném prostoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro běžné domácnosti se často používají podlahy s nášlapnou vrstvou například kolem 0,3–0,4 mm, zatímco do více zatěžovaných prostor vybíráme zpravidla odolnější provedení, často kolem 0,55 mm a více.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neplatí ale, že čím větší číslo, tím automaticky lepší podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vždy se díváme na celý výrobek, jeho zátěžovou třídu, konstrukci a určení výrobcem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pozor na výrobní šarže a odstíny",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylové dílce před pokládkou kontrolujeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Sledujeme dekor, odstín, povrch, hrany a případné mechanické poškození.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zároveň kontrolujeme výrobní šarže. Mezi jednotlivými výrobními sériemi může vzniknout drobná odstínová odlišnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na jedné souvislé ploše proto používáme pokud možno stejnou výrobní šarži.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při montáži otevíráme více balení současně a jednotlivé lamely mezi sebou promícháváme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledná podlaha pak působí přirozeněji a nevznikají vedle sebe nápadně podobné dekory.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kolik lepeného vinylu objednat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani lepený vinyl neobjednáváme přesně podle čisté výměry místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme počítat s prořezem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U běžných místností počítáme většinou s rezervou přibližně 5–7 %.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U členitého prostoru nebo pokládky na diagonálu může být potřeba přibližně 10 % nebo více.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Záleží také na formátu dílců a způsobu pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A znovu doporučujeme několik celých lamel po realizaci schovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud vám za osm let upadne těžký předmět a poškodí jeden dílec, budete za tuto malou zásobu velmi rádi.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy můžeme po nové vinylové podlaze chodit?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle neurčuje vinyl, ale především použité lepidlo a technologický postup výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po čerstvě nalepené podlaze není dobré okamžitě stěhovat nábytek, jezdit rudlem nebo instalovat kuchyň.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepidlo potřebuje čas na vytvrzení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak není vhodné podlahu ihned intenzivně umývat nebo zatěžovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní dobu vždy určujeme podle použitého systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pár hodin nebo jeden den navíc je podstatně levnější než opravovat čerstvě položenou podlahu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepený vinyl versus SPC – co je lepší?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na tuto otázku neexistuje jedna správná odpověď.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC může být výhodné tam, kde chceme rychlou plovoucí montáž nebo máme jiné požadavky na skladbu podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl bychom naopak často volili tam, kde chceme nízkou konstrukční výšku, tichou podlahu, velmi dobrý přenos tepla, pevný pocit při chůzi a čisté návaznosti mezi jednotlivými místnostmi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl ale klade podstatně větší nároky na přípravu podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě v tom bývá největší rozdíl i v ceně realizace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není fér porovnávat pouze cenu samotného vinylu za metr čtvereční. U lepené podlahy musíme počítat také s penetrací, případnými opravami, stěrkou, broušením, lepidlem a odbornou pokládkou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "U lepeného vinylu se nejvíce práce schová pod podlahou",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když zákazník přijde do showroomu, pochopitelně ho nejvíce zajímá dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A my tomu rozumíme. Podlahu si člověk vybírá také očima.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže když přijedeme na realizaci, dekor už pro nás není to nejdůležitější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vezmeme měřidla a začneme kontrolovat podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jak je rovný? Jak je pevný? Jakou má vlhkost? Nejsou v něm praskliny? Co je pod ním? Je tam podlahové topení? Jak budeme řešit přechody?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě odpovědi na tyto otázky rozhodují o tom, jestli bude nová vinylová podlaha dobře vypadat jen při předání zakázky, nebo také za mnoho let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotné nalepení vinylových lamel je totiž až poslední část práce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dobře udělanou lepenou vinylovou podlahu poznáte mimo jiné podle toho, že vůbec netušíte, kolik práce se udělalo ještě před položením první lamely.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepený vinyl vs. SPC – co bych si jako podlahář dal domů?",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepený vinyl, nebo SPC?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je otázka, kterou od zákazníků dostáváme skoro pořád. A většinou čekají jednoduchou odpověď:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Řekněte mi, která podlaha je lepší.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže kdyby jedna byla jednoznačně lepší než druhá, tu druhou bychom asi neměli důvod prodávat a pokládat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obě podlahy mají svoje místo. Rozdíl je hlavně v tom, kam je pokládáme, na jaký podklad, jestli máme podlahové topení a co od nové podlahy očekáváme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A kdyby se mě někdo zeptal:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Jste podlahář. Co byste si tedy dal domů vy?“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Odpověď mám.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale k té se dostaneme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nejdříve si řekněme, co vlastně porovnáváme",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na pohled mohou lepený vinyl a SPC vypadat skoro stejně. Klidně můžete mít vedle sebe dvě dubové lamely a běžný zákazník nemusí poznat, která patří kam.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konstrukčně jsou to ale dvě poměrně odlišné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl je tenký pružný dílec, který se celoplošně lepí na dokonale připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC má pevné minerální jádro a většinou zámkový spoj. Nejčastěji se pokládá plovoucím způsobem, i když existují různé konstrukce a systémy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě způsob montáže vytváří většinu rozdílů, které potom při používání podlahy poznáte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "1. Pocit při chůzi – tady bych dal bod lepenému vinylu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle se těžko popisuje, ale velmi snadno pozná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po dobře provedeném lepeném vinylu se chodí jinak než po plovoucí podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl je pevně spojený s podkladem. Nic pod ním nepruží, podlaha se při došlapu nepohybuje a působí velmi kompaktně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když po ní chodíte, máte pocit, že je skutečně součástí domu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC je při plovoucí montáži od podkladu oddělené. U kvalitní podlahy a perfektně připraveného podkladu může být pocit při chůzi velmi dobrý, ale pořád je to plovoucí konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za mě: lepený vinyl 1 : 0 SPC.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "2. Hlučnost – záleží na tom, co přesně řešíme",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady se často všechno hází do jednoho pytle.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiná věc je zvuk, který slyšíme v místnosti při chůzi, a jiná kročejový hluk přenášený do konstrukce domu nebo k sousedům.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl je při běžné chůzi velmi příjemný a nevytváří typický dutější zvuk některých plovoucích podlah.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U SPC hraje obrovskou roli kvalita podlahy, rovinnost podkladu a správně zvolená podložka nebo integrovaná podložka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní SPC dnes rozhodně nemusí být hlučná podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud ale řeším čistě pocit a zvuk při chůzi v místnosti, osobně mám raději lepený vinyl.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "3. Podlahové topení – tady bych opět sáhl po lepeném vinylu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud mám nový dům s teplovodním podlahovým topením a perfektně připraveným potěrem, moje rozhodování začíná být poměrně jednoduché.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl má malou tloušťku a je přímo spojený s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mezi topným potěrem a místností tedy máme relativně malý tepelný odpor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucího SPC máme samotnou podlahu a podle systému také podložku, případně integrovanou podložku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC může na podlahovém topení fungovat velmi dobře a spousta výrobců ho pro tento účel přímo nabízí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud ale vybírám čistě podle přenosu tepla, lepený vinyl má pro mě výhodu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "4. Rekonstrukce staršího bytu – tady už SPC začíná dávat velký smysl",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teď situaci otočíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme starší byt. Nechceme kompletně bourat podlahy, potřebujeme rozumnou konstrukční výšku a chceme rekonstrukci zvládnout rychleji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady může být SPC výborné řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepeného vinylu potřebujeme opravdu kvalitně připravený podklad. Často to znamená broušení, penetraci, opravy, samonivelační stěrku a další technologické kroky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC dokáže být při rekonstrukci praktičtější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale pozor na jednu věc.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC není kouzelný koberec, který můžeme hodit na křivou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je jeden z největších omylů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "I SPC potřebuje rovný, pevný a stabilní podklad. Jen požadavky na finální hladkost povrchu nejsou stejné jako u tenkého lepeného vinylu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "5. Která podlaha lépe schová nedokonalosti podkladu?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale slovo schová používám velmi opatrně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme na podkladu jemnou strukturu nebo drobné povrchové nedokonalosti, které by se přes tenký lepený vinyl mohly opticky projevit, SPC je díky své konstrukci tolerantnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme ale v podlaze propadlinu nebo hrbol, nepomůže nám ani SPC.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Plovoucí dílec se může při zatížení prohýbat a začne namáhat zámkové spoje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Takže:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC snese trochu jiný povrch podkladu. Nesnese špatný podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je velký rozdíl.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "6. Co když se jeden dílec poškodí?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady možná někoho překvapím.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepeného vinylu může být lokální oprava velmi elegantní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Poškozenou lamelu zkušený podlahář opatrně odstraní, připraví místo a nalepí nový dílec.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto zákazníkům vždy říkáme:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nevyhazujte všechny zbytky podlahy. Několik lamel si schovejte.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U zámkového SPC může být výměna jednoho dílce složitější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle místa poškození může být nutné část podlahy rozebrat od nejbližší stěny. Existují také opravné postupy, ale není správné automaticky tvrdit, že výměna SPC lamely je vždy jednodušší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady bych proto dal bod spíše lepenému vinylu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "7. Voda – tady bych vítěze nevyhlašoval",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Často se říká:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„SPC je voděodolné.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano, samotný materiál se vody běžně nebojí. Podobně je na tom kvalitní vinyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže voděodolná podlahová krytina ještě neznamená vodotěsnou podlahovou konstrukci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud vám praskne hadička u myčky a voda nateče pod plovoucí SPC, máme úplně jinou situaci než při několika kapkách vody na povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepeného vinylu je krytina pevně spojená s podkladem, ale ani tady nesmíme automaticky tvrdit, že nahrazuje hydroizolaci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do kuchyní používáme oba systémy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do koupelen vždy řešíme konkrétní skladbu a požadavky daného výrobku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "8. Kuchyňská linka a vestavěný nábytek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady mám lepený vinyl rád.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože je celoplošně spojený s podkladem, nemusíme řešit jeho pohyb stejným způsobem jako u plovoucí podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucího SPC musíme respektovat montážní předpis výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Těžká kuchyňská linka, ostrůvek nebo vestavěná skříň mohou podlahu v některých případech zablokovat a zabránit jejímu přirozenému pohybu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych nikdy automaticky neřekl:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Položíme SPC všude a kuchyň postavíme na něj.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve se podíváme, jaký konkrétní systém pokládáme a co dovoluje jeho výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "9. Přechody mezi místnostmi",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady osobně opět preferuji lepený vinyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mám rád, když podlaha přirozeně pokračuje z obývacího pokoje přes chodbu do dalších místností a nemusíme každý dveřní otvor přerušovat přechodovou lištou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepeného vinylu to můžeme při správně navržené skladbě krásně vyřešit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U SPC záleží na konkrétním výrobci, velikosti plochy, tvaru místností a jeho montážních pravidlech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Některé moderní SPC systémy umožňují velmi rozsáhlé souvislé plochy bez dilatace ve dveřích.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiné mají podmínky přísnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto neexistuje univerzální pravidlo pro všechny SPC podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "10. Rychlost pokládky – bod pro SPC",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady není moc o čem diskutovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme připravený vhodný podklad, plovoucí SPC dokážeme položit velmi rychle.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nemusíme nanášet lepidlo, čekat na jeho technologické časy ani následně řešit vytvrzení lepicího systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepeného vinylu bývá příprava i samotná realizace technologicky náročnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud tedy zákazník potřebuje například rychle zrekonstruovat byt a podmínky jsou pro SPC vhodné, může být rychlost jedním z hlavních důvodů pro jeho výběr.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "11. A co cena?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je potřeba porovnávat opravdu celé skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zákazník někdy vidí:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený vinyl – 700 Kč/m².",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "SPC – 900 Kč/m².",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A řekne si:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Tak vinyl je levnější.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže u lepeného vinylu můžeme potřebovat penetraci, opravu podkladu, samonivelační stěrku, broušení, vysávání, lepidlo a odbornou pokládku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U SPC zase může být součástí ceny kvalitní podložka nebo ji musíme připočítat zvlášť.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto nikdy neporovnáváme pouze cenu krabice.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Porovnáváme cenu hotové podlahy připravené k používání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve potom zjistíme, která varianta skutečně vychází levněji.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "12. Životnost – tady rozhoduje hlavně kvalita",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitně provedený lepený vinyl může bez problémů sloužit mnoho let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak kvalitní SPC.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naopak levná podlaha se slabými zámky, nevhodnou nášlapnou vrstvou nebo nekvalitní konstrukcí může být špatnou koupí bez ohledu na to, jestli se jmenuje SPC nebo vinyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych podlahu nikdy nevybíral pouze podle dekoru a ceny za metr.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zajímá mě výrobce, konstrukce, zátěžová třída, nášlapná vrstva, technický list a především to, kam se podlaha bude pokládat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Tak co bych si tedy jako podlahář dal domů?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud bych stavěl nový dům, měl perfektně připravený podklad a teplovodní podlahové topení, osobně bych mezi těmito dvěma variantami zvolil kvalitní lepený vinyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mám rád jeho pevný pocit při chůzi, nízkou konstrukční výšku, dobrý přenos tepla a možnost udělat souvislou podlahu přes více místností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale teď přijde důležité ALE.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud bych rekonstruoval starší byt, nechtěl dělat rozsáhlé zásahy do podkladu a potřeboval rychlou a kvalitní podlahu, velmi vážně bych uvažoval o kvalitním SPC.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A pokud bych měl podklad, který není vhodný ani pro jeden systém?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nevybíral bych jinou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve bych opravil podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože nejdražší podlaha je ta, kterou musíme za dva roky vytrhat a udělat znovu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nevybírejte podlahu jen podle vzorku v showroomu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vzorek o velikosti půl metru vám ukáže dekor a povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neřekne vám ale, jak bude podlaha znít, jak se po ní bude chodit, jak bude fungovat s podlahovým topením ani jestli je vhodná právě na váš podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se zákazníka před doporučením podlahy ptáme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Je to novostavba, nebo rekonstrukce?",
+     "Jaký je podklad?",
+     "Máte podlahové topení?",
+     "Jak velká bude souvislá plocha?",
+     "Bude na podlaze kuchyňský ostrůvek nebo vestavěný nábytek?",
+     "Jak bude prostor zatěžovaný?"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "A teprve potom dává smysl řešit, zda bude lepší lepený vinyl, nebo SPC.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Moje rychlé srovnání",
+    "center": false
+   },
+   {
+    "t": "table",
+    "rows": [
+     [
+      "Co řešíme",
+      "Lepený vinyl",
+      "SPC"
+     ],
+     [
+      "Pocit při chůzi",
+      "Výborný",
+      "Velmi dobrý"
+     ],
+     [
+      "Podlahové topení",
+      "Výborná volba",
+      "Velmi dobrá volba"
+     ],
+     [
+      "Nízká konstrukční výška",
+      "Ano",
+      "Vyšší než lepený vinyl"
+     ],
+     [
+      "Nároky na hladkost podkladu",
+      "Velmi vysoké",
+      "Nižší"
+     ],
+     [
+      "Nároky na rovinnost",
+      "Vysoké",
+      "Také vysoké"
+     ],
+     [
+      "Rychlost pokládky",
+      "Pomalejší",
+      "Rychlejší"
+     ],
+     [
+      "Lokální výměna dílce",
+      "Velmi dobře řešitelná",
+      "Záleží na místě a systému"
+     ],
+     [
+      "Rekonstrukce",
+      "Ano",
+      "Často velmi praktické"
+     ],
+     [
+      "Souvislé plochy bez lišt",
+      "Velká výhoda",
+      "Podle systému"
+     ],
+     [
+      "Kuchyň a těžká vestavba",
+      "Bez omezení typického pro plovoucí podlahu",
+      "Nutno respektovat výrobce"
+     ],
+     [
+      "Příprava podkladu",
+      "Náročnější",
+      "Obvykle jednodušší"
+     ],
+     [
+      "Akustický pocit v místnosti",
+      "Velmi příjemný",
+      "Záleží na konstrukci a podložce"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jedna rada úplně na závěr",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když se mě zákazník zeptá: „Je lepší SPC, nebo lepený vinyl?“, vlastně mi ještě neřekl skoro nic.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to podobné, jako kdyby se zeptal, jestli je lepší kombík, nebo dodávka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obojí může být skvělé. Jen každé na něco jiného.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dobrá podlaha totiž není ta, která má nejlepší reklamu nebo nejhezčí vzorek. Dobrá podlaha je ta, která je správně vybraná pro konkrétní prostor, správně připravený podklad a správně položená.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A přesně tak bych vybíral podlahu i sám sobě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Třívrstvá dřevěná podlaha – kam se hodí a je lepší ji lepit, nebo položit na podložku?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo je dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme mít dnes sebelepší vinyl, SPC nebo laminát s dokonalou kresbou dubu, ale když vedle něj položíme skutečnou dřevěnou podlahu, rozdíl většinou poznáme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejen očima.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo má svoji strukturu, kresbu, drobné barevné rozdíly, suky a především přirozenost. Každé prkno je trochu jiné a právě v tom je jeho kouzlo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud ale chceme dřevěnou podlahu do moderního domu nebo bytu, nemusíme automaticky volit klasický masiv.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi dobrým kompromisem mezi přírodním materiálem, stabilitou a možností použití na podlahové topení je třívrstvá dřevěná podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě o ní si dnes povíme trochu víc.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co je třívrstvá dřevěná podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jak už napovídá její název, podlahové prkno není vyrobené z jednoho kusu dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Skládá se z několika vrstev, které mají rozdílnou funkci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nahoře je nášlapná vrstva skutečného dřeva – například dubu, jasanu nebo ořechu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod ní se nachází stabilizační vrstva, která bývá orientována jiným směrem než vrchní dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A spodní vrstva celou konstrukci opět stabilizuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě křížové uspořádání jednotlivých vrstev omezuje přirozený pohyb dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A to je velmi důležité.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo totiž reaguje na změny teploty a především vzdušné vlhkosti. Když přijme vlhkost, zvětšuje svůj objem. Když vysychá, smršťuje se.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vícevrstvá konstrukce tento pohyb nezastaví – pořád je to dřevo – ale výrazně pomáhá udržovat prkno rozměrově stabilnější než klasický masiv.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Třívrstvá podlaha není laminát",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle raději zdůrazním.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Občas zákazník řekne:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Já nechci třívrstvou, já chci opravdové dřevo.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže třívrstvá dřevěná podlaha opravdové dřevo je.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nahoře není fotografie dubu vytištěná na papíru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je tam skutečná vrstva dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto má každé prkno vlastní kresbu, odstín, suky a přirozené barevné rozdíly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podle tloušťky nášlapné vrstvy a konstrukce konkrétní podlahy může být některé třívrstvé podlahy možné v budoucnu také renovovat přebroušením a znovu nalakovat nebo naolejovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kolikrát to půjde, záleží především na tloušťce nášlapné vrstvy a hloubce případného broušení.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kam bych si třívrstvou dřevěnou podlahu dal?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za mě především tam, kde chci přírodní podlahu na dlouhou dobu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obývací pokoj, ložnice, pracovna, chodba, dětský pokoj nebo celý rodinný dům.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi pěkně funguje také ve velkých otevřených prostorech, kde dlouhá a široká dřevěná prkna skutečně vyniknou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud mám obývací pokoj propojený s kuchyní, nemusím se dřeva automaticky bát ani tam.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jen musím počítat s tím, že mám doma skutečné dřevo a podle toho se k němu chovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevo do kuchyně? Za mě ano",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kuchyň není pro kvalitní dřevěnou podlahu automaticky zakázaná zóna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme realizace, kde dřevěná podlaha prochází z obývacího pokoje přímo do kuchyně a výsledek vypadá výborně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samozřejmě když mi vyteče myčka a nechám několik hodin stát vodu na podlaze, dřevo z toho radost mít nebude.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale rozlitá sklenice vody nebo běžný provoz v kuchyni nejsou důvodem, proč se dřevěné podlahy vzdát.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vodu jednoduše setřeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Osobně mám raději jednu souvislou dřevěnou plochu než situaci, kdy máme v obýváku dřevo a přesně před kuchyňskou linkou ho najednou vystřídá metr dlažby jen proto, že „do kuchyně se dřevo nedává“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dává.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jen je potřeba vědět, co od něj můžeme očekávat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A koupelna?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už bych byl podstatně opatrnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Existují dřevěné podlahy a systémy určené i do prostor se zvýšenou vlhkostí, ale klasickou třívrstvou dřevěnou podlahu bych do běžné koupelny nedoporučoval automaticky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde jen o několik kapek vody na povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme zde zvýšenou vzdušnou vlhkost, vodu kolem vany nebo sprchy a možnost zatečení do spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud zákazník dřevo v koupelně opravdu chce, musí se vybrat konkrétní podlaha, kterou výrobce pro takové použití povoluje, a správně vyřešit celou skladbu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Třívrstvá podlaha a podlahové topení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedna z nejčastějších otázek:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Můžu dát dřevěnou podlahu na podlahové topení?“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě kvalitní vícevrstvá dřevěná podlaha bývá pro podlahové vytápění výrazně vhodnější než mnoho klasických masivních prken.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme ale vybrat výrobek, který výrobce pro podlahové topení skutečně schvaluje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležitá je tloušťka podlahy, druh dřeva, konstrukce prkna, způsob pokládky a tepelný odpor celé skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo je přirozený tepelný izolant, takže nikdy nebude předávat teplo úplně stejně jako keramická dlažba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že na podlahovém topení nefunguje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Funguje velmi dobře, pokud je celý systém správně navržený.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dub, jasan, nebo něco jiného?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud řeším dřevěnou podlahu na podlahové topení, osobně mám velmi rád dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je stabilní, odolný, máme obrovský výběr barev, třídění a povrchových úprav a v našich podmínkách s ním máme dlouhodobě dobré zkušenosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U některých dřevin musíme být kvůli jejich větší citlivosti na změny vlhkosti a teplot opatrnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych podlahu na podlahové topení nikdy nevybíral pouze podle toho, který dekor se mi líbí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve technika.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potom vzhled.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepená, nebo plovoucí?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A teď se dostáváme k otázce, kterou řešíme skoro u každé zakázky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou část moderních třívrstvých podlah můžeme podle konstrukce výrobku položit dvěma způsoby:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "celoplošně nalepit k podkladu, nebo položit plovoucím způsobem na vhodnou podložku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obojí může být technicky správně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale výsledek není úplně stejný.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Celoplošně lepená dřevěná podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud se mě někdo zeptá, který způsob mám osobně raději, většinou odpovím:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud mi to podklad, výrobce a rozpočet dovolí, třívrstvou dřevěnou podlahu raději lepím.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože prkno je spojené s podkladem po celé ploše.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při chůzi je podlaha pevnější a působí kompaktněji. Nevzniká pod ní souvislá vzduchová mezera a zpravidla máme také lepší přenos tepla při podlahovém vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pro mě má lepená dřevěná podlaha zkrátka pocitově blíž ke klasické řemeslně položené dřevěné podlaze.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jaké jsou výhody lepení?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za největší výhody považuji:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pevnější pocit při chůzi. Podlaha neleží volně na podložce, ale je spojená s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Příjemnější akustiku v místnosti. Při chůzi zpravidla nevzniká tak dutý zvuk jako u některých plovoucích skladeb.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepší přenos tepla. To je pro mě důležité hlavně u podlahového topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Menší pohyb celé podlahové plochy. Jednotlivá prkna jsou spojená s podkladem a podlaha nepracuje jako jedna velká plovoucí deska.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi dobrý výsledek ve velkých otevřených prostorách.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale samozřejmě to má i druhou stranu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nevýhody lepené dřevěné podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepení je náročnější na přípravu podkladu a samotnou montáž.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potřebujeme vhodné profesionální lepidlo a podklad musí být rovný, pevný, soudržný a dostatečně suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Montáž je pracnější a tedy obvykle dražší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud bychom někdy chtěli celou podlahu odstranit, nebude to tak jednoduché jako rozebrat plovoucí click.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je cena za to, že jsme podlahu s domem spojili podstatně pevněji.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Plovoucí pokládka na podložku",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Druhou možností je položit třívrstvou dřevěnou podlahu plovoucím způsobem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod podlahu položíme vhodnou podložku a jednotlivá prkna spojíme zámkovým systémem, případně způsobem předepsaným výrobcem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha tedy není pevně přichycená k podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A ani to není špatně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy bych zvolil plovoucí pokládku?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Například při rekonstrukci bytu, kde nechci dělat zbytečně složitou montáž.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nebo když vím, že budu chtít podlahu někdy relativně snadno rozebrat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Plovoucí montáž bývá rychlejší a levnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme perfektně rovný podklad a použijeme kvalitní podložku, může podlaha fungovat velmi dobře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme ale respektovat skutečnost, že se celá plocha chová jako plovoucí podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potřebuje tedy správné obvodové dilatace a podle velikosti a členitosti prostoru případně další dilatační řešení podle montážního předpisu konkrétního výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podložka není místo, kde bych šetřil",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když už dřevěnou podlahu pokládáme plovoucím způsobem, podložka je součást celé konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to pouze „nějaká pěna pod podlahu“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí mít správnou pevnost v tlaku, tloušťku, akustické vlastnosti a v případě podlahového topení také vhodný tepelný odpor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Příliš měkká podložka může umožnit nadměrný pohyb prken a zatěžovat zámkové spoje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A příliš tepelně izolační podložka nám zase zbytečně brzdí podlahové topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto vybíráme podložku podle konkrétní podlahy a konkrétní skladby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co bych dal na podlahové topení – lepit, nebo položit?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud mám možnost volby a výrobce konkrétní podlahy oba způsoby povoluje, osobně bych na teplovodní podlahové topení třívrstvou dřevěnou podlahu celoplošně lepil.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důvod je jednoduchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chci co nejlepší kontakt mezi vytápěným podkladem a dřevěnou podlahou a nechci mezi ně přidávat další izolační vrstvu, pokud ji nepotřebuji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Plovoucí pokládka na podlahovém topení ale může být také naprosto správná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jen musíme použít podložku vhodnou pro podlahové vytápění a spočítat nebo ověřit tepelný odpor celé skladby – podlahy i podložky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde tedy říct, že dřevo na podložce na podlahovém topení nefunguje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Funguje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Já bych ale při možnosti volby raději lepil.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Elektrické podlahové topení? Tady pozor",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U elektrického podlahového topení bych byl opatrnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne kvůli tomu, že by kombinace elektrického topení a dřeva byla automaticky zakázaná, ale některé elektrické systémy dokážou měnit teplotu podstatně rychleji než klasické teplovodní vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A prudké teplotní změny dřevu obecně nesvědčí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto musí být konkrétní dřevěná podlaha i způsob její montáže pro daný topný systém výrobcem schválený.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dřeva se zkrátka vyplatí topit pozvolna a rovnoměrně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Teplota povrchu dřevěné podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěnou podlahu na podlahovém topení nemůžeme přehřívat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní maximální povrchovou teplotu vždy určuje výrobce podlahy. U mnoha dřevěných podlah se pohybuje přibližně kolem 27 °C.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pozor – jde o teplotu povrchu podlahy, ne o teplotu vzduchu v místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Problém mohou vytvořit například také silné koberce, matrace nebo jiné předměty, které brání odvádění tepla a vytvářejí lokálně teplejší místa.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto si před montáží vždy čteme technické podmínky konkrétní podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vlhkost vzduchu – největší nepřítel dřeva, o kterém se málo mluví",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady se dostáváme k jedné z nejdůležitějších věcí celého článku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná podlaha nepotřebuje péči jen při montáži.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potřebuje vhodné podmínky také dalších dvacet let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V zimě začneme topit, zavřeme okna a relativní vlhkost vzduchu v některých bytech spadne velmi nízko.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A dřevo začne vysychat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mohou se objevit drobné spáry, sesychání, miskování nebo jiné změny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V létě se naopak vzdušná vlhkost zvýší a dřevo část vlhkosti zase přijme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To není výrobní vada.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je přirozená vlastnost skutečného dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto doporučujeme doma sledovat nejen teplotu, ale také relativní vlhkost vzduchu a udržovat ji v rozmezí doporučeném výrobcem podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná podlaha vám za to poděkuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A mimochodem – rozumná vzdušná vlhkost většinou prospívá i lidem, nejen podlaze.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad pod dřevěnou podlahou",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ať budeme lepit, nebo pokládat plovoucím způsobem, podklad musí být kvalitní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí být:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "rovný, pevný, stabilní, čistý a dostatečně suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepené podlahy navíc potřebujeme soudržný povrch schopný bezpečně přenášet síly přes lepidlo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před montáží kontrolujeme rovinnost a měříme zbytkovou vlhkost podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U podlahového topení musí být před pokládkou proveden předepsaný topný protokol.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo není materiál, u kterého bych doporučoval říct:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Beton vypadá suchý, tak to položíme.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vlhkost se měří.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Můžeme dřevěnou podlahou srovnat křivý podklad?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podložka také není nivelační hmota.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je podklad křivý, musíme ho před pokládkou vyrovnat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U plovoucí podlahy může nerovný podklad způsobovat pohyb prken, vrzání a namáhání zámkových spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U lepené podlahy zase potřebujeme správný kontakt prkna s lepidlem a podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Takže i když je dřevěné prkno třeba 14 nebo 15 mm silné, neznamená to, že pod ním můžeme schovat stavební nedostatky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lak, nebo olej?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další věčné téma.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A opět neexistuje jedna správná odpověď.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lakovaná podlaha má na povrchu souvislou ochrannou vrstvu. Běžná údržba je jednoduchá a kvalitní moderní laky mají velmi dobrou odolnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olejovaná podlaha působí přirozeněji a člověk má při doteku větší pocit kontaktu se dřevem. Velkou výhodou může být možnost lokálního ošetření nebo opravy povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej ale vyžaduje pravidelnou péči a obnovu podle zatížení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Já osobně mám dřevo rád právě proto, že vypadá jako dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se mi líbí matné laky a kvalitní olejované povrchy, které nevytvářejí dojem lesklého plastu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale to už je hodně otázka vkusu a způsobu používání podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kartáčovaná, nebo hladká?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kartáčováním se z povrchu dřeva odstraní měkčí část letokruhů a zvýrazní se jeho přirozená struktura.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha je potom na dotek výraznější a působí rustikálněji a přirozeněji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Praktickou výhodou je, že na strukturovaném povrchu často nejsou drobné provozní škrábance tak nápadné jako na dokonale hladké ploše.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hladká podlaha zase působí čistěji a klidněji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady bych rozhodoval hlavně podle interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jednolamelová, nebo třílamelová?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá konstrukce podlahy neznamená třílamelový vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To jsou dvě různé věci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednolamelová podlaha vypadá jako jedno široké masivní prkno. Ve větších prostorách je podle mě nádherná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třílamelový dekor má na jednom podlahovém dílci několik užších lamel a připomíná klasickou parketovou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednolamela dnes bývá velmi oblíbená v moderních interiérech, ale do menších místností může být zajímavá i užší lamela.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neplatí tedy, že nejširší a nejdelší prkno je vždy nejlepší.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rustikální, nebo klidné třídění dřeva?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle dokáže změnit vzhled podlahy možná víc než samotná barva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klidně tříděný dub má méně suků a výrazných barevných rozdílů. Výsledek je elegantnější a uhlazenější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rustikální třídění naopak přiznává suky, barevné rozdíly, přirozenou kresbu a další charakteristické znaky dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A tady zákazníkům říkáme:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Suk není chyba dřeva. Suk je dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud chcete dokonale stejné prkno vedle prkna, existují materiály, které to umějí lépe.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Krása skutečné dřevěné podlahy je právě v tom, že žádná dvě prkna nejsou úplně stejná.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dá se třívrstvá podlaha renovovat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U mnoha kvalitních třívrstvých podlah ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Záleží ale na tloušťce nášlapné vrstvy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Čím silnější vrstvu skutečného dřeva nad konstrukční částí máme, tím větší máme prostor pro budoucí renovaci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neznamená to ale, že musíme každou poškrábanou podlahu okamžitě celou brousit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U olejovaných povrchů lze řadu věcí řešit lokálně. U lakovaných podlah záleží na typu a rozsahu poškození.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A osobně bych ještě dodal jednu věc:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná podlaha nemusí po deseti letech vypadat jako v den montáže.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Drobné stopy používání k ní patří.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo stárne a získává patinu. Pro někoho je to nevýhoda. Pro mě je to jedna z věcí, kvůli kterým má skutečné dřevo pořád svoje kouzlo.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pes a dřevěná podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano, jde to.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale pokud máte doma čtyřicetikilového psa s dlouhými drápy, nemůžete očekávat, že měkký dřevěný povrch bude po deseti letech vypadat jako nový.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pomůže vhodná dřevina, povrchová úprava a pravidelné zastřihování drápů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je ale absolutní odolnost proti poškrábání hlavní požadavek, je fér říct, že existují praktičtější materiály než dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu bychom měli vybírat podle toho, jak skutečně žijeme, ne podle fotografie v katalogu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Slunce mění barvu dřeva",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další přirozená vlastnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo působením UV záření a času mění odstín.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Některé dřeviny tmavnou, jiné mohou zesvětlovat nebo měnit tón.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když tedy necháte několik let velký koberec na jednom místě a potom ho odstraníte, může být pod ním podlaha barevně trochu jiná než okolní plocha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Opět nejde automaticky o vadu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to vlastnost přírodního materiálu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Na co bych si při nákupu třívrstvé podlahy dával pozor?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhodně ne jen na cenu za metr.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zajímal by mě výrobce, celková tloušťka prkna, tloušťka nášlapné vrstvy, konstrukce střední vrstvy, kvalita zámku, třídění dřeva, povrchová úprava a možnost použití na podlahové topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Také bych chtěl vědět, zda výrobce umožňuje celoplošné lepení, plovoucí montáž, nebo oba způsoby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud mám podlahové topení, zajímá mě tepelný odpor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve potom bych řešil, jestli se mi více líbí Dub Natural, Rustic, Country nebo nějaký marketingově krásně pojmenovaný odstín.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepená vs. plovoucí – moje rychlé srovnání",
+    "center": false
+   },
+   {
+    "t": "table",
+    "rows": [
+     [
+      "Co řešíme",
+      "Celoplošně lepená",
+      "Plovoucí na podložce"
+     ],
+     [
+      "Pocit při chůzi",
+      "Pevnější a kompaktnější",
+      "Měkčí podle podložky"
+     ],
+     [
+      "Akustika v místnosti",
+      "Velmi dobrá",
+      "Záleží na podložce a podkladu"
+     ],
+     [
+      "Podlahové topení",
+      "Za mě nejlepší varianta",
+      "Funguje s vhodnou podložkou"
+     ],
+     [
+      "Přenos tepla",
+      "Velmi dobrý",
+      "Vyšší odpor celé skladby"
+     ],
+     [
+      "Rychlost montáže",
+      "Pomalejší",
+      "Rychlejší"
+     ],
+     [
+      "Cena montáže",
+      "Vyšší",
+      "Nižší"
+     ],
+     [
+      "Nároky na podklad",
+      "Vysoké",
+      "Také potřebuje rovný podklad"
+     ],
+     [
+      "Demontáž",
+      "Složitější",
+      "Jednodušší"
+     ],
+     [
+      "Velké souvislé plochy",
+      "Velmi vhodné",
+      "Nutno respektovat limity výrobce"
+     ],
+     [
+      "Pocit „opravdové podlahy“",
+      "Za mě jednoznačně",
+      "Velmi dobrý při kvalitní skladbě"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co bych si tedy dal domů já?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kdybych stavěl nový dům, měl kvalitně udělaný anhydrit nebo cementový potěr a teplovodní podlahové topení, moje volba by byla poměrně jasná:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní třívrstvá dubová podlaha, jednolamela a celoplošně nalepená k podkladu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože bych chtěl skutečné dřevo, příjemný pocit při chůzi, dobrou akustiku a co nejlepší přenos tepla.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud bych naopak rekonstruoval byt a potřeboval rozumně vyřešit podlahu bez zbytečně náročných zásahů, klidně bych kvalitní třívrstvou podlahu položil plovoucím způsobem na správně zvolenou podložku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani jedno řešení tedy není špatně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí pouze odpovídat konkrétní stavbě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dřevo si nekupujte, pokud chcete, aby se nikdy nezměnilo",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle možná zní zvláštně od někoho, kdo dřevěné podlahy prodává a pokládá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale je fér to říct.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud chcete podlahu, na které nechcete nikdy vidět drobný škrábanec, barevnou změnu, přirozenou kresbu, suk nebo reakci na změnu vlhkosti, možná pro vás skutečné dřevo nebude nejlepší volbou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme SPC, vinyl, laminát a další výborné materiály.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo si vyberte právě proto, že je dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Bude reagovat na prostředí, bude postupně stárnout a časem získá svoji vlastní patinu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na oplátku dostanete něco, co žádná fotografie dubu vytištěná na umělém materiálu úplně nenahradí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Skutečný přírodní materiál, po kterém budete každý den chodit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud vybereme správnou třívrstvou podlahu, správně připravíme podklad a zvolíme vhodný způsob montáže, může být taková podlaha součástí domu opravdu dlouhou dobu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nové parkety, nebo renovace starých? Parketová podlaha může přežít několik generací",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsou podlahy, které po dvaceti letech vyhodíme a nahradíme novými.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A potom jsou parkety.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní dřevěné parkety můžeme po letech přebrousit, opravit, změnit jejich odstín, znovu nalakovat nebo naolejovat a podlaha může pokračovat dál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto mám ke klasickým parketám trochu jiný vztah než k většině moderních podlahových krytin.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když přijedeme do staršího bytu a pod kobercem objevíme původní dubové parkety, moje první otázka není:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Čím je zakryjeme?“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moje první otázka je:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Dají se zachránit?“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi často totiž ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A někdy je stará kvalitní parketová podlaha po renovaci krásnější než spousta úplně nových podlah.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co vlastně myslíme parketami?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod slovem parkety si každý představí trochu něco jiného.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "My se v tomto článku bavíme především o klasických dřevěných parketách a parketových vlysech – tedy jednotlivých kusech skutečného dřeva, ze kterých můžeme vytvořit různé vzory.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejznámější je samozřejmě klasická rybí kost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parkety ale můžeme pokládat také rovnoběžně, do různých kazet, dvojité nebo trojité rybí kosti a vytvářet další dekorativní skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě v tom mají parkety obrovské kouzlo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu nevytváří velká hotová deska.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu skutečně skládáme kus po kuse.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nové parkety nejsou jen do starého činžáku",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parkety si mnoho lidí automaticky spojí s prvorepublikovým bytem, vysokými stropy a špaletovými okny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tam samozřejmě vypadají nádherně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale podle mě je velká škoda považovat parkety pouze za historickou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Krásná dubová rybí kost může v moderním interiéru vypadat fantasticky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Bílá kuchyň, jednoduchý nábytek, velká okna, minimum dekorací – a do toho přírodní dubová parketa.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě kombinace moderního interiéru a tradičního dřeva dokáže vytvořit podlahu, která nebude za deset let vypadat zastarale.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč si vůbec pořídit nové parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "První důvod je jednoduchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to skutečné dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý kus má trochu jinou kresbu, odstín a strukturu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Druhým důvodem je životnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dostatečně silných masivních parket máme proti mnoha moderním podlahovým krytinám velkou rezervu materiálu pro budoucí renovace.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A třetí důvod?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parketová podlaha se dá po letech změnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnes ji můžeme mít v přírodním matném laku. Za mnoho let ji můžeme přebrousit a zvolit například olej nebo jiný vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nekupujeme tedy jen povrch, který jednou opotřebujeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kupujeme kus dřeva, se kterým můžeme dál pracovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kam bych nové parkety doporučil?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za mě především do místností, kde chceme kvalitní přírodní podlahu na dlouhou dobu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výborně fungují v:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "obývacích pokojích",
+     "ložnicích",
+     "pracovnách",
+     "dětských pokojích",
+     "chodbách",
+     "jídelnách",
+     "reprezentativních prostorách",
+     "starších bytech i moderních rodinných domech"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "A samozřejmě jsou téměř ideální při rekonstrukci historických bytů, kde chceme zachovat charakter interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety v kuchyni?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano, ale stejně jako u každého dřeva je potřeba používat zdravý rozum.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Běžného provozu v kuchyni bych se nebál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozlitou vodu setřeme a pokračujeme dál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Problém je dlouhodobě stojící voda, havárie myčky nebo lednice a opakované zatékání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Osobně mám ale mnohem raději souvislou dřevěnou podlahu z obývacího pokoje do kuchyně než automatický pruh dlažby před kuchyňskou linkou jen proto, že „se to tak vždycky dělalo“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je skladba správně navržená a majitel ví, že má doma dřevo, parket v kuchyni bych se nebál.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety do koupelny?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už bych byl podstatně opatrnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasickou masivní parketu bych do běžné koupelny nedával automaticky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vysoká vlhkost, voda a její možnost dostat se do spár vytvářejí pro dřevo výrazně náročnější prostředí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Existují speciální dřevěné systémy a vhodné dřeviny pro koupelny, ale to je podle mě samostatná disciplína.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasická dubová parketa patří především do obytných prostor.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nové parkety – lepit, nebo položit na podložku?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady bych chtěl vyvrátit jeden poměrně častý omyl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U klasických masivních parket není podložka běžnou alternativou ve smyslu:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Buď je nalepíme, nebo je jako laminát položíme plovoucím způsobem.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasické jednotlivé parketové vlysy se zpravidla celoplošně lepí k připravenému podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Existují vícevrstvé parketové systémy se zámkem, které výrobce umožňuje položit plovoucím způsobem na podložku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je ale jiný výrobek a jiná konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto vždy musíme nejdříve vědět, jaký typ parkety máme před sebou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč mám u klasických parket rád celoplošné lepení?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože parketa je pevně spojená s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha při chůzi působí kompaktně, nemáme pod ní souvislou vzduchovou mezeru a můžeme přesně vytvářet požadovaný vzor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rybí kost, dvojitý stromeček, trojitý stromeček, bordury nebo jiné dekorativní skladby potřebují přesnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A u dobře připraveného podkladu a správně zvoleného lepicího systému máme velmi stabilní základ.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jaké lepidlo se používá na parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To záleží na velikosti parket, dřevině, podkladu, podlahovém topení a konkrétním systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnes se často používají moderní pružná nebo tvrdě elastická lepidla určená přímo pro dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepidlo není jen něco, čím zabráníme parketě v pohybu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí dlouhodobě přenášet síly vznikající při přirozeném sesychání a bobtnání dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych u parket rozhodně neexperimentoval s univerzálním lepidlem jen proto, že je levnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepidlo je součást celé konstrukce podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Co je důležitější než samotné parkety? Podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme koupit sebelepší dubové parkety, ale pokud je nalepíme na špatně připravený podklad, kvalitní podlahu z nich neuděláme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí být:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "rovný, pevný, soudržný, čistý a dostatečně suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před montáží kontrolujeme jeho stav a rovinnost a měříme zbytkovou vlhkost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nesoudržná místa musíme odstranit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Praskliny musíme správně posoudit a podle jejich charakteru opravit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nerovnosti vybrousit nebo vyrovnat vhodnou stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A teprve potom začínáme řešit samotné parkety.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety na starý beton nebo potěr",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano, pokud je podklad v odpovídajícím stavu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Starý podklad nemusí být automaticky špatný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy máme čtyřicet let starý cementový podklad, který je pevnější a stabilnější než některé nově provedené potěry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhoduje jeho skutečný stav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je podklad popraskaný, drolí se nebo není rovný, musíme ho nejprve opravit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety na OSB nebo dřevěný záklop",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Také to může být možné.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale konstrukce musí být opravdu pevná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "OSB ani jiná deska se nesmí při chůzi výrazně prohýbat a spoje nesmí pracovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dřevěných podkladů proto řešíme celou konstrukci, ne pouze poslední desku, kterou vidíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud podklad pruží, parkety to nezachrání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve musíme odstranit příčinu pohybu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety a podlahové topení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už musíme být opatrnější než u vícevrstvé dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo reaguje na změny teploty a vlhkosti více než stabilizovaná vícevrstvá konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že parkety a podlahové topení automaticky nejdou dohromady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jdou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme ale správně vybrat rozměr parkety, dřevinu, tloušťku, způsob montáže a především respektovat doporučení výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Osobně bych na podlahové topení preferoval menší stabilní formáty z vhodné dřeviny před extrémně širokými masivními prkny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A samozřejmě bych je celoplošně lepil.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U podlahového topení chceme co nejlepší kontakt mezi vytápěným podkladem a dřevem a rovnoměrné rozložení teploty. Výrobci dřevěných podlah proto u lepených systémů zdůrazňují rovnoměrnou teplotu podkladu a správně navrženou skladbu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dub je u parket sázka na jistotu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když se řekne klasická parketa, většina lidí si představí dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A není to náhoda.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dub je tvrdý, stabilní, dobře se opracovává a krásně stárne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Navíc máme obrovské možnosti povrchových úprav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme ho nechat světlý a přírodní, lehce tónovat, kouřově upravit, olejovat nebo lakovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je dubová parketová podlaha pořád jedna z mých nejoblíbenějších variant.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A teď staré parkety – vyhodit, nebo renovovat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady začíná podle mě nejzajímavější část.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přijedeme do bytu, kde jsou parkety staré padesát, sedmdesát nebo třeba sto let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsou zašlé, poškrábané, někde jsou mezi nimi spáry, několik kusů se hýbe a majitel řekne:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Tohle už asi nemá cenu.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A velmi často má.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stará parketa může vypadat hrozně a přitom být konstrukčně naprosto použitelná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch totiž můžeme odstranit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To nejdůležitější je zjistit, v jakém stavu je samotné dřevo a co se děje pod ním.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy má renovace parket smysl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jsou parkety dostatečně silné, nejsou zásadně poškozené vlhkostí nebo dřevokazným hmyzem a podklad pod nimi je možné stabilizovat, renovace většinou smysl má.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Škrábance?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nevadí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Starý lak?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nevadí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Zašlá barva?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nevadí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Menší spáry?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Často řešitelné.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Několik poškozených parket?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme je vyměnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle všechno jsou běžné věci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovují se dokonce velmi staré dřevěné podlahy a jednotlivé fyzicky poškozené díly lze při opravě nahradit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy už bych renovaci hodně zvažoval?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jsou parkety opakovaně promočené, shnilé, velmi tenké po několika předchozích broušeních nebo je zásadně poškozená konstrukce pod nimi, může být ekonomicky rozumnější podlahu rozebrat a udělat znovu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak pokud se velká část parket výrazně pohybuje, nestačí jen přijet s bruskou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme zjistit proč.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovace parket není pouze broušení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je důležité.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Největší chyba při renovaci? Začít rovnou brousit",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když parkety vržou, hýbou se nebo jsou místy uvolněné, broušení problém nevyřeší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve kontrolujeme podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klepáním a zatížením zjišťujeme uvolněná místa.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kontrolujeme poškozené parkety.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díváme se na spáry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podle typu původní montáže zjišťujeme, co je pod nimi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve když máme podlahu konstrukčně vyřešenou, dává smysl začít renovovat povrch.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Uvolněné parkety se musí opravit",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud několik parket nedrží, můžeme je podle situace vyjmout, očistit podklad a znovu nalepit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je problém rozsáhlejší, musíme zvolit odpovídající způsob opravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není správné pouze nalít něco do spár a doufat, že podlaha přestane pracovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý případ je trochu jiný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U starých parket navíc můžeme narazit na asfaltová lepidla, staré tmely nebo jiné historické skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je někdy nejdůležitější část práce zjistit, jak byla podlaha před desítkami let vlastně udělaná.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Chybějící parkety můžeme doplnit",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je jedna z věcí, kterou mám na parketách rád.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po odstranění příčky například zůstane v podlaze prázdný pás.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nebo někdo před dvaceti lety vyboural kus parket kvůli vestavěné skříni.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ještě neznamená, že musíme vyhodit celou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud seženeme parketu stejného nebo odpovídajícího rozměru a dřeviny, můžeme chybějící část doplnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po vybroušení a sjednocení povrchu může oprava velmi dobře splynout s původní podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nikdy samozřejmě neslibuji, že nové dřevo bude okamžitě barevně naprosto totožné se stoletým dubem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo má svůj věk a svoji historii.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale zkušený podlahář dokáže rozdíl často výrazně potlačit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Broušení parket – tady se podlaha znovu narodí",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Až když máme podlahu stabilní a opravenou, přichází broušení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Starý lak, škrábance, zašlá místa a povrchové poškození postupně odstraníme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nebrousíme ale jedním brusivem a jedním směrem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používáme několik kroků od hrubšího po jemnější broušení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U parketových vzorů musíme navíc respektovat směr vláken jednotlivých dílců.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Například u rybí kosti není možné přistupovat k broušení úplně stejně jako k dlouhým prknům položeným jedním směrem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Profesionální návody pro parketové vzory počítají s postupným broušením a následným jemným dokončením před povrchovou úpravou.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Je broušení parket bezprašné?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Úplně bez jediného smítka prachu vám to slibovat nebudu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale dnešní profesionální brusky s kvalitním odsáváním jsou úplně jinde než stroje, které si možná někdo pamatuje z minulosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při správném vybavení se naprostá většina brusného prachu odsává přímo u stroje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Takže představa, že po renovaci parket bude celý byt od stropu po podlahu pokrytý centimetrem dřevěného prachu, už rozhodně nemusí odpovídat realitě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Tmelení spár – ano, ale s rozumem",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po broušení můžeme menší spáry a drobné defekty vytmelit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Často se používá jemný brusný prach ze samotné podlahy smíchaný s vhodným tmelem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu se barevně přiblížíme renovovanému dřevu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale pozor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tmel není konstrukční lepidlo a neumí zastavit pohyb dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme obrovské spáry nebo parkety pracují, nemá smysl všechno jen zalít tmelem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Příčinu musíme vyřešit jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Profesionální systémy běžně používají směs spárového tmelu a brusného prachu právě pro menší spáry a vady.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lak, nebo olej?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po vybroušení máme v podstatě nové surové dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A můžeme rozhodnout, jak bude výsledná podlaha vypadat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lakované parkety",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytvoří na povrchu ochranný film.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moderní podlahové laky mohou být velmi matné, takže podlaha už vůbec nemusí vypadat jako lesklý parketový taneční sál z osmdesátých let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je jednoduchá běžná údržba a vysoká odolnost povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do hodně používaných domácností nebo komerčních prostor může být kvalitní lak velmi praktická volba.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Olejované parkety",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej nechává více vyniknout přirozenou strukturu dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha působí přírodněji a dřevo je na dotek „dřevěnější“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je také možnost lokální údržby a oprav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na druhou stranu olejovaná podlaha potřebuje pravidelnější péči.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to podlaha, kterou jednou natřeme a dalších dvacet let si jí nevšímáme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co bych zvolil já?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Záleží na interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do historického bytu s krásnou rybí kostí se mi velmi líbí přírodní nebo lehce tónovaný olej.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do hodně zatěžovaného rodinného bytu bych klidně použil kvalitní matný dvousložkový lak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnešní lak totiž nemusí dřevu vzít přirozený vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležité je vědět, jak bude podlaha používána.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Můžeme při renovaci změnit barvu parket?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A někdy docela výrazně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po odstranění původní povrchové úpravy můžeme dřevo podle použitého systému tónovat nebo použít barevný olej.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ze staré zažloutlé dubové podlahy tak nemusíme automaticky vytvořit znovu stejnou žlutou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme ji zesvětlit, zvýraznit přirozený dub nebo ji tónovat do jiného odstínu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady ale doporučuji udělat vzorek přímo na konkrétní podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo není RAL vzorník.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejný olej může na dvou různých dubových podlahách vypadat trochu jinak.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co s velkými spárami mezi starými parketami?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je případ od případu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Malé stabilní spáry můžeme vytmelit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U větších spár musíme zjistit, proč vznikly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy je podlaha extrémně vysušená.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy se jednotlivé řady během desetiletí posunuly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy je problém v podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A někdy jsou spáry jednoduše součástí charakteru stoleté podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nesnažil bych se proto každou historickou parketu předělat tak, aby vypadala jako právě vybalená z krabice.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovace by měla podlahu opravit, ne vymazat její historii.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vrzání parket",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další klasika.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vrzání může vznikat pohybem parkety proti parketě, pohybem vůči podkladu nebo samotnou konstrukcí pod podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto na otázku:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Kolik stojí odstranit vrzání parket?“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "nejde rozumně odpovědět po telefonu bez znalosti příčiny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy pomůže lokální oprava několika míst.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jindy zjistíme, že se pohybuje velká část celé konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve diagnostika.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potom oprava.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety po vytopení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady hodně záleží na množství vody a době, po kterou na podlahu působila.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo po přijetí vlhkosti zvětší svůj objem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parkety se mohou zvednout, vytvořit boule nebo se odlepit od podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Největší chyba je okamžitě všechno vytrhat bez zjištění skutečného rozsahu poškození.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale stejně špatné je začít podlahu brousit ještě vlhkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve musí být odstraněna příčina, konstrukce se musí vysušit a následně změříme její stav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve potom rozhodujeme, co zachránit a co vyměnit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jak dlouho renovované parkety vydrží?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je právě jejich největší kouzlo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme kvalitní masivní parketu a dostatečnou tloušťku dřeva, může projít během svého života několika renovacemi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samozřejmě při každém celoplošném broušení určitou část materiálu odebereme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto neplatí, že můžeme parkety brousit donekonečna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale dobře udržovaná parketová podlaha může sloužit opravdu velmi dlouho.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A profesionální renovace starých dřevěných podlah není nic neobvyklého ani u velmi starých realizací.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Renovovat, nebo položit nové parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kdybych měl před sebou kvalitní starou dubovou parketu, která je konstrukčně zachranitelná, osobně bych ji renovoval.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "I kdyby renovace znamenala víc práce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Staré dřevo má charakter, který z nové krabice jednoduše nevyndáme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je ale většina parket zničená, podklad je v katastrofálním stavu a oprava by znamenala nahrazovat polovinu místnosti, začal bych počítat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy už dává větší smysl původní podlahu odstranit, správně připravit podklad a položit nové parkety.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud chceme zachovat původní charakter bytu, můžeme novou podlahu opět položit třeba do klasické rybí kosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nové parkety vs. renovace starých – rychlé srovnání",
+    "center": false
+   },
+   {
+    "t": "table",
+    "rows": [
+     [
+      "Co řešíme",
+      "Nové parkety",
+      "Renovace původních parket"
+     ],
+     [
+      "Vzhled",
+      "Máme velkou možnost výběru",
+      "Zachováme původní charakter"
+     ],
+     [
+      "Podklad",
+      "Můžeme připravit od začátku",
+      "Musíme zjistit stávající skladbu"
+     ],
+     [
+      "Poškozené díly",
+      "Neřešíme",
+      "Lze lokálně měnit a doplňovat"
+     ],
+     [
+      "Broušení",
+      "Podle typu nových parket",
+      "Obvykle součást renovace"
+     ],
+     [
+      "Barva",
+      "Vybereme předem nebo dokončíme na místě",
+      "Můžeme ji při renovaci změnit"
+     ],
+     [
+      "Vzor",
+      "Rybí kost, řemen, kazety a další",
+      "Zachováváme původní nebo doplňujeme"
+     ],
+     [
+      "Životnost",
+      "Velmi dlouhá",
+      "Při dostatečné tloušťce stále velmi dlouhá"
+     ],
+     [
+      "Originalita",
+      "Nová podlaha",
+      "Původní dřevo má vlastní historii"
+     ],
+     [
+      "Ekonomika",
+      "Záleží na materiálu a podkladu",
+      "Často výhodnější než kompletní výměna"
+     ]
+    ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Než staré parkety vyhodíte, nechte je někoho prohlédnout",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je asi nejdůležitější rada z celého článku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Viděl jsem parkety, které na první pohled vypadaly na vyhození a po renovaci byly nádherné.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A viděl jsem také podlahy, které na fotografii vypadaly docela dobře, ale po kontrole jsme zjistili, že se pod nimi rozpadá celá konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych o osudu starých parket nikdy nerozhodoval jen podle jejich povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Škrábanec se dá vybrousit. Starý lak se dá odstranit. Chybějící parketa se dá doplnit. Menší spáry se dají opravit. Povrch se dá znovu nalakovat nebo naolejovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To nejdůležitější je, jestli máme zdravé dřevo a konstrukci, se kterou se dá dál pracovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud ano, byla by podle mě velká škoda kvalitní staré dubové parkety zakrýt vinylem jen proto, že dnes nevypadají hezky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co bych si dal domů já?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kdybych rekonstruoval starší pražský byt a našel v něm původní kvalitní dubovou rybí kost, která se dá zachránit?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani na chvíli bych nepřemýšlel o SPC nebo vinylu. Parkety bych opravil a zrenovoval.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdybych měl historický byt, kde už původní podlaha zachránit nejde?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dal bych nové dubové parkety a pravděpodobně opět rybí kost.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A kdybych stavěl úplně moderní dům?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani tam bych parkety nezavrhoval. Naopak. Velkoformátová nebo klasická dubová rybí kost v kombinaci s moderním interiérem může podle mě vypadat fantasticky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parketa totiž není staromódní podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to jedna z mála podlah, která může být stará sto let – a pořád má smysl ji zachránit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Renovace parket – kdy starou podlahu zachránit a kdy už ne?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Staré parkety někdy vypadají tak, že první myšlenka majitele je:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Tohle vytrháme a dáme sem novou podlahu.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě tady bych byl opatrný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za desítky let jsme viděli spoustu parketových podlah, které byly zašlé, poškrábané, místy černé, mezi parketami byly spáry a některé vlysy se dokonce uvolňovaly.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na první pohled nic pěkného.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po správně provedené renovaci ale z takové podlahy může být znovu jedna z nejhezčích věcí v celém bytě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto u starých parket říkáme:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve zjistěme, co máme pod nohama. Vyhodit je můžeme vždycky.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co všechno znamená renovace parket?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovace parket není jen to, že přijedeme s bruskou, odstraníme starý lak a večer je hotovo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správná renovace může zahrnovat:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "kontrolu stavu parket a podkladu",
+     "opravu uvolněných míst",
+     "výměnu poškozených parket",
+     "doplnění chybějících vlysů",
+     "několikanásobné broušení",
+     "opravu a tmelení vhodných spár",
+     "jemné finální broušení",
+     "důkladné odsátí prachu",
+     "základní povrchovou úpravu",
+     "mezibroušení",
+     "několik vrstev vrchního laku",
+     "nebo místo laku finální ošetření vhodným olejovým systémem"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Teprve tomuhle říkáme kompletní renovace parket.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve parkety prohlédneme. Bruska přijde až potom.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle považuji za jednu z nejdůležitějších věcí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Než začneme brousit, potřebujeme zjistit, jestli parkety dobře drží.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Projdu podlahu, poslouchám, jestli někde výrazně nevrže, sleduji pohyb jednotlivých parket a hledám poškozená nebo uvolněná místa.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kontrolujeme také staré opravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V některých bytech zjistíme, že před námi už někdo parketu přilepil nevhodným lepidlem, zatloukl hřebíkem nebo opravil způsobem, který další renovaci komplikuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Broušením konstrukční problém neopravíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud se parketa hýbe před broušením, velmi pravděpodobně se bude hýbat i po něm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jen bude hezčí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy má renovace parket smysl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ve většině případů, kdy máme zdravé a dostatečně silné dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Běžné škrábance nejsou problém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zašlý nebo zažloutlý lak není problém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lokální skvrny často nejsou problém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Menší stabilní spáry můžeme řešit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Několik poškozených nebo chybějících parket můžeme vyměnit či doplnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dokonce ani hodně nevzhledná podlaha nemusí být automaticky na vyhození.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vzhled starých parket nám totiž neříká, v jakém stavu je dřevo pod starým lakem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy už bych renovaci dobře počítal?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsou samozřejmě situace, kdy nemá smysl zachraňovat všechno za každou cenu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Například když je velká část podlahy silně poškozená vodou, dřevo je degradované, parkety jsou po mnoha předchozích renovacích příliš tenké nebo se rozpadá podklad pod velkou částí místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak pokud bychom měli vyměnit polovinu parket a kompletně předělávat konstrukci pod nimi, je fér zákazníkovi spočítat také variantu nové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovace má zachraňovat kvalitní podlahu. Nemá se z ní stát oprava za každou cenu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Uvolněné parkety nejdříve opravíme",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud zjistíme, že jednotlivé parkety nedrží, musíme nejdříve vyřešit jejich stabilitu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy můžeme několik vlysů vyjmout, očistit a znovu nalepit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jindy je uvolněná větší část plochy a způsob opravy musíme zvolit podle původní skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ve starších domech totiž můžeme pod parketami najít nejrůznější věci – stará lepidla, asfaltové hmoty, dřevěné podklady nebo různé kombinace předchozích oprav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se způsob renovace nedá vždy určit jen podle fotografie zaslané telefonem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vrzající parkety? Nejdříve zjistíme proč",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vrzání je podobný případ.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může vrzat samotný spoj mezi dvěma parketami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může se pohybovat parketa vůči podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A může se pohybovat samotná konstrukce pod parketami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To jsou tři úplně jiné problémy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto není správná odpověď:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "„Nastříkáme něco do spár a ono to přestane.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A možná vůbec.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve potřebujeme najít příčinu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Chybějící parkety se často dají doplnit",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle řešíme například po odstranění starých příček nebo vestavěného nábytku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Najednou máme krásnou původní parketovou podlahu a přes prostředek místnosti pruh, kde žádné parkety nejsou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvůli tomu nemusíme automaticky měnit celou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud dokážeme sehnat nebo vyrobit parkety odpovídajícího rozměru a dřeviny, můžeme chybějící část doplnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nové dřevo samozřejmě nemusí mít okamžitě přesně stejnou barvu jako dub starý sedmdesát let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po vybroušení celé plochy a správné povrchové úpravě ale může být výsledek velmi pěkný.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A teď přichází broušení parket",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve když máme podlahu konstrukčně připravenou, začínáme brousit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A broušení není jeden přejezd strojem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Starý lak, nerovnosti a poškozený povrch odstraňujeme postupně několika brusnými kroky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Začínáme hrubším broušením a postupně přecházíme k jemnějšímu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý krok má svůj význam.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Hrubé broušení odstraní starou povrchovou úpravu a výraznější poškození.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další kroky odstraňují stopy předchozího brusiva a postupně vytvářejí hladký povrch připravený pro finální úpravu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přeskočit několik brusných kroků znamená riskovat, že stopy po hrubém brusivu uvidíme až po nalakování.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A to už je pozdě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Broušení rybí kosti chce trochu jiný přístup",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dlouhého prkna máme jeden hlavní směr vláken.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U rybí kosti máme polovinu parket otočenou jedním směrem a polovinu druhým.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je potřeba broušení přizpůsobit parketovému vzoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak řešíme okraje místností, rohy, prostor kolem radiátorů nebo jiná místa, kam se hlavní podlahová bruska nedostane.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na výsledku by nemělo být poznat, kde skončila velká bruska a kde začala práce s okrajovým strojem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Je broušení parket bez prachu?",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Úplně bez jediného smítka?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To bych zákazníkovi nesliboval.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale moderní profesionální brusné stroje napojené na kvalitní odsávání dokážou zachytit naprostou většinu brusného prachu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozdíl proti starým bruskám bez účinného odsávání je obrovský.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při renovaci samozřejmě stále pracujeme se dřevem a brusivem, takže nějaký jemný prach vznikne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhodně už ale nemusí platit představa, že po broušení parket budete týden utírat dřevěný prach z lustru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Tmelení parket – ano, ale ne každou spáru za každou cenu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po určité fázi broušení přichází podle stavu podlahy tmelení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jemný brusný prach ze dřeva můžeme spojit s vhodným profesionálním tmelem a vzniklou hmotou vyplnit drobné stabilní spáry a vady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je barevná podobnost se samotným dřevem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže tmel má svoje hranice.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máme mezi parketami velké spáry nebo se jednotlivé vlysy pohybují, nestačí je jednoduše zatmelit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo bude dál pracovat a tmel může popraskat nebo vypadnout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto platí:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve stabilita podlahy. Potom kosmetika.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Finální broušení rozhoduje o vzhledu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po opravách a tmelení podlahu znovu jemně přebrousíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už nevytváříme rovinu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Připravujeme povrch dřeva pro lak, olej nebo jinou finální úpravu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě v této chvíli se začíná ukazovat, co jsme pod starým povrchem skutečně měli.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Původně šedá a zašlá parketa najednou dostane zpět kresbu dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A to je podle mě jedna z nejhezčích částí celé renovace.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lakování parket – základ není zbytečná vrstva",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud volíme lakovanou podlahu, používáme systém určený pro dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního výrobku může skladba zahrnovat vhodný základní lak a následně několik vrstev vrchního laku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Základ ovlivňuje nejen přilnavost dalších vrstev, ale podle zvoleného systému také výsledný vzhled dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mezi jednotlivými vrstvami se podle technologie může provádět jemné mezibroušení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem má být souvislý, rovnoměrný a odolný povrch.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jaký lak na parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje jeden nejlepší lak na všechny podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do ložnice máme jiné zatížení než do chodby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiné požadavky má domácnost se dvěma lidmi a jiné rodina se třemi dětmi a velkým psem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A úplně jinak přistupujeme ke kanceláři, restauraci nebo jinému komerčnímu prostoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto volíme lak podle předpokládaného zatížení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnešní profesionální laky mohou být matné, ultramatné, polomatné i lesklejší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A osobně mám rád hlavně matné varianty, protože nechají parketu vypadat jako dřevo.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Matný lak podle mě parketám sluší",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když se řeknou lakované parkety, někdo si stále představí extrémně lesklou žlutooranžovou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnes už to tak být nemusí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moderní matný lak dokáže povrch velmi dobře chránit a přitom zachovat přirozený vzhled dubu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na matném povrchu navíc nebývají drobné provozní stopy tak nápadné jako na vysokém lesku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do běžné domácnosti je to za mě velmi dobrá volba.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co olejované parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Také krásné řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej nevytváří stejný uzavřený film jako klasický lak a dřevo působí velmi přirozeně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velkou výhodou je možnost průběžné údržby a některých lokálních oprav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na druhou stranu musíme počítat s pravidelnější péčí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se zákazníka vždy ptám:",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Chcete se o podlahu trochu starat, nebo chcete co nejjednodušší běžnou údržbu?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle toho vybíráme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Můžeme staré parkety zesvětlit nebo změnit jejich odstín?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po úplném odstranění staré povrchové úpravy máme před sebou čisté dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme tedy použít různé tónovací systémy, barevné oleje nebo další povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ze starého žlutého dubu můžeme vytvořit podstatně přirozenější moderní podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale vždy doporučuji nejdříve udělat vzorek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo není vytištěný dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každá podlaha může na stejný odstín reagovat trochu jinak.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Černé skvrny na parketách",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady záleží na jejich příčině a hloubce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchovou skvrnu můžeme broušením úplně odstranit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud ale například voda nebo jiná kapalina pronikala do dřeva dlouhodobě a změna barvy jde hluboko, nemůžeme parketu brousit donekonečna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy je lepší několik silně poškozených vlysů vyměnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto ani tady neslibujeme výsledek pouze podle fotografie.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Renovace parket po vytopení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po vytopení bych s bruskou rozhodně nespěchal.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve odstraníme příčinu vody a necháme podlahu a konstrukci vyschnout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zkontrolujeme vlhkost a teprve potom hodnotíme, co se s parketami skutečně stalo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Některé se mohou po vyschnutí částečně vrátit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiné zůstanou deformované nebo se odlepí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Brousit mokré nebo stále nadměrně vlhké parkety je špatně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve vysušit a změřit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potom opravovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jak dlouho po lakování nemůžeme podlahu používat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To závisí na konkrétním lakovacím systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je rozdíl mezi tím, kdy je možné po podlaze opatrně přejít v čistých ponožkách, kdy můžeme vrátit lehký nábytek a kdy lak dosáhne plné odolnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto zákazníkům vždy dáváme pokyny podle konkrétního použitého výrobku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Suchý na dotek neznamená plně vytvrzený.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě první dny po renovaci mohou výrazně ovlivnit konečný výsledek.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kdy renovovat parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ideální chvíle je ještě před tím, než je povrch úplně zničený.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je lak pouze matný a opotřebovaný, můžeme mít více možností opravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když už je ochranná vrstva prošlapaná až na holé dřevo a to je dlouhodobě vystavené vodě a nečistotám, renovace bude náročnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto není nutné čekat, až budou parkety vypadat katastrofálně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kolikrát můžeme parkety renovovat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To záleží na jejich konstrukci, původní tloušťce a na tom, kolik materiálu bylo odebráno při předchozích broušeních.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasické masivní parkety mají v tomto směru velkou výhodu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme k dispozici skutečné dřevo, které lze za vhodných podmínek opakovaně renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každé broušení ale určitou část dřeva odstraní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto dobrý podlahář nebrousí víc, než je skutečně potřeba.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Renovace parket není jen způsob, jak ušetřit za novou podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je podle mě důležité.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovaci bych nevnímal jako levnější náhražku nové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy máme doma materiál, který už dnes ani nechceme nahrazovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní starý dub, klasický rozměr parkety, ručně skládanou rybí kost nebo podlahu, která je součástí charakteru celého bytu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč bych ji měl vyhazovat jen proto, že je poškrábaná?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Škrábance umíme odstranit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak umíme vyměnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parketu umíme opravit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Padesát nebo osmdesát let historie ale z nové krabice nekoupíme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Staré parkety neposuzujte podle starého laku",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud máte doma staré parkety, které vypadají hrozně, ještě nad nimi nelámejte hůl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Starý lak může být zažloutlý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch může být špinavý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mohou tam být škrábance po nábytku, skvrny nebo místa po kobercích.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod tím vším ale pořád může být krásný dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych před rozhodnutím o nové podlaze vždy nejdříve zjistil:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jak silné parkety jsou? Drží? Jak vypadá podklad? Nejsou napadené? Nejsou zásadně poškozené vodou? Kolikrát už byly broušené?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jsou odpovědi příznivé, moje volba je jasná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Renovovat. Nezakrývat. Nevyhazovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dobře zrenovovaná parketová podlaha totiž nemusí vypadat jako stará opravená podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může vypadat jako jedna z nejhezčích podlah v celém bytě.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nové dubové parkety – rybí kost, dvojitý a trojitý stromeček",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když se řeknou parkety, spousta lidí si představí podlahu v bytě po babičce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Malé dubové vlysy, vysoké sokly, starý lesklý lak a byt někde na Vinohradech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže parkety už dávno nejsou pouze podlaha do starého činžáku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle mě je to přesně naopak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nové dubové parkety patří mezi podlahy, které dokážou vypadat fantasticky jak v historickém bytě, tak v úplně moderním domě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A když si pohrajeme s formátem a způsobem pokládky, nemusíme zůstat jen u klasické rybí kosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme jednoduchý stromeček, dvojitý stromeček, trojitý stromeček, různé velikosti vlysů, bordury a spoustu dalších možností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už podlahu pouze nepokládáme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady ji skládáme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč zrovna dubové parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože dub se pro parketovou podlahu používá desítky a desítky let a má to svůj důvod.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je tvrdý, relativně stabilní, dobře se opracovává a hlavně krásně stárne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Navíc nám nabízí obrovské množství vzhledů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dub může být téměř čistý a klidný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může být rustikální, plný suků a barevných rozdílů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme ho nechat v přírodní barvě, zesvětlit, kouřově tónovat nebo upravit olejem do celé řady odstínů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pořád je to ale dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A jeho kresbu nemusíme tisknout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vyrobil ji strom.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Masivní parketa není laminát ani vinyl",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná samozřejmost, ale stojí za připomenutí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U klasické masivní parkety máme jeden kus skutečného dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není tam dekorativní fotografie.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není tam potištěná fólie.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto nikdy nebudou všechny parkety dokonale stejné.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedna může být světlejší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Druhá tmavší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedna má výraznější letokruhy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jiná může mít podle zvoleného třídění suk.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě když složíme stovky jednotlivých kusů dohromady, vznikne přirozená plocha, kterou umělý dekor napodobuje jen velmi těžko.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rybí kost – klasika, která podle mě nikdy nezestárne",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejznámější způsob pokládky parket je rybí kost neboli stromeček.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé parkety skládáme proti sobě tak, aby vytvořily pravidelný lomený vzor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem je podlaha, která má pohyb.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle směru světla vidíme jednotlivé části vzoru trochu jinak, protože dřevní vlákna jsou orientována různými směry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto může i jednobarevný přírodní dub působit velmi živě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rybí kost se krásně hodí do historických bytů, ale stejně dobře může fungovat v moderním minimalistickém interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Směr stromečku je důležitější, než se zdá",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rybí kost se nedá začít skládat náhodně od první volné stěny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve se podíváme na celý prostor.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Kde je hlavní vstup?",
+     "Odkud přichází denní světlo?",
+     "Jak na sebe navazují místnosti?",
+     "Kde máme dlouhou pohledovou osu?",
+     "Má vzor pokračovat z chodby do obývacího pokoje?",
+     "Kde chceme mít osu stromečku?"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "U velké souvislé plochy může několik centimetrů chyby na začátku znamenat velmi nepěkný detail na druhém konci místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto si vzor před pokládkou rozměříme a založíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "První řady rozhodují o všem, co přijde potom.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jednoduchý stromeček",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasická rybí kost je tvořena vždy jednou parketou z každé strany vzoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je elegantní, jemná a velmi univerzální.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Čím menší formát parkety zvolíme, tím více členitá bude výsledná plocha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "S větším formátem naopak dostáváme modernější a klidnější vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych formát nevybíral pouze podle fotografie vzorku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme ho vidět ve vztahu k velikosti celé místnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dvojitý stromeček",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A tady už začíná být podlaha trochu zajímavější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Místo jedné parkety pracujeme ve vzoru se dvěma vedle sebe.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vznikne dvojitá rybí kost neboli dvojitý stromeček.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vzor je výraznější, větší a podlaha získá jiný rytmus.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Osobně se mi dvojitý stromeček líbí hlavně ve větších místnostech, kde má dost prostoru vyniknout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V malém pokojíčku může být velký vzor zbytečně dominantní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V prostorném obývacím pokoji ale dokáže vypadat nádherně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Trojitý stromeček",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U trojitého stromečku skládáme do jedné části vzoru tři parkety.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem je ještě větší geometrie.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě tady už podle mě musíme hodně přemýšlet nad poměrem velikosti parkety a celé místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na vzorku o velikosti jednoho metru může trojitý stromeček působit zvláštně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na ploše padesáti metrů čtverečních může vypadat úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto zákazníkům doporučuji neposuzovat složitější parketové vzory jen podle malého vzorku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parketový vzor potřebuje prostor.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co francouzský nebo maďarský stromeček?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je zase trochu jiná disciplína.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U klasické rybí kosti se konce parket setkávají pod pravým úhlem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U tzv. Chevronu jsou konce jednotlivých prvků seříznuté pod úhlem a vytvářejí pravidelné „V“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle úhlu a konstrukce se setkáme s označením francouzský nebo maďarský stromeček.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledek je velmi elegantní a geometricky přesný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zároveň ale vyžaduje přesný materiál, perfektní založení a velmi dobrou práci podlaháře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud někde platí „dvakrát měř, jednou řež“, u Chevronu bych klidně řekl:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pětkrát měř.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety do moderního domu? Jednoznačně ano",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Krásná dubová rybí kost, velká okna, bílá stěna, jednoduchá kuchyň a moderní nábytek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za mě nádhera.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parkety nemusíme automaticky spojovat s kazetovým stropem a starožitnou skříní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě kontrast tradičního materiálu a jednoduchého moderního interiéru funguje velmi dobře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A výhodou je, že dubová parketa není módní dekor na několik sezon.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo bylo na podlahách před sto lety a pravděpodobně na nich bude i za dalších sto.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jaké třídění dubu vybrat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To dokáže výslednou podlahu změnit možná stejně výrazně jako samotný vzor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud zvolíme klidnější třídění, dostaneme podlahu s menším množstvím suků a barevných rozdílů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledek je čistší a elegantnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rustikální třídění naopak ukáže dřevo takové, jaké je.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Suky, přirozené barevné rozdíly, výraznější kresbu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A tady zákazníkům opakuji:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Suk není výrobní vada.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si vybereme rustikální dub, kupujeme si právě jeho přirozený charakter.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Malá, nebo velká parketa?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani tady neexistuje jedno správné řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Menší klasický vlys vytvoří jemnější a tradičnější vzor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Větší parketa může působit moderněji a v prostorném interiéru velmi elegantně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozměr bych proto vybíral podle:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "velikosti místnosti",
+     "zvoleného vzoru",
+     "stylu interiéru",
+     "šířky chodeb",
+     "návaznosti místností"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "a celkového měřítka prostoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ne podle toho, která fotografie na internetu se nám nejvíce líbí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Nové masivní parkety bych celoplošně lepil",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U klasických masivních parket je moje volba jasná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Celoplošné lepení na správně připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parkety nejsou klasická click podlaha, kterou bychom jednoduše položili na pěnovou podložku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potřebujeme přesně založit vzor a jednotlivé vlysy stabilně spojit s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používáme profesionální lepicí systém vhodný pro dřevěné podlahy a konkrétní typ podkladu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A zase jsme u podkladu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme mít nejkrásnější dubovou parketu na světě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud ji položíme na špatný podklad, výsledek nebude dobrý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad potřebujeme:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "rovný, pevný, soudržný, suchý a čistý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nové parketové podlahy je rovinnost důležitá také kvůli samotnému vzoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud skládáme stovky jednotlivých vlysů, nechceme bojovat s každým druhým kusem kvůli nerovnosti podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto přípravu podkladu nepovažuji za vedlejší práci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to základ celé parketové podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Musí se nové parkety po položení brousit?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Záleží na typu parket.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud pokládáme klasické surové masivní vlysy, následuje po instalaci další řemeslná část práce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu necháme podle použitého systému stabilizovat a následně ji vybrousíme do finální roviny a hladkosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Potom přichází tmelení, jemné broušení a finální povrchová úprava.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je, že výsledný povrch vzniká až po položení celé podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spoje, drobné výškové rozdíly a celou plochu tedy dokončujeme společně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lakované, nebo olejované nové parkety?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obojí může být správně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytvoří odolnou ochrannou vrstvu a nabízí jednoduchou běžnou údržbu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej nechá více vyniknout přirozenou strukturu a dotek dřeva a umožňuje průběžnější lokální péči.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Osobně mám u nových dubových parket rád buď opravdu matný lak, nebo kvalitní olej.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nechci, aby nádherný kus dubu po dokončení vypadal jako plastová imitace dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Můžeme nové parkety barevně tónovat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samozřejmě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě u surové parkety máme velkou výhodu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výslednou barvu nemusíme vybírat pouze z toho, co výrobce zabalil do krabice.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po položení a vybroušení můžeme použít různé tónovací systémy, barevné oleje nebo další profesionální povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přírodní dub můžeme nechat téměř beze změny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme ho zesvětlit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme zvýraznit jeho teplý odstín.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nebo vytvořit tmavší kouřový vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale znovu:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve vzorek. Potom celá podlaha.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety a podlahové topení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je potřeba vybírat konkrétní výrobek a skladbu velmi pečlivě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo samo o sobě podlahové topení automaticky nevylučuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U masivních parket ale musíme počítat s tím, že dřevo reaguje na teplotu a změny vlhkosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto volíme vhodnou dřevinu, rozměr a tloušťku parkety a správný způsob lepení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dub je z tohoto pohledu jedna z dřevin, které mám rád.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důležité je také nepřehřívat povrch podlahy a udržovat v interiéru vhodnou relativní vlhkost vzduchu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Parkety a vlhkost vzduchu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady platí stejné pravidlo jako u všech skutečných dřevěných podlah.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo není mrtvý plastový dílec.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Reaguje na prostředí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když je vzduch dlouhodobě příliš suchý, dřevo sesychá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při vysoké vzdušné vlhkosti naopak přijímá vlhkost a zvětšuje svůj objem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto majitelům dřevěných podlah doporučujeme hlídat v interiéru nejen teplotu, ale také relativní vlhkost vzduchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zvlášť v zimě při podlahovém vytápění.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dilatace patří i k parketám",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To, že parketu celoplošně nalepíme, neznamená, že přestala být dřevem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po obvodu a u pevných konstrukcí proto řešíme správné technologické mezery a respektujeme také konstrukční dilatace samotné stavby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní řešení vždy vychází z velikosti plochy, podkladu, vzoru a montážního systému.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kolik parket objednat navíc?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady hodně záleží na vzoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U jednoduché skladby máme jiný prořez než u složité rybí kosti nebo Chevronu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rohy, výklenky, členitost místnosti a způsob založení vzoru spotřebu materiálu dále ovlivňují.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bych u parket nepoužíval jedno univerzální procento pro každou realizaci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve uděláme kladečský plán. Potom objednáváme materiál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A několik parket bych si vždy nechal do budoucna.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč je pokládka rybí kosti dražší než rovná podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože je s ní jednoduše více práce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme přesně zaměřit prostor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Založit osu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Průběžně kontrolovat směr vzoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Máme více řezání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Více detailů u stěn.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A chyba na začátku se může násobit přes celou místnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dvojitého, trojitého nebo francouzského stromečku je přesnost ještě důležitější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto cenu montáže parketového vzoru nedává smysl porovnávat s cenou položení velké click lamely.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to jiný druh práce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Bordura kolem parket",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud chceme parketovou podlahu posunout ještě o úroveň výš, můžeme pracovat s bordurou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tedy s obvodovým pásem, který oddělí hlavní parketový vzor od stěn.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může být ze stejného dřeva nebo můžeme vytvořit kontrastní detail.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V historických interiérech to může vypadat nádherně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale opět platí – čím složitější vzor, tím důležitější je přesné rozměření před položením první parkety.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jednoduchý, dvojitý, nebo trojitý stromeček?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kdybych to měl hodně zjednodušit:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasická rybí kost je nejuniverzálnější. Funguje skoro všude.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dvojitý stromeček je výraznější a podle mě krásně funguje ve větších místnostech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Trojitý stromeček už je dominantní prvek interiéru a potřebuje dostatek prostoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje ale pravidlo, že do místnosti o 25 m² patří přesně určitý vzor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musíme vidět celý prostor.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co bych si vybral já?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kdybych rekonstruoval klasický pražský byt s vysokými stropy, moje volba by byla téměř určitě dubová rybí kost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle charakteru bytu možná menší klasický formát a přírodní matný povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud bych měl velký moderní obývací prostor v rodinném domě, hodně bych přemýšlel nad větším formátem, dvojitým nebo klidně trojitým stromečkem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud bych chtěl opravdu výraznou podlahu, podíval bych se na Chevron.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale jednu věc bych udělal vždy stejně:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Parketu bych vybíral společně s konkrétním vzorem a konkrétní místností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože stejný dub může v klasické rybí kosti, dvojitém stromečku a Chevronu vypadat jako tři úplně jiné podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "U parket nekupujete jen materiál. Kupujete i způsob, jakým bude položený.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U velké podlahové lamely hraje hlavní roli dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U parket je dekor jen začátek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhoduje rozměr vlysu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třídění dubu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Směr pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velikost vzoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Založení osy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Napojení jednotlivých místností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchová úprava.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A samozřejmě kvalita samotné pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto mohou dvě podlahy ze stejné dubové parkety vypadat úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě to mě na parketách baví.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejsou to jen kusy dřeva nalepené na podlaze. Je to podlaha, kterou můžeme navrhnout pro konkrétní prostor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A když se udělá pořádně, nemusí tam být deset nebo dvacet let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klidně ji jednou bude renovovat další generace.",
+    "center": false
+   },
    {
     "t": "h",
     "l": 2,
