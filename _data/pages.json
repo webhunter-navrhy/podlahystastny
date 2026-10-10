@@ -13,7 +13,8 @@
     "t": "h",
     "l": 2,
     "x": "Chateau",
-    "center": false
+    "center": false,
+    "anchor": "chateau"
    },
    {
     "t": "h",
@@ -168,7 +169,8 @@
     "t": "h",
     "l": 2,
     "x": "Kolonial",
-    "center": false
+    "center": false,
+    "anchor": "kolonial"
    },
    {
     "t": "h",
@@ -343,7 +345,8 @@
     "t": "h",
     "l": 2,
     "x": "Soft Tone",
-    "center": false
+    "center": false,
+    "anchor": "soft-tone"
    },
    {
     "t": "h",
@@ -495,7 +498,8 @@
     "t": "h",
     "l": 2,
     "x": "Harfa Vintage",
-    "center": false
+    "center": false,
+    "anchor": "harfa-vintage"
    },
    {
     "t": "h",
@@ -607,7 +611,8 @@
     "t": "h",
     "l": 2,
     "x": "Pelgrim",
-    "center": false
+    "center": false,
+    "anchor": "pelgrim"
    },
    {
     "t": "h",
@@ -710,7 +715,8 @@
     "t": "h",
     "l": 2,
     "x": "Karel IV",
-    "center": false
+    "center": false,
+    "anchor": "karel-iv"
    },
    {
     "t": "h",
@@ -12349,10 +12355,32 @@
     "center": false
    }
   ],
-  "dekory": {
-   "href": "@/dekory-podlah-esco-kolonial/",
-   "label": "Dekory ESCO"
-  }
+  "dekory": [
+   {
+    "href": "@/dekory-podlah-esco-kolonial/#chateau",
+    "label": "ESCO Chateau – Dekory"
+   },
+   {
+    "href": "@/dekory-podlah-esco-kolonial/#kolonial",
+    "label": "ESCO Kolonial – Dekory"
+   },
+   {
+    "href": "@/dekory-podlah-esco-kolonial/#soft-tone",
+    "label": "ESCO Soft Tone – Dekory"
+   },
+   {
+    "href": "@/dekory-podlah-esco-kolonial/#harfa-vintage",
+    "label": "ESCO Harfa Vintage – Dekory"
+   },
+   {
+    "href": "@/dekory-podlah-esco-kolonial/#pelgrim",
+    "label": "ESCO Pelgrim – Dekory"
+   },
+   {
+    "href": "@/dekory-podlah-esco-kolonial/#karel-iv",
+    "label": "ESCO Karel IV – Dekory"
+   }
+  ]
  },
  {
   "id": 6938,
