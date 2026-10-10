@@ -7,7 +7,7 @@
       <h1 class="phero__h1 reveal">{{ P.title }}</h1>
       {% if P.lead %}<p class="phero__lead reveal" style="--d:.1s">{{ P.lead | safe }}</p>{% endif %}
     </div>
-    {% if P.jump %}<p class="phero__jump reveal" style="--d:.2s"><a class="btn btn--red" href="#ukazky">Ukázky našich prací <span class="arr">↓</span></a><a class="btn btn--line" href="{{ L('/ukazky-nasi-prace/') }}">Všechny reference</a></p>{% endif %}
+    {% if P.jump %}<p class="phero__jump reveal" style="--d:.2s"><a class="btn btn--red" href="#ukazky">Ukázky našich prací <span class="arr">↓</span></a></p>{% endif %}
   </div>
   {{ rings('phero__rings') }}
 </section>

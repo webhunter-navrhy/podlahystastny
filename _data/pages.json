@@ -2145,8 +2145,34 @@
     "center": true
    },
    {
-    "t": "p",
-    "h": "M1002_1380_193_V4_Area_A2_CMYK_ECI_v2-1M1005_1380_193_V4_Area_A2_CMYK_ECI_v2-1M1008_1380_193_V4_bearb_ECI_v2-1M1019_D4693_1380_193_V4-Area_A2_CMYK_ECI-1M1020_D4690_1380_193_V4-Area_A2_CMYK_ECI-1"
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/M1002_1380_193_V4_Area_A2_CMYK_ECI_v2-1.jpg",
+      "title": "",
+      "desc": "M1002_1380_193_V4_Area_A2_CMYK_ECI_v2-1"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/M1005_1380_193_V4_Area_A2_CMYK_ECI_v2-1.jpg",
+      "title": "",
+      "desc": "M1005_1380_193_V4_Area_A2_CMYK_ECI_v2-1"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/M1008_1380_193_V4_bearb_ECI_v2-1.jpg",
+      "title": "",
+      "desc": "M1008_1380_193_V4_bearb_ECI_v2-1"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/M1019_D4693_1380_193_V4-Area_A2_CMYK_ECI-1.jpg",
+      "title": "",
+      "desc": "M1019_D4693_1380_193_V4-Area_A2_CMYK_ECI-1"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/M1020_D4690_1380_193_V4-Area_A2_CMYK_ECI-1.jpg",
+      "title": "",
+      "desc": "M1020_D4690_1380_193_V4-Area_A2_CMYK_ECI-1"
+     }
+    ]
    },
    {
     "t": "h",
@@ -2155,8 +2181,69 @@
     "center": true
    },
    {
-    "t": "p",
-    "h": "MV806_1380_193_V4_Area_A2_CMYK_ECIMV807_1380_193_V4_Area_A2_CMYK_ECIMV808_1380_193_V4_Area_A2_CMYK_ECIMV821_1380_244_V4-Area_A2_CMYK_ECIMV849_1380_244_V4-Area_A2_CMYK_ECIMV851_1380_244_V4-Area_A2_CMYK_ECIMV856_1380_244_V4-Area_A2_CMYK_ECIMV881_D4996_1380_193_V4-Area_A2_CMYK_ECIMV895_D4685_1380_244_V4-Area_A2_CMYK_ECIMV896_D4687_1380_193_V4-Area_A2_CMYK_ECIMV897_D4683_1380_193_V4-Area_A2_CMYK_ECIMV898_D4696_1380_193_V4-Area_A2_CMYK_ECI"
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV806_1380_193_V4_Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV806_1380_193_V4_Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV807_1380_193_V4_Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV807_1380_193_V4_Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV808_1380_193_V4_Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV808_1380_193_V4_Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV821_1380_244_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV821_1380_244_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV849_1380_244_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV849_1380_244_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV851_1380_244_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV851_1380_244_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV856_1380_244_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV856_1380_244_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV881_D4996_1380_193_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV881_D4996_1380_193_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV895_D4685_1380_244_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV895_D4685_1380_244_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV896_D4687_1380_193_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV896_D4687_1380_193_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV897_D4683_1380_193_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV897_D4683_1380_193_V4-Area_A2_CMYK_ECI"
+     },
+     {
+      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/03/MV898_D4696_1380_193_V4-Area_A2_CMYK_ECI.jpg",
+      "title": "",
+      "desc": "MV898_D4696_1380_193_V4-Area_A2_CMYK_ECI"
+     }
+    ]
    }
   ]
  },
@@ -14240,11 +14327,6 @@
    },
    {
     "t": "p",
-    "h": "<strong>Údržba SPC (RIGID) vinylové podlahy – čištění, ochrana, renovace</strong><br> Jak správně čistit SPC/RIGID vinyl, co používat na běžný úklid, hloubkové čištění i ochranu povrchu. Prakticky a bez zbytečné chemie navíc.",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "<strong>Údržba SPC (RIGID) vinylové podlahy: aby vypadala roky jako nová</strong>",
     "center": false
    },
@@ -14391,17 +14473,12 @@
    },
    {
     "t": "p",
-    "h": "<strong>Doporučení na závěr:</strong> Chceš-li, napíšu ti k tomuhle článku ještě krátký box „Nejčastější chyby v údržbě SPC“ + FAQ, to Google miluje.",
-    "center": false
-   },
-   {
-    "t": "p",
     "h": "<strong>Co je RIGID SPC vinyl a jak se pokládá</strong>",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>RIGID SPC vinyl: co to je, vrstvy, podklad a pokládka</strong><br> Vysvětlení rozdílu SPC vs WPC, z čeho se skládá rigid dílec, co potřebuješ k pokládce a na jaký podklad se hodí.<br> <strong>RIGID SPC vinyl: stabilní vinyl nové generace</strong>",
+    "h": "<strong>RIGID SPC vinyl: stabilní vinyl nové generace</strong>",
     "center": false
    },
    {
@@ -14525,7 +14602,12 @@
    },
    {
     "t": "p",
-    "h": "<strong>Montáž plovoucí podlahy: zásady, podklad, vlhkost, dilatace</strong> Plovoucí podlaha: montáž, podklad, dilatace a vlhkost<br> <strong>Meta description:</strong> Praktický návod pro plovoucí podlahy (vinyl, laminát, dřevo). Rovinnost, CM vlhkost, fólie, podložky i nejčastější chyby.<br> <strong>Plovoucí podlaha bez chyb: co rozhoduje o výsledku</strong>",
+    "h": "<strong>Montáž plovoucí podlahy: zásady, podklad, vlhkost, dilatace</strong>",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "<strong>Plovoucí podlaha bez chyb: co rozhoduje o výsledku</strong>",
     "center": false
    },
    {
@@ -14625,7 +14707,7 @@
    },
    {
     "t": "p",
-    "h": "<strong>Jak poznat dobrého podlaháře: 5 zásad, které rozhodují</strong><br> Odbornost, rozvržení, nářadí, preciznost a čistota. Co si pohlídat, aby nová podlaha vypadala perfektně roky.<br> <strong>Jak poznáš dobrého podlaháře? Těchto 5 věcí je zásadních</strong>",
+    "h": "<strong>Jak poznáš dobrého podlaháře? Těchto 5 věcí je zásadních</strong>",
     "center": false
    },
    {
@@ -14645,7 +14727,7 @@
    },
    {
     "t": "p",
-    "h": "Olej nebo lak na dřevo? Výhody, údržba, renovace, cena<br> Srovnání olejované a lakované podlahy. Co je praktičtější, co vydrží víc a jak vypadá renovace po letech.<br> <strong>Olejovaná nebo lakovaná podlaha: co je lepší v praxi</strong>",
+    "h": "<strong>Olejovaná nebo lakovaná podlaha: co je lepší v praxi</strong>",
     "center": false
    },
    {
@@ -14703,7 +14785,7 @@
    },
    {
     "t": "p",
-    "h": "Dřevo na podlahové topení: pravidla, teploty, tloušťky<br> Jak správně připravit topení před pokládkou, jaké dřeviny a tloušťky jsou vhodné a jaké teploty nepřekračovat.<br> Dřevěná podlaha na podlahové topení: dá se to, ale musí se to dělat správně",
+    "h": "<strong>Dřevěná podlaha na podlahové topení: dá se to, ale musí se to dělat správně</strong>",
     "center": false
    },
    {
@@ -14761,7 +14843,7 @@
    },
    {
     "t": "p",
-    "h": "<strong>Lepený vinyl LVT: podklad, lepidlo, klima, normy a chyby</strong><br> LVT je skvělé, ale jen při perfektním podkladu. Jak se připravuje stěrka, jaké jsou teploty, dilatace, lepidla a proč se vyplatí profík.<br> <strong>Pokládka lepených vinylových dílců LVT: tady rozhoduje podklad</strong>",
+    "h": "<strong>Pokládka lepených vinylových dílců LVT: tady rozhoduje podklad</strong>",
     "center": false
    },
    {
@@ -14843,7 +14925,7 @@
    },
    {
     "t": "p",
-    "h": "Zbytková vlhkost podkladu: CM měření, sondy, <strong>metody</strong> a limity<br> Jak se měří vlhkost v betonu a anhydritu, jak funguje CM metoda a proč se bez měření riskuje drahý průšvih.<br> <strong>Zbytková vlhkost podkladu: nejčastější důvod průšvihů u podlah</strong>",
+    "h": "<strong>Zbytková vlhkost podkladu: nejčastější důvod průšvihů u podlah</strong>",
     "center": false
    },
    {
