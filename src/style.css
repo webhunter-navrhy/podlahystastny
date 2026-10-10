@@ -572,3 +572,13 @@ a:hover .arr{transform:translateX(5px)}
 
 .cards--big{grid-template-columns:repeat(2,minmax(0,1fr));gap:1.8rem}.cards--big .card figure{aspect-ratio:4/3}.cards--big .card>div{padding:1.6rem 1.8rem 1.8rem}.cards--big .card h3{font-size:1.9rem!important}.cards--big .card p{font-size:.98rem}
 @media(max-width:700px){.cards--big{grid-template-columns:1fr}}
+
+.dektiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.6rem 1.4rem;margin:0 0 2.4rem;clear:both}
+.dektile{text-decoration:none;color:inherit;display:block}
+.dektile figure{margin:0;aspect-ratio:1/1;overflow:hidden;border-radius:10px}
+.dektile figure img{width:100%;height:100%;object-fit:cover;transition:transform .6s var(--ease)}
+.dektile:hover figure img{transform:scale(1.04)}
+.dektile .dt{display:flex;justify-content:space-between;align-items:baseline;gap:.8rem;border-bottom:1px solid var(--red,#C40000);padding:.7rem 0 .5rem}
+.dektile .dt b{font:400 1.5rem/1.1 var(--serif);color:var(--red,#C40000)}
+.dektile .dt i{font-style:normal;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--red,#C40000);text-align:right}
+@media(max-width:800px){.dektiles{grid-template-columns:repeat(2,minmax(0,1fr))}}

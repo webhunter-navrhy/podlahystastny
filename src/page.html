@@ -33,7 +33,7 @@
         {% include "form.html" %}
       </div>
       {% else %}
-      {% if P.dekory %}<p class="dekrow">{% for d in (P.dekory if P.dekory is not mapping else [P.dekory]) %}<a class="btn btn--line" href="{{ L(d.href) if d.href[0] != '#' else d.href }}">{{ d.label }} <span class="arr">{{ "↓" if d.href[0] == "#" else "→" }}</span></a> {% endfor %}</p>{% endif %}
+      {% if P.dekory %}{% set DK = (P.dekory if P.dekory is not mapping else [P.dekory]) %}{% if DK[0].img and IM(DK[0].img) %}<div class="dektiles">{% for d in DK %}<a class="dektile" href="{{ L(d.href) if d.href[0] != '#' else d.href }}"><figure>{{ pic(d.img, d.title) }}</figure><span class="dt"><b>{{ d.title }}</b><i>{{ d.sub }}</i></span></a>{% endfor %}</div>{% else %}<p class="dekrow">{% for d in DK %}<a class="btn btn--line" href="{{ L(d.href) if d.href[0] != '#' else d.href }}">{{ d.label }} <span class="arr">{{ "↓" if d.href[0] == "#" else "→" }}</span></a> {% endfor %}</p>{% endif %}{% endif %}
       {% for b in P.blocks %}
         {% if b.t == 'h' %}<h{{ b.l }} class="{{ 'c' if b.center }}"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.x }}</h{{ b.l }}>
         {% elif b.t == 'sub' %}<h3 class="sub"{% if b.anchor %} id="{{ b.anchor }}"{% endif %}>{{ b.h | safe }}</h3>

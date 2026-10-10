@@ -12358,27 +12358,45 @@
   "dekory": [
    {
     "href": "@/dekory-podlah-esco-kolonial/#chateau",
-    "label": "ESCO Chateau – Dekory"
+    "label": "ESCO Chateau – Dekory",
+    "title": "Chateau",
+    "sub": "hladký dub",
+    "img": "local://esco/CHATEAU"
    },
    {
     "href": "@/dekory-podlah-esco-kolonial/#kolonial",
-    "label": "ESCO Kolonial – Dekory"
+    "label": "ESCO Kolonial – Dekory",
+    "title": "Kolonial",
+    "sub": "kartáčovaný",
+    "img": "local://esco/KOLONIAL"
    },
    {
     "href": "@/dekory-podlah-esco-kolonial/#soft-tone",
-    "label": "ESCO Soft Tone – Dekory"
+    "label": "ESCO Soft Tone – Dekory",
+    "title": "Soft Tone",
+    "sub": "jemně kartáčovaný",
+    "img": "local://esco/SOFT-TONE"
    },
    {
     "href": "@/dekory-podlah-esco-kolonial/#harfa-vintage",
-    "label": "ESCO Harfa Vintage – Dekory"
+    "label": "ESCO Harfa Vintage – Dekory",
+    "title": "Harfa Vintage",
+    "sub": "katrovaný",
+    "img": "local://esco/HARFA-VINTAGE"
    },
    {
     "href": "@/dekory-podlah-esco-kolonial/#pelgrim",
-    "label": "ESCO Pelgrim – Dekory"
+    "label": "ESCO Pelgrim – Dekory",
+    "title": "Pelgrim",
+    "sub": "zestárlý dub",
+    "img": "local://esco/PELGRIM"
    },
    {
     "href": "@/dekory-podlah-esco-kolonial/#karel-iv",
-    "label": "ESCO Karel IV – Dekory"
+    "label": "ESCO Karel IV – Dekory",
+    "title": "Karel IV",
+    "sub": "ruční práce",
+    "img": "local://esco/KAREL-IV"
    }
   ]
  },
@@ -17266,15 +17284,24 @@
   "dekory": [
    {
     "href": "#dekory",
-    "label": "Dřevěné podlahy Barlinek prkna – Dekory"
+    "label": "Dřevěné podlahy Barlinek prkna – Dekory",
+    "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/DUB-SUNNY-MOLTI-3WG000640.jpg",
+    "sub": "Dekory",
+    "title": "Prkna"
    },
    {
     "href": "#rybi-kost",
-    "label": "Dřevěné podlahy Barlinek stromeček-Chevron – Dekory"
+    "label": "Dřevěné podlahy Barlinek stromeček-Chevron – Dekory",
+    "img": "https://www.podlahystastny.cz/wp-content/uploads/2021/04/DUB-BIANCO-STROMECEK-130-1WC000021-1.jpg",
+    "sub": "Dekory",
+    "title": "Rybí kost"
    },
    {
     "href": "#hybridni",
-    "label": "Hybridní podlahy Barlinek – Dekory"
+    "label": "Hybridní podlahy Barlinek – Dekory",
+    "img": "https://www.podlahyfloorify.cz/wp-content/uploads/2026/03/Dub-Revona-Origin-interer.webp",
+    "sub": "Dekory",
+    "title": "Hybridní"
    }
   ]
  },
