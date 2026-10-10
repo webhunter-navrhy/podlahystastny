@@ -8,26 +8,18 @@
  "address": "Slavíkova 29",
  "city": "Praha 2 – Vinohrady",
  "zip": "120 00",
- "map": "https://mapy.com/s/?q=Slav%C3%ADkova%2029%2C%20Praha%202",
+ "map": "https://www.google.com/maps/search/?api=1&query=Slav%C3%ADkova+29%2C+120+00+Praha+2",
  "ico": "74119893",
  "dic": "CZ7502200904",
  "facebook": "https://www.facebook.com/195183110595891",
  "hours": [
   [
-   "Po – Út",
-   "9:00 – 18:00"
-  ],
-  [
-   "St – Čt",
+   "Po – Čt",
    "9:00 – 17:00"
   ],
   [
    "Pátek",
-   "9:00 – 16:30"
-  ],
-  [
-   "Polední pauza",
-   "12:00 – 13:00"
+   "pouze na domluvě"
   ]
  ],
  "hours_note": "Vždy je pro Vás lepší domluvit si schůzku dopředu, protože můžeme být u zákazníka, na úřadě atd. Děkujeme za pochopení.",
