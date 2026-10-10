@@ -47,7 +47,7 @@
           {% for it in b['items'] %}{% set m = IM(it.src) %}{% if m %}<a class="gal__it lbx" href="{{ R }}{{ m.p }}" data-cap="{{ it.title }}{{ ' – ' ~ it.desc if it.desc }}">{{ pic(it.src, it.title or P.title) }}{% if named and it.title %}<span class="gal__t">{{ it.title }}</span>{% if it.desc %}<span class="gal__d">{{ it.desc }}</span>{% endif %}{% endif %}</a>{% endif %}{% endfor %}
           </div>
         {% elif b.t == 'cards' %}
-          <div class="cards">{% for c in b['items'] %}<a class="card" href="{{ L(c.href) }}">{% if c.img and IM(c.img) %}<figure>{{ pic(c.img, c.title) }}</figure>{% endif %}<div><h3>{{ c.title }}</h3><p>{{ c.excerpt }}</p><span class="link">Více informací <span class="arr">→</span></span></div></a>{% endfor %}</div>
+          <div class="cards{% if b['items']|length < 3 %} cards--big{% endif %}">{% for c in b['items'] %}<a class="card" href="{{ L(c.href) }}">{% if c.img and IM(c.img) %}<figure>{{ pic(c.img, c.title) }}</figure>{% endif %}<div><h3>{{ c.title }}</h3><p>{{ c.excerpt }}</p><span class="link">Více informací <span class="arr">→</span></span></div></a>{% endfor %}</div>
         {% elif b.t == 'table' %}
           <div class="tbl"><table>{% for r in b.rows %}<tr>{% for c in r %}{% if loop.first and false %}{% endif %}<td>{{ c | safe }}</td>{% endfor %}</tr>{% endfor %}</table></div>
         {% elif b.t == 'video' %}<div class="video"><iframe src="{{ b.src }}" loading="lazy" allowfullscreen title="Video"></iframe></div>

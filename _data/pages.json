@@ -11566,7 +11566,7 @@
  },
  {
   "id": 7076,
-  "parent": "23",
+  "parent": 23,
   "order": 5,
   "path": "/drevene-trivrstve-podlahy-esco/",
   "title": "Podlahy Esco",

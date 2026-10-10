@@ -566,3 +566,6 @@ a:hover .arr{transform:translateX(5px)}
 .step__n,.cat__n{font-family:var(--serif);font-weight:500}
 .dekrow{margin:0 0 2rem}
 .dekrow .btn{font-size:.95rem}
+
+.cards--big{grid-template-columns:repeat(2,minmax(0,1fr));gap:1.8rem}.cards--big .card figure{aspect-ratio:4/3}.cards--big .card>div{padding:1.6rem 1.8rem 1.8rem}.cards--big .card h3{font-size:1.9rem!important}.cards--big .card p{font-size:.98rem}
+@media(max-width:700px){.cards--big{grid-template-columns:1fr}}
