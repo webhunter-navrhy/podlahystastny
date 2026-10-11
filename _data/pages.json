@@ -34926,5 +34926,49 @@
     ]
    }
   ]
+ },
+ {
+  "id": "o-nas",
+  "parent": 0,
+  "order": 0,
+  "path": "/o-nas/",
+  "title": "O nás",
+  "seo_title": "O nás - Podlahy Šťastný",
+  "description": "Podlahy Šťastný – rodinná podlahářská firma z Prahy, podlahám se věnujeme od roku 2003. Poradenství, prodej, pokládka a renovace podlah, studio na Vinohradech.",
+  "og_image": "",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Rodinná podlahářská firma z Prahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahám se věnujeme od roku 2003. Jsme rodinná firma z Prahy a nejsme pouze prodejci podlah: máme vlastní realizační zkušenosti a víme, že kvalitní podlaha nezačíná výběrem dekoru, ale správným technickým řešením.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pomůžeme Vám vybrat vhodný materiál, posoudíme stav podkladu, navrhneme správnou skladbu a zajistíme profesionální pokládku i finální dokončení. Naším cílem není zákazníkovi za každou cenu doporučit jeden konkrétní typ podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kdo se o Vás postará",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Majitel Josef Šťastný a obchodní asistentka Petra Šťastná. Materiály a dekory si můžete prohlédnout osobně v našem podlahovém studiu na Vinohradech, Slavíkova 29, Praha 2 (Po–Čt 9:00–17:00, v pátek pouze na domluvě).",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naše práci si můžete prohlédnout v sekci Reference, nebo se na nás obraťte přes kontakt.",
+    "center": false
+   }
+  ]
  }
 ]

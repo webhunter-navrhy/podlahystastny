@@ -55,6 +55,22 @@
    "h": "/rekonstrukce-a-renovace-podlah/"
   },
   {
+   "t": "Masivní dřevěné podlahy",
+   "h": "/drevene-podlahy-a-parkety/masivni-drevene-parkety/"
+  },
+  {
+   "t": "Korkové podlahy",
+   "h": "/korkove-podlahy/"
+  },
+  {
+   "t": "Laminátové podlahy",
+   "h": "/laminatove-podlahy-menu/"
+  },
+  {
+   "t": "Schodové hrany",
+   "h": "/schodove-hrany/"
+  },
+  {
    "t": "Reference",
    "h": "/ukazky-nasi-prace/"
   },
@@ -67,24 +83,7 @@
    "h": "/kontakt/"
   }
  ],
- "nav_more": [
-  {
-   "t": "Laminátové podlahy",
-   "h": "/laminatove-podlahy-menu/"
-  },
-  {
-   "t": "Masivní dřevěné podlahy",
-   "h": "/drevene-podlahy-a-parkety/masivni-drevene-parkety/"
-  },
-  {
-   "t": "Schodové hrany",
-   "h": "/schodove-hrany/"
-  },
-  {
-   "t": "Korkové podlahy",
-   "h": "/korkove-podlahy/"
-  }
- ],
+ "nav_more": [],
  "footer_cols": [
   {
    "t": "Užitečné informace",
@@ -123,12 +122,12 @@
    "t": "Zajímavé informace",
    "items": [
     {
-     "t": "Cenová kalkulace",
-     "h": "/cenova-kalkulace/"
+     "t": "O nás",
+     "h": "/o-nas/"
     },
     {
-     "t": "Podlahář radí",
-     "h": "/podlahar-radi/"
+     "t": "Cenová kalkulace",
+     "h": "/cenova-kalkulace/"
     },
     {
      "t": "Péče o podlahy",
