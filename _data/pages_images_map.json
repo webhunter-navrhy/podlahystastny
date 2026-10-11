@@ -10401,8 +10401,8 @@
  },
  "client://mozaika-realizace-1": {
   "f": "mozaika-realizace-1.webp",
-  "w": 1200,
-  "h": 800
+  "w": 1000,
+  "h": 667
  },
  "client://mozaika-realizace-2": {
   "f": "mozaika-realizace-2.webp",
@@ -10431,6 +10431,46 @@
  },
  "client://mozaika-anglicky-vzor": {
   "f": "mozaika-anglicky-vzor.webp",
+  "w": 667,
+  "h": 1000
+ },
+ "client://mozaika-schodiste": {
+  "f": "mozaika-schodiste.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-brouseni": {
+  "f": "mozaika-brouseni.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-lak1": {
+  "f": "mozaika-lak1.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-lak2": {
+  "f": "mozaika-lak2.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-dreva1": {
+  "f": "mozaika-dreva1.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-dreva2": {
+  "f": "mozaika-dreva2.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-dreva3": {
+  "f": "mozaika-dreva3.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "client://mozaika-tabulkova": {
+  "f": "mozaika-tabulkova.webp",
   "w": 667,
   "h": 1000
  }

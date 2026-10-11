@@ -28385,6 +28385,11 @@
       "src": "client://mozaika-anglicky-vzor",
       "title": "Dub – Anglický vzor Natur Select",
       "desc": ""
+     },
+     {
+      "src": "client://mozaika-tabulkova",
+      "title": "Dub – tabulková mozaika Natur Select",
+      "desc": ""
      }
     ]
    },
@@ -28396,12 +28401,13 @@
    },
    {
     "t": "img",
-    "src": "client://mozaika-realizace-1",
-    "alt": "Realizace: dubová průmyslová mozaika (kantovka) v obývacím prostoru",
-    "w": 1200,
-    "h": 800,
-    "align": "",
-    "big": true
+    "src": "client://mozaika-schodiste",
+    "alt": "Dubová průmyslová mozaika u schodiště v novostavbě",
+    "w": 1000,
+    "h": 667,
+    "align": "right",
+    "big": false,
+    "uni": true
    },
    {
     "t": "p",
@@ -28439,6 +28445,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://mozaika-realizace-1",
+    "alt": "Realizace: dubová průmyslová mozaika (kantovka) v obývacím prostoru",
+    "w": 1000,
+    "h": 667,
+    "align": "left",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "h",
     "l": 2,
     "x": "Co je průmyslová mozaika?",
@@ -28473,6 +28489,16 @@
     "t": "p",
     "h": "Po položení vznikne velmi charakteristická plocha tvořená stovkami až tisíci jednotlivých kousků dřeva.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://mozaika-dreva1",
+    "alt": "Dubová průmyslová mozaika v dřevostavbě",
+    "w": 1000,
+    "h": 667,
+    "align": "right",
+    "big": false,
+    "uni": true
    },
    {
     "t": "p",
@@ -28557,6 +28583,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://mozaika-lak1",
+    "alt": "Dubová průmyslová mozaika po broušení a lakování",
+    "w": 1000,
+    "h": 667,
+    "align": "left",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "h",
     "l": 2,
     "x": "Dubová kantovka – jedna z nejzajímavějších variant",
@@ -28574,7 +28610,8 @@
     "w": 1000,
     "h": 667,
     "align": "right",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "p",
@@ -28663,6 +28700,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://mozaika-dreva2",
+    "alt": "Průmyslová mozaika v dřevostavbě s obložením stěn",
+    "w": 1000,
+    "h": 667,
+    "align": "left",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "h",
     "l": 2,
     "x": "Kantovka není pouze podlaha do průmyslové haly",
@@ -28739,6 +28786,16 @@
     "t": "p",
     "h": "Samozřejmě vždy záleží na konkrétní dřevině, tloušťce, způsobu montáže a finální povrchové úpravě.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://mozaika-dreva3",
+    "alt": "Dubová kantovka položená v dřevostavbě",
+    "w": 1000,
+    "h": 667,
+    "align": "right",
+    "big": false,
+    "uni": true
    },
    {
     "t": "p",
@@ -28865,6 +28922,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://mozaika-brouseni",
+    "alt": "Broušení dubové průmyslové mozaiky v obývacím prostoru",
+    "w": 1000,
+    "h": 667,
+    "align": "left",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "p",
     "h": "Samotnou problematiku přípravy podkladů řešíme na samostatné stránce, protože špatný podklad nedokáže zachránit ani ta nejlepší dřevěná podlaha.",
     "center": false
@@ -28935,6 +29002,16 @@
     "t": "p",
     "h": "Chyby, které nejsou příliš vidět na surovém dřevě, může olej nebo lak ještě zvýraznit.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://mozaika-lak2",
+    "alt": "Vylakovaná dubová kantovka u prosklené stěny",
+    "w": 1000,
+    "h": 667,
+    "align": "right",
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
