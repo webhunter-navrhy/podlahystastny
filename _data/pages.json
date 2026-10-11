@@ -14278,10 +14278,10 @@
   "blocks": [
    {
     "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/02/image51.jpeg",
-    "alt": "",
-    "w": 384,
-    "h": 512,
+    "src": "client://realizace-parkety-stromecek",
+    "alt": "Realizace masivních parket do stromečku",
+    "w": 1400,
+    "h": 933,
     "big": true
    },
    {
@@ -14814,7 +14814,9 @@
   "dekory": {
    "href": "#dekory",
    "label": "Dekory parket"
-  }
+  },
+  "side_title": "Masivní dřevěné podlahy",
+  "side_skip_root": true
  },
  {
   "id": 5155,
