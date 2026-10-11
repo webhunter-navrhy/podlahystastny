@@ -27419,110 +27419,1020 @@
   "order": 20,
   "path": "/drevene-podlahy-a-parkety/masivni-drevene-podlahy-prumyslove-mozaiky/",
   "title": "Průmyslové mozaiky",
-  "seo_title": "Průmyslové mozaiky - Podlahy Šťastný",
-  "description": "Masivní dřevěná podlaha - průmyslová mozaika, neboli \"kantovka\", je vhodná do všech bytových i komerčních prostor. Masivní dřevěná podlaha v podobě průmyslové mozaiky, jinak také zvané „kantovky“ je další možností, jak se vypořádat nejen s většími průmyslovými prostory a jejich zvýšenou zátěží, kterou v těchto prostorách podlahy zažívají, ale také vypořádání se s místy, kde",
+  "seo_title": "Průmyslová mozaika (kantovka) - Podlahy Šťastný",
+  "description": "Průmyslová mozaika (kantovka): masivní dřevěná podlaha z úzkých lamel pro byty i komerční prostory. Broušení, olej a lak, renovace a pokládka v Praze. Podlahy Šťastný.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/03/8676x1.jpg",
-    "alt": "",
-    "w": 370,
-    "h": 278,
-    "align": "right"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Masivní dřevěná podlaha – průmyslová mozaika, neboli „kantovka“, je vhodná do všech bytových i komerčních prostor.</strong><br> Masivní dřevěná podlaha v podobě průmyslové mozaiky, jinak také zvané „kantovky“ je další možností, jak se vypořádat nejen s většími průmyslovými prostory a jejich zvýšenou zátěží, kterou v těchto prostorách podlahy zažívají, ale také vypořádání se s místy, kde je vyšší vzdušná vlhkost, než je standardní v běžných místnostech, takovými místy máme namysli právě například koupelny, zde se vlhkost sráží pokaždé ve větším množství, než je malé.Tento druh podlahy vytváří moderní a atraktivní typ <strong>masivní dřevěné podlahy</strong>.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Skládá se z úzkých tzv. lamelek (cca 20 mm širokých), to samo o sobě zaručuje vysokou stabilitu a odolnost. Proto je tento typ podlahy <strong>velice vhodný</strong> pro následující typy prostor:",
-    "center": false
-   },
-   {
-    "t": "ul",
-    "items": [
-     "prostory s vysokou zátěží, jako jsou např. obchody či kanceláře",
-     "prostory se zvýšenou vzdušnou vlhkostí, jako jsou např. koupelny.<br>"
-    ]
-   },
-   {
     "t": "h",
-    "l": 4,
+    "l": 2,
     "x": "Dekory průmyslové mozaiky",
-    "center": false
+    "center": false,
+    "anchor": "dekory"
    },
    {
     "t": "gallery",
     "items": [
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Americky-Orech.jpg",
-      "title": "Mozaika Americký Ořech",
+      "src": "client://mozaika-dub-10mm",
+      "title": "Dub – průmyslová mozaika (kantovka) 10 mm",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Briza.jpg",
-      "title": "Mozaika Bříza",
+      "src": "client://mozaika-zamecka-15mm",
+      "title": "Dub – zámecká mozaika masiv 15 mm",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Buk.jpg",
-      "title": "Mozaika Buk",
+      "src": "client://mozaika-zamecka-8mm",
+      "title": "Dub – zámecká mozaika masiv 8 mm – vzor 1, 2, 4, 8, 9",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Dub-Cerveny.jpg",
-      "title": "Mozaika Dub Červený",
+      "src": "client://mozaika-zamecka-3vrstva-21mm",
+      "title": "Dub – zámecká mozaika 3-vrstvá 21 mm vzor 1, 2, 4, 8, 9",
       "desc": ""
      },
      {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Dub-Kourovy.jpg",
-      "title": "Mozaika Dub Kouřový",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Dub.jpg",
-      "title": "Mozaika Dub",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Iroko.jpg",
-      "title": "Mozaika Iroko",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Jasan.jpg",
-      "title": "Mozaika Jasan",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Javor.jpg",
-      "title": "Mozaika Javor",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Merbau.jpg",
-      "title": "Mozaika Merbau",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Teak.png",
-      "title": "Mozaika Teak",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Tresen.jpg",
-      "title": "Mozaika Třešeň",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Mozaika-Wenge.jpg",
-      "title": "Mozaika Wenge",
+      "src": "client://mozaika-anglicky-vzor",
+      "title": "Dub – Anglický vzor Natur Select",
       "desc": ""
      }
     ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Průmyslová mozaika neboli kantovka – masivní dřevěná podlaha, která něco vydrží",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://mozaika-realizace-1",
+    "alt": "Realizace: dubová průmyslová mozaika (kantovka) v obývacím prostoru",
+    "w": 1200,
+    "h": 800,
+    "align": "",
+    "big": true
+   },
+   {
+    "t": "p",
+    "h": "Průmyslová mozaika, známá také jako kantovka, je jeden z nejzajímavějších druhů masivních dřevěných podlah.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na první pohled ji poznáte podle velkého množství úzkých dřevěných lamel poskládaných vedle sebe do pravidelných bloků.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Původně se tento typ podlahy používal především tam, kde byla požadována vysoká mechanická odolnost a dlouhá životnost – v provozech, dílnách, kancelářích nebo dalších silně zatěžovaných prostorách.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Odtud také pochází označení průmyslová mozaika.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnes je ale situace úplně jiná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovka se stále používá v komerčních prostorách, ale zároveň si našla cestu do bytů, rodinných domů, loftů, kanceláří, restaurací a moderních interiérů, kde je ceněná nejen pro svoji odolnost, ale především pro nezaměnitelný vzhled skutečného masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě kombinace masivního materiálu, malého formátu a možnosti opakované renovace z ní dělá podlahu, která může sloužit opravdu velmi dlouho.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Co je průmyslová mozaika?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Průmyslová mozaika je masivní dřevěná podlaha složená z velkého množství úzkých lamel.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé lamely jsou ve výrobě seskládány vedle sebe do montážních bloků, aby bylo možné podlahu efektivně pokládat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde tedy o laminát ani o dýhu nalepenou na nosné desce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každá jednotlivá lamela je kus skutečného masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle výrobce, dřeviny a konkrétního provedení se rozměry jednotlivých lamel liší. Typické jsou ale právě jejich malé šířky a délky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po položení vznikne velmi charakteristická plocha tvořená stovkami až tisíci jednotlivých kousků dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě to je na kantovce krásné.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Proč se průmyslové mozaice říká „kantovka“?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "S označením kantovka se u nás setkáte velmi často.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Název vychází z charakteru úzkých dřevěných prvků a způsobu jejich skládání. V podlahářské praxi se proto běžně používají oba názvy:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "průmyslová mozaika i kantovka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud tedy někdo hledá dubovou kantovku, průmyslovou mozaiku nebo masivní mozaikovou podlahu, zpravidla mluví o stejném nebo velmi podobném typu podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Proč je kantovka tak odolná?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Její velkou výhodou je samotná konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Namísto širokých masivních prken máme vedle sebe velké množství malých a úzkých lamel.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo je přírodní materiál a reaguje na změny relativní vlhkosti vzduchu. U menších prvků jsou ale rozměrové změny jednoho kusu menší než u velmi širokého masivního prkna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je jeden z důvodů, proč se průmyslová mozaika historicky osvědčila i ve velmi namáhaných provozech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Další výhodou je její masivní konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nášlapnou vrstvu zde netvoří pouze několik milimetrů dřeva na jiném nosiči. Samotný prvek je z masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To přináší jednu velmi důležitou vlastnost:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovku lze renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podle její tloušťky, stavu a předchozích renovací může mít pro budoucí renovaci velmi zajímavou materiálovou rezervu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dubová kantovka – jedna z nejzajímavějších variant",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi oblíbená je dubová průmyslová mozaika.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://mozaika-realizace-2",
+    "alt": "Dubová průmyslová mozaika po broušení a nové povrchové úpravě",
+    "w": 1000,
+    "h": 667,
+    "align": "right",
+    "big": false
+   },
+   {
+    "t": "p",
+    "h": "Dub má pro podlahy výbornou kombinaci vzhledu, tvrdosti a možností povrchového zpracování.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U klasické velkoformátové dubové podlahy se často snažíme vybírat prkna podle kresby, suků a odstínů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U kantovky funguje dřevo trochu jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velké množství malých lamel vytváří přirozenou mozaiku různých odstínů a kreseb.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledná podlaha je proto živá a originální.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to podlaha pro člověka, který chce každý dílec naprosto stejný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto ji máme rádi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo zde neskrýváme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naopak ho necháváme vyniknout.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Každá plocha je originál",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U průmyslové mozaiky je potřeba počítat s přirozenými rozdíly mezi jednotlivými lamelami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedna může být světlejší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Druhá tmavší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedna může mít klidnější kresbu, další výraznější strukturu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na malé ploše může taková rozdílnost působit výrazně. Jakmile se ale položí celá místnost, jednotlivé lamely se spojí do charakteristického celku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto je dobré kantovku neposuzovat pouze podle několika kousků v ruce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Její skutečný charakter se ukáže až ve větší ploše.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kantovka není pouze podlaha do průmyslové haly",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Název „průmyslová mozaika“ může trochu klamat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Člověk si snadno představí výrobní halu nebo dílnu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže dnes dokáže kantovka vypadat úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V kombinaci s moderním nábytkem, sklem, kovem, betonem nebo jednoduchými bílými stěnami může vytvořit velmi výrazný a moderní interiér.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Krásně funguje například v:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "bytech",
+     "rodinných domech",
+     "loftových interiérech",
+     "obývacích pokojích",
+     "kuchyních",
+     "pracovnách",
+     "kancelářích",
+     "prodejnách",
+     "restauracích",
+     "recepcích",
+     "a dalších komerčních prostorách"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Z materiálu, který byl kdysi spojován především s provozními prostory, se tak může stát hlavní designový prvek interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Průmyslová mozaika do komerčních prostor",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě tady je kantovka stále ve svém živlu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud potřebujeme skutečnou dřevěnou podlahu do více zatěžovaného prostoru, může být průmyslová mozaika velmi zajímavou variantou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Využít ji lze například v kancelářích, obchodech, restauracích nebo dalších komerčních interiérech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samozřejmě vždy záleží na konkrétní dřevině, tloušťce, způsobu montáže a finální povrchové úpravě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U komerčního provozu je důležitý také správně nastavený systém následné údržby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou skutečného masivního dřeva je, že běžné opotřebení nemusí automaticky znamenat výměnu celé podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle jejího stavu ji můžeme po letech znovu odborně renovovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Je průmyslová mozaika vhodná do koupelny?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady bychom byli opatrní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy se můžete dočíst, že díky malému formátu lamel je kantovka vhodná také do prostor se zvýšenou vlhkostí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že je automaticky vhodná do každé koupelny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovka je pořád masivní dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Malý rozměr jednotlivých lamel může být z hlediska rozměrových změn výhodou, ale dřevo stále reaguje na změny vlhkosti a dlouhodobý kontakt s vodou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Koupelna navíc není jen místnost s vyšší vzdušnou vlhkostí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to prostor, kde může dojít k přímému působení vody.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud tedy zákazník chce masivní dřevo do koupelny, musí se vždy posoudit:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "konkrétní dřevina",
+     "podklad",
+     "hydroizolační řešení konstrukce",
+     "způsob lepení",
+     "povrchová ochrana",
+     "větrání",
+     "a především místa, kde může docházet k přímému kontaktu s vodou"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Korekce vlhkosti a voda jsou dvě rozdílné věci.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovku bychom proto do koupelny nedoporučovali automaticky pouze na základě názvu nebo malého rozměru lamel.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jak se průmyslová mozaika pokládá?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovka se zpravidla celoplošně lepí na správně připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě příprava podkladu je zásadní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U masivního dřeva nechceme spoléhat na to, že případné problémy schová podložka nebo plovoucí konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí být podle konkrétní realizace dostatečně:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "rovný, pevný, soudržný, stabilní, čistý a suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou proto kontrolujeme jeho stav a zbytkovou vlhkost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle potřeby následuje broušení, oprava trhlin, zpevnění nebo vyrovnání vhodnou stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotnou problematiku přípravy podkladů řešíme na samostatné stránce, protože špatný podklad nedokáže zachránit ani ta nejlepší dřevěná podlaha.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Lepení jednotlivých bloků je teprve začátek",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Průmyslová mozaika se dodává v montážních blocích, které umožňují položit větší množství drobných lamel najednou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po nalepení ale ještě nemáme hotovou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního materiálu a způsobu dodání následuje další zpracování celé plochy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě zde se z jednotlivých dřevěných lamel začíná stávat skutečná podlaha.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Broušení průmyslové mozaiky",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po správném vytvrzení lepidla se surová kantovka strojně brousí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Broušením se sjednotí výška jednotlivých lamel a vytvoří se rovný povrch připravený pro další dokončení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používá se postupně několik zrnitostí brusiva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde pouze o to „obrousit dřevo“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správným postupem musíme odstranit nerovnosti a stopy po předchozím broušení a zároveň připravit povrch tak, aby následná povrchová úprava vypadala dobře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U velké plochy je kvalitní broušení zásadní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chyby, které nejsou příliš vidět na surovém dřevě, může olej nebo lak ještě zvýraznit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Tmelení spár",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní podlahy, rozměrů lamel a požadovaného výsledku může být součástí realizace také tmelení drobných spár.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dřevěných podlah se často používá systém, při kterém se vhodný tmel kombinuje s jemným dřevním prachem vzniklým při broušení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tím lze barevně lépe navázat na samotnou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je ale důležité rozlišovat mezi drobnou spárou určenou k zatmelení a problémem způsobeným pohybem podkladu nebo nevhodnými podmínkami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tmel nemůže vyřešit konstrukční problém podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Olej, nebo lak?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po vybroušení přichází jedna z nejdůležitějších částí celé realizace:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "finální povrchová úprava.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě ta výrazně ovlivní výsledný vzhled i způsob budoucí údržby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Olejovaná kantovka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olej zvýrazní přirozenou kresbu a strukturu dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch působí velmi přirozeně a matně a krásně ukáže rozdíly mezi jednotlivými lamelami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olejovaná podlaha ale vyžaduje správnou následnou péči a podle zatížení také pravidelnou obnovu ochranné vrstvy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lakovaná kantovka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytvoří na povrchu ochranný film a nabízí jiný způsob údržby než olej.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle použitého systému můžeme volit různé stupně lesku a odolnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U silně zatěžovaných komerčních prostor je výběr správného povrchového systému obzvlášť důležitý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje tedy jednoduchá odpověď, že olej je vždy lepší než lak nebo naopak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchovou úpravu vybíráme podle vzhledu, provozu a způsobu budoucí údržby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kantovku lze také barevně upravit",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo nemusí zůstat pouze ve své základní přírodní barvě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní dřeviny a požadovaného výsledku lze pracovat s barevnými oleji, mořidly nebo dalšími vhodnými systémy povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dubová průmyslová mozaika tak může být světlá a velmi přirozená, ale také kouřová, šedá nebo výrazně tmavší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U barevných úprav ale doporučujeme vždy nejprve vytvořit vzorek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo je přírodní materiál a jednotlivé lamely mohou přijímat pigment rozdílně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě to může být u kantovky velmi zajímavé – výsledná plocha získá ještě větší hloubku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Velká výhoda kantovky? Možnost renovace",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady se dostáváme k jedné z největších předností této podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Průmyslová mozaika je masivní dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je správně položená a má dostatečnou materiálovou rezervu, můžeme ji po letech znovu renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle stavu podlahy může renovace zahrnovat například:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "hloubkové čištění",
+     "lokální opravy",
+     "nové přetmelení",
+     "přebroušení",
+     "změnu barevného vzhledu",
+     "nový olej",
+     "nebo nový lakovací systém"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Nemusíme tedy automaticky vytrhat celou podlahu jen proto, že po mnoha letech provozu nevypadá jako nová.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U kvalitní masivní dřevěné podlahy můžeme pracovat s tím, co už v interiéru máme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Starou kantovku není vždy potřeba vyhodit",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Setkáváme se také se staršími průmyslovými mozaikami, které na první pohled vypadají, že mají nejlepší roky za sebou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsou zašedlé, poškrábané, místy znečištěné a povrchová úprava už prakticky nefunguje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale ještě nemusí znamenat konec podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jsou lamely dobře přilepené, podklad je stabilní a podlaha má dostatečnou tloušťku, může být renovace velmi zajímavým řešením.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po odborném broušení a nové povrchové úpravě může být rozdíl obrovský.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě tady se ukazuje jedna z výhod masivního dřeva:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "pod starým a poškozeným povrchem může být pořád kvalitní materiál.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Je kantovka vhodná na podlahové vytápění?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U masivního dřeva na podlahovém vytápění je vždy potřeba větší opatrnost než u některých vícevrstvých konstrukcí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou průmyslové mozaiky jsou malé rozměry jednotlivých lamel a celoplošné lepení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale samo o sobě neznamená, že každá kantovka je automaticky vhodná na každý systém podlahového vytápění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhoduje zejména:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "dřevina",
+     "tloušťka podlahy",
+     "tepelný odpor",
+     "způsob lepení",
+     "konstrukce vytápění",
+     "stav a vlhkost potěru",
+     "maximální provozní teplota",
+     "a doporučení výrobce konkrétní podlahy"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Pokud má být průmyslová mozaika položena na podlahové topení, řešíme proto skladbu vždy jako celek.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Výhody průmyslové mozaiky",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovka má několik vlastností, díky kterým se používá už mnoho let a přitom stále dokáže působit moderně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to především:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "skutečné masivní dřevo",
+     "vysoká mechanická odolnost při správně zvoleném materiálu a povrchové úpravě",
+     "charakteristický vzhled velkého množství úzkých lamel",
+     "možnost celoplošného lepení",
+     "možnost budoucí renovace",
+     "široké možnosti olejování, lakování a barevných úprav",
+     "využití v bytech i komerčních prostorách",
+     "a velmi dlouhá potenciální životnost při správné realizaci a údržbě"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Ale možná největší výhodou je něco jiného.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovka se nesnaží vypadat dokonale stejně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě množství jednotlivých kousků skutečného dřeva vytváří její charakter.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Pro koho kantovka není?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani průmyslová mozaika není podlaha pro každého.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud chcete dokonale jednotný dekor bez barevných rozdílů, suků a přirozené variability dřeva, pravděpodobně budete spokojenější s jiným materiálem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně tak není vhodné očekávat, že masivní dřevo bude bez jakékoli údržby vypadat po dvaceti letech stejně jako první den.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kantovka je pro zákazníka, který chce skutečný materiál a je připraven přijmout jeho přirozený charakter.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na oplátku dostane podlahu, kterou lze používat, udržovat a v budoucnu znovu renovovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Průmyslová mozaika a kantovka – pokládka v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivním dřevěným podlahám se věnujeme od roku 2003.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U průmyslové mozaiky dokážeme zajistit celý proces od kontroly podkladu až po hotovou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní realizace zajišťujeme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "posouzení a měření podkladu",
+     "broušení a přípravu podkladu",
+     "opravy trhlin a lokálních problémů",
+     "vyrovnání podkladu",
+     "celoplošné lepení průmyslové mozaiky",
+     "broušení nové kantovky",
+     "tmelení",
+     "olejování nebo lakování",
+     "barevné úpravy",
+     "soklové lišty a dokončovací detaily",
+     "i renovace starších masivních dřevěných podlah"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Vzorky masivních dřevěných podlah můžete vidět v našem podlahovém studiu Podlahy Šťastný v Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Podlaha, která nemusí skončit při prvních škrábancích",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Průmyslová mozaika vznikla jako podlaha, od které se očekávalo, že něco vydrží.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnes k tomu přidává ještě něco navíc.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vzhled, který žádná vytištěná imitace dřeva nedokáže přesně zopakovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stovky úzkých lamel vytvoří po vybroušení a povrchové úpravě jednu souvislou plochu, ale každá z nich zůstane trochu jiná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě to dělá kantovku kantovkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to podlaha, která se snaží vypadat jako masivní dřevo. Ona masivním dřevem skutečně je.",
+    "center": false
    }
   ]
  },
