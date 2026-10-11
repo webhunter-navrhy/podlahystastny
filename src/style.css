@@ -588,4 +588,14 @@ a:hover .arr{transform:translateX(5px)}
 @media(max-width:560px){.dektiles{grid-template-columns:1fr;gap:1.4rem}.dektile figure{aspect-ratio:4/3}.dektile .dt b{font-size:1.35rem}}
 /* 11 položek menu (11. 10. 2026): kompaktnější řádek, burger do 1890 px */
 .hdr__nav{gap:1rem;font-size:.84rem}
-@media (max-width:1890px){.hdr__nav,.hdr__cta{display:none}.burger{display:block}.hdr__in{height:70px}}
+/* lišta viditelná na všech noteboocích a monitorech (11. 10. 2026, klient): ve dvou řádcích, burger až na tabletu/mobilu */
+@media (min-width:1021px){
+  .hdr__in,.hdr.is-scrolled .hdr__in{height:auto;flex-wrap:wrap;row-gap:0;padding-top:.5rem}
+  .hdr__logo{order:1}
+  .hdr__cta{display:flex;order:2;margin-left:auto}
+  .hdr__nav{display:flex;order:3;flex:1 0 100%;margin-left:0;justify-content:space-between;gap:.6rem;font-size:.9rem;padding:.2rem 0 .6rem;border-top:1px solid var(--line)}
+  .hdr__tel{display:inline}
+  .burger{display:none}
+}
+@media (min-width:1021px) and (max-width:1400px){.hdr__nav{font-size:.78rem;gap:0;flex-wrap:wrap;justify-content:center}.hdr__nav>a{padding:.3rem .22rem}}
+@media (max-width:1020px){.hdr__nav,.hdr__cta{display:none}.burger{display:block}.hdr__in{height:70px}}
