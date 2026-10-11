@@ -916,161 +916,885 @@
   "path": "/korkove-podlahy/",
   "title": "Korkové podlahy",
   "seo_title": "Korkové podlahy - Podlahy Šťastný",
-  "description": "Korek – zapomenutý přírodní zázrak pro podlahy, stěny i izolace Co je korek a odkud pochází? Korek je 100% přírodní materiál získávaný z kůry korkového dubu (Quercus suber), který roste především v Portugalsku a dalších částech Středomoří. Kůra se šetrně odstraňuje ručně, bez poškození stromu, který poté dál roste. Sklizeň se opakuje přibližně každých 9",
+  "description": "Korkové podlahy: pružné, tepelně příjemné a tiché. Lepené i plovoucí korkové podlahy, korkové obklady a technický korek. Prodej a pokládka v Praze.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "h",
-    "l": 2,
-    "x": "Korek – zapomenutý přírodní zázrak pro podlahy, stěny i izolace",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Co je korek a odkud pochází?",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Korek je 100% přírodní materiál získávaný z kůry korkového dubu (Quercus suber), který roste především v Portugalsku a dalších částech Středomoří. Kůra se šetrně odstraňuje ručně, bez poškození stromu, který poté dál roste. Sklizeň se opakuje přibližně každých 9 let, přičemž strom může produkovat korek i více než 150 let. Díky tomu je korek mimořádně ekologický a udržitelný materiál.",
-    "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Proč je korek tak výjimečný?",
-    "center": false
-   },
-   {
-    "t": "ul",
+    "t": "cards",
     "items": [
-     "<strong>Tepelná a akustická izolace:</strong> Milióny vzduchových buněk tlumí hluk a udržují teplotu.",
-     "<strong>Pružnost a odolnost:</strong> Korek se po zatížení vrací do původního tvaru, nepopraská.",
-     "<strong>Odolný vůči vlhkosti a plísním:</strong> Ideální i do vlhčích prostor.",
-     "<strong>Antialergenní a antibakteriální:</strong> Vhodný pro domácnosti s dětmi a alergiky.",
-     "<strong>Ekologický původ:</strong> Obnovitelný, recyklovatelný a biologicky odbouratelný."
+     {
+      "href": "@/korkove-podlahy/korkove-podlahy-lepene/",
+      "title": "Korkové podlahy lepené",
+      "excerpt": "Lepená korková podlaha – když se udělá správně, vydrží desítky let. Příprava podkladu, celoplošné lepení a ochrana povrchu a spojů.",
+      "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/image30.jpeg"
+     },
+     {
+      "href": "@/podlahy-vinylove/vinylove-plovouci-podlahy/vinylove-podlahy/",
+      "title": "Korkové podlahy na HDF desce (Click)",
+      "excerpt": "Komfort korku a jednoduchá plovoucí pokládka se zámkovým spojem. Co hlídat u vody, podložky a podlahového vytápění.",
+      "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Baltico-HRN.jpg"
+     },
+     {
+      "href": "@/korkove-podlahy/korkove-obklady/",
+      "title": "Korkové obklady na stěnu",
+      "excerpt": "Přírodní materiál, který změní vzhled i atmosféru místnosti – od jemného korku po výraznou 3D strukturu."
+     }
     ]
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Korkové podlahy – přírodní komfort do každého interiéru",
+    "x": "Korkové podlahy – přírodní podlaha s vlastnostmi, které jiné materiály jen napodobují",
     "center": false
    },
    {
     "t": "p",
-    "h": "<a href=\"@/podlahy-vinylove/vinylove-plovouci-podlahy/vinylove-podlahy/\">Korkové podlahy naleznete – ZDE</a>",
+    "h": "Korek možná není první materiál, který vás při výběru nové podlahy napadne.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Korkové podlahy jsou měkké, tiché a hřejivé. Skvěle tlumí kročejový hluk a chrání klouby i páteř. Vhodné do bytů, dětských pokojů, ložnic i kanceláří. Dostupné jako:",
+    "h": "A to je podle nás škoda.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korková podlaha je totiž jedna z nejpříjemnějších podlah, po kterých se můžete doma projít. Je přirozeně pružná, tepelně příjemná, pomáhá s akustikou a díky dnešním možnostem povrchových úprav rozhodně nemusí vypadat jako korek, který si pamatujeme ze starších interiérů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Za jeho vlastnostmi přitom nestojí žádná složitá moderní technologie.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vymyslela je příroda.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Co je vlastně korek?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek je kůra korkového dubu – Quercus suber, který roste především v Portugalsku a dalších oblastech Středomoří.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na korku je fascinující už samotný způsob jeho získávání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Strom se kvůli získání korku nekácí. Z kmene se v pravidelných intervalech odstraní část kůry a korkový dub pokračuje v růstu. Kůra se následně znovu obnovuje a může být v průběhu života stromu sklízena opakovaně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto patří korek mezi velmi zajímavé obnovitelné přírodní materiály.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale pro podlaháře je ještě zajímavější to, co se skrývá uvnitř korku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Tajemství korku je v jeho buněčné struktuře",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek tvoří obrovské množství drobných uzavřených buněk naplněných plynem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě tato struktura stojí za kombinací vlastností, které jsou u podlah poměrně neobvyklé.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek je:",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "Masivní korkové dlaždice (lepené)",
-     "Klikací korkové podlahy s povrchovou úpravou (lak, olej)",
-     "Designové podlahy s korkovou podložkou (např. vinyl nebo HDF jádro)"
+     "velmi lehký",
+     "pružný",
+     "tepelně izolační",
+     "akusticky zajímavý",
+     "příjemný na dotek",
+     "a po stlačení má schopnost se do určité míry vracet do původního tvaru"
     ]
    },
    {
     "t": "p",
-    "h": "<strong>Naše firma Dveře a podlahy Šťastný</strong> nabízí profesionální poradenství, výběr materiálů i kompletní <strong>pokládku korkových podlah včetně vyrovnání podkladu</strong>.",
+    "h": "A právě díky tomu se korková podlaha při chůzi chová úplně jinak než keramická dlažba, laminát nebo tvrdý minerální povrch.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Korkové obklady – funkční a krásný detail na stěně",
+    "l": 3,
+    "x": "Proč je korková podlaha tak příjemná na chůzi?",
     "center": false
    },
    {
     "t": "p",
-    "h": "<a href=\"@/korkove-obklady/\">Kokrové obklady naleznete -ZDE</a>",
+    "h": "Tohle je podle nás jedna z vlastností, kterou fotografie ani technický list pořádně nevysvětlí.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Obklady z korku zlepší akustiku interiéru a zároveň přinesou příjemnou přírodní atmosféru. Vhodné do ložnic, kanceláří, nahrávacích studií nebo zasedacích místností. Vybírat můžete z různých struktur a barev.",
+    "h": "Na korek je potřeba si stoupnout.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>V našem showroomu v Praze 2 – Královských Vinohradech</strong> si můžete prohlédnout a objednat korkové obklady v několika variantách. Nabízíme i odbornou montáž a řešení na míru.",
+    "h": "Když přejdete z tvrdé podlahy na kvalitní korkovou podlahu, rozdíl bývá okamžitě znát.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek je přirozeně pružný. Při došlapu tedy nepůsobí tak tvrdě jako beton, dlažba nebo některé jiné podlahové krytiny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha přitom nemusí být měkká tak, že byste se do ní bořili.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je jednoduše příjemnější a pružnější při každém kroku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto dává korek velký smysl v místnostech, kde se hodně stojí nebo chodí – například v obytných prostorách, dětských pokojích, pracovnách nebo ložnicích.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Korková izolace – ekologická ochrana proti hluku a chladu",
+    "l": 3,
+    "x": "Korková podlaha je příjemná i naboso",
     "center": false
    },
    {
     "t": "p",
-    "h": "Lisovaný technický korek je vynikající tepelný i akustický izolant. Používá se:",
+    "h": "Další velkou předností korku je jeho nízká tepelná vodivost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když se bosou nohou dotknete dlažby a potom korku při stejné pokojové teplotě, pocit může být výrazně odlišný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek odebírá teplo z chodidla pomaleji, a proto jej vnímáme jako teplejší a příjemnější.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je velmi zajímavá vlastnost například v:",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "jako <strong>kročejová izolace</strong> pod podlahy,",
-     "jako <strong>vnitřní nebo vnější tepelná izolace</strong> stěn,",
-     "do <strong>suchých i vlhkých prostor</strong>, protože neplesniví a nehnije."
+     "ložnicích",
+     "dětských pokojích",
+     "obývacích pokojích",
+     "pracovnách",
+     "šatnách",
+     "nebo všude tam, kde se doma často chodí bez bot"
     ]
    },
    {
     "t": "p",
-    "h": "Nabízíme dodávku <strong>izolačních korkových desek</strong> různých tlouštěk i odbornou instalaci.",
+    "h": "Pocitově teplý povrch je jedna z vlastností, kvůli kterým má korek i v době moderních vinylových a dřevěných podlah stále svoje místo.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Design a využití korku v moderním interiéru",
+    "l": 3,
+    "x": "Korek a hluk – materiál, který umí pracovat se zvukem",
     "center": false
    },
    {
     "t": "p",
-    "h": "Kromě podlah a stěn se korek používá i na výrobu svítidel, nábytku, doplňků nebo sportovního vybavení. Má skvělý poměr hmotnosti, pružnosti a izolačních schopností – a navíc je příjemný na dotek i pohled.",
+    "h": "Korek se používá nejen jako finální podlahová krytina, ale také jako akustická a kročejová vrstva v podlahových konstrukcích.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A není to náhoda.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jeho buněčná struktura dokáže tlumit část vibrací a zvuku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U správně navržené podlahové skladby tak může korek pomoci snížit nepříjemný zvuk při chůzi a přispět k příjemnější akustice místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je ale důležité rozlišovat mezi korkovou podlahou a technickou kročejovou izolací.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud potřebujeme řešit konkrétní požadavek na útlum hluku mezi dvěma byty nebo podlažími, nestačí pouze říct „dáme tam korek“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Akustika se musí posuzovat jako celá skladba konstrukce.",
     "center": false
    },
    {
     "t": "h",
-    "l": 2,
-    "x": "Proč si vybrat právě nás?",
+    "l": 3,
+    "x": "Korek dnes nemusí vypadat jako korek",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Dveře a podlahy Šťastný</strong> je rodinná firma se sídlem na Praze 2, která se specializuje na:",
+    "h": "Možná si při slově korková podlaha představíte typickou hnědou strukturu s výraznými zrny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "I ta má svoje kouzlo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Současné možnosti jsou ale podstatně širší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkový povrch lze různě skládat, tónovat a povrchově upravovat. Existují jemné struktury, výrazné přírodní vzory i modernější barevná provedení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vedle klasického vzhledu korku existují také podlahové konstrukce, které využívají korek pro jeho technické vlastnosti, zatímco pohledová část může mít úplně jiný design.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je dobré rozlišovat mezi skutečnou korkovou nášlapnou podlahou a podlahou, která korek používá pouze jako jednu ze svých konstrukčních vrstev.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepená korková podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednou z tradičních možností jsou lepené korkové dlaždice nebo dílce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé prvky se lepí přímo na správně připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je relativně nízká konstrukční výška a pevné spojení podlahy s podkladem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Současně ale platí to samé, co u ostatních tenkých lepených krytin:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "podklad musí být opravdu dobře připravený.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nerovnosti, spáry nebo jiné nedostatky podkladu není dobré schovávat pod tenkou finální krytinu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního výrobku a systému může následovat také finální povrchová úprava nebo dodatečná ochrana spojů.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Plovoucí korkové podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Druhou možností jsou korkové podlahy se zámkovým spojem, které se pokládají plovoucím způsobem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jejich konstrukce může být vícevrstvá a podle konkrétního výrobce může obsahovat nosnou desku, korkové vrstvy a továrně dokončený povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je rychlejší způsob montáže a možnost využít korek také v situacích, kde nechceme podlahu celoplošně lepit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani zde ale neplatí, že plovoucí podlaha vyřeší nerovný podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí splňovat požadavky výrobce na rovinnost, pevnost, stabilitu a vlhkost.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korková podlaha a voda",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je potřeba být přesný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotný korek má díky své struktuře zajímavé chování vůči vodě, ale to automaticky neznamená, že každá korková podlaha je vodotěsná.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U hotové podlahy rozhoduje celá její konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud má například plovoucí korková podlaha nosnou desku na bázi dřeva, může být právě tato část citlivá na dlouhodobé působení vody.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhodující jsou také spoje, povrchová úprava a způsob instalace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto při použití korkové podlahy v kuchyni nebo v prostoru se zvýšeným rizikem vody vždy vycházíme z technických podmínek konkrétního výrobku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek není hydroizolace.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korková podlaha a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady se často setkáváme se dvěma úplně opačnými názory.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Buď že korek na podlahové topení vůbec nesmí, nebo naopak že na něj můžeme dát cokoli.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani jedno není správně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek má přirozené tepelně izolační vlastnosti. Právě proto je příjemný na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U podlahového vytápění ale potřebujeme, aby teplo zároveň dokázalo přes podlahovou skladbu procházet do místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto rozhoduje tepelný odpor konkrétní podlahy a celé skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Existují korkové podlahy, které výrobce pro určité systémy podlahového vytápění povoluje. Je ale nutné dodržet jejich technické podmínky a teplotní limity.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady tedy nevybíráme pouze podle vzhledu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve potřebujeme vědět, jaké vytápění v podlaze máte a jaká bude celková skladba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je korek měkký? Ano. Znamená to, že se hned zničí? Ne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pružnost korku je jeho výhoda, ale je potřeba jí správně rozumět.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní korková podlaha je navržena pro běžný provoz a její odolnost výrazně ovlivňuje hustota materiálu, konstrukce podlahy a především kvalita povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Současně je korek měkčí než například keramická dlažba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod velmi těžkým nábytkem nebo bodovým zatížením proto mohou vzniknout otlaky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod nábytek doporučujeme vhodné podložky a u kolečkových židlí ochranu odpovídající konkrétní podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou korku je určitá pružná návratnost materiálu, ale ani korek neumí porušit fyzikální zákony.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Povrchová úprava rozhoduje o životnosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U korkové podlahy nevybíráme pouze samotný korek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi důležitá je také finální povrchová ochrana.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétního výrobku může být povrch opatřen lakem nebo jiným ochranným systémem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ten ovlivňuje odolnost proti běžnému provozu, způsob čištění a možnosti budoucí údržby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bychom korkovou podlahu neposuzovali pouze podle ceny za metr čtvereční.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dvě na pohled podobné korkové podlahy mohou mít rozdílnou konstrukci, hustotu, povrchovou ochranu i určení pro provoz.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kde má korková podlaha největší smysl?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek bychom doporučili především tam, kde zákazník hledá kombinaci tepelného komfortu, příjemného došlapu, nižší hlučnosti a přírodního materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi zajímavý je například pro:",
     "center": false
    },
    {
     "t": "ul",
     "items": [
-     "<strong>montáže korkových podlah</strong> a stěnových obkladů,",
-     "<strong>vyrovnání podkladu</strong> nivelační stěrkou, OSB deskou nebo Farmacolovou deskou,",
-     "<strong>profesionální poradenství</strong> při výběru vhodného typu korku,",
-     "<strong>ekologická a zdravá řešení</strong> s důrazem na kvalitu a férový přístup."
+     "dětské pokoje – příjemný povrch pro hraní na zemi",
+     "ložnice – teplý pocit při chůzi naboso",
+     "pracovny a domácí kanceláře – komfort při dlouhodobém používání místnosti",
+     "obývací pokoje – přírodní vzhled a příjemná akustika",
+     "byty – kde může být důležitý také kročejový komfort"
     ]
    },
    {
+    "t": "p",
+    "h": "Vždy ale vybíráme konkrétní konstrukci podle způsobu používání místnosti.",
+    "center": false
+   },
+   {
     "t": "h",
-    "l": 2,
-    "x": "Navštivte nás nebo nás kontaktujte",
+    "l": 3,
+    "x": "Korek jako podložka pod jinou podlahu",
     "center": false
    },
    {
     "t": "p",
-    "h": "Přijďte se podívat na korkové vzorky do našeho showroomu na adrese <strong>Slavíkova 29, Praha 2 – Královské Vinohrady</strong>. Rádi vám poradíme, jak může korek zlepšit váš domov či projekt.",
+    "h": "Korek nemusí být pouze to, co vidíte nahoře.",
     "center": false
    },
    {
     "t": "p",
-    "h": "<em>Korková podlaha není jen trend – je to investice do zdravého, tichého a ekologického bydlení.</em>",
+    "h": "Technický korek se používá také pod další podlahové krytiny jako součást podlahové skladby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může pomáhat s kročejovou akustikou a tepelnými vlastnostmi konstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady je ale velmi důležité nekombinovat materiály pouze podle pocitu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Například pod plovoucí podlahu nemůžeme libovolně přidávat další a další měkké vrstvy. Příliš pružná podložka může nadměrně zatěžovat zámkové spoje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto musí tloušťka a vlastnosti korkové podložky odpovídat požadavkům konkrétní podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korkové obklady na stěnu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek nemusí zůstat pouze na podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkové stěnové obklady jsou zajímavým dekorativním prvkem a zároveň využívají přirozené vlastnosti tohoto materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mohou vytvořit velmi příjemný povrch například:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "za postelí v ložnici",
+     "v pracovně",
+     "v kanceláři",
+     "na části stěny v obývacím pokoji",
+     "v zasedací místnosti",
+     "nebo jako výrazný přírodní prvek interiéru"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "K dispozici jsou různé struktury, formáty a barevná provedení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U stěnového korku je ale stejně jako u podlah důležitá správná příprava podkladu a vhodné lepidlo.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Technický korek a izolace",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samostatnou kategorií je technický a izolační korek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vyrábí se v deskách, rolích nebo dalších formách a podle konkrétního výrobku a parametrů může být součástí tepelných a akustických konstrukcí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používá se například jako:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "kročejová vrstva",
+     "akustická podložka",
+     "tepelně izolační vrstva",
+     "součást podlahových a stěnových konstrukcí"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Je ale potřeba rozlišovat mezi dekorativním korkem, podlahovou krytinou a technickou izolací.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý výrobek má jiné parametry a jiné určení.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad pod korkovou podlahu nepodceňujeme",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek je pružný.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale neznamená, že dokáže vyrovnat špatný podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou kontrolujeme podle konkrétní konstrukce především rovinnost, pevnost, soudržnost a zbytkovou vlhkost podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle jeho stavu může následovat broušení, oprava trhlin, penetrace, zpevnění nebo vyrovnání vhodnou stěrkou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U rekonstrukcí umíme řešit také problematické a kombinované podklady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korková podlaha je finální vrstva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To, že je pružná, není omluva pro křivý nebo nestabilní podklad.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Jak dlouho korková podlaha vydrží?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na to neexistuje jedno univerzální číslo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Životnost závisí na kvalitě samotné podlahy, konstrukci, povrchové úpravě, zatížení místnosti, způsobu údržby i kvalitě pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek ale rozhodně není materiál určený pouze na několik let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správně vybraná, položená a udržovaná kvalitní korková podlaha může sloužit velmi dlouho.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podle konkrétního systému může být možné její povrch v budoucnu také obnovit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korek versus vinyl, laminát a dřevo",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje jedna nejlepší podlaha pro všechny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto má smysl o korku vědět.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl může být zajímavý tam, kde potřebujeme jiný typ odolnosti, konstrukce nebo vzhledu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Laminát nabízí tvrdý povrch, široký výběr dekorů a dobrý poměr ceny a užitných vlastností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěná podlaha nabízí skutečné dřevo, jeho kresbu a podle konstrukce možnosti budoucí renovace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek proti nim staví něco jiného – především pružnost, tepelný komfort, akustické vlastnosti a velmi specifický pocit při chůzi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto bychom korek nevnímali jako náhradu vinylu nebo dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to samostatný podlahový materiál s vlastním charakterem.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Proč se o korku dnes nemluví víc?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je otázka, kterou si občas klademe sami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek tu byl dávno před současnou vlnou Rigidů a SPC podlah a řada jeho vlastností je zajímavá právě pro dnešní bydlení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chceme tiché interiéry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chceme příjemný povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chceme přírodní materiály.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chceme komfort při chůzi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A přesně v těchto oblastech má korek co nabídnout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná tedy není zastaralý korek. Možná jsme na něj jen na nějakou dobu zapomněli.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korkové podlahy – prodej a pokládka v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahám se věnujeme od roku 2003 a naším cílem není zákazníkovi za každou cenu doporučit jeden konkrétní typ podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chceme vybrat materiál, který bude dávat smysl právě v jeho interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U korkových podlah řešíme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "výběr vhodného typu a konstrukce",
+     "lepené i plovoucí korkové podlahy",
+     "posouzení stávajícího podkladu",
+     "jeho případnou opravu a vyrovnání",
+     "odbornou pokládku",
+     "zakončení a související detaily",
+     "korkové stěnové obklady",
+     "a podle konkrétního projektu také technický korek"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Vzorky korkových materiálů si můžete prohlédnout v našem podlahovém studiu Podlahy Šťastný v Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si nejste jistí, jestli je pro vás vhodnější korek, dřevo, vinyl nebo jiná podlaha, rádi s vámi projdeme výhody i omezení jednotlivých možností.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korková podlaha není podlaha z minulosti. Je to přírodní materiál s vlastnostmi, které jsou možná aktuálnější než kdy dřív.",
     "center": false
    }
   ]
@@ -26423,102 +27147,158 @@
  },
  {
   "id": 5153,
-  "parent": 27,
+  "parent": 21669,
   "order": 2,
   "path": "/podlahy-vinylove/vinylove-plovouci-podlahy/vinylove-podlahy/",
-  "title": "Korkové plovoucí podlahy",
-  "seo_title": "Korkové plovoucí podlahy - Podlahy Šťastný",
-  "description": "Korkové plovoucí podlahy – přírodní volba s vysokým komfortem a moderní ochranou Korkové podlahy jsou znovu na výsluní – a právem. Spojují v sobě přírodní původ, mimořádné užitné vlastnosti a moderní technologie zpracování. V době, kdy stále více lidí hledá udržitelná řešení bez kompromisů v komfortu, představují korkové plovoucí podlahy ideální volbu pro soukromé i",
+  "title": "Korkové podlahy na HDF desce (Click)",
+  "seo_title": "Korkové podlahy na HDF desce (Click) - Podlahy Šťastný",
+  "description": "Korková podlaha Click na HDF desce: komfort korku, zámkový spoj a rychlá plovoucí pokládka. Na co si dát pozor u vody, podložky a podlahového vytápění.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "p",
-    "h": "Korkové plovoucí podlahy – přírodní volba s vysokým komfortem a moderní ochranou",
+    "t": "h",
+    "l": 2,
+    "x": "Korkové podlahy Click na HDF desce – komfort korku a jednoduchá plovoucí pokládka",
     "center": false
    },
    {
     "t": "p",
-    "h": "Korkové podlahy jsou znovu na výsluní – a právem. Spojují v sobě přírodní původ, mimořádné užitné vlastnosti a moderní technologie zpracování. V době, kdy stále více lidí hledá udržitelná řešení bez kompromisů v komfortu, představují korkové plovoucí podlahy ideální volbu pro soukromé i komerční interiéry.",
+    "h": "Korková podlaha Click na HDF desce spojuje příjemné vlastnosti korku s konstrukcí klasické plovoucí podlahy. Jednotlivé dílce se nemusí celoplošně lepit k podkladu, ale spojují se pomocí zámkového systému.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Co je korek a proč je tak výjimečný",
+    "h": "Vícevrstvá konstrukce obvykle kombinuje korkovou nášlapnou vrstvu, pevnou HDF nosnou desku se zámkem a spodní korkovou vrstvu, která podle konkrétního výrobku plní také akustickou a stabilizační funkci.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Korek je 100% přírodní materiál, který se získává z kůry korkového dubu (Quercus suber) – stromu, jenž roste převážně ve Středomoří. Kůra se sklízí šetrným způsobem každých 9 let, aniž by se strom pokácel. Tento proces je nejen ekologický, ale i obnovitelný, což dělá z korku jeden z nejšetrnějších podlahových materiálů k životnímu prostředí.",
+    "h": "Výsledkem je podlaha, která je při chůzi příjemná, pružnější a pocitově teplejší, ale současně se rychle pokládá.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "HDF deska dává podlaze pevnost",
     "center": false
    },
    {
     "t": "p",
-    "h": "Uvnitř korku se nachází miliony uzavřených vzduchových buněk, díky kterým má vynikající tepelně-izolační, akustické a nárazuvzdorné vlastnosti. Při chůzi tak korek přirozeně pruží, je mimořádně příjemný na došlap a šetří klouby i páteř – vlastnost oceňovaná nejen v domácnostech, ale i v prostorách s dlouhodobým pohybem osob, jako jsou kanceláře nebo školy.",
+    "h": "Nosná HDF deska zajišťuje pevnost dílce a umožňuje vytvořit přesný Click spoj. Díky němu se podlaha pokládá plovoucím způsobem bez celoplošného lepení.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Konstrukce korkové plovoucí podlahy",
+    "h": "Velkou výhodou je rychlost montáže a relativně čistá realizace. To ale neznamená, že můžeme podcenit podklad.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Moderní korkové plovoucí podlahy se skládají z několika vrstev:<br>1. Nášlapná vrstva z korku – často lisovaný přírodní korek s dekorem nebo potiskem.<br>2. Nosná deska HDF (High Density Fiberboard) – zajišťuje stabilitu a možnost zámkového spojení.<br>3. Integrovaná spodní vrstva z korku – zlepšuje akustické a tepelné vlastnosti, funguje jako integrovaná podložka.",
+    "h": "Ani korková Click podlaha nevyrovná křivý podklad.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Tato vícevrstvá struktura zajišťuje vysokou stabilitu, snadnou pokládku (bez nutnosti lepení) a výborné parametry pro běžné i náročnější provozy.",
+    "h": "Před pokládkou proto kontrolujeme jeho rovinnost, pevnost, stabilitu a zbytkovou vlhkost. Na minerálním podkladu řešíme také ochranu proti prostupující vlhkosti podle požadavků konkrétního systému.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pozor – HDF není vodotěsná podlaha",
     "center": false
    },
    {
     "t": "p",
-    "h": "Povrchová úprava – lak, který ochrání a zvýrazní krásu",
+    "h": "Tady je důležité nezaměňovat vlastnosti samotného korku s vlastnostmi celé podlahy.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Korkové podlahy v naší nabídce jsou chráněny vysoce odolným UV lakem, který je ekologický, zdravotně nezávadný a mimořádně trvanlivý. Díky této úpravě je povrch odolný proti poškrábání, skvrnám i působení světla, aniž by byla potlačena přirozená krása a textura korku. Lak neuzavírá korek zcela – zachovává jeho schopnost „dýchat“, což je důležité pro zdravé vnitřní klima.",
+    "h": "HDF je materiál na bázi dřeva a dlouhodobé působení vody mu může uškodit. Korkovou podlahu na HDF proto nelze automaticky považovat za vodotěsnou jen proto, že její nášlapnou vrstvu tvoří korek.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Výhody korkových podlah<br>• 100% přírodní a ekologický materiál<br>• Výborná tepelná izolace – korek je teplý na dotek i bez podlahového topení<br>• Vynikající kročejová izolace – pohlcuje hluk lépe než většina laminátů či dřevěných podlah<br>• Pružný a komfortní povrch – ideální pro bosou chůzi, vhodné pro děti i seniory<br>• Odolnost proti otlakům – po zatížení se korek částečně vrací do původního tvaru<br>• Snadná a rychlá pokládka díky zámkovému systému<br>• Nenáročná údržba",
+    "h": "Pro kuchyně, vstupní prostory nebo jiná místa s vyšším rizikem vody je vždy potřeba ověřit, co povoluje výrobce konkrétní podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Potřebuje korková Click podlaha další podložku?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Vhodnost do různých typů interiérů",
+    "h": "Ne vždy.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Korkové podlahy najdou uplatnění nejen v obývacích pokojích, ložnicích nebo dětských pokojích, ale i v kancelářích, knihovnách či hotelových pokojích. V kombinaci s vhodným typem podkladu je lze použít i v kuchyních nebo jiných mírně vlhkých prostorách. Díky přirozené elasticitě a odolnosti proti hluku jsou oblíbené také v panelových domech.",
+    "h": "Řada korkových podlah na HDF již obsahuje spodní korkovou vrstvu, která je součástí celé konstrukce. Přidat pod ni automaticky další měkkou podložku nemusí být správně – příliš pružná skladba může zbytečně namáhat zámkové spoje.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Ekologie a zdraví na prvním místě",
+    "h": "Proto podložku, parotěsnou vrstvu a celou skladbu volíme podle technických požadavků konkrétní podlahy a typu podkladu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "A co podlahové vytápění?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Korek je hypoalergenní materiál – nepřitahuje prach, roztoče ani plísně, což ocení zejména alergici. Zároveň neobsahuje žádné škodlivé látky ani změkčovadla. Výrobní procesy respektují přísné evropské ekologické normy a většina korkových podlah je certifikována (např. FSC®, Greenguard Gold).",
+    "h": "Některé korkové Click podlahy lze použít také na podlahové vytápění, ale vzhledem k izolačním vlastnostem korku je potřeba sledovat tepelný odpor celé podlahové skladby.",
     "center": false
    },
    {
     "t": "p",
-    "h": "⸻",
+    "h": "Neplatí tedy automaticky, že každá korková podlaha na HDF je vhodná na každý systém podlahového topení.",
     "center": false
    },
    {
     "t": "p",
-    "h": "Závěr: Korková podlaha je investice do zdraví, pohody a přírody",
+    "h": "Vždy vycházíme z technických údajů konkrétního výrobku.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Pro koho je korková podlaha Click na HDF zajímavá?",
     "center": false
    },
    {
     "t": "p",
-    "h": "Pokud hledáte podlahové řešení, které spojuje přírodní původ, vysoký uživatelský komfort a moderní vzhled, je korková plovoucí podlaha tou pravou volbou. Při správném výběru a odborné pokládce vám bude sloužit desítky let – tiše, pohodlně a ekologicky.",
+    "h": "Především pro zákazníka, který chce komfort skutečného korku, ale preferuje plovoucí způsob pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je vhodná například do ložnic, dětských pokojů, pracoven nebo obytných místností, kde oceníte příjemný došlap a specifický charakter korkového povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Oproti lepenému korku jde o jinou konstrukci i jiný způsob pokládky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepený korek nabízí nízkou konstrukční výšku a pevné spojení s podkladem. Korková podlaha Click na HDF zase přináší rychlou plovoucí montáž a hotovou vícevrstvou konstrukci se zámkovým spojem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Která varianta je vhodnější, záleží na konkrétní místnosti, podkladu a požadavcích zákazníka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy Šťastný – korkové podlahy, odborná příprava podkladu a pokládka v Praze.",
     "center": false
    },
    {
@@ -33504,6 +34284,564 @@
    },
    {
     "t": "form"
+   }
+  ]
+ },
+ {
+  "id": "kor-lepene",
+  "parent": 21669,
+  "order": 0,
+  "path": "/korkove-podlahy/korkove-podlahy-lepene/",
+  "title": "Korkové podlahy lepené",
+  "seo_title": "Korkové podlahy lepené - Podlahy Šťastný",
+  "description": "Lepená korková podlaha: správná příprava podkladu, celoplošné lepení a ochrana povrchu a spojů. Pokládka korkových podlah v Praze.",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Lepená korková podlaha – když se udělá správně, vydrží desítky let",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lepená korková podlaha patří mezi velmi příjemné a trvanlivé přírodní podlahy. Je teplá na dotek, pružná, tichá při chůzi a díky malé konstrukční výšce se hodí do novostaveb i rekonstrukcí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Aby ale korková podlaha opravdu vydržela dlouhé roky, musí být správně provedená celá skladba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Základem je dokonale rovný, pevný, hladký a suchý podklad. Ten podle stavu zbrousíme, opravíme, napenetrujeme a případně vyrovnáme nivelační stěrkou. Korkové dílce následně celoplošně lepíme vhodným lepidlem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tím ale práce nekončí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U korku určeného k dodatečné povrchové úpravě po položení celou plochu dokončíme vhodným ochranným systémem. Ten chrání nejen samotný korek, ale také spoje mezi jednotlivými dílci před běžným provozem a nečistotami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správný postup tedy znamená:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "příprava podkladu → vyrovnání → penetrace → celoplošné lepení korku → finální ochrana povrchu a spojů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě poctivá příprava podkladu, správné lepení a následná údržba rozhodují o tom, zda bude korková podlaha pěkná jen po položení, nebo bude sloužit desítky let a bude možné její povrch v budoucnu znovu obnovit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek není podlaha na pár let. Když se správně položí a průběžně udržuje, může být součástí interiéru opravdu velmi dlouho.",
+    "center": false
+   }
+  ]
+ },
+ {
+  "id": "kor-obklady",
+  "parent": 21669,
+  "order": 0,
+  "path": "/korkove-podlahy/korkove-obklady/",
+  "title": "Korkové obklady na stěnu",
+  "seo_title": "Korkové obklady na stěnu - Podlahy Šťastný",
+  "description": "Korkové obklady na stěnu: přírodní materiál, který změní vzhled i atmosféru místnosti. Výběr, příprava podkladu a odborné lepení v Praze.",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Korkové obklady na stěnu – přírodní materiál, který změní vzhled i atmosféru místnosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek nemusí být pouze na podlaze.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkové obklady stěn dokážou z obyčejné rovné plochy vytvořit jeden z nejzajímavějších prvků celého interiéru. Mají strukturu, hloubku, jsou příjemné na dotek a díky přírodnímu původu nepůsobí studeně ani technicky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A hlavně – korek nemusí znamenat pouze klasickou hnědou korkovou nástěnku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Současné korkové obklady mohou být jemné, výrazně strukturované, přírodní, tmavé, světlé, barevně tónované nebo prostorové. Podle zvoleného typu mohou být nenápadným doplňkem i dominantou celé místnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Každá korková stěna je trochu jiná",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na korku nás baví především jeho nepravidelnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přírodní struktura nevytváří dokonale opakující se vzor jako potištěná tapeta. Jednotlivé části se mohou kresbou a strukturou přirozeně lišit a po sestavení vytvoří větší souvislou plochu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě způsob rozmístění jednotlivých dílců výrazně ovlivňuje konečný vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkový obklad proto nevnímáme jen jako materiál, který se „nalepí na zeď“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před montáží si jednotlivé dílce rozložíme a pracujeme s jejich strukturou tak, aby výsledná plocha působila přirozeně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Od jemného korku až po výraznou 3D strukturu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkové obklady se vyrábějí v mnoha provedeních.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Některé mají poměrně jemný a klidný povrch, jiné využívají hrubší strukturu korkové kůry a vytvářejí výraznou plastickou stěnu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě strukturovaný korek dokáže velmi zajímavě pracovat se světlem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Boční osvětlení zvýrazní nerovnosti povrchu, vytvoří drobné stíny a stěna může během dne vypadat pokaždé trochu jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "K dispozici jsou také různé odstíny a povrchová provedení. Korek tak nemusí být pouze přírodně hnědý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem může být moderní minimalistická stěna stejně jako výrazný přírodní prvek interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kde korkový obklad vypadá nejlépe?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nemusíme korkem obkládat celou místnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Často je naopak zajímavější použít jej pouze na jednu vybranou stěnu nebo její část.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi pěkně funguje například:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "za postelí v ložnici",
+     "za televizí v obývacím pokoji",
+     "v pracovně nebo domácí kanceláři",
+     "v dětském pokoji",
+     "v předsíni",
+     "na stěně u schodiště",
+     "v kancelářích a zasedacích místnostech",
+     "v recepcích",
+     "v restauracích, hotelech a dalších komerčních interiérech"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Korek lze dobře kombinovat se dřevem, kamenem, betonem, kovem i jednoduchými hladkými stěnami.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě kontrast různých materiálů dokáže jeho strukturu ještě více zvýraznit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korkový obklad za postel",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedním z míst, kde nám korek dává velký smysl, je stěna za čelem postele.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Místo klasické tapety nebo čalouněného panelu lze vytvořit souvislou korkovou plochu, která působí přirozeně a je příjemná i při přímém kontaktu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle zvoleného dekoru může být velmi decentní, nebo se naopak stát hlavním prvkem celé ložnice.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud se správně doplní nepřímým nebo bočním osvětlením, dokáže struktura korku vytvořit opravdu zajímavý efekt.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korková stěna za televizí",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dalším zajímavým použitím je korkový obklad za televizorem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velká černá plocha televizoru na obyčejné bílé stěně může působit tvrdě. Přírodní struktura korku tento kontrast změkčí a vytvoří kolem televizoru vizuálně zajímavé pozadí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do korkového obkladu lze podle konkrétního návrhu začlenit také další prvky interiéru, například police nebo osvětlení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už nejde pouze o samotný korek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jde o celý detail stěny.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korek a akustika místnosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek má díky své struktuře zajímavé akustické vlastnosti a jeho použití na stěně může přispět k příjemnějšímu akustickému chování prostoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je ale potřeba říct jednu důležitou věc:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "dekorativní korkový obklad není automaticky profesionální akustický panel.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledný akustický účinek závisí na tloušťce, struktuře, ploše obkladu a celé konstrukci stěny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud zákazník potřebuje řešit konkrétní hodnoty zvukové pohltivosti nebo stavební neprůzvučnosti, musí se navrhnout odpovídající akustický systém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkový obklad ale může být velmi zajímavou součástí místností, kde chceme omezit tvrdé odrazy zvuku a současně nechceme na stěnu klasické technické akustické panely.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korkové obklady do kanceláří a komerčních prostor",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě v kancelářích je korek zajímavý nejen vzhledem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velké moderní prostory často kombinují sklo, beton, sádrokarton a další tvrdé povrchy. Výsledkem může být interiér, který působí vizuálně čistě, ale zároveň velmi tvrdě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přidání přírodního materiálu dokáže atmosféru prostoru výrazně změnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkové obklady lze využít například v:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "recepcích, kancelářích, zasedacích místnostech, hotelových pokojích, restauracích nebo společných prostorách.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou je, že dekorativní stěna nemusí působit jako technické opatření.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stále zůstává součástí designu interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Podklad pod korkový obklad musí být připravený",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně jako u podlahy platí i na stěně jednoduché pravidlo:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "výsledek je pouze tak dobrý, jak dobře je připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkové dílce kopírují plochu, na kterou jsou nalepené.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stěna proto musí být podle konkrétního výrobku dostatečně rovná, pevná, soudržná, čistá a suchá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Staré nesoudržné nátěry, výrazné nerovnosti nebo špatně připravený povrch mohou způsobit problémy s lepením i výsledným vzhledem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad proto před montáží kontrolujeme a podle potřeby jej připravíme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Montáž korkových obkladů není jen lepení od rohu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U strukturovaných obkladů rozhoduje o výsledku také rozvržení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nechceme dojít na druhou stranu stěny a zjistit, že nám u rohu zůstane nevzhledný několikacentimetrový proužek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před samotnou montáží proto řešíme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "rozměr celé plochy",
+     "formát korkových dílců",
+     "návaznost struktury",
+     "umístění zásuvek a vypínačů",
+     "vnitřní a vnější rohy",
+     "napojení na dveře a další materiály",
+     "zakončení obkladu",
+     "a celkovou kompozici stěny"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "U výrazných struktur je důležité také promíchat jednotlivé dílce tak, aby výsledná plocha působila přirozeně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Detail rozhoduje o tom, zda stěna vypadá jako obklad, nebo jako skutečná součást interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Zásuvky, vypínače a další detaily",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě tyto drobnosti často rozhodují o výsledku celé realizace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korkový obklad můžeme přesně dořezat kolem zásuvek, vypínačů, dveřních zárubní, polic nebo dalších pevných prvků.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U silnějších nebo výrazně strukturovaných obkladů je potřeba předem promyslet také hloubku jednotlivých prvků a jejich napojení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je nejlepší řešit podobné detaily ještě před samotným lepením.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Celá stěna, nebo jen její část?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obě varianty mohou fungovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Celoplošný korkový obklad vytvoří výrazný charakter celé místnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Menší plocha může naopak fungovat jako designový akcent.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy stačí obložit pouze stěnu za postelí, část pracovního koutku nebo vytvořit vertikální pás korku a propojit jej s nábytkem či osvětlením.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U výraznějších struktur často platí, že méně může znamenat více.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto při výběru neřešíme pouze to, který korek se zákazníkovi líbí na vzorku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přemýšlíme také nad tím, jak bude vypadat na celé stěně.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korkové obklady na stěnu v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahám a interiérovým materiálům se věnujeme od roku 2003 a korkové obklady vnímáme jako zajímavou možnost pro zákazníky, kteří chtějí do interiéru dostat přírodní materiál, strukturu a něco jiného než klasickou malbu, tapetu nebo dřevěný panel.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pomůžeme s:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "výběrem korkového obkladu",
+     "návrhem vhodného rozmístění",
+     "přípravou podkladu",
+     "odborným lepením",
+     "přesnými dořezy",
+     "napojením na zásuvky, dveře a další prvky",
+     "i dokončením celé obkládané plochy"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Vzorky korkových materiálů si můžete prohlédnout v našem studiu Podlahy Šťastný v Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Korek na stěně není nástěnka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moderní korkové obklady dokážou být jemné i výrazné, hladké i hluboce strukturované, nenápadné i dominantní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě v tom je jejich kouzlo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ze stejného přírodního materiálu může vzniknout klidná stěna v ložnici, výrazné pozadí za televizí nebo originální dominanta kanceláře či recepce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Korek nemusí být materiál, kterého si všimnete až při dotyku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může to být první věc, které si po vstupu do místnosti všimnete.",
+    "center": false
    }
   ]
  }
