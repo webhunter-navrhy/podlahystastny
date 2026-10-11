@@ -937,7 +937,8 @@
      {
       "href": "@/korkove-podlahy/korkove-obklady/",
       "title": "Korkové obklady na stěnu",
-      "excerpt": "Přírodní materiál, který změní vzhled i atmosféru místnosti – od jemného korku po výraznou 3D strukturu."
+      "excerpt": "Přírodní materiál, který změní vzhled i atmosféru místnosti – od jemného korku po výraznou 3D strukturu.",
+      "img": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/161-1_korkovy-obklad-kondor-natural--vosk.jpg"
      }
     ]
    },
@@ -34356,6 +34357,37 @@
     "t": "p",
     "h": "Korek není podlaha na pár let. Když se správně položí a průběžně udržuje, může být součástí interiéru opravdu velmi dlouho.",
     "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dekory lepených korkových podlah",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/167_korkova-lepena-podlaha-standard--natur.jpg",
+      "title": "Korková lepená podlaha Standard, natur",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/173-1_korkova-lepena-podlaha-champagner--natur.jpg",
+      "title": "Korková lepená podlaha Champagner, natur",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/92_korkova-lepena-podlaha-lava--natur.jpg",
+      "title": "Korková lepená podlaha Lava, natur",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/170-1_korkova-lepena-podlaha-champagner-white-barvena.jpg",
+      "title": "Korková lepená podlaha Champagner White barvená",
+      "desc": ""
+     }
+    ]
    }
   ]
  },
@@ -34851,6 +34883,47 @@
     "t": "p",
     "h": "Může to být první věc, které si po vstupu do místnosti všimnete.",
     "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dekory korkových obkladů",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/164-1_korkovy-obklad-country--vosk.jpg",
+      "title": "Korkový obklad Country, vosk",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/161-1_korkovy-obklad-kondor-natural--vosk.jpg",
+      "title": "Korkový obklad Kondor Natural, vosk",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/86-1_korkovy-obklad-kondor-white--vosk.jpg",
+      "title": "Korkový obklad Kondor White, vosk",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/89-1_korkovy-obklad-kondor-ivory--vosk.jpg",
+      "title": "Korkový obklad Kondor Ivory, vosk",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/50_korkovy-obklad-samolepici--hexagon.jpg",
+      "title": "Korkový obklad samolepicí, hexagon",
+      "desc": ""
+     },
+     {
+      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/158_korkovy-obklad-seaside-natur.jpg",
+      "title": "Korkový obklad Seaside natur",
+      "desc": ""
+     }
+    ]
    }
   ]
  }
