@@ -10643,5 +10643,10 @@
   "f": "parkety-realizace-r6.webp",
   "w": 300,
   "h": 300
+ },
+ "client://prkna-hero-nova": {
+  "f": "prkna-hero-nova.webp",
+  "w": 900,
+  "h": 600
  }
 }

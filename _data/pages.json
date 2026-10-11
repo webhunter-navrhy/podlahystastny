@@ -37140,10 +37140,10 @@
   "blocks": [
    {
     "t": "img",
-    "src": "client://prkna-realizace-hero",
-    "alt": "Masivní dubová prkna položená v novostavbě u schodiště",
+    "src": "client://prkna-hero-nova",
+    "alt": "Masivní dubová prkna v chodbě se schodištěm, olejovaný povrch",
     "w": 900,
-    "h": 675
+    "h": 600
    },
    {
     "t": "h",
