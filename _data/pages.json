@@ -1257,7 +1257,9 @@
     "t": "img",
     "src": "kor/korkova-plovouci-podlaha-a-jeji-slozeni-vlozit-k-textu-o-korkovych-podlahach",
     "alt": "Složení korkové plovoucí podlahy",
-    "cap": "Složení korkové plovoucí podlahy"
+    "cap": "Složení korkové plovoucí podlahy",
+    "align": "right",
+    "uni": true
    },
    {
     "t": "p",
@@ -1488,7 +1490,9 @@
     "t": "img",
     "src": "kor/podlahova-izolace-quietcork-zanest-do-textu-o-korkovych-podlahach",
     "alt": "Korková podlahová izolace QuietCork",
-    "cap": "Korková podložka QuietCork"
+    "cap": "Korková podložka QuietCork",
+    "align": "left",
+    "uni": true
    },
    {
     "t": "p",
@@ -27262,7 +27266,9 @@
     "t": "img",
     "src": "kor/korkova-plovouci-podlaha-a-jeji-slozeni-vlozit-k-textu-o-korkovych-podlahach",
     "alt": "Složení korkové plovoucí podlahy",
-    "cap": "Složení korkové plovoucí podlahy"
+    "cap": "Složení korkové plovoucí podlahy",
+    "align": "right",
+    "uni": true
    },
    {
     "t": "h",
@@ -27294,7 +27300,9 @@
     "t": "img",
     "src": "kor/korkova-plovouci-podlaha-vlozit-do-textu-jako-realizaci-korkove-pllovouci-podlahy-na-hdf-desce",
     "alt": "Realizace korkové plovoucí podlahy na HDF desce",
-    "cap": ""
+    "cap": "",
+    "align": "left",
+    "uni": true
    },
    {
     "t": "h",
@@ -27342,7 +27350,9 @@
     "t": "img",
     "src": "kor/korkova-podlahova-izolace-quietcork-pod-jakekoliv-plovouci-podlahy",
     "alt": "Korková podlahová izolace QuietCork",
-    "cap": "Korková podložka QuietCork pod jakoukoli plovoucí podlahu"
+    "cap": "Korková podložka QuietCork pod jakoukoli plovoucí podlahu",
+    "align": "right",
+    "uni": true
    },
    {
     "t": "h",
@@ -34402,7 +34412,9 @@
     "t": "img",
     "src": "kor/kontaktni-lepidlo-soliflex",
     "alt": "Kontaktní lepidlo Soliflex",
-    "cap": "Kontaktní lepidlo Soliflex"
+    "cap": "Kontaktní lepidlo Soliflex",
+    "align": "right",
+    "uni": true
    },
    {
     "t": "p",
@@ -34433,7 +34445,9 @@
     "t": "img",
     "src": "kor/korkova-lepena-podlaha-vlozet-jako-realizaci-k-textu",
     "alt": "Realizace lepené korkové podlahy",
-    "cap": ""
+    "cap": "",
+    "align": "left",
+    "uni": true
    },
    {
     "t": "p",
@@ -34519,7 +34533,9 @@
     "t": "img",
     "src": "kor/korkovy-obklad-prilozit-k-textu-o-obkladech",
     "alt": "Korkový obklad",
-    "cap": ""
+    "cap": "",
+    "align": "right",
+    "uni": true
    },
    {
     "t": "h",
@@ -34637,7 +34653,9 @@
     "t": "img",
     "src": "kor/korkovy-obklad-vlozit-k-textu",
     "alt": "Korkový obklad na stěně",
-    "cap": ""
+    "cap": "",
+    "align": "left",
+    "uni": true
    },
    {
     "t": "h",
