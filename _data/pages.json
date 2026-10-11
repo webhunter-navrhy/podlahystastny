@@ -31391,11 +31391,12 @@
    },
    {
     "t": "img",
-    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG-20191129-WA0019.jpg",
-    "alt": "Renovace parket – rozebraná podlaha u radiátoru před opravou podkladu",
-    "w": 463,
-    "h": 459,
-    "align": "right"
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/f7fcba2c-b81b-40c3-adf6-d65c0929e0c8-1.jpg",
+    "alt": "Broušení parket – brusný stroj na podlaze při renovaci",
+    "w": 1186,
+    "h": 891,
+    "align": "right",
+    "big": false
    },
    {
     "t": "p",
@@ -31434,6 +31435,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/2018-03-27-PHOTO-00000348.jpg",
+    "alt": "Nově položené masivní dubové parkety",
+    "w": 845,
+    "h": 563,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "h",
     "l": 3,
     "x": "Renovace starých parket – ne každá stará podlaha patří do kontejneru",
@@ -31458,6 +31468,15 @@
     "t": "p",
     "h": "Pokud jsou parkety technicky v pořádku, může stačit jejich oprava a kompletní renovace.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/966.jpg",
+    "alt": "Stará parketová podlaha s původním dřevem před renovací",
+    "w": 845,
+    "h": 563,
+    "align": "left",
+    "big": false
    },
    {
     "t": "h",
@@ -31489,6 +31508,15 @@
     "t": "p",
     "h": "Renovace může dát interiéru úplně nový charakter.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/r4.jpg",
+    "alt": "Renovovaná parketová podlaha po broušení a nové povrchové úpravě",
+    "w": 845,
+    "h": 563,
+    "align": "right",
+    "big": false
    },
    {
     "t": "h",
@@ -31558,6 +31586,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/r1.jpg",
+    "alt": "Přeložení původních parket – rozebrané a očištěné parkety při pokládce",
+    "w": 845,
+    "h": 563,
+    "align": "left",
+    "big": false
+   },
+   {
     "t": "h",
     "l": 3,
     "x": "Proč staré parkety vůbec zachraňovat?",
@@ -31610,6 +31647,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/2018-03-27-PHOTO-00000344.jpg",
+    "alt": "Parkety ve vzoru rybí kost",
+    "w": 845,
+    "h": 563,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "h",
     "l": 3,
     "x": "Povrchová úprava – olej, lak i změna vzhledu starých parket",
@@ -31636,6 +31682,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG-20190414-WA0004.jpg",
+    "alt": "Lakovaná parketová podlaha s lesklým povrchem",
+    "w": 845,
+    "h": 563,
+    "align": "left",
+    "big": false
+   },
+   {
     "t": "h",
     "l": 3,
     "x": "U parket rozhoduje příprava podkladu",
@@ -31660,6 +31715,14 @@
     "t": "p",
     "h": "Právě proto u problematické staré podlahy nestačí pouze říct: „přebrousíme ji“. Nejdříve potřebujeme zjistit, v jakém stavu je celá podlahová konstrukce.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/IMG-20191129-WA0019.jpg",
+    "alt": "Renovace parket – rozebraná podlaha u radiátoru před opravou podkladu",
+    "w": 463,
+    "h": 459,
+    "align": "right"
    },
    {
     "t": "h",
