@@ -43,7 +43,7 @@
         {% elif b.t == 'img' %}{% set m = IM(b.src) %}{% if m %}<figure class="fig {{ 'fig--side' if b.align in ('left','right') and ((b.w or m.w) < 900 or b.uni) else 'fig--wide' }}{{ ' fig--uni' if b.uni }}{{ ' fig--big' if b.big }}{{ ' fig--l' if b.align=='left' }}{{ ' fig--small' if (b.w or m.w) < 420 and not b.big }}"><a href="{{ R }}{{ m.p }}" class="lbx" data-cap="{{ b.cap or b.alt }}">{{ pic(b.src, b.alt or P.title) }}</a>{% if b.cap %}<figcaption>{{ b.cap }}</figcaption>{% endif %}</figure>{% endif %}
         {% elif b.t == 'gallery' %}
           {% set named = b['items']|selectattr('title')|list|length > (b['items']|length * 0.6) %}
-          <div class="gal {{ 'gal--swatch' if named else 'gal--photo' }}">
+          <div class="gal {{ 'gal--swatch' if named else 'gal--photo' }}{{ ' gal--tall' if b.tall }}">
           {% for it in b['items'] %}{% set m = IM(it.src) %}{% if m %}<a class="gal__it lbx" href="{{ R }}{{ m.p }}" data-cap="{{ it.title }}{{ ' – ' ~ it.desc if it.desc }}">{{ pic(it.src, it.title or P.title) }}{% if named and it.title %}<span class="gal__t">{{ it.title }}</span>{% if it.desc %}<span class="gal__d">{{ it.desc }}</span>{% endif %}{% endif %}</a>{% endif %}{% endfor %}
           </div>
         {% elif b.t == 'cards' %}

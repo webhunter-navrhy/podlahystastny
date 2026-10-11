@@ -14291,6 +14291,106 @@
    {
     "t": "h",
     "l": 2,
+    "x": "Dekory parket",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Parkety – kostky",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "client://parkety-dekor-dub-300-x-70-x-21-22mm-i-natur-vbr",
+      "title": "Dub 300 x 70 x 21-22mm I. Natur výběr",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-300-x-70-x-21-22mm-iii-rustikal-standart",
+      "title": "Dub 300 x 70 x 21-22mm III. Rustikal Standart",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-350-x-70-x-16mm-ii-standard",
+      "title": "Dub 350 x 70 x 16mm II. Standard",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-350-x-70-x-16mm-iii-rustikal",
+      "title": "Dub 350 x 70 x 16mm III. Rustikal",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-350-x-70-x-21-22mm-iv-industry",
+      "title": "Dub 350 x 70 x 21-22mm IV. Industry",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-400-x-70-x-16mm-ii-standard",
+      "title": "Dub 400 x 70 x 16mm II. Standard",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-400-x-70-x-16mm-iii-rustikal",
+      "title": "Dub 400 x 70 x 16mm III. Rustikal",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-500-x-80-x-21-22mm-i-natur-vbr",
+      "title": "Dub 500 x 80 x 21-22mm I. Natur výběr",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-500-x-80-x-21-22mm-ii-standard",
+      "title": "Dub 500 x 80 x 21-22mm II. Standard",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-500-x-80-x-21-22mm-iii-rustikal",
+      "title": "Dub 500 x 80 x 21-22mm III. Rustikal",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Parkety – kvádry (rybí kost, stromeček)",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "client://parkety-dekor-dub-300-x-70-x-21-22mm-iv-industri-styl",
+      "title": "Dub 300 x 70 x 21-22mm IV. Industri Styl",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-400-x-60-70-x-21-22mm-i-extra",
+      "title": "Dub 400 x 60-70 x 21-22mm I. Extra",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-400-500-x-50-x-21-22mm-iv-industri-styl",
+      "title": "Dub 400-500 x 50 x 21-22mm IV. Industri Styl",
+      "desc": ""
+     },
+     {
+      "src": "client://parkety-dekor-dub-500-x-80-x-21-22mm-iv-industri-styl",
+      "title": "Dub 500 x 80 x 21-22mm IV. Industri Styl",
+      "desc": ""
+     }
+    ],
+    "tall": true
+   },
+   {
+    "t": "h",
+    "l": 2,
     "x": "Masivní dřevěné parkety – podlaha, která může sloužit několika generacím",
     "center": false
    },
@@ -14756,69 +14856,8 @@
     "t": "p",
     "h": "Podlahy Šťastný – nové masivní parkety, renovace, broušení a přeložení parket v Praze.",
     "center": false
-   },
-   {
-    "t": "h",
-    "l": 2,
-    "x": "Dekory parket",
-    "center": false,
-    "anchor": "dekory"
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-350-x-60-x-21.png",
-      "title": "DUB-300-350-x-60-x-21",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-350-x-60-x-2122mm.png",
-      "title": "DUB-300-350-x-60-x-2122mm",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-350-x-70-x-2122mm.jpg",
-      "title": "DUB-300-350-x-70-x-2122mm",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-350-x-70-x-2122mm.png",
-      "title": "DUB-300-350-x-70-x-2122mm",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-350-x-70-x-2122mm2.png",
-      "title": "DUB-300-350-x-70-x-2122mm2",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-350-x-70-x-2122mm3.png",
-      "title": "DUB-300-350-x-70-x-2122mm3",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-400-x-50-x-2122m.png",
-      "title": "DUB-300-400-x-50-x-2122m",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-400-x-50-x-2122mm.png",
-      "title": "DUB-300-400-x-50-x-2122mm",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2021/01/DUB-300-400-x-50-x-2122mm1.png",
-      "title": "DUB-300-400-x-50-x-2122mm1",
-      "desc": ""
-     }
-    ]
    }
   ],
-  "dekory": {
-   "href": "#dekory",
-   "label": "Dekory parket"
-  },
   "side_title": "Masivní dřevěné podlahy",
   "side_skip_root": true
  },
