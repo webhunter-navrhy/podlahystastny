@@ -10543,5 +10543,75 @@
   "f": "parkety-dekor-dub-500-x-80-x-21-22mm-iv-industri-styl.webp",
   "w": 667,
   "h": 1000
+ },
+ "client://prkna-realizace-hero": {
+  "f": "prkna-realizace-hero.webp",
+  "w": 900,
+  "h": 675
+ },
+ "client://prkna-realizace-r1": {
+  "f": "prkna-realizace-r1.webp",
+  "w": 1200,
+  "h": 900
+ },
+ "client://prkna-realizace-r2": {
+  "f": "prkna-realizace-r2.webp",
+  "w": 1200,
+  "h": 900
+ },
+ "client://prkna-realizace-r3": {
+  "f": "prkna-realizace-r3.webp",
+  "w": 1200,
+  "h": 800
+ },
+ "client://prkna-realizace-r4": {
+  "f": "prkna-realizace-r4.webp",
+  "w": 1200,
+  "h": 800
+ },
+ "client://prkna-dekor-dub-21mm-natural": {
+  "f": "prkna-dekor-dub-21mm-natural.webp",
+  "w": 809,
+  "h": 816
+ },
+ "client://prkna-dekor-dub-21mm-rustikal": {
+  "f": "prkna-dekor-dub-21mm-rustikal.webp",
+  "w": 754,
+  "h": 815
+ },
+ "client://prkna-dekor-dub-21mm-country": {
+  "f": "prkna-dekor-dub-21mm-country.webp",
+  "w": 783,
+  "h": 817
+ },
+ "client://prkna-dekor-dub-21mm-country-s-b-l": {
+  "f": "prkna-dekor-dub-21mm-country-s-b-l.webp",
+  "w": 789,
+  "h": 817
+ },
+ "client://prkna-dekor-dub-16mm-natural": {
+  "f": "prkna-dekor-dub-16mm-natural.webp",
+  "w": 809,
+  "h": 816
+ },
+ "client://prkna-dekor-dub-16mm-rustikal": {
+  "f": "prkna-dekor-dub-16mm-rustikal.webp",
+  "w": 754,
+  "h": 815
+ },
+ "client://prkna-dekor-dub-16mm-country": {
+  "f": "prkna-dekor-dub-16mm-country.webp",
+  "w": 783,
+  "h": 817
+ },
+ "client://prkna-dekor-dub-500-1500-x-135-x-21mm-a": {
+  "f": "prkna-dekor-dub-500-1500-x-135-x-21mm-a.webp",
+  "w": 667,
+  "h": 1000
+ },
+ "client://prkna-dekor-dub-500-1500-x-135-x-21mm-b": {
+  "f": "prkna-dekor-dub-500-1500-x-135-x-21mm-b.webp",
+  "w": 679,
+  "h": 1000
  }
 }

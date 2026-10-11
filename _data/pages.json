@@ -37067,5 +37067,1393 @@
     "center": false
    }
   ]
+ },
+ {
+  "id": "masivni-prkna",
+  "parent": 21,
+  "order": 10,
+  "path": "/drevene-podlahy-a-parkety/masivni-drevena-prkna/",
+  "title": "Masivní dřevěná prkna",
+  "seo_title": "Masivní dřevěná dubová prkna – prodej a pokládka Praha - Podlahy Šťastný",
+  "description": "Masivní dubová prkna 21 mm: skutečné dřevo, broušení a kartáčování, olej nebo lak, celoplošné lepení, renovace. Prodej a pokládka v Praze. Podlahy Šťastný.",
+  "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
+  "blocks": [
+   {
+    "t": "img",
+    "src": "client://prkna-realizace-hero",
+    "alt": "Masivní dubová prkna položená v novostavbě u schodiště",
+    "w": 900,
+    "h": 675
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory masivních prken",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Dub 21 mm",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "client://prkna-dekor-dub-21mm-natural",
+      "title": "Dub 21 mm Natural",
+      "desc": ""
+     },
+     {
+      "src": "client://prkna-dekor-dub-21mm-rustikal",
+      "title": "Dub 21 mm Rustikal",
+      "desc": ""
+     },
+     {
+      "src": "client://prkna-dekor-dub-21mm-country",
+      "title": "Dub 21 mm Country",
+      "desc": ""
+     },
+     {
+      "src": "client://prkna-dekor-dub-21mm-country-s-b-l",
+      "title": "Dub 21 mm Country s bělí",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Dub 16 mm",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "client://prkna-dekor-dub-16mm-natural",
+      "title": "Dub 16 mm Natural",
+      "desc": ""
+     },
+     {
+      "src": "client://prkna-dekor-dub-16mm-rustikal",
+      "title": "Dub 16 mm Rustikal",
+      "desc": ""
+     },
+     {
+      "src": "client://prkna-dekor-dub-16mm-country",
+      "title": "Dub 16 mm Country",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 4,
+    "x": "Dub 500–1500 × 135 × 21 mm",
+    "center": false
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "client://prkna-dekor-dub-500-1500-x-135-x-21mm-a",
+      "title": "Dub 500-1500 x 135 x 21mm A",
+      "desc": ""
+     },
+     {
+      "src": "client://prkna-dekor-dub-500-1500-x-135-x-21mm-b",
+      "title": "Dub 500-1500 x 135 x 21mm B",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevěná prkna – podlaha, kterou nekupujete na pár let",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsou podlahy, které vybíráme podle ceny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jsou podlahy, které vybíráme podle dekoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A potom jsou masivní dřevěná prkna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha z jednoho kusu skutečného dřeva, která není vyrobená proto, aby za několik let následovala další módní trend. Při správném výběru, odborné pokládce a následné péči může být součástí domu po desítky let a během svého života může projít opakovanou renovací.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ano, masivní dubová podlaha patří mezi dražší podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže při jejím hodnocení podle nás nestačí porovnat cenu za metr čtvereční s vinylem, laminátem nebo vícevrstvou podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je potřeba se zeptat jinak:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kolikrát chcete podlahu za život kupovat?",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Co je masivní dřevěné prkno?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U masivního prkna je konstrukce vlastně velmi jednoduchá.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Od horního povrchu až dolů je to jeden kus dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žádná HDF deska.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žádný vinylový dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žádná fotografie dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žádná nášlapná dýha nalepená na jiném nosiči.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud si vyberete masivní dubové prkno, dostáváte skutečný kus dubového dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě to je hlavní rozdíl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlaha se nesnaží dřevo napodobit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ona dřevem skutečně je.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://prkna-realizace-r1",
+    "alt": "Realizace: masivní dubová prkna, detail kresby dřeva",
+    "w": 1200,
+    "h": 900,
+    "align": "right",
+    "big": false,
+    "uni": true
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "21 mm skutečného dubu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dubová prkna, která nabízíme, mohou mít například rozměry:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "<strong>21 × 130 / 155 / 175 / 195 mm</strong>",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "a délky přibližně:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "<strong>610 až 2610 mm.</strong>",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní dostupné šířky, délky, třídění a provedení vždy řešíme podle aktuální nabídky a konkrétní zakázky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tloušťka 21 mm masivního dřeva je ale něco úplně jiného než několikamilimetrová nášlapná vrstva vícevrstvé podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A není důležitá jen při pokládce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to materiálová rezerva pro budoucnost.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Proč může masivní podlaha vydržet desítky let?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Protože ji při běžném opotřebení nemusíme automaticky vyhodit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je podle nás jedna z největších hodnot masivního dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha se samozřejmě používáním mění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Objeví se škrábance.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo může časem změnit odstín.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchový olej nebo lak se opotřebovává.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po letech už podlaha nemusí vypadat stejně jako první den.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže to nemusí znamenat její konec.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevěnou podlahu lze renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle jejího stavu můžeme povrch vyčistit, lokálně opravit, přebrousit a znovu ošetřit olejem nebo lakem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozsah renovace vždy záleží na konkrétní podlaze, jejím stavu a předchozích zásazích. U masivního prkna ale máme k dispozici něco, co u řady jiných podlah jednoduše není:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "velké množství skutečného dřeva.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dražší podlaha? Ano. Ale podívejme se na cenu trochu jinak",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dubové prkno pravděpodobně nebude nejlevnější položkou při stavbě nebo rekonstrukci domu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A ani se nesnažíme tvrdit opak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud hledáte především nejnižší pořizovací cenu, existují jiné podlahy, které budou dávat větší smysl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo ale podle nás stojí za to hodnotit v delším časovém horizontu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Představte si podlahu, která po patnácti nebo dvaceti letech už nevypadá podle vašich představ.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U některých krytin může následovat:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "demontáž → likvidace → nový materiál → nová pokládka.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U kvalitní masivní dřevěné podlahy může být řešením:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "renovace → nový povrch → další roky používání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě v tomto okamžiku začne pořizovací cena masivního dřeva vypadat trochu jinak.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní podlaha nemusí celý život vypadat stejně",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je vlastnost, o které se podle nás mluví málo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když si dnes vyberete dubovou podlahu s přírodním olejem, neznamená to nutně, že musí mít stejný vzhled navždy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při budoucí celkové renovaci lze podle stavu podlahy a požadovaného výsledku původní povrch odstranit a vytvořit nový.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha, která byla původně přírodní, tak může při vhodném postupu získat jiný odstín nebo jiný typ povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samozřejmě záleží na předchozích úpravách, hloubce zabarvení dřeva a požadovaném výsledku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale základní materiál zůstává.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pořád máte pod nohama skutečný dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto masivní podlahu nevnímáme jako spotřební krytinu na několik let.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Surové dubové prkno nám dává svobodu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi zajímavou možností jsou masivní dubová prkna dodávaná bez finální povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Prkna se celoplošně nalepí na připravený podklad a následně se dokončí přímo v konkrétním interiéru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To nám dává velkou svobodu při volbě výsledného vzhledu.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://prkna-realizace-r2",
+    "alt": "Realizace: masivní dubová podlaha v obývacím prostoru",
+    "w": 1200,
+    "h": 900,
+    "align": "left",
+    "big": false,
+    "uni": true
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní zakázky můžeme řešit:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "finální broušení",
+     "kartáčování",
+     "tmelení",
+     "barevné tónování",
+     "tvrdý voskový olej",
+     "lakování",
+     "matný nebo jiný požadovaný vzhled"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Podlaha tak nemusí být hotový výrobek, kterému se musí přizpůsobit interiér.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme ji naopak dokončit tak, aby odpovídala konkrétnímu domu a představě zákazníka.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Broušené, nebo kartáčované masivní prkno?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obě varianty vypadají jinak.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Broušený povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Broušené dubové prkno působí čistěji a klidněji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch je hladký a dobře vynikne samotná kresba dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to krásná varianta pro zákazníka, který chce klasickou, elegantní masivní podlahu bez výrazné struktury.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Kartáčovaný povrch",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při kartáčování se zvýrazní přirozená struktura dubu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Měkčí části dřeva se částečně odeberou a kresba let se stane výraznější nejen pohledem, ale také na dotek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kartáčovaný dub má větší plasticitu a velmi pěkně pracuje se světlem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Navíc na výraznějším povrchu nemusí být drobné známky běžného používání tak nápadné jako na dokonale hladké ploše.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Bez fáze, 2V nebo 4V – malý detail, který změní celou podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dubová prkna lze podle konkrétního provedení dodat bez fáze nebo se zkosenými hranami.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Bez fáze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po položení, přebroušení a dokončení může podlaha působit velmi kompaktně a jednotlivá prkna na sebe plynule navazují.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "2V fáze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zkosené jsou dvě dlouhé strany prkna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tím se zvýrazní především délka jednotlivých prken a směr celé podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "4V fáze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zkosení probíhá po celém obvodu prkna.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý jednotlivý kus dřeva je tak opticky více oddělený a formát prken na hotové ploše výrazněji vynikne.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to pouze technický detail.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volba fáze dokáže výrazně změnit charakter celé místnosti.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Šířka prkna 130, 155, 175 nebo 195 mm?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejný dub může při různých šířkách působit úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Užší prkna vytvoří větší množství linií a živější rytmus.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Širší masivní prkna naopak dokážou působit velkoryse a výrazně ukázat kresbu dubu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neplatí ale, že čím širší prkno, tím lepší podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při výběru řešíme velikost místnosti, její tvar, směr pokládky, charakter dřeva a také technické podmínky konkrétní realizace.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu totiž nevybíráme podle jednoho prkna. Vybíráme ji podle toho, jak bude vypadat celá místnost.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Délky až přes 2,5 metru",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velký vliv na výsledný vzhled mají také délky jednotlivých prken.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nabízeného provedení mohou být masivní dubová prkna v délkách přibližně 610 až 2610 mm.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě kombinace různých délek vytváří přirozený rytmus podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dlouhých místností dokážou delší prkna nádherně zdůraznit prostor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při pokládce je ale potřeba jednotlivé délky rozumně rozložit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde jen o to otevřít balík a položit prkna v pořadí, v jakém přijdou pod ruku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu při montáži skládáme.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://prkna-realizace-r3",
+    "alt": "Realizace: masivní dubová prkna v pokoji s olejovaným povrchem",
+    "w": 1200,
+    "h": 800,
+    "align": "right",
+    "big": false,
+    "uni": true
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Country s bělí – podlaha, která neskrývá, že vyrostla v lese",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednou z možností je výraznější třídění Country s bělí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tento výběr může kombinovat prvky třídění Natural, Rustikal a Country a výsledná podlaha tak působí živěji.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme v ní vidět:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "přirozené barevné rozdíly",
+     "bělové dřevo",
+     "suky",
+     "drobné zatmelené praskliny",
+     "rozdílnou kresbu jednotlivých prken"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "A přesně tak má taková podlaha vypadat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud hledáte dokonale jednotnou plochu, pravděpodobně to nebude správná volba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud ale chcete skutečný dub, na kterém je vidět jeho přirozený charakter, může být právě živější třídění nádherné.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Suk není výrobní vada",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle považujeme při výběru masivní podlahy za velmi důležité vysvětlit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo není průmyslově vytištěný dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Suky, barevné rozdíly, bělové dřevo nebo přirozená kresba jsou podle konkrétního třídění součástí materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samozřejmě existují klidnější i rustikálnější výběry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale ani u stejného třídění nebudou dvě masivní dubová prkna naprosto identická.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každý strom rostl jinak. A právě proto má skutečná dřevěná podlaha charakter, který nelze vytisknout.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Olej, tvrdý voskový olej, nebo lak?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výběrem dřeva práce nekončí.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrchová úprava rozhoduje nejen o vzhledu, ale také o způsobu následné údržby.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Tvrdý voskový olej",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tvrdé voskové oleje jsou velmi oblíbené u zákazníků, kteří chtějí zachovat přirozený vzhled a kontakt se dřevem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle použitého systému lze volit různé odstíny a výsledný vzhled.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výhodou olejovaných systémů jsou také možnosti průběžné péče a podle typu poškození i lokálních oprav.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olejovaná podlaha ale potřebuje správnou údržbu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lak",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytváří na povrchu dřeva ochrannou vrstvu a nabízí jiný způsob používání a údržby.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnešní lakované podlahy přitom nemusí být lesklé.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Velmi pěkné jsou například matné nebo ultramatné systémy, které nechávají vyniknout samotné dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak ani olej není automaticky lepší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volíme je podle vzhledu, způsobu používání místnosti a toho, co zákazník od podlahy očekává.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Celoplošné lepení masivních prken",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dubová prkna tohoto typu jsou určena pro celoplošné přilepení k podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě tady začíná práce podlaháře.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U 21mm masivního dřeva nechceme nic ponechat náhodě.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad musí být správně připravený, dostatečně rovný, pevný, soudržný, stabilní a suchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kontrolujeme jeho stav, zbytkovou vlhkost a případné trhliny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle situace může následovat broušení, oprava, zpevnění, penetrace nebo vyrovnání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Teprve na připravený podklad má smysl lepit drahou masivní podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod masivním dubem už nechceme řešit kompromisy, které jsme měli vyřešit před jeho položením.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní prkna a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle je téma, u kterého bychom byli opatrní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo přirozeně reaguje na změny teploty a vlhkosti a u širokých 21mm prken je potřeba posuzovat použití na podlahovém vytápění vždy podle konkrétního výrobku, dřeviny, šířky prkna, konstrukce topení a doporučení výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto nebudeme tvrdit, že každé masivní prkno lze bez problémů položit na jakékoli podlahové topení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud je v domě podlahové vytápění, řešíme tuto skutečnost už při výběru podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Někdy může být technicky vhodnější kvalitní vícevrstvá dřevěná podlaha.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neprodáváme masiv za každou cenu. Chceme, aby zvolená podlaha fungovala.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dřevo potřebuje správné prostředí",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani 21 mm dubu nedokáže změnit fyzikální vlastnosti dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlaha reaguje na relativní vlhkost vzduchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "V příliš suchém prostředí dřevo sesychá a mohou se objevit spáry. Při příliš vysoké vlhkosti naopak přijímá vlhkost a zvětšuje svůj objem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto je důležité udržovat v interiéru vhodné klima.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To není chyba masivní podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je přirozená vlastnost skutečného dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A zákazník, který to před nákupem ví, většinou dokáže o svoji podlahu bez problémů pečovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní prkno versus třívrstvá dřevěná podlaha",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obě jsou skutečné dřevěné podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale nejsou stejné.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá podlaha využívá křížovou konstrukci několika vrstev, která pomáhá omezovat rozměrové změny dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní prkno je naopak jeden kus dřeva v celé své tloušťce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Třívrstvá konstrukce proto může být výhodnější v některých technicky náročnějších situacích.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masiv nabízí obrovské množství skutečného materiálu a mimořádný potenciál dlouhodobého používání a budoucích renovací.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejde tedy o to, která podlaha je obecně lepší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jde o to, která je správná pro konkrétní dům a konkrétního zákazníka.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní prkno versus vinyl a laminát",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tady už porovnáváme úplně odlišné materiály.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl a laminát mají svoje výhody a v řadě interiérů dávají perfektní smysl.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale pokud zákazník hledá skutečný přírodní materiál, masivní dub nabízí něco, co imitace nabídnout nemůže.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžete jej brousit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžete jej znovu povrchově upravit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může přirozeně stárnout.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A každý jednotlivý kus je originál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl může dub velmi věrně napodobit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dub nic napodobovat nemusí.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Škrábanec nemusí být konec podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U nové podlahy se člověk někdy bojí prvního škrábance víc než čehokoli jiného.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže dřevěná podlaha je určena k používání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stojí na ní nábytek.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Chodíme po ní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Žijí na ní děti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Běhá po ní pes.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A postupně získává přirozenou patinu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U masivní podlahy je důležité vědět, že běžné opotřebení nemusí znamenat konec materiálu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po letech můžeme podle stavu povrch renovovat a dát mu nový život.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je úplně jiná filozofie než podlahu při opotřebení vytrhat a odvézt.",
+    "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://prkna-realizace-r4",
+    "alt": "Realizace: masivní dubová prkna, olejovaný povrch",
+    "w": 1200,
+    "h": 800,
+    "align": "left",
+    "big": false,
+    "uni": true
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dubová podlaha není na jednu rekonstrukci",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Když rekonstruujeme byt nebo stavíme dům, většinu věcí vybíráme s určitým předpokládaným životním cyklem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Spotřebič jednou vyměníme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Sedačku pravděpodobně také.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kuchyň možná za dvacet let předěláme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U dobře provedené masivní dřevěné podlahy ale můžeme přemýšlet úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nemusí být součástí jedné rekonstrukce. Může být součástí domu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nábytek kolem ní se může změnit několikrát.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stěny několikrát přemalujete.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Interiér projde různými módními obdobími.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A dubová podlaha může zůstat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná ji jednou přebrousíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná změníme odstín.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná z oleje přejdeme na jiný povrch.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale pořád pracujeme se stejným kusem dřeva, který jsme kdysi položili.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kolik tedy masivní podlaha skutečně stojí?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Samotná cena materiálu za metr čtvereční není celý příběh.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do kvalitní realizace patří také:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "kontrola podkladu",
+     "jeho případná oprava a vyrovnání",
+     "měření zbytkové vlhkosti",
+     "kvalitní lepicí systém",
+     "odborné celoplošné lepení",
+     "případné finální broušení",
+     "kartáčování",
+     "tmelení",
+     "olejování nebo lakování",
+     "soklové lišty",
+     "přechody",
+     "a dokončovací detaily"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem ale není pouze položená podlahová krytina.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledkem je hotová masivní dřevěná podlaha vytvořená pro konkrétní interiér.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A to je podle nás správný způsob, jak její cenu posuzovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dubová prkna na míru vašemu interiéru",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlaha nemusí být výrobek, který vyberete z pěti hotových dekorů.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě naopak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U jednotlivých zakázek můžeme podle dostupnosti a zvoleného výrobku řešit:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "šířku prkna, délky, třídění dřeva, 2V nebo 4V fázi, broušený či kartáčovaný povrch, odstín, olej nebo lak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu může vzniknout podlaha, která nebude vybraná pouze podle katalogového čísla.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Bude vytvořená pro konkrétní prostor.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevěná prkna – prodej a pokládka v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěným podlahám se věnujeme od roku 2003 a u masivního dřeva považujeme za důležité, aby zákazník nekupoval pouze materiál.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Musí fungovat celý systém.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto řešíme:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "výběr vhodných masivních dubových prken",
+     "šířky a délky",
+     "třídění dřeva",
+     "broušené nebo kartáčované provedení",
+     "2V a 4V fáze",
+     "barevné odstíny",
+     "tvrdé voskové oleje a lakovací systémy",
+     "kontrolu a přípravu podkladu",
+     "celoplošné lepení",
+     "finální povrchovou úpravu",
+     "soklové lišty a detaily",
+     "i budoucí údržbu a renovaci"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Vzorky dřevěných podlah si můžete prohlédnout v našem podlahovém studiu Podlahy Šťastný v Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to nejlevnější podlaha. A ani nemá být.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dubové prkno si podle nás nevybírá člověk proto, že hledá nejlevnější způsob, jak zakrýt beton.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vybere si ho proto, že chce skutečné dřevo a podlahu, která má smysl i za dvacet nebo třicet let.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu, kterou lze používat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu, kterou lze renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahu, jejíž vzhled můžeme po letech znovu změnit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podlahu, která nemusí skončit na skládce jen proto, že se její povrch používáním opotřeboval.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevěná podlaha je dražší při nákupu. Její skutečnou cenu ale poznáte až podle toho, kolik let vám bude sloužit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto máme masivní dubová prkna rádi.",
+    "center": false
+   }
+  ],
+  "side_title": "Masivní dřevěné podlahy",
+  "side_skip_root": true
  }
 ]

@@ -145,7 +145,7 @@ for p in PAGES:
             items += kids.get(c['id'], [])
         section = {'title': top['title'], 'items': [{'path': x['path'], 'title': x['title']} for x in items][:16]}
     if section and top['id'] == 21:  # staré menu WP: kořen „Dřevěné podlahy a parkety“ už na webu není, boční menu jen se stránkami, které existují (11. 10. 2026)
-        section = {'title': 'Masivní dřevěné podlahy', 'items': [i for i in section['items'] if i['path'] != top['path'] and i['path'].rstrip('/').rsplit('/',1)[-1] in ('masivni-drevene-parkety','masivni-drevene-podlahy-prumyslove-mozaiky')]}  # jen nové parkety + Průmyslové mozaiky (11. 10. 2026, UID 10767)
+        section = {'title': 'Masivní dřevěné podlahy', 'items': [i for i in section['items'] if i['path'] != top['path'] and i['path'].rstrip('/').rsplit('/',1)[-1] in ('masivni-drevene-parkety','masivni-drevena-prkna','masivni-drevene-podlahy-prumyslove-mozaiky')]}  # jen nové parkety + Průmyslové mozaiky (11. 10. 2026, UID 10767)
     children = [{'path': c['path'], 'title': c['title'], 'thumb': first_img(c), 'excerpt': excerpt(c)} for c in kids.get(p['id'], [])]
     if any(b['t'] == 'cards' for b in blocks) or p.get('dekory'): children = []  # okénka nahoře už na podstránky vedou
     reviews = None
