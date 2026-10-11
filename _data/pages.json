@@ -14284,9 +14284,8 @@
     "t": "img",
     "src": "client://realizace-parkety-stromecek",
     "alt": "Realizace masivních parket do stromečku",
-    "w": 1400,
-    "h": 933,
-    "big": true
+    "w": 900,
+    "h": 600
    },
    {
     "t": "h",
