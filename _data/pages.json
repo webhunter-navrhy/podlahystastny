@@ -926,19 +926,19 @@
       "href": "@/korkove-podlahy/korkove-podlahy-lepene/",
       "title": "Korkové podlahy lepené",
       "excerpt": "Lepená korková podlaha – když se udělá správně, vydrží desítky let. Příprava podkladu, celoplošné lepení a ochrana povrchu a spojů.",
-      "img": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/image30.jpeg"
+      "img": "kor/korkova-lepena-podlaha-vlozit-do-dlazdite-korkove-lepene-podlahy"
      },
      {
       "href": "@/podlahy-vinylove/vinylove-plovouci-podlahy/vinylove-podlahy/",
       "title": "Korkové podlahy na HDF desce (Click)",
       "excerpt": "Komfort korku a jednoduchá plovoucí pokládka se zámkovým spojem. Co hlídat u vody, podložky a podlahového vytápění.",
-      "img": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Baltico-HRN.jpg"
+      "img": "kor/korkova-plovouci-podlaha-vlozit-do-dlazdice-o-korkove-podlahy-na-hdf"
      },
      {
       "href": "@/korkove-podlahy/korkove-obklady/",
       "title": "Korkové obklady na stěnu",
       "excerpt": "Přírodní materiál, který změní vzhled i atmosféru místnosti – od jemného korku po výraznou 3D strukturu.",
-      "img": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/161-1_korkovy-obklad-kondor-natural--vosk.jpg"
+      "img": "kor/korkovy-obklad-do-nahledove-dlazdice"
      }
     ]
    },
@@ -1254,6 +1254,12 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "kor/korkova-plovouci-podlaha-a-jeji-slozeni-vlozit-k-textu-o-korkovych-podlahach",
+    "alt": "Složení korkové plovoucí podlahy",
+    "cap": "Složení korkové plovoucí podlahy"
+   },
+   {
     "t": "p",
     "h": "Jejich konstrukce může být vícevrstvá a podle konkrétního výrobce může obsahovat nosnou desku, korkové vrstvy a továrně dokončený povrch.",
     "center": false
@@ -1477,6 +1483,12 @@
     "t": "p",
     "h": "Korek nemusí být pouze to, co vidíte nahoře.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/podlahova-izolace-quietcork-zanest-do-textu-o-korkovych-podlahach",
+    "alt": "Korková podlahová izolace QuietCork",
+    "cap": "Korková podložka QuietCork"
    },
    {
     "t": "p",
@@ -27159,6 +27171,73 @@
    {
     "t": "h",
     "l": 2,
+    "x": "Dekory – korkové podlahy na HDF desce (Click)",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "kor/korkova-plovouci-podlaha-baltico",
+      "title": "Korková plovoucí podlaha Baltico, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-baltico-white",
+      "title": "Korková plovoucí podlaha Baltico White",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-country-crema-hrn",
+      "title": "Korková plovoucí podlaha Country Crema, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-hacienda",
+      "title": "Korková plovoucí podlaha Hacienda",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-lava-hrn",
+      "title": "Korková plovoucí podlaha Lava, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-nobel",
+      "title": "Korková plovoucí podlaha Nobel",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-river-hrn",
+      "title": "Korková plovoucí podlaha River, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-standard-hrn",
+      "title": "Korková plovoucí podlaha Standard, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-standard-white-hrn",
+      "title": "Korková plovoucí podlaha Standard White, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-twist-hrn",
+      "title": "Korková plovoucí podlaha Twist, HRN",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-plovouci-podlaha-zebra",
+      "title": "Korková plovoucí podlaha Zebra",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 2,
     "x": "Korkové podlahy Click na HDF desce – komfort korku a jednoduchá plovoucí pokládka",
     "center": false
    },
@@ -27176,6 +27255,12 @@
     "t": "p",
     "h": "Výsledkem je podlaha, která je při chůzi příjemná, pružnější a pocitově teplejší, ale současně se rychle pokládá.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/korkova-plovouci-podlaha-a-jeji-slozeni-vlozit-k-textu-o-korkovych-podlahach",
+    "alt": "Složení korkové plovoucí podlahy",
+    "cap": "Složení korkové plovoucí podlahy"
    },
    {
     "t": "h",
@@ -27202,6 +27287,12 @@
     "t": "p",
     "h": "Před pokládkou proto kontrolujeme jeho rovinnost, pevnost, stabilitu a zbytkovou vlhkost. Na minerálním podkladu řešíme také ochranu proti prostupující vlhkosti podle požadavků konkrétního systému.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/korkova-plovouci-podlaha-vlozit-do-textu-jako-realizaci-korkove-pllovouci-podlahy-na-hdf-desce",
+    "alt": "Realizace korkové plovoucí podlahy na HDF desce",
+    "cap": ""
    },
    {
     "t": "h",
@@ -27244,6 +27335,12 @@
     "t": "p",
     "h": "Proto podložku, parotěsnou vrstvu a celou skladbu volíme podle technických požadavků konkrétní podlahy a typu podkladu.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/korkova-podlahova-izolace-quietcork-pod-jakekoliv-plovouci-podlahy",
+    "alt": "Korková podlahová izolace QuietCork",
+    "cap": "Korková podložka QuietCork pod jakoukoli plovoucí podlahu"
    },
    {
     "t": "h",
@@ -27301,67 +27398,6 @@
     "t": "p",
     "h": "Podlahy Šťastný – korkové podlahy, odborná příprava podkladu a pokládka v Praze.",
     "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Dekory korkových podlah",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Baltico-HRN.jpg",
-      "title": "Korková plovoucí podlaha Corkline Baltico HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Country-Crema-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline Country Crema HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Hacienda-HRN.jpg",
-      "title": "Korková plovoucí podlaha Corkline Hacienda HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Lava-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline Lava HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Nobel-HRN.jpg",
-      "title": "Korková plovoucí podlaha Corkline Nobel HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-River-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline River HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Standard-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline Standard HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Standard-White-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline Standard White HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Twist-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline Twist HRN",
-      "desc": ""
-     },
-     {
-      "src": "https://www.podlahystastny.cz/wp-content/uploads/2025/05/Korkova-plovouci-podlaha-Corkline-Zebra-HRN.jpeg",
-      "title": "Korková plovoucí podlaha Corkline Zebra HRN",
-      "desc": ""
-     }
-    ]
    }
   ]
  },
@@ -34310,6 +34346,38 @@
    {
     "t": "h",
     "l": 2,
+    "x": "Dekory – korkové podlahy lepené",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "kor/korkova-lepena-podlaha-standard-natur",
+      "title": "Korková lepená podlaha Standard, natur",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-lepena-podlaha-champagner-natur",
+      "title": "Korková lepená podlaha Champagner, natur",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-lepena-podlaha-lava-natur",
+      "title": "Korková lepená podlaha Lava, natur",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkova-lepena-podlaha-champagner-white-barvena",
+      "title": "Korková lepená podlaha Champagner White, barvená",
+      "desc": ""
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "l": 2,
     "x": "Lepená korková podlaha – když se udělá správně, vydrží desítky let",
     "center": false
    },
@@ -34327,6 +34395,12 @@
     "t": "p",
     "h": "Základem je dokonale rovný, pevný, hladký a suchý podklad. Ten podle stavu zbrousíme, opravíme, napenetrujeme a případně vyrovnáme nivelační stěrkou. Korkové dílce následně celoplošně lepíme vhodným lepidlem.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/kontaktni-lepidlo-soliflex",
+    "alt": "Kontaktní lepidlo Soliflex",
+    "cap": "Kontaktní lepidlo Soliflex"
    },
    {
     "t": "p",
@@ -34354,40 +34428,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "kor/korkova-lepena-podlaha-vlozet-jako-realizaci-k-textu",
+    "alt": "Realizace lepené korkové podlahy",
+    "cap": ""
+   },
+   {
     "t": "p",
     "h": "Korek není podlaha na pár let. Když se správně položí a průběžně udržuje, může být součástí interiéru opravdu velmi dlouho.",
     "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Dekory lepených korkových podlah",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/167_korkova-lepena-podlaha-standard--natur.jpg",
-      "title": "Korková lepená podlaha Standard, natur",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/173-1_korkova-lepena-podlaha-champagner--natur.jpg",
-      "title": "Korková lepená podlaha Champagner, natur",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/92_korkova-lepena-podlaha-lava--natur.jpg",
-      "title": "Korková lepená podlaha Lava, natur",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/170-1_korkova-lepena-podlaha-champagner-white-barvena.jpg",
-      "title": "Korková lepená podlaha Champagner White barvená",
-      "desc": ""
-     }
-    ]
    }
   ]
  },
@@ -34401,6 +34450,43 @@
   "description": "Korkové obklady na stěnu: přírodní materiál, který změní vzhled i atmosféru místnosti. Výběr, příprava podkladu a odborné lepení v Praze.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dekory – korkové obklady na stěnu",
+    "center": false,
+    "anchor": "dekory"
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "src": "kor/korkovy-obklad-country-vosk",
+      "title": "Korkový obklad Country, vosk",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkovy-obklad-kondor-ivory-vosk",
+      "title": "Korkový obklad Kondor Ivory, vosk",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkovy-obklad-kondor-natural-vosk",
+      "title": "Korkový obklad Kondor Natural, vosk",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkovy-obklad-kondor-white-vosk",
+      "title": "Korkový obklad Kondor White, vosk",
+      "desc": ""
+     },
+     {
+      "src": "kor/korkovy-obklad-seaside-natur",
+      "title": "Korkový obklad Seaside, natur",
+      "desc": ""
+     }
+    ]
+   },
    {
     "t": "h",
     "l": 2,
@@ -34426,6 +34512,12 @@
     "t": "p",
     "h": "Současné korkové obklady mohou být jemné, výrazně strukturované, přírodní, tmavé, světlé, barevně tónované nebo prostorové. Podle zvoleného typu mohou být nenápadným doplňkem i dominantou celé místnosti.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/korkovy-obklad-prilozit-k-textu-o-obkladech",
+    "alt": "Korkový obklad",
+    "cap": ""
    },
    {
     "t": "h",
@@ -34538,6 +34630,12 @@
     "t": "p",
     "h": "A právě kontrast různých materiálů dokáže jeho strukturu ještě více zvýraznit.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "kor/korkovy-obklad-vlozit-k-textu",
+    "alt": "Korkový obklad na stěně",
+    "cap": ""
    },
    {
     "t": "h",
@@ -34883,47 +34981,6 @@
     "t": "p",
     "h": "Může to být první věc, které si po vstupu do místnosti všimnete.",
     "center": false
-   },
-   {
-    "t": "h",
-    "l": 3,
-    "x": "Dekory korkových obkladů",
-    "center": false
-   },
-   {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/164-1_korkovy-obklad-country--vosk.jpg",
-      "title": "Korkový obklad Country, vosk",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/161-1_korkovy-obklad-kondor-natural--vosk.jpg",
-      "title": "Korkový obklad Kondor Natural, vosk",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/86-1_korkovy-obklad-kondor-white--vosk.jpg",
-      "title": "Korkový obklad Kondor White, vosk",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/89-1_korkovy-obklad-kondor-ivory--vosk.jpg",
-      "title": "Korkový obklad Kondor Ivory, vosk",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/50_korkovy-obklad-samolepici--hexagon.jpg",
-      "title": "Korkový obklad samolepicí, hexagon",
-      "desc": ""
-     },
-     {
-      "src": "https://cdn.myshoptet.com/usr/www.korek-jelinek.cz/user/shop/detail/158_korkovy-obklad-seaside-natur.jpg",
-      "title": "Korkový obklad Seaside natur",
-      "desc": ""
-     }
-    ]
    }
   ]
  },
