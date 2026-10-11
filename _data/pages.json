@@ -32189,7 +32189,8 @@
     "w": 1186,
     "h": 891,
     "align": "right",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "p",
@@ -32234,7 +32235,8 @@
     "w": 845,
     "h": 563,
     "align": "right",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -32269,7 +32271,8 @@
     "w": 845,
     "h": 563,
     "align": "left",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -32309,7 +32312,8 @@
     "w": 845,
     "h": 563,
     "align": "right",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -32385,7 +32389,8 @@
     "w": 845,
     "h": 563,
     "align": "left",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -32446,7 +32451,8 @@
     "w": 845,
     "h": 563,
     "align": "right",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -32481,7 +32487,8 @@
     "w": 845,
     "h": 563,
     "align": "left",
-    "big": false
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -32515,7 +32522,9 @@
     "alt": "Renovace parket – rozebraná podlaha u radiátoru před opravou podkladu",
     "w": 463,
     "h": 459,
-    "align": "right"
+    "align": "right",
+    "uni": true,
+    "big": false
    },
    {
     "t": "h",
