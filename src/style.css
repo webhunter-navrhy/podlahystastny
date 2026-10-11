@@ -586,6 +586,6 @@ a:hover .arr{transform:translateX(5px)}
 .dektile .dt i{font-style:normal;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--red,#C40000);text-align:right}
 @media(max-width:800px){.dektiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.dektiles{grid-template-columns:1fr;gap:1.4rem}.dektile figure{aspect-ratio:4/3}.dektile .dt b{font-size:1.35rem}}
-/* 11 položek menu (11. 10. 2026): kompaktnější řádek, burger do 1840 px */
+/* 11 položek menu (11. 10. 2026): kompaktnější řádek, burger do 1890 px */
 .hdr__nav{gap:1rem;font-size:.84rem}
-@media (max-width:1840px){.hdr__nav,.hdr__cta{display:none}.burger{display:block}.hdr__in{height:70px}}
+@media (max-width:1890px){.hdr__nav,.hdr__cta{display:none}.burger{display:block}.hdr__in{height:70px}}
