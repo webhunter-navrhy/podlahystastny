@@ -10613,5 +10613,35 @@
   "f": "prkna-dekor-dub-500-1500-x-135-x-21mm-b.webp",
   "w": 679,
   "h": 1000
+ },
+ "client://parkety-realizace-r1": {
+  "f": "parkety-realizace-r1.webp",
+  "w": 1400,
+  "h": 1050
+ },
+ "client://parkety-realizace-r2": {
+  "f": "parkety-realizace-r2.webp",
+  "w": 300,
+  "h": 300
+ },
+ "client://parkety-realizace-r3": {
+  "f": "parkety-realizace-r3.webp",
+  "w": 300,
+  "h": 300
+ },
+ "client://parkety-realizace-r4": {
+  "f": "parkety-realizace-r4.webp",
+  "w": 300,
+  "h": 300
+ },
+ "client://parkety-realizace-r5": {
+  "f": "parkety-realizace-r5.webp",
+  "w": 300,
+  "h": 300
+ },
+ "client://parkety-realizace-r6": {
+  "f": "parkety-realizace-r6.webp",
+  "w": 300,
+  "h": 300
  }
 }

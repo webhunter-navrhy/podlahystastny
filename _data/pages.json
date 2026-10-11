@@ -14492,6 +14492,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://parkety-realizace-r1",
+    "alt": "Realizace: dubové parkety rybí kost, lakovaný povrch, světlý pokoj",
+    "w": 1400,
+    "h": 1050,
+    "align": "right",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "p",
     "h": "A není divu.",
     "center": false
@@ -14510,6 +14520,16 @@
     "t": "p",
     "h": "Francouzský Chevron je pak samostatný typ podlahového vzoru, u kterého jsou čela jednotlivých prvků seříznuta pod úhlem.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://parkety-realizace-r2",
+    "alt": "Realizace: parkety rybí kost s lemováním, lakovaný povrch",
+    "w": 300,
+    "h": 300,
+    "align": "left",
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
@@ -14548,6 +14568,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://parkety-realizace-r3",
+    "alt": "Realizace: světle tónované dubové parkety rybí kost v bytě",
+    "w": 300,
+    "h": 300,
+    "align": "right",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "h",
     "l": 2,
     "x": "Olejované, nebo lakované parkety?",
@@ -14562,6 +14592,16 @@
     "t": "p",
     "h": "Olejovaný povrch nechává výrazněji vyniknout přirozenou strukturu dřeva a umožňuje průběžné ošetřování podlahy. Některá lokální poškození lze také snadněji opravit bez renovace celé místnosti.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://parkety-realizace-r4",
+    "alt": "Realizace: olejované dubové parkety rybí kost",
+    "w": 300,
+    "h": 300,
+    "align": "left",
+    "big": false,
+    "uni": true
    },
    {
     "t": "p",
@@ -14641,6 +14681,16 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://parkety-realizace-r5",
+    "alt": "Realizace: renovované dubové parkety po broušení a nové povrchové úpravě",
+    "w": 300,
+    "h": 300,
+    "align": "right",
+    "big": false,
+    "uni": true
+   },
+   {
     "t": "h",
     "l": 2,
     "x": "Přeložení starých parket – když je dřevo dobré, ale podklad už ne",
@@ -14716,6 +14766,16 @@
     "t": "p",
     "h": "Dobře provedená oprava nemusí na první pohled působit jako dodatečně vložený kus podlahy.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://parkety-realizace-r6",
+    "alt": "Realizace: napojení parket s dilatační spárou po úpravě dispozice",
+    "w": 300,
+    "h": 300,
+    "align": "left",
+    "big": false,
+    "uni": true
    },
    {
     "t": "h",
