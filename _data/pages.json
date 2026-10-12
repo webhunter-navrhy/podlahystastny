@@ -33740,150 +33740,201 @@
   "parent": 0,
   "order": 15,
   "path": "/pece-o-podlahu/",
-  "title": "Péče o podlahy",
-  "seo_title": "Péče o podlahy - Podlahy Šťastný",
-  "description": "Jak zacházet s novou podlahou? Aby Vám nová dřevěná, laminátová, vinylová či bambusová podlaha dlouho vydržela, je dobré mít na paměti několik jednoduchých zásad. 1) Účinná čistící zóna - instalací čistící zóny zamezíte zanášení kamínků a nečistot na novou podlahu, předejdete tak nevratnému poškrábání. 2) Podlepte nožičky - nohy nábytku podlepte filcovými podložkami, kolečka u",
+  "title": "Péče o podlahy: jak čistit dřevo, vinyl a laminát",
+  "seo_title": "Péče o podlahy Bona: dřevo, vinyl a laminát",
+  "description": "Jak správně čistit olejovanou a lakovanou dřevěnou podlahu, vinyl i laminát? Poradíme, jak pečovat o podlahu a který čistič Bona zvolit.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "gallery",
-    "items": [
-     {
-      "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/banner21.jpg",
-      "title": "banner2",
-      "desc": ""
-     },
-     {
-      "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Cleaner.jpg",
-      "title": "Cleaner",
-      "desc": ""
-     }
-    ],
-    "loose": true
-   },
-   {
     "t": "p",
-    "h": "<strong>Jak zacházet s novou podlahou?</strong><br> Aby Vám nová dřevěná, laminátová, vinylová či bambusová podlaha dlouho vydržela, je dobré mít na paměti několik jednoduchých zásad.<br> 1) Účinná čistící zóna – instalací čistící zóny zamezíte zanášení kamínků a nečistot na novou podlahu, předejdete tak nevratnému poškrábání.<br> 2) Podlepte nožičky – nohy nábytku podlepte filcovými podložkami, kolečka u kancelářských židlí a nábytku vyměňte za měkčí.<br> 3) Jehlové podpatky – jehlové podlatky představují enormní bodové zatížení, i když na nich stojí štíhlá slečna. Platí to samozřejmě také o tenkých nohách nábytku apod. Na podlaze pak mohou zůstat ďolíčky.<br> 4) Méně je více – při vytírání podlahy to platí dvojnásob – mop vždy důkladně vyždímejte a stírejte podlahu pouze lehce vlhkým hadrem, případně ji raději pouze vyluxujte. Bona spray mop Vám problém s příliš mokrým hadrem vyřeší!<br> 5) Mějte na paměti, že dřevo je hygroskopický materiál, který svými objemovými změnami (tzv. sesýcháním a bobtnáním) reaguje na relativní vzdušnou vlhkost okolního prostředí. Rozměrové změny dřeva jsou nepatrné, pokud je relativní vlhkost vzduchu dlouhodobě v rozmení 45-55% a teplota 18-23°C. Toto se netýká pouze parket, ale všech podlah s obsahem dřeva, tedy i laminátových plovoucích podlah aj.<br> 6) Něžná péče – na péči o podlahu používejte vždy doporučené přípravky na daný typ podlahy a dodržujte pokyny výrobců. Vyvarujte se používání agresivních čistících prostředků, které by mohly Vaši podlahu nenávratně poškodit.<br> Každá podlaha potřebuje tu správnou péči. Představujeme Vám vychytaný systém péče o podlahu od firmy Bona, přední značky na českém trhu.<br> Jednoduše objednejte na info@podlahystastny.cz nebo na tel. 727 945 909 a vyzvedněte na adrese Slavíkova 29, Praha 2 – Vinohrady!<br> <strong>Jak pečovat o klasickou dřevěnou a dřevěnou plovoucí podlahu?</strong><br> Dřevo je krásný přírodní materiál, který pro udržení své krásy potřebuje specifickou údržbu. Díky dnešním moderním přípravkům a technologiím to však není žádná věda!<br> <strong>Bona Cleaner</strong> je koncentrovaný univerzální čistící prostředek určený pro časté použití. Je určený pro lakované dřevěné a korkové podlahy a dřevěné podlahy ošetřené tvrdým voskovým olejem. Dále je možné jej použít na údržbu laminátových, vinylových, PVC podlah či dlažby.<br> Cena za 1 l: 245 Kč vč. DPH, Cena za 4 l: 816 Kč vč. DPH",
+    "h": "Aby vám nová dřevěná, laminátová nebo vinylová podlaha dlouho dobře sloužila, nestačí jen občas vytřít. Důležitá je prevence proti poškrábání, šetrné čištění a správně zvolený přípravek. Každý povrch totiž potřebuje trochu jinou péči.",
     "center": false
    },
    {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Dř.-podlahy.jpg",
-    "alt": "Dř. podlahy",
-    "w": 150,
-    "h": 150,
-    "align": "left"
-   },
-   {
     "t": "p",
-    "h": "<strong>Bona Čistič na parkety</strong> je čistící prostředek určený pro použití v Bona spray mopu. Je ideální na čištění dřevěných a korkových lakovaných podlah a také dřevěných podlah ošetřených voskovými oleji.<br> Cena za 0,85 l: 250 Kč vč. DPH, Cena za 4 l: 668 Kč vč. DPH",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Osvěžovač-olejovaných-podlah_230_230.jpg",
-    "alt": "Osvěžovač olejovaných podlah_230_230",
-    "w": 94,
-    "h": 150,
-    "align": "left"
-   },
-   {
-    "t": "p",
-    "h": "<br> <strong>Bona Osvěžovač olejovaných podlah</strong> je přípravek určený k oživení vzhledu olejovaných dřevěných podlah. Dodá novou krásu olejovaným dřevěným podlahám, které mají mdlý a lehce zašlý vzhled.<br> Cena za 1 l: 407 Kč vč. DPH",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Cleaner.jpg",
-    "alt": "Cleaner",
-    "w": 150,
-    "h": 150,
-    "align": "left"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Jak pečovat o laminátovou a vinylovou podlahu?</strong><br> Péče o laminátovou a vinylovou podlahu také není žádná věda.<br> <strong>Bona Cleaner</strong> je univerzální čistící prostředek určený pro časté použití.<br> Cena za 1 l: 245 Kč vč. DPH, Cena za 4 l: 816 Kč vč. DPH",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Lam.-podlahy.jpg",
-    "alt": "Lam. podlahy",
-    "w": 150,
-    "h": 150,
-    "align": "left"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Bona Čistič na laminátové podlahy</strong> je čistící prostředek určený k použití v Bona spray mopu. Je ideální k čištění laminátových a vinylových podlah. Dále se hodí na čištění marmolea, PVC a dlažby.<br> Cena za 0,85 l: 250 Kč vč. DPH, Cena za 4 l: 668 Kč vč. DPH",
+    "h": "Připravili jsme přehled základních zásad a čističů Bona pro olejované dřevěné podlahy, lakované dřevěné podlahy, vinyl a laminát.",
     "center": false
    },
    {
     "t": "h",
     "l": 2,
-    "x": "Bona Spray Mop",
+    "x": "Jak zacházet s novou podlahou",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Zabraňte zanášení písku a nečistot",
     "center": false
    },
    {
     "t": "p",
-    "h": "Umíte si představit vytírání podlahy bez kbelíku s vodou? Představujeme Vám Bona Spray Mop!<br> Bona Spray mop je speciálně vyvinutý pro stírání nečistot bez přílišného namáčení povrchu podlahy. Má ergonomický design, otočnou hlavu pro maximální dosah i do těžko přístupných míst, znovu plnitelnou nádržku na čisticí prostředek a pratelnou utěrku z mikrovlákna.<br> Vaše dřevěná, laminátová či vinylová podlaha potřebuje speciální úrdžbu a péči, která však díky moderním technologiím není nijak náročná. Při dodržování několika jednoduchých zásad péče o podlahu bude Vaše podlaha dlouhá léta jako nová!<br> Jednoduše objednejte na info@podlahystastny.cz nebo na tel. 727 945 909 a vyzvedněte na adrese Slavíkova 29, Praha 2 – Vinohrady!<br> <strong>NOVINKA ZA ATRAKTIVNÍ CENU!</strong>",
+    "h": "Vstupní čisticí zóna pomáhá zachytit kamínky, písek a další nečistoty ještě předtím, než se dostanou na podlahu. Právě drobné částečky mohou při chůzi povrch poškrábat.",
     "center": false
    },
    {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Spray-mop-II.gif",
-    "alt": "Spray mop II",
-    "w": 99,
-    "h": 129,
-    "align": "left"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Bona Spray Mop</strong> – neocenitelný pomocník při vytírání podlah, díky lehké konstrukci zvládnete úklid jednou rukou.<br> Sada obsahuje Bona Spray Mop, 0,85l nádržku s Bona Čističem na parkety (připraveno k okamžitému použití) a modrý pad.<br> Cena: 1 359 Kč vč. DPH",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Mop-Motion-II.jpg",
-    "alt": "Mop Motion II",
-    "w": 150,
-    "h": 150,
-    "align": "left"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Bona Spray Mop MOTION</strong> – hlavice vylepšená o vibrační technologii, díky které je čištění podlahy ještě důkladnější.<br> Sada obsahuje Bona Spray Mop MOTION, 1l nádržku s Bona Čističem na parkety (připraveno k okamžitému použití) a modrý pad.<br> Cena: 1 499 Kč vč. DPH",
+    "t": "h",
+    "l": 3,
+    "x": "Podlepte nožičky nábytku",
     "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Doplňky:</strong>",
+    "h": "Nohy židlí, stolů a dalšího nábytku opatřete filcovými podložkami. U kancelářských židlí zkontrolujte kolečka a podle potřeby je vyměňte za typ vhodný pro danou podlahu.",
     "center": false
    },
    {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/pady.jpg",
-    "alt": "pady",
-    "w": 300,
-    "h": 192,
-    "align": "left"
-   },
-   {
-    "t": "p",
-    "h": "<strong>Modrý pad</strong> – mikrovláknová utěrka pro běžné vytírání, cena: 348 Kč vč. DPH<br> <strong>Bílý pad</strong> – „prachovka“ – používá se na sucho na stírání zvířecích chlupů a prachu z podlahy, cena: 348 Kč vč. DPH<br> <strong>Žlutý pad</strong> – na aplikaci leštěnek a osvěžovačů, cena: 348 Kč vč. DPH",
+    "t": "h",
+    "l": 3,
+    "x": "Pozor na bodové zatížení",
     "center": false
    },
    {
-    "t": "img",
-    "src": "http://podlahystastny.cz/wordpress/wp-content/uploads/Dř.-podlahy-1.jpg",
-    "alt": "Dř. podlahy (1)",
-    "w": 150,
-    "h": 150,
-    "align": "left"
+    "t": "p",
+    "h": "Tenké nožičky nábytku nebo jehlové podpatky mohou soustředit váhu na malou plochu a zanechat v podlaze otlaky. U těžkého nábytku pomohou širší podložky, které zatížení rozloží.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Při vytírání používejte jen málo vody",
+    "center": false
    },
    {
     "t": "p",
-    "h": "<strong>Čistič na podlahy</strong> – náhradní náplň čištiče na dřevěné nebo laminátové a vinylové podlahy, připravena k okamžitému použití.<br> Náhradní náplň 0,85 l: 250 Kč vč. DPH<br> Náhradní náplň 4 l: 668 Kč vč. DPH",
+    "h": "Mop důkladně vyždímejte a podlahu vytírejte jen mírně navlhčeným mopem. Vodu nenechávejte stát na povrchu ani zatékat do spár. U dřeva a laminátu je potřeba být obzvlášť opatrný.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Udržujte vhodné prostředí v místnosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo reaguje na změny vzdušné vlhkosti a teploty. Dlouhodobě suchý nebo naopak příliš vlhký vzduch může ovlivnit jeho rozměry. U dřevěných podlah a podlah s dřevěným jádrem dodržujte podmínky stanovené výrobcem podlahy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vybírejte čistič podle povrchu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Používejte přípravek určený pro konkrétní typ podlahy a dodržujte návod na obalu. Agresivní nebo nevhodné čisticí prostředky mohou poškodit povrchovou úpravu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Čištění olejované dřevěné podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olejovaná podlaha má přirozený vzhled a její povrch potřebuje pravidelnou, šetrnou péči. Pro její běžné čištění je určen Bona Čistič na olejované podlahy. Čistí povrch a pomáhá pečovat o olejovanou úpravu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před vytíráním podlahu zameťte nebo vysajte. Čistič použijte podle návodu a podlahu vytřete dobře vyždímaným mopem. Nenechávejte na ní stát vodu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Běžné čištění nenahrazuje obnovu olejové vrstvy. Pokud podlaha působí suše nebo je její povrch opotřebený, další ošetření zvolte podle doporučení výrobce podlahy a použité povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Čištění lakované dřevěné podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lakovanou dřevěnou podlahu pravidelně zbavujte prachu a písku, které mohou působit jako brusivo. Pro její běžné čištění je vhodný Bona Čistič na parkety.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejprve odstraňte volné nečistoty vysavačem s nástavcem na tvrdé podlahy nebo měkkým smetákem. Poté použijte čistič podle pokynů na obalu a podlahu setřete mírně vlhkým mopem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud lakovaná podlaha časem ztratí svěží vzhled, může být podle jejího stavu vhodná také leštěnka Bona. Leštěnka ale nenahrazuje běžné čištění ani opravu poškozeného laku. Před použitím ověřte, že je zvolený přípravek vhodný pro konkrétní povrch.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Čištění vinylové podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl, LVT a PVC se udržují snadno, ale i u těchto povrchů je vhodné používat čistič určený pro tvrdé podlahy. Bona nabízí Bona Čistič na tvrdé podlahy, který je určený také na vinylové krytiny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejprve podlahu vysajte nebo zameťte. Čistič použijte podle návodu a povrch setřete mopem nebo utěrkou z mikrovlákna. Zaschlé nebo lepkavé skvrny odstraňte co nejdříve, aby se nečistoty zbytečně neroznášely po podlaze.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Čištění laminátové podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Na laminátovou podlahu lze použít Bona Čistič na tvrdé podlahy. Před vytíráním odstraňte prach a drobné nečistoty, poté podlahu vytřete dobře vyždímaným mopem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Laminát nepřemáčejte. Voda, která zůstane na povrchu nebo pronikne do spár, mu může uškodit. Při běžném úklidu obvykle stačí malé množství čističe použité podle pokynů výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Bona Spray Mop: vytírání bez kbelíku",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Bona Spray Mop umožňuje nanášet čisticí prostředek přímo před mop. Díky tomu máte množství použité tekutiny pod kontrolou a nemusíte při běžném vytírání připravovat kbelík s vodou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před použitím z podlahy odstraňte prach a písek. Zvolte čisticí prostředek Bona vhodný pro daný povrch a používejte mop podle jeho návodu. Mikrovláknovou utěrku po úklidu vyperte podle pokynů výrobce.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jaký čistič Bona zvolit?",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Olejovaná dřevěná podlaha: Bona Čistič na olejované podlahy.",
+     "Lakovaná dřevěná podlaha: Bona Čistič na parkety.",
+     "Vinylová podlaha: Bona Čistič na tvrdé podlahy.",
+     "Laminátová podlaha: Bona Čistič na tvrdé podlahy."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Správná péče začíná tím, že víte, jaký povrch vaše podlaha má. Když ji pravidelně zbavujete prachu, chráníte ji před poškrábáním a používáte vhodný čistič, pomůžete jí zachovat pěkný vzhled po dlouhou dobu.",
     "center": false
    }
   ]
@@ -36044,66 +36095,33 @@
   "parent": 0,
   "order": 3,
   "path": "/drevene-podlahy-a-parkety/",
-  "title": "Dřevěné podlahy a parkety",
-  "seo_title": "Dřevěné podlahy a parkety - Podlahy Šťastný",
-  "description": "Podlahy z masivního dřeva V dnešní době jsou podlahy z masivního dřeva na trhu stavebních materiálů velmi oblíbené. Takové podlahy mají mnoho výhod. Je třeba ale také upozornit na to, že masivní dřevěná podlaha Praha netoleruje nadměrnou vlhkost a náhlý skok teploty, protože vlivem těchto faktorů se může materiál velmi zdeformovat a ztratit svůj dokonalý",
+  "title": "Masivní dřevěné podlahy",
+  "seo_title": "Masivní dřevěné podlahy – parkety, prkna, mozaiky - Podlahy Šťastný",
+  "description": "Masivní dřevěné podlahy v Praze: dřevěné masivní parkety, masivní dřevěná prkna a průmyslové mozaiky (kantovka). Výběr, dekory, pokládka a renovace. Podlahy Šťastný.",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
-    "t": "h",
-    "l": 4,
-    "x": "Podlahy z masivního dřeva",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "V dnešní době jsou <strong>podlahy z masivního dřeva</strong> na trhu stavebních materiálů velmi oblíbené. Takové podlahy mají mnoho výhod.",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Je třeba ale také upozornit na to, že<strong>masivní dřevěná podlaha Praha</strong>netoleruje nadměrnou vlhkost a náhlý skok teploty, protože vlivem těchto faktorů se může materiál velmi zdeformovat a ztratit svůj dokonalý estetický vzhled.<br> Své služby nabízíme pro oblast Praha, jednotlivé části <strong>Prahy, Praha 1, Praha 2 , Praha 3, Praha 4, Praha 4, Praha 5, Praha 6, Praha 7, Praha 8, Praha 9, Praha 10, dále pak Praha východ, Praha západ, Liberec, Mladá Boleslav, Benešov, Beroun.</strong>",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "<strong>Podlahy Štastný</strong>– záruka kvalitní masivní dřevěné podlahy!",
-    "center": false
-   },
-   {
-    "t": "img",
-    "src": "https://masivnidrevenepodlahy.cz/wp-content/uploads/2020/03/dub-kouřený-Universal-vzor-prkno-Plaza.jpg",
-    "alt": "",
-    "w": 702,
-    "h": 702,
-    "align": ""
-   },
-   {
-    "t": "h",
-    "l": 4,
-    "x": "Mezi výhody patří především",
-    "center": false
-   },
-   {
-    "t": "p",
-    "h": "Šetrnost k životnímu prostředí, kde masivní dřevěné podlahy jsou vyrobeny z obnovitelného materiálu, tedy dřeva.",
-    "center": false
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "Trvanlivost a vysoká pevnost. Masivní dřevěné podlahy mají životnost několik desítek let a pokud se o ni budeme dobře starat, vydrží nám i několik generací.",
-    "center": false
-   },
-   {
-    "t": "hr"
-   },
-   {
-    "t": "p",
-    "h": "Tepelná a zvuková izolace. Na rozdíl od jiných podlahových krytin je masivní dřevěná podlaha velmi příjemná na dotek a má také vynikající vlastnosti pohlcující hluk.",
-    "center": false
+    "t": "cards",
+    "items": [
+     {
+      "href": "@/drevene-podlahy-a-parkety/masivni-drevene-parkety/",
+      "title": "Dřevěné masivní parkety",
+      "excerpt": "Klasika, kterou můžete po letech znovu renovovat. Dekory, rozměry a ukázky realizací.",
+      "img": "client://realizace-parkety-stromecek"
+     },
+     {
+      "href": "@/drevene-podlahy-a-parkety/masivni-drevena-prkna/",
+      "title": "Dřevěná masivní prkna",
+      "excerpt": "Široká dubová prkna s olejovaným povrchem. Dekory, tloušťky a ukázky z hotových zakázek.",
+      "img": "client://prkna-hero-nova"
+     },
+     {
+      "href": "@/drevene-podlahy-a-parkety/masivni-drevene-podlahy-prumyslove-mozaiky/",
+      "title": "Průmyslové mozaiky",
+      "excerpt": "Kantovka z úzkých lamel pro byty i komerční prostory. Dekory a realizace.",
+      "img": "client://mozaika-schodiste"
+     }
+    ]
    }
   ]
  },
