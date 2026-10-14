@@ -104,7 +104,21 @@ LD = json.dumps({"@context": "https://schema.org", "@type": "HomeAndConstruction
     "address": {"@type": "PostalAddress", "streetAddress": S['address'], "addressLocality": "Praha 2 – Vinohrady", "postalCode": S['zip'], "addressCountry": "CZ"},
     "openingHours": ["Mo-Th 09:00-17:00"], "areaServed": "Praha a okolí"}, ensure_ascii=False)
 
+LIVE = os.environ.get('LIVE') == '1'   # LIVE=1 python3 build.py = ostré spuštění na vlastní doméně (index, robots.txt, sitemap.xml)
+SITEMAP = []
+
+def seo_head(html_, path):
+    # canonical na ostrou doménu vždy; index/noindex podle LIVE (návrh na github.io zůstává noindex)
+    if 'rel="canonical"' not in html_ and path != '/404/':
+        html_ = html_.replace('</head>', '<link rel="canonical" href="%s">\n</head>' % (DOMAIN + path), 1)
+    if LIVE and path != '/404/':
+        html_ = html_.replace('<meta name="robots" content="noindex, nofollow">\n', '', 1).replace('<meta name="robots" content="noindex, nofollow">', '', 1)
+    return html_
+
 def write(path, html_):
+    if not html_.startswith('<!doctype html><meta'):
+        html_ = seo_head(html_, path)
+        if path != '/404/': SITEMAP.append(path)
     fp = os.path.join(OUT, path.strip('/'), 'index.html') if path.strip('/') else os.path.join(OUT, 'index.html')
     os.makedirs(os.path.dirname(fp), exist_ok=True)
     open(fp, 'w', encoding='utf-8').write(html_)
@@ -172,7 +186,12 @@ for p in PAGES:
           og=(DOMAIN + '/img/wp/' + IMAP[p['og_image']]['f']) if p.get('og_image') in IMAP else '', ld=LD, announce=H['announce'], body_class='sub', active=nav_active))
 
 # 404
-R = '/podlahystastny/'; L = make_L(R)
+R = '/' if LIVE else '/podlahystastny/'; L = make_L(R)
 P404 = {'path': '/404/', 'title': 'Stránka nenalezena', 'blocks': [{'t': 'p', 'h': 'Tuto stránku jsme nenašli. Zkuste prosím <a href="' + R + '">úvodní stránku</a> nebo nás kontaktujte.'}], 'lead': None, 'cover': None, 'crumbs': [], 'section': None, 'children': [], 'empty_note': None}
 open(os.path.join(OUT, '404.html'), 'w', encoding='utf-8').write(tpl.render(S=S, P=P404, R=R, L=L, IM=IM, V=V, title='Stránka nenalezena – Podlahy Šťastný', description='', og='', ld=LD, announce=H['announce'], body_class='sub', active=''))
+if LIVE:
+    open(os.path.join(OUT, 'robots.txt'), 'w').write('User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n' % DOMAIN)
+else:
+    open(os.path.join(OUT, 'robots.txt'), 'w').write('User-agent: *\nDisallow: /\n')
+open(os.path.join(OUT, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join('<url><loc>%s%s</loc></url>\n' % (DOMAIN, p) for p in sorted(set(SITEMAP))) + '</urlset>\n')
 print('hotovo:', len(PAGES), 'stránek →', OUT)
