@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install jinja2
-      - run: python build.py
+      - run: LIVE=1 python build.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
