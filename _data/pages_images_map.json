@@ -10648,5 +10648,30 @@
   "f": "prkna-hero-nova.webp",
   "w": 900,
   "h": 600
+ },
+ "client://bona-oil-soap": {
+  "f": "bona-oil-soap.webp",
+  "w": 600,
+  "h": 450
+ },
+ "client://bona-cistic-parkety": {
+  "f": "bona-cistic-parkety.webp",
+  "w": 600,
+  "h": 450
+ },
+ "client://bona-cistic-tvrde-podlahy": {
+  "f": "bona-cistic-tvrde-podlahy.webp",
+  "w": 600,
+  "h": 450
+ },
+ "client://bona-cistic-laminat": {
+  "f": "bona-cistic-laminat.webp",
+  "w": 600,
+  "h": 600
+ },
+ "client://bona-spray-mop": {
+  "f": "bona-spray-mop.webp",
+  "w": 600,
+  "h": 600
  }
 }

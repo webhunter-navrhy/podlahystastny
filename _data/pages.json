@@ -33839,6 +33839,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://bona-oil-soap",
+    "alt": "Bona Oil Soap – tekuté mýdlo pro olejované dřevěné podlahy",
+    "w": 360,
+    "h": 270,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "p",
     "h": "Před vytíráním podlahu zameťte nebo vysajte. Čistič použijte podle návodu a podlahu vytřete dobře vyždímaným mopem. Nenechávejte na ní stát vodu.",
     "center": false
@@ -33858,6 +33867,15 @@
     "t": "p",
     "h": "Lakovanou dřevěnou podlahu pravidelně zbavujte prachu a písku, které mohou působit jako brusivo. Pro její běžné čištění je vhodný Bona Čistič na parkety.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://bona-cistic-parkety",
+    "alt": "Bona Čistič na dřevěné podlahy (parkety)",
+    "w": 360,
+    "h": 270,
+    "align": "right",
+    "big": false
    },
    {
     "t": "p",
@@ -33881,6 +33899,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://bona-cistic-tvrde-podlahy",
+    "alt": "Bona Čistič na tvrdé podlahy pro vinyl",
+    "w": 360,
+    "h": 270,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "p",
     "h": "Nejprve podlahu vysajte nebo zameťte. Čistič použijte podle návodu a povrch setřete mopem nebo utěrkou z mikrovlákna. Zaschlé nebo lepkavé skvrny odstraňte co nejdříve, aby se nečistoty zbytečně neroznášely po podlaze.",
     "center": false
@@ -33897,6 +33924,15 @@
     "center": false
    },
    {
+    "t": "img",
+    "src": "client://bona-cistic-laminat",
+    "alt": "Bona Čistič na tvrdé podlahy pro laminát a dlaždice",
+    "w": 360,
+    "h": 360,
+    "align": "right",
+    "big": false
+   },
+   {
     "t": "p",
     "h": "Laminát nepřemáčejte. Voda, která zůstane na povrchu nebo pronikne do spár, mu může uškodit. Při běžném úklidu obvykle stačí malé množství čističe použité podle pokynů výrobce.",
     "center": false
@@ -33911,6 +33947,15 @@
     "t": "p",
     "h": "Bona Spray Mop umožňuje nanášet čisticí prostředek přímo před mop. Díky tomu máte množství použité tekutiny pod kontrolou a nemusíte při běžném vytírání připravovat kbelík s vodou.",
     "center": false
+   },
+   {
+    "t": "img",
+    "src": "client://bona-spray-mop",
+    "alt": "Bona Spray Mop",
+    "w": 360,
+    "h": 360,
+    "align": "right",
+    "big": false
    },
    {
     "t": "p",
@@ -36101,6 +36146,42 @@
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevěné podlahy – podlaha z opravdového dřeva na desítky let",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevěná podlaha není nejlevnější podlaha, kterou si můžete domů pořídit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A vlastně ani nemá být.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je určená pro zákazníka, který nehledá podlahu pouze na několik let, ale chce skutečné dřevo s dlouhou životností, možností budoucí renovace a vzhledem, který žádná vytištěná imitace nedokáže přesně zopakovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlahy se vyrábějí z jednoho kusu dřeva. Pod povrchem tedy není HDF deska ani jiný nosný materiál. Dřevo pokračuje do celé konstrukční tloušťky podlahového prvku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto se na masivní podlahu díváme trochu jinak než na běžnou podlahovou krytinu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není to jen povrch, po kterém chodíme. Při správném provedení se může stát trvalou součástí domu nebo bytu.",
+    "center": false
+   },
+   {
     "t": "cards",
     "items": [
      {
@@ -36122,6 +36203,897 @@
       "img": "client://mozaika-schodiste"
      }
     ]
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Co je masivní dřevěná podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Princip je jednoduchý.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jednotlivé podlahové prvky jsou vyrobené z masivního dřeva, nikoliv z několika konstrukčních vrstev.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Mohou mít podobu malých klasických parket, dlouhých dřevěných prken nebo drobných lamel průmyslové mozaiky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Formátem a vzhledem se od sebe výrazně liší, ale jedno mají společné:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Je to skutečné dřevo v celé tloušťce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To je také jeden z hlavních rozdílů mezi masivní a vícevrstvou dřevěnou podlahou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vícevrstvá podlaha je rovněž skutečná dřevěná podlaha, ale její jednotlivé vrstvy mají rozdílnou funkci. U masivu tvoří samotný podlahový prvek jeden kus dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani jedno řešení není automaticky lepší.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každé má svoje výhody a vhodné použití.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Proč si v době vinylů a moderních podlah stále vybrat masiv?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dnešní vinylové, SPC, laminátové i vícevrstvé dřevěné podlahy jsou technicky velmi daleko.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Přesto existuje něco, co vyrobit neumíme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Druhý naprosto stejný kus dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každé masivní prkno nebo parketa má vlastní kresbu, odstín a přirozené znaky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Suky nejsou vytištěné.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Struktura se neopakuje podle tiskového válce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A odstíny jednotlivých kusů se mohou přirozeně lišit.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Právě proto bude mít skutečná dřevěná podlaha vždy trochu jiný charakter než materiál, který dřevo pouze napodobuje.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo není potištěný dekor.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A podle nás je to jeden z hlavních důvodů, proč mají masivní dřevěné podlahy svoje místo i v moderních interiérech.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní podlaha nemusí být jen klasická parketa",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pod označením masivní dřevěné podlahy se skrývá několik velmi rozdílných možností.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevěné masivní parkety",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Klasické parkety jsou podlahou, kterou známe z historických bytů, vil i reprezentativních prostor. Dnes se znovu používají také v moderních interiérech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Umožňují vytvářet rybí kost a další tradiční vzory a při správné realizaci mají mimořádný potenciál dlouhé životnosti.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Více o formátech, způsobech pokládky a možnostech provedení najdete na stránce <a href=\"@/drevene-podlahy-a-parkety/masivni-drevene-parkety/\">Dřevěné masivní parkety</a>.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Dřevěná masivní prkna",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní prkna dávají větší prostor přirozené kresbě dřeva a dokážou vytvořit úplně jiný charakter interiéru než klasická parketa.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volit lze různé rozměry, třídění a způsoby povrchového zpracování.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podrobnosti najdete na stránce <a href=\"@/drevene-podlahy-a-parkety/masivni-drevena-prkna/\">Dřevěná masivní prkna</a>.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Průmyslová mozaika – kantovka",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Průmyslová mozaika je tvořena množstvím drobných masivních lamel. Původně byla využívána především v zatěžovaných prostorách, dnes ale nachází svoje místo také v bytech, rodinných domech a moderních komerčních interiérech.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Více najdete na stránce <a href=\"@/drevene-podlahy-a-parkety/masivni-drevene-podlahy-prumyslove-mozaiky/\">Průmyslové mozaiky – kantovka</a>.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevo není pouze dub",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "S masivními podlahami si většina lidí automaticky spojí dub.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A není divu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dub patří mezi nejoblíbenější dřeviny pro výrobu podlah, protože nabízí velmi pěknou kombinaci vzhledu, tvrdosti, možností zpracování a dlouhodobého používání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlahy ale mohou být vyrobeny i z dalších vhodných dřevin.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Každá má jinou kresbu, odstín, tvrdost i rozměrové chování.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevinu proto nevybíráme pouze podle barvy na vzorku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Zajímá nás také velikost jednotlivých prvků, konstrukce podlahy, způsob montáže, zatížení místnosti a podmínky, ve kterých bude dřevo používáno.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Třídění dřeva výrazně mění vzhled podlahy",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dvě dubové podlahy mohou mít stejnou povrchovou úpravu a přesto vypadat úplně jinak.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Důvodem je třídění dřeva.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jedno může působit klidně a pravidelně, jiné bude mít výraznější suky, barevné rozdíly, bělové dřevo nebo další přirozené znaky.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neznamená to automaticky lepší nebo horší dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Znamená to jiný charakter.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se při výběru neptáme pouze:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "„Jakou chcete barvu?“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně důležité je:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "„Jak živou podlahu chcete mít?“",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Malý vzorek neukáže celou dřevěnou podlahu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tohle zákazníkům vysvětlujeme poměrně často.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Malý vzorek dřeva je důležitý, ale nikdy přesně neukáže, jak bude vypadat celá místnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo má přirozenou variabilitu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto se při pokládce jednotlivé kusy neskládají bezmyšlenkovitě jeden za druhým. Podlahář musí pracovat s kresbou, odstíny a formáty tak, aby výsledná plocha působila přirozeně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlaha se nepokládá pouze technicky. Podlaha se také skládá pohledem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě zkušenost podlaháře může mít na výsledný vzhled velký vliv.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Povrch dřeva dokáže změnit celý interiér",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejná dřevina nemusí znamenat stejnou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Výsledný vzhled ovlivňuje způsob opracování a povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo může být například hladce broušené nebo kartáčované. Pomocí vhodných profesionálních systémů lze pracovat také s jeho výsledným odstínem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Povrch lze podle konkrétní podlahy a požadovaného výsledku dokončit olejem, tvrdým voskovým olejem nebo lakovacím systémem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neexistuje jeden povrch, který by byl nejlepší pro každého.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Volíme jej podle charakteru dřeva, vzhledu, zatížení prostoru a toho, jakým způsobem chce zákazník o podlahu v budoucnu pečovat.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Olejovaná, nebo lakovaná masivní podlaha?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Obě varianty mají svoje místo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Olejované a tvrdým voskovým olejem ošetřené povrchy dokážou velmi pěkně zvýraznit přirozenou strukturu dřeva. Podle použitého systému umožňují také průběžnou údržbu a v některých případech lokální opravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Lak vytváří na povrchu ochrannou vrstvu a nabízí jiný způsob následné péče.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Moderní lakovaná podlaha přitom nemusí být lesklá. Velmi pěkně mohou vypadat také matné a ultramatné povrchy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto zákazníkovi automaticky neříkáme:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "„Vezměte olej.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "nebo:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "„Lak je lepší.“",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve potřebujeme vědět, kde podlaha bude a co od ní očekáváte.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní podlaha stárne. A to nemusí být špatně.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevo se používáním mění.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Působí na něj denní světlo, vzduch, chůze, nábytek a každodenní život.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Postupně může změnit odstín a časem se objeví drobné škrábance nebo jiné známky používání.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To ale nemusí být vada.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U skutečného dřeva tomu říkáme také patina.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozdíl je v tom, že u masivní podlahy nemusí opotřebený povrch znamenat konec celé podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě tady se dostáváme k jedné z jejích největších výhod.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevěnou podlahu lze renovovat",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konstrukce, tloušťky, stavu a předchozích zásahů lze masivní podlahu v budoucnu renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může jít o údržbu povrchu, lokální opravy nebo rozsáhlejší renovaci zahrnující broušení a vytvoření nové povrchové úpravy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu nemusíme kvalitní dřevo při prvním větším opotřebení automaticky vytrhat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Můžeme pracovat s materiálem, který už v domě máme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podrobný postup renovace, broušení, tmelení a nové povrchové úpravy řešíme samostatně v sekci <a href=\"@/rekonstrukce-a-renovace-podlah/\">Renovace podlah</a>.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Proto se na cenu masivní podlahy díváme trochu jinak",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevěná podlaha může mít vyšší pořizovací cenu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "To nechceme nijak schovávat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Do výsledné ceny navíc nevstupuje pouze samotné dřevo. Je potřeba počítat také s přípravou podkladu, kvalitními montážními materiály, odbornou pokládkou a podle konkrétního provedení také s finálním zpracováním povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jenže při porovnávání podlah podle ceny za metr čtvereční se často zapomíná na jednu věc:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "životnost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud jednu podlahu při opotřebení odstraníme a koupíme novou, zatímco kvalitní masivní dřevo dokážeme renovovat a používat dál, nedává smysl porovnávat pouze jejich pořizovací ceny.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Neznamená to, že masiv bude vždy ekonomicky nejlevnější řešení.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Znamená to, že jeho cenu je fér posuzovat společně s tím, jak dlouho může sloužit.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Podlaha na jednu rekonstrukci, nebo na celý dům?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při rekonstrukci měníme spoustu věcí.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Nábytek.",
+     "Kuchyň.",
+     "Barvy stěn.",
+     "Svítidla.",
+     "Za několik let možná celý styl interiéru."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Kvalitní masivní podlaha ale může zůstat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Po letech ji můžeme podle jejího stavu renovovat a v některých případech změnit i charakter jejího povrchu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A právě proto máme masivní dřevo rádi.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nemusí být součástí pouze jedné rekonstrukce. Může být součástí samotného domu.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní podlaha ale potřebuje správný podklad",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani nejlepší dub nedokáže zachránit špatně připravený podklad.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před pokládkou proto kontrolujeme podle konkrétní realizace jeho rovinnost, pevnost, soudržnost, stabilitu a zbytkovou vlhkost.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud najdeme problém, řešíme jej před montáží podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podklad může být potřeba zbrousit, lokálně opravit, zpevnit nebo vyrovnat vhodným systémem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Technologii přípravy problematických podkladů rozebíráme na <a href=\"@/samonivelacni-sterka/\">samostatné stránce</a>. Tady je důležité hlavně jedno:",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Čím kvalitnější a dražší podlahu pokládáme, tím menší smysl dává šetřit právě na tom, co zůstane schované pod ní.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Celoplošné lepení masivních dřevěných podlah",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U velké části masivních dřevěných podlah pracujeme s celoplošným lepením k připravenému podkladu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Konkrétní technologii ale vždy volíme podle typu podlahy, rozměrů jednotlivých prvků, dřeviny, podkladu a doporučení výrobce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správné lepidlo je pouze jedna část celého systému.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejně důležitý je stav podkladu, jeho vlhkost, klimatické podmínky během montáže a dodržení potřebných dilatací.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "U masivního dřeva mají tyto věci velký význam.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dřevo pracuje – protože je to dřevo",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevěná podlaha reaguje na prostředí, ve kterém se nachází.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při velmi suchém vzduchu dřevo odevzdává vlhkost a může sesychat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Při vysoké relativní vlhkosti naopak vlhkost přijímá a zvětšuje svůj objem.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto mohou být během roku patrné drobné změny a například v topné sezoně se mohou mezi jednotlivými prvky objevit spáry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není správné zákazníkovi tvrdit, že kvalitní masivní podlaha „nepracuje“.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pracuje každé skutečné dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Naším úkolem je zvolit správný materiál, technologii pokládky a zákazníkovi vysvětlit, jaké podmínky dřevěné podlaze prospívají.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevěná podlaha a podlahové topení",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ani tady neexistuje jedna univerzální odpověď.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možnost použití masivního dřeva na podlahovém vytápění závisí na konkrétní dřevině, tloušťce, rozměrech prvků, tepelném odporu, způsobu pokládky, konstrukci vytápění a doporučení výrobce dané podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Jinak se bude chovat malá masivní parketa a jinak široké masivní prkno.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Proto podlahu pro vytápěný podklad neposuzujeme pouze podle vzhledu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud konkrétní masivní podlaha není pro danou skladbu vhodná, doporučíme jiné řešení – například kvalitní vícevrstvou dřevěnou podlahu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masiv neprodáváme za každou cenu. Důležitější je, aby podlaha dlouhodobě fungovala.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Je masivní dřevěná podlaha vhodná pro každého?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Není.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A je lepší to říct rovnou.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pokud požadujete dokonale jednotnou kresbu, naprosto stejný odstín každého kusu a materiál, který nebude reagovat na změny prostředí, masivní dřevo pravděpodobně nebude nejlepší volba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlahu ocení zákazník, který má rád přírodní materiál a přijme jeho přirozené vlastnosti.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Suky.",
+     "Rozdílnou kresbu.",
+     "Barevné odchylky.",
+     "Postupné stárnutí.",
+     "A také skutečnost, že se o kvalitní dřevěnou podlahu musíme správně starat."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Odměnou je materiál, který může s interiérem stárnout místo toho, aby se po několika letech jednoduše vyměnil.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevo není jen do starého bytu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní podlahy bývají často spojovány se starými pražskými byty a klasickými interiéry.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Ale to je pouze jedna jejich podoba.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Stejné dřevo může fungovat i v moderním rodinném domě, minimalistickém bytě, loftu, kanceláři nebo reprezentativním komerčním prostoru.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Rozhoduje formát, třídění, způsob pokládky a povrchová úprava.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní dřevo samo o sobě není moderní ani staromódní.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "O výsledku rozhoduje způsob, jakým s ním pracujeme.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jakou masivní dřevěnou podlahu vybrat?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejdříve bychom se vůbec nerozhodovali podle odstínu.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Začali bychom otázkami:",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Kam podlaha přijde?",
+     "Jaký je podklad?",
+     "Je v objektu podlahové vytápění?",
+     "Jak velká je místnost?",
+     "Jak bude prostor zatěžovaný?",
+     "Chcete klidnou, nebo výraznou kresbu?",
+     "Preferujete klasickou parketu, dlouhé prkno, nebo drobnou mozaiku?",
+     "Chcete hladký, nebo strukturovanější povrch?",
+     "A jakým způsobem jste ochotni o podlahu pečovat?"
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Teprve potom má smysl vybírat konkrétní dřevo a jeho odstín.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Správná masivní podlaha totiž není ta nejdražší ani ta nejhezčí na malém vzorku. Je to ta, která dává smysl v konkrétním interiéru.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní dřevěné podlahy v Praze – Podlahy Šťastný",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Dřevěným podlahám se věnujeme od roku 2003.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nejsme pouze prodejci podlah. Masivní dřevo sami pokládáme, brousíme, povrchově upravujeme a také renovujeme.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Díky tomu dokážeme řešit celý proces od výběru vhodného materiálu až po poslední detail hotové podlahy.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Pomůžeme s výběrem vhodného typu masivní podlahy, posoudíme stávající podklad, navrhneme správný způsob realizace a zajistíme odbornou pokládku.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podle konkrétní zakázky řešíme také přípravu a vyrovnání podkladu, celoplošné lepení, broušení, tmelení, kartáčování, olejování, lakování, barevné úpravy, soklové lišty, přechody a další dokončovací detaily.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Realizace provádíme vlastními zaměstnanci, bez předávání zakázek externím podlahářským partám.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vzorky masivních dřevěných podlah si můžete prohlédnout v našem studiu Podlahy Šťastný v Praze 2 – Vinohrady.",
+    "center": false
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Masivní podlaha není nejlevnější. Ale může být na pořád.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Možná právě takhle bychom masivní dřevěnou podlahu popsali nejjednodušeji.",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Není pro každého.",
+     "Není bezúdržbová.",
+     "A není nejlevnější."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Je ale vyrobena z materiálu, který lidé používají na podlahy stovky let a který lze při správném provedení po mnoha letech znovu renovovat.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Masivní parkety, masivní prkna i průmyslová mozaika vypadají úplně jinak. Spojuje je ale jedna zásadní věc – pod nohama máte skutečné dřevo.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "A pokud je dobře vybrané, správně položené a rozumně udržované, nemusí být masivní dřevěná podlaha investicí do další rekonstrukce.",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Může být investicí do podlahy, která už v domě zůstane.",
+    "center": false
    }
   ]
  },
