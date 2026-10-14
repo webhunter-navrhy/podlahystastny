@@ -100,7 +100,7 @@ def excerpt(p, n=150):
 
 env = Environment(loader=FileSystemLoader(os.path.join(ROOT, 'src')), autoescape=True, trim_blocks=True, lstrip_blocks=True)
 LD = json.dumps({"@context": "https://schema.org", "@type": "HomeAndConstructionBusiness", "name": S['name'], "url": DOMAIN + '/',
-    "telephone": S['phone'], "email": S['email'], "image": DOMAIN + '/wp-content/uploads/2021/01/IMG_6395.jpg',
+    "telephone": S['phone'], "email": S['email'], "image": DOMAIN + '/img/wp/img_6395-d573a1.webp',
     "address": {"@type": "PostalAddress", "streetAddress": S['address'], "addressLocality": "Praha 2 – Vinohrady", "postalCode": S['zip'], "addressCountry": "CZ"},
     "openingHours": ["Mo-Th 09:00-17:00"], "areaServed": "Praha a okolí"}, ensure_ascii=False)
 
@@ -112,7 +112,7 @@ def write(path, html_):
 # homepage
 R = ''; L = make_L(R)
 write('/', env.get_template('home.html').render(S=S, H=H, R=R, L=L, IM=IM, V=V, title=H['seo_title'], description=H['description'],
-      og=DOMAIN + '/wp-content/uploads/2025/02/image51.jpeg', ld=LD, announce=H['announce'], body_class='home', active='/'))
+      og=DOMAIN + '/img/wp/image51-d7b8ee.webp', ld=LD, announce=H['announce'], body_class='home', active='/'))
 
 # subpages
 tpl = env.get_template('page.html')
@@ -169,7 +169,7 @@ for p in PAGES:
     P = dict(p, blocks=blocks, reviews=reviews, jump=jump, lead=lead, cover=cover, crumbs=[{'path': c['path'], 'title': c['title']} for c in crumbs], section=section, children=children, empty_note=empty_note)
     nav_active = next((n['h'] for n in S['nav'] if n['h'] != '/' and p['path'].startswith(n['h'])), '')
     write(p['path'], tpl.render(S=S, P=P, R=R, L=L, IM=IM, V=V, title=p['seo_title'] or p['title'], description=desc,
-          og=p.get('og_image') or '', ld=LD, announce=H['announce'], body_class='sub', active=nav_active))
+          og=(DOMAIN + '/img/wp/' + IMAP[p['og_image']]['f']) if p.get('og_image') in IMAP else '', ld=LD, announce=H['announce'], body_class='sub', active=nav_active))
 
 # 404
 R = '/podlahystastny/'; L = make_L(R)
