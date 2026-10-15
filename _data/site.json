@@ -98,7 +98,7 @@
     },
     {
      "t": "Masivní dřevěné podlahy",
-     "h": "/drevene-podlahy-a-parkety/masivni-drevene-podlahy/"
+     "h": "/drevene-podlahy-a-parkety/"
     },
     {
      "t": "Průmyslové mozaiky",
@@ -200,6 +200,8 @@
   "/podlahy-vinylove/vinylove-podlahy-lepene/tarkett-vinylove-dilce/": "/podlahy-vinylove/vinylove-podlahy-lepene/",
   "/podlahy-vinylove/vinylove-podlahy-lepene/vinylove-lepene-podlahy-amtico-first/": "/podlahy-vinylove/vinylove-podlahy-lepene/",
   "/barlinek-parkety/": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/stromecek-chevron/",
-  "/drevene-trivrstve-podlahy-menu/stastny-wood/": "/drevene-trivrstve-podlahy-esco/"
+  "/drevene-trivrstve-podlahy-menu/stastny-wood/": "/drevene-trivrstve-podlahy-esco/",
+  "/masivni-drevene-podlahy/": "/drevene-podlahy-a-parkety/",
+  "/drevene-podlahy-a-parkety/masivni-drevene-podlahy/": "/drevene-podlahy-a-parkety/"
  }
 }
