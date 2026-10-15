@@ -9,7 +9,9 @@
     try {
       const files = $('input[type=file]', f).files; let big = 0; for (const x of files) big += x.size;
       if (big > 4.5 * 1024 * 1024) throw new Error('size');
-      const r = await fetch(atob(f.dataset.e), { method: 'POST', body: new FormData(f), headers: { Accept: 'application/json' } });
+      const fd = new FormData(f); // předmět e-mailu s jménem a adresou odesílatele
+      fd.set('_subject', 'Poptávka: ' + (fd.get('jmeno') || '').toString().trim().slice(0, 60) + ' <' + (fd.get('email') || '').toString().trim().slice(0, 80) + '>');
+      const r = await fetch(atob(f.dataset.e), { method: 'POST', body: fd, headers: { Accept: 'application/json' } });
       const d = await r.json();
       if (!r.ok || String(d.success) !== 'true') throw new Error('fail');
       f.classList.add('is-sent');
