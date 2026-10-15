@@ -10349,7 +10349,7 @@
    },
    {
     "t": "p",
-    "h": "SPC vinyl (Stone Polymer Composite) je typ vícevrstvé podlahy, který má <strong>tvrdé jádro z minerálního kompozitu</strong>. Podle odborných zdrojů je SPC jádro tvořeno směsí jemně mletého vápence (limestone), polyvinylchloridu a stabilizátorů:contentReference[oaicite:0]{index=0}. Toto složení zajišťuje vysokou hustotu, pevnost a stabilitu, která je výrazně vyšší než u běžných vinylových podlah. Standardní struktura SPC dílce obsahuje několik vrstev: ochranný UV nátěr, nášlapnou vrstvu, designovou vinylovou vrstvu, SPC jádro a integrovanou podložku:contentReference[oaicite:1]{index=1}.",
+    "h": "SPC vinyl (Stone Polymer Composite) je typ vícevrstvé podlahy, který má <strong>tvrdé jádro z minerálního kompozitu</strong>. Podle odborných zdrojů je SPC jádro tvořeno směsí jemně mletého vápence (limestone), polyvinylchloridu a stabilizátorů. Toto složení zajišťuje vysokou hustotu, pevnost a stabilitu, která je výrazně vyšší než u běžných vinylových podlah. Standardní struktura SPC dílce obsahuje několik vrstev: ochranný UV nátěr, nášlapnou vrstvu, designovou vinylovou vrstvu, SPC jádro a integrovanou podložku.",
     "center": false
    },
    {
@@ -10436,7 +10436,7 @@
      ],
      [
       "<strong>Odolnost</strong>",
-      "Vysoká pevnost díky minerálnímu jádru:contentReference[oaicite:9]{index=9}",
+      "Vysoká pevnost díky minerálnímu jádru",
       "Pružnější, náchylnější k otlakům a prohýbání"
      ],
      [
@@ -10446,7 +10446,7 @@
      ],
      [
       "<strong>Pokládka</strong>",
-      "Click systém – snadná plovoucí montáž:contentReference[oaicite:11]{index=11}",
+      "Click systém – snadná plovoucí montáž",
       "Click nebo lepení"
      ],
      [
@@ -33762,7 +33762,7 @@
   "path": "/schodiste/",
   "title": "Schodiště",
   "seo_title": "Schodiště - Podlahy Šťastný",
-  "description": "Schodiště Schodiště představuje v obytném interiéru velemi důležitý komponent pro útulný a pohodlný domov. Každé schodiště má nejen technickou úlohu, jako spojovací prvek různých úrovní bytu, ale také estetickou funkci. Je tedy velmi důležité právě z estetického hlediska sladění obložení schodiště s podlahou a celým interiérem. Také obložení schodiště je možné provést ve stejném materiálu,",
+  "description": "Schodiště Schodiště představuje v obytném interiéru velmi důležitý komponent pro útulný a pohodlný domov. Každé schodiště má nejen technickou úlohu, jako spojovací prvek různých úrovní bytu, ale také estetickou funkci. Je tedy velmi důležité právě z estetického hlediska sladění obložení schodiště s podlahou a celým interiérem. Také obložení schodiště je možné provést ve stejném materiálu,",
   "og_image": "https://www.podlahystastny.cz/wp-content/uploads/2020/04/Podlahy_logo-2014_09_09-19_56_57-UTC-2.png",
   "blocks": [
    {
@@ -33781,7 +33781,7 @@
    },
    {
     "t": "p",
-    "h": "Schodiště představuje v obytném interiéru velemi důležitý komponent pro útulný a pohodlný domov. Každé schodiště má nejen technickou úlohu, jako spojovací prvek různých úrovní bytu, ale také estetickou funkci. Je tedy velmi důležité právě z estetického hlediska sladění obložení schodiště s podlahou a celým interiérem.",
+    "h": "Schodiště představuje v obytném interiéru velmi důležitý komponent pro útulný a pohodlný domov. Každé schodiště má nejen technickou úlohu, jako spojovací prvek různých úrovní bytu, ale také estetickou funkci. Je tedy velmi důležité právě z estetického hlediska sladění obložení schodiště s podlahou a celým interiérem.",
     "center": false
    },
    {
