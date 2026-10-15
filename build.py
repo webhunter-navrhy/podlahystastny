@@ -111,14 +111,14 @@ def seo_head(html_, path):
     # canonical na ostrou doménu vždy; index/noindex podle LIVE (návrh na github.io zůstává noindex)
     if 'rel="canonical"' not in html_ and path != '/404/':
         html_ = html_.replace('</head>', '<link rel="canonical" href="%s">\n</head>' % (DOMAIN + path), 1)
-    if LIVE and path != '/404/':
+    if LIVE and path not in ('/404/', '/odeslano/'):
         html_ = html_.replace('<meta name="robots" content="noindex, nofollow">\n', '', 1).replace('<meta name="robots" content="noindex, nofollow">', '', 1)
     return html_
 
 def write(path, html_):
     if not html_.startswith('<!doctype html><meta'):
         html_ = seo_head(html_, path)
-        if path != '/404/': SITEMAP.append(path)
+        if path not in ('/404/', '/odeslano/'): SITEMAP.append(path)
     fp = os.path.join(OUT, path.strip('/'), 'index.html') if path.strip('/') else os.path.join(OUT, 'index.html')
     os.makedirs(os.path.dirname(fp), exist_ok=True)
     open(fp, 'w', encoding='utf-8').write(html_)

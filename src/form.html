@@ -1,8 +1,13 @@
-<form class="form" onsubmit="event.preventDefault();this.classList.add('is-sent')">
+<form class="form" method="post" enctype="multipart/form-data" action="https://formsubmit.co/fc45c54ddaa29b20effed21bc507dedc" data-ajax="https://formsubmit.co/ajax/fc45c54ddaa29b20effed21bc507dedc" data-thanks="/odeslano/">
+  <input type="hidden" name="_subject" value="Nová poptávka z webu podlahystastny.cz">
+  <input type="hidden" name="_cc" value="info@podlahystastny.cz">
+  <input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="false">
+  <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
   <div class="form__row"><label>Vaše jméno<input name="jmeno" required autocomplete="name"></label><label>Váš e-mail<input name="email" type="email" required autocomplete="email"></label></div>
   <div class="form__row"><label>Váš telefon<input name="telefon" type="tel" autocomplete="tel"></label><label>Typ podlahy<select name="typ"><option>Vinylová / SPC</option><option>Dřevěná třívrstvá</option><option>Masivní dřevo / parkety</option><option>Laminátová</option><option>Korková</option><option>Renovace parket</option><option>Ještě nevím</option></select></label></div>
   <label>Vaše zpráva<textarea name="zprava" rows="5" placeholder="Velikost prostoru (m²), stav podkladu, termín…"></textarea></label>
-  <label class="form__file">Fotografie prostoru (nepovinné)<input type="file" accept="image/*" multiple></label>
+  <label class="form__file">Fotografie prostoru (nepovinné)<input type="file" name="fotografie" accept="image/*" multiple></label>
   <button class="btn btn--red" type="submit">Odeslat poptávku <span class="arr">→</span></button>
-  <p class="form__ok">Děkujeme, poptávka je odeslána. Ozveme se Vám co nejdříve. <em>(Ukázka v návrhu – formulář se napojí při spuštění webu.)</em></p>
+  <p class="form__ok">Děkujeme, poptávka je odeslána. Ozveme se Vám co nejdříve.</p>
+  <p class="form__err" hidden>Poptávku se nepodařilo odeslat. Zkuste to prosím znovu, nebo nám napište na info@podlahystastny.cz.</p>
 </form>

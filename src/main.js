@@ -1,5 +1,22 @@
 (() => {
   const $ = (s, c = document) => c.querySelector(s), $$ = (s, c = document) => [...c.querySelectorAll(s)];
+  // poptávkové formuláře: skutečné odeslání, potvrzení až po přijetí
+  $$('form.form[data-ajax]').forEach(f => f.addEventListener('submit', async e => {
+    e.preventDefault();
+    const btn = $('button[type=submit]', f), err = $('.form__err', f); err.hidden = true; btn.disabled = true;
+    try {
+      const files = $('input[type=file]', f).files; let big = 0; for (const x of files) big += x.size;
+      if (big > 4.5 * 1024 * 1024) throw new Error('size');
+      const r = await fetch(f.dataset.ajax, { method: 'POST', body: new FormData(f), headers: { Accept: 'application/json' } });
+      const d = await r.json();
+      if (!r.ok || String(d.success) !== 'true') throw new Error('fail');
+      f.classList.add('is-sent');
+      if (f.dataset.thanks) location.href = f.dataset.thanks;
+    } catch (x) {
+      err.textContent = x.message === 'size' ? 'Fotografie jsou dohromady větší než 4,5 MB. Zmenšete je prosím, nebo je pošlete e-mailem na info@podlahystastny.cz.' : err.textContent;
+      err.hidden = false; btn.disabled = false;
+    }
+  }));
   // header
   const hdr = $('#hdr');
   const onScroll = () => hdr && hdr.classList.toggle('is-scrolled', scrollY > 10);

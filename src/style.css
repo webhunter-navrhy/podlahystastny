@@ -609,3 +609,4 @@ a:hover .arr{transform:translateX(5px)}
   .burger[aria-expanded=true] span:first-child{top:19px}.burger[aria-expanded=true] span:last-child{top:19px}
   .burger[aria-expanded=true]::after{content:"Zavřít"}
 }
+.form__err{margin:.8rem 0 0;color:#C40000!important;font-weight:500}
