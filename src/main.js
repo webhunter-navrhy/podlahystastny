@@ -8,16 +8,16 @@
     const btn = $('button[type=submit]', f), err = $('.form__err', f); err.hidden = true; btn.disabled = true;
     try {
       const files = $('input[type=file]', f).files; let big = 0; for (const x of files) big += x.size;
-      if (big > 4.5 * 1024 * 1024) throw new Error('size');
-      const fd = new FormData(f); // předmět e-mailu s jménem a adresou odesílatele
-      fd.set('_subject', 'Poptávka: ' + (fd.get('jmeno') || '').toString().trim().slice(0, 60) + ' <' + (fd.get('email') || '').toString().trim().slice(0, 80) + '>');
-      const r = await fetch(atob(f.dataset.e), { method: 'POST', body: fd, headers: { Accept: 'application/json' } });
-      const d = await r.json();
-      if (!r.ok || String(d.success) !== 'true') throw new Error('fail');
-      f.classList.add('is-sent');
-      if (f.dataset.thanks) location.href = f.dataset.thanks;
+      if (big > 9 * 1024 * 1024) throw new Error('size');
+      // přílohy FormSubmit přes AJAX zahazuje, proto běžné odeslání formuláře (multipart) s přesměrováním na poděkování
+      f.action = atob(f.dataset.e);
+      let nx = f.querySelector('input[name=_next]'); if (!nx) { nx = document.createElement('input'); nx.type = 'hidden'; nx.name = '_next'; f.appendChild(nx); }
+      nx.value = location.origin + (f.dataset.thanks || '/odeslano/');
+      let sj = f.querySelector('input[name=_subject]'); // předmět e-mailu s jménem a adresou odesílatele
+      sj.value = 'Poptávka: ' + (f.jmeno.value || '').trim().slice(0, 60) + ' <' + (f.email.value || '').trim().slice(0, 80) + '>';
+      f.submit(); return;
     } catch (x) {
-      err.textContent = x.message === 'size' ? 'Fotografie jsou dohromady větší než 4,5 MB. Zmenšete je prosím, nebo je pošlete e-mailem na info@podlahystastny.cz.' : err.textContent;
+      err.textContent = x.message === 'size' ? 'Fotografie jsou dohromady větší než 9 MB. Zmenšete je prosím, nebo je pošlete e-mailem na info@podlahystastny.cz.' : err.textContent;
       err.hidden = false; btn.disabled = false;
     }
   }));
