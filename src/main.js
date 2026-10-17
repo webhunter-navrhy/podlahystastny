@@ -85,3 +85,11 @@
     addEventListener('keydown', e => { if (lb.hidden) return; if (e.key === 'Escape') close(); if (e.key === 'ArrowRight') open(k + 1); if (e.key === 'ArrowLeft') open(k - 1); });
   }
 })();
+
+// Tlačítko Zpět nahoru (17. 10. 2026)
+(function () {
+  const b = document.querySelector('.totop'); if (!b) return;
+  const upd = () => { b.hidden = window.scrollY < 600; };
+  addEventListener('scroll', upd, { passive: true }); upd();
+  b.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+})();
