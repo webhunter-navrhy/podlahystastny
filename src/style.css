@@ -610,3 +610,11 @@ a:hover .arr{transform:translateX(5px)}
   .burger[aria-expanded=true]::after{content:"Zavřít"}
 }
 .form__err{margin:.8rem 0 0;color:#C40000!important;font-weight:500}
+
+/* cookie lišta */
+.cookie{position:fixed;left:1rem;right:1rem;bottom:1rem;z-index:90;max-width:44rem;margin-inline:auto;display:flex;gap:1rem 1.5rem;align-items:center;flex-wrap:wrap;justify-content:space-between;background:var(--dark);color:var(--dtext);padding:1rem 1.25rem;border-radius:var(--r);box-shadow:0 8px 30px rgba(0,0,0,.3);font-size:.9rem;line-height:1.5}
+.cookie[hidden]{display:none}
+.cookie p{margin:0;flex:1 1 18rem}
+.cookie__b{display:flex;gap:.6rem}
+.cookie button{font:inherit;font-weight:500;cursor:pointer;padding:.55rem 1.1rem;border-radius:var(--r);border:1px solid var(--red);background:var(--red);color:#fff}
+.cookie button.cookie__ne{background:transparent;border-color:var(--dline);color:var(--dtext)}

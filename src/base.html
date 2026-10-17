@@ -17,9 +17,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ R }}assets/style.css?v={{ V.css }}">
 <script type="application/ld+json">{{ ld | safe }}</script>
-{% if live %}<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SZ4N7JX24R"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-SZ4N7JX24R');</script>{% endif %}
+{% if live %}<!-- Google Analytics se načte až po souhlasu z cookie lišty -->
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+function swGA(){if(window.swGAOn)return;window.swGAOn=1;gtag('js',new Date());gtag('config','G-SZ4N7JX24R');var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=G-SZ4N7JX24R';document.head.appendChild(s);}
+try{if(localStorage.getItem('cookie-souhlas')==='ano')swGA();}catch(e){}</script>{% endif %}
 </head>
 <body class="{{ body_class }}">
 <a class="skip" href="#obsah">Přeskočit na obsah</a>
@@ -89,6 +90,14 @@
   </div>
 </footer>
 <div class="lb" id="lb" hidden><button class="lb__x" aria-label="Zavřít">×</button><button class="lb__p" aria-label="Předchozí">‹</button><img alt=""><button class="lb__n" aria-label="Další">›</button><p class="lb__c"></p></div>
+{% if live %}<div class="cookie" id="cookie" role="dialog" aria-label="Souhlas s cookies" hidden>
+  <p>Web používá cookies Google Analytics, které nám pomáhají zjistit, jak je web využíván. Spustíme je jen s Vaším souhlasem.</p>
+  <div class="cookie__b"><button type="button" id="cookie-ano">Souhlasím</button><button type="button" id="cookie-ne" class="cookie__ne">Odmítnout</button></div>
+</div>
+<script>(function(){var b=document.getElementById('cookie'),v;try{v=localStorage.getItem('cookie-souhlas');}catch(e){}
+if(v){return;}b.hidden=false;
+function z(x){try{localStorage.setItem('cookie-souhlas',x);}catch(e){}b.hidden=true;if(x==='ano')swGA();}
+document.getElementById('cookie-ano').onclick=function(){z('ano');};document.getElementById('cookie-ne').onclick=function(){z('ne');};})();</script>{% endif %}
 <script src="{{ R }}assets/main.js?v={{ V.js }}" defer></script>
 </body>
 </html>
