@@ -17,6 +17,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ R }}assets/style.css?v={{ V.css }}">
 <script type="application/ld+json">{{ ld | safe }}</script>
+{% if live %}<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SZ4N7JX24R"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-SZ4N7JX24R');</script>{% endif %}
 </head>
 <body class="{{ body_class }}">
 <a class="skip" href="#obsah">Přeskočit na obsah</a>

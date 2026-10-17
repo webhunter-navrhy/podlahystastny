@@ -106,6 +106,7 @@ LD = json.dumps({"@context": "https://schema.org", "@type": "HomeAndConstruction
 
 LIVE = os.environ.get('LIVE') == '1'   # LIVE=1 python3 build.py = ostré spuštění na vlastní doméně (index, robots.txt, sitemap.xml)
 SITEMAP = []
+env.globals['live'] = LIVE   # GA kód jen na ostré doméně (návrh na github.io nezkresluje statistiky)
 
 def seo_head(html_, path):
     # canonical na ostrou doménu vždy; index/noindex podle LIVE (návrh na github.io zůstává noindex)
