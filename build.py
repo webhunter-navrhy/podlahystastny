@@ -1,3 +1,4 @@
+import re
 #!/usr/bin/env python3
 """Sestaví návrh webu podlahystastny.cz do složky site/ (obsah v _data/*.json)."""
 import json, re, os, shutil, hashlib, html
@@ -114,6 +115,23 @@ def seo_head(html_, path):
         html_ = html_.replace('</head>', '<link rel="canonical" href="%s">\n</head>' % (DOMAIN + path), 1)
     if LIVE and path not in ('/404/', '/odeslano/'):
         html_ = html_.replace('<meta name="robots" content="noindex, nofollow">\n', '', 1).replace('<meta name="robots" content="noindex, nofollow">', '', 1)
+    return seo_dolad(html_, path)
+
+def seo_dolad(html_, path):
+    # SEO dolad (19. 10. 2026): meta description max ~160 znaků (po slově), og:image vždy, prázdné alt obrázků v obsahu = nadpis stránky
+    import html as _h
+    def _kratce(m):
+        t = _h.unescape(m.group(2))
+        if len(t) > 165:
+            t = t[:160].rsplit(' ', 1)[0].rstrip(' ,;:-–') + '…'
+        return m.group(1) + _h.escape(t, quote=True) + '"'
+    html_ = re.sub(r'(<meta (?:name="description"|property="og:description") content=")([^"]*)"', _kratce, html_)
+    if 'property="og:image"' not in html_ and path not in ('/404/', '/odeslano/'):
+        html_ = html_.replace('<meta name="theme-color"', '<meta property="og:image" content="%s/img/wp/image51-d7b8ee.webp">\n<meta name="theme-color"' % DOMAIN, 1)
+    h1 = re.search(r'<h1[^>]*>(.*?)</h1>', html_, re.S)
+    h1 = re.sub(r'<[^>]+>', '', h1.group(1)).strip() if h1 else ''
+    if h1:
+        html_ = re.sub(r'(<img [^>]*?)alt=""', lambda m: m.group(1) + 'alt="%s"' % _h.escape(h1, quote=True) if 'class="logo' not in m.group(1) and 'aria-hidden' not in m.group(1) else m.group(0), html_)
     return html_
 
 def write(path, html_):
