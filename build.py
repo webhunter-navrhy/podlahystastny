@@ -153,8 +153,9 @@ for p in PAGES:
     if p['path'] == '/': continue
     if p['path'] in REMOVED:
         depth = len([x for x in p['path'].split('/') if x]); R = '../' * depth
-        to = R + REMOVED[p['path']].lstrip('/')
-        write(p['path'], '<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex"><title>Přesměrování</title><link rel="canonical" href="%s"><meta http-equiv="refresh" content="0;url=%s"><a href="%s">Pokračovat</a>' % (DOMAIN + REMOVED[p['path']], to, to))
+        ext = REMOVED[p['path']].startswith('http')
+        to = REMOVED[p['path']] if ext else R + REMOVED[p['path']].lstrip('/')
+        write(p['path'], '<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex"><title>Přesměrování</title><link rel="canonical" href="%s"><meta http-equiv="refresh" content="0;url=%s"><a href="%s">Pokračovat</a>' % ((REMOVED[p['path']] if ext else DOMAIN + REMOVED[p['path']]), to, to))
         continue
     depth = len([x for x in p['path'].split('/') if x])
     R = '../' * depth; L = make_L(R)

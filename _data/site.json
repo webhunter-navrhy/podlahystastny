@@ -159,7 +159,7 @@
  "sister": [
   {
    "t": "Interiérové dveře Vasco Doors",
-   "h": "https://www.dvere-vascodoors.cz/"
+   "h": "https://interierove-dvere-praha.cz/"
   },
   {
    "t": "Terasy z dřevoplastu a dřeva",
@@ -202,6 +202,8 @@
   "/barlinek-parkety/": "/drevene-trivrstve-podlahy-menu/drevene-vrstvene-podlahy-barlinek/stromecek-chevron/",
   "/drevene-trivrstve-podlahy-menu/stastny-wood/": "/drevene-trivrstve-podlahy-esco/",
   "/masivni-drevene-podlahy/": "/drevene-podlahy-a-parkety/",
-  "/drevene-podlahy-a-parkety/masivni-drevene-podlahy/": "/drevene-podlahy-a-parkety/"
+  "/drevene-podlahy-a-parkety/masivni-drevene-podlahy/": "/drevene-podlahy-a-parkety/",
+  "/ukazky-nasi-prace/ukazka-korkove-podlahy/ke-stazeni/": "/ukazky-nasi-prace/ukazka-korkove-podlahy/",
+  "/drevene-terasy/": "https://www.terasy-drevoplast.cz/"
  }
 }
