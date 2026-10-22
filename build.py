@@ -144,6 +144,12 @@ def write(path, html_):
 
 # homepage
 R = ''; L = make_L(R)
+def praha(t):
+    # každý titulek obsahuje "Praha" (22. 10. 2026, UID 15211): "X - Podlahy Šťastný" -> "X Praha - Podlahy Šťastný"
+    if 'Praha' in t: return t
+    m = re.match(r'^(.*?)\s*([-–|])\s*Podlahy Šťastný$', t)
+    return (m.group(1) + ' Praha ' + m.group(2) + ' Podlahy Šťastný') if m else t + ' Praha'
+
 write('/', env.get_template('home.html').render(S=S, H=H, R=R, L=L, IM=IM, V=V, title=H['seo_title'], description=H['description'],
       og=DOMAIN + '/img/wp/img_6395-18bfb3.webp', ld=LD, announce=H['announce'], body_class='home', active='/'))
 
@@ -202,7 +208,7 @@ for p in PAGES:
     jump = False  # tlačítko Ukázky na podstránkách zrušeno (10. 10. 2026, přání klienta)
     P = dict(p, blocks=blocks, reviews=reviews, jump=jump, lead=lead, cover=cover, crumbs=[{'path': c['path'], 'title': c['title']} for c in crumbs], section=section, children=children, empty_note=empty_note)
     nav_active = next((n['h'] for n in S['nav'] if n['h'] != '/' and p['path'].startswith(n['h'])), '')
-    write(p['path'], tpl.render(S=S, P=P, R=R, L=L, IM=IM, V=V, title=p['seo_title'] or p['title'], description=desc,
+    write(p['path'], tpl.render(S=S, P=P, R=R, L=L, IM=IM, V=V, title=praha(p['seo_title'] or p['title']), description=desc,
           og=(DOMAIN + '/img/wp/' + IMAP[p['og_image']]['f']) if p.get('og_image') in IMAP else '', ld=LD, announce=H['announce'], body_class='sub', active=nav_active))
 
 # 404

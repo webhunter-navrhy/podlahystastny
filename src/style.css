@@ -404,7 +404,7 @@ a:hover .arr{transform:translateX(5px)}
 .side__nav{display:grid}
 .side__nav a{text-decoration:none;font-size:.88rem;padding:.55rem 0;border-bottom:1px solid var(--line);transition:color .3s,padding .4s var(--ease)}
 .side__nav a:last-child{border:0}
-.side__nav a:hover{color:var(--red);padding-left:.4rem}
+.side__nav a:hover{color:var(--red)}
 .side__nav a.is-on{color:var(--red);font-weight:600}
 .side__cta{background:var(--dark);color:var(--dtext);border-radius:8px;padding:1.6rem;position:relative;overflow:hidden}
 .side__cta .info-k{color:var(--dmuted)}
