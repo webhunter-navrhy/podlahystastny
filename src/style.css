@@ -159,7 +159,7 @@ a:hover .arr{transform:translateX(5px)}
 .cat__p{color:var(--muted);font-size:.93rem}
 .cat__thumb{display:none}
 .cat__go{width:3rem;height:3rem;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center;transition:.5s var(--ease)}
-.cat a:hover{padding-left:1.4rem}
+.cat a:hover{padding-left:0}
 .cat a:hover .cat__go{background:var(--red);border-color:var(--red);color:#fff;transform:rotate(-45deg)}
 .cat a:hover .cat__n{color:var(--red);-webkit-text-stroke-color:var(--red)}
 .cat-preview{position:fixed;left:0;top:0;width:300px;aspect-ratio:4/5;pointer-events:none;z-index:50;border-radius:4px;overflow:hidden;opacity:0;transform:translate(-50%,-50%) scale(.85);transition:opacity .35s var(--ease),transform .5s var(--ease);box-shadow:0 40px 70px -30px rgba(0,0,0,.5)}

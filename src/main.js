@@ -52,8 +52,7 @@
       raf = Math.abs(x - cx) + Math.abs(y - cy) > .5 ? requestAnimationFrame(loop) : 0; };
     $$('.cat').forEach(c => {
       c.addEventListener('mouseenter', e => { img.src = c.dataset.img; pv.classList.add('on'); x = cx = e.clientX + 170; y = cy = e.clientY; });
-      c.addEventListener('mousemove', e => { x = e.clientX + 170; y = e.clientY; if (!raf) raf = requestAnimationFrame(loop); });
-      c.addEventListener('mouseleave', () => pv.classList.remove('on'));
+            c.addEventListener('mouseleave', () => pv.classList.remove('on'));
     });
   }
   // magnetic buttons

@@ -127,7 +127,7 @@ def seo_dolad(html_, path):
         return m.group(1) + _h.escape(t, quote=True) + '"'
     html_ = re.sub(r'(<meta (?:name="description"|property="og:description") content=")([^"]*)"', _kratce, html_)
     if 'property="og:image"' not in html_ and path not in ('/404/', '/odeslano/'):
-        html_ = html_.replace('<meta name="theme-color"', '<meta property="og:image" content="%s/img/wp/image51-d7b8ee.webp">\n<meta name="theme-color"' % DOMAIN, 1)
+        html_ = html_.replace('<meta name="theme-color"', '<meta property="og:image" content="%s/img/wp/img_6395-18bfb3.webp">\n<meta name="theme-color"' % DOMAIN, 1)
     h1 = re.search(r'<h1[^>]*>(.*?)</h1>', html_, re.S)
     h1 = re.sub(r'<[^>]+>', '', h1.group(1)).strip() if h1 else ''
     if h1:
@@ -145,7 +145,7 @@ def write(path, html_):
 # homepage
 R = ''; L = make_L(R)
 write('/', env.get_template('home.html').render(S=S, H=H, R=R, L=L, IM=IM, V=V, title=H['seo_title'], description=H['description'],
-      og=DOMAIN + '/img/wp/image51-d7b8ee.webp', ld=LD, announce=H['announce'], body_class='home', active='/'))
+      og=DOMAIN + '/img/wp/img_6395-18bfb3.webp', ld=LD, announce=H['announce'], body_class='home', active='/'))
 
 # subpages
 tpl = env.get_template('page.html')
