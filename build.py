@@ -153,6 +153,27 @@ def praha(t):
 write('/', env.get_template('home.html').render(S=S, H=H, R=R, L=L, IM=IM, V=V, title=H['seo_title'], description=H['description'],
       og=DOMAIN + '/img/wp/img_6395-18bfb3.webp', ld=LD, announce=H['announce'], body_class='home', active='/'))
 
+# etapa 2 (4. 11. 2026): úpravy členění stránek bez smazání starých textů a bez změny URL
+E2 = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '_data', 'etapa2.json'), encoding='utf-8'))
+def apply_e2(p):
+    o = E2.get(p['path'])
+    if not o: return p
+    old = [dict(b) for b in p['blocks'] if not (o.get('replace') and b['t'] == 'form')]
+    sec = o.get('sections', {})
+    for i, b in enumerate(list(old)):
+        if b['t'] in ('h', 'sub') and b.get('x') in sec:
+            s_ = sec[b['x']]
+            if len(s_) > 2: old[i] = [dict(t='h', l=2, x=s_[0], center=False, anchor=s_[1]), b]
+            else: old[i] = dict(b, x=s_[0], l=2, anchor=s_[1])
+    old = [y for x in old for y in (x if isinstance(x, list) else [x])]
+    if o.get('vytopeni'):
+        k = next((i for i, b in enumerate(old) if b.get('anchor') == 'preklad'), len(old))
+        old[k:k] = o['vytopeni']
+    mid = o.get('mid_after_cards', [])
+    if mid and old and old[0]['t'] == 'cards': old[1:1] = mid; head = old[:1]; old = old[1:]
+    else: head = []
+    return dict(p, blocks=o.get('before', []) + head + old + o.get('after', []), title=o.get('title', p['title']), seo_title=o.get('seo_title', p['seo_title']), description=o.get('description', p['description']))
+
 # subpages
 tpl = env.get_template('page.html')
 for p in PAGES:
@@ -165,7 +186,7 @@ for p in PAGES:
         continue
     depth = len([x for x in p['path'].split('/') if x])
     R = '../' * depth; L = make_L(R)
-    blocks = prep_blocks(p, L)
+    blocks = prep_blocks(apply_e2(p), L)
     lead = None
     if blocks and blocks[0]['t'] == 'p' and 60 < len(plain(blocks[0]['h'])) < 420:
         lead = blocks.pop(0)['h']
@@ -206,6 +227,7 @@ for p in PAGES:
     if section and section['title'] == 'Reference' and reno:
         section['items'].insert(-1 if section['items'][-1]['title'] == 'Ke stažení' else len(section['items']), {'path': '/rekonstrukce-a-renovace-podlah/#ukazky', 'title': 'Renovace parket a dřevěných podlah'})
     jump = False  # tlačítko Ukázky na podstránkách zrušeno (10. 10. 2026, přání klienta)
+    p = apply_e2(p)
     P = dict(p, blocks=blocks, reviews=reviews, jump=jump, lead=lead, cover=cover, crumbs=[{'path': c['path'], 'title': c['title']} for c in crumbs], section=section, children=children, empty_note=empty_note)
     nav_active = next((n['h'] for n in S['nav'] if n['h'] != '/' and p['path'].startswith(n['h'])), '')
     write(p['path'], tpl.render(S=S, P=P, R=R, L=L, IM=IM, V=V, title=praha(p['seo_title'] or p['title']), description=desc,

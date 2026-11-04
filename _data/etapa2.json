@@ -1,0 +1,441 @@
+{
+ "/cenova-kalkulace/": {
+  "title": "Nezávazná poptávka a cenová nabídka podlah",
+  "seo_title": "Nezávazná poptávka a cenová nabídka podlah Praha",
+  "description": "Napište nám, co plánujete, a připravíme nezávaznou nabídku podlahy nebo doporučíme vhodný postup. Můžete přiložit fotografie prostoru.",
+  "replace": true,
+  "before": [
+   {
+    "t": "p",
+    "h": "Plánujete novou podlahu, renovaci parket nebo potřebujete vyřešit problematický podklad? Napište nám základní informace o své zakázce a připravíme vám nezávaznou nabídku nebo doporučíme vhodný postup. Můžete přiložit také fotografie prostoru."
+   },
+   {
+    "t": "form"
+   }
+  ],
+  "after": [
+   {
+    "t": "p",
+    "h": "Raději si podlahy prohlédnete osobně? Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   }
+  ]
+ },
+ "/podlahy-vinylove/": {
+  "title": "Vinylové a SPC podlahy Praha – prodej a pokládka",
+  "seo_title": "Vinylové a SPC podlahy Praha – prodej a pokládka",
+  "description": "Prodej a pokládka vinylových a SPC podlah v Praze: lepený vinyl, rigidní SPC se zámkem i vinyl na HDF nosiči. Studio na Vinohradech.",
+  "before": [
+   {
+    "t": "p",
+    "h": "Vinylové podlahy prodáváme a pokládáme v Praze a okolí. Pomůžeme vám vybrat typ podle prostoru, podkladu i způsobu používání a podlahu odborně položíme. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   }
+  ],
+  "mid_after_cards": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jaké vinylové podlahy nabízíme?",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylové podlahy nejsou všechny stejné. Liší se jádrem, způsobem pokládky i tím, jaký podklad potřebují. Níže najdete tři základní typy, jejich výhody, omezení a to, kde se nejlépe hodí. Konkrétní vlastnosti vždy vycházejí z technických listů výrobce vybrané podlahy."
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Lepené vinylové podlahy",
+    "center": false,
+    "anchor": "vinyl-lepeny"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Výhody: tenká skladba, pevné spojení s podkladem a pocitově „pevný“ krok; vhodné i tam, kde je omezená výška podlahy.",
+     "Omezení: vyžaduje velmi dobře připravený, rovný a suchý podklad, protože se jeho nerovnosti mohou projevit na povrchu.",
+     "Vhodné použití: byty, kanceláře a provozy, kde záleží na malé stavební výšce a precizním podkladu."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Více o <a href=\"@/podlahy-vinylove/vinylove-podlahy-lepene/\">lepených vinylových podlahách</a>."
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Rigidní SPC podlahy se zámkovým spojem",
+    "center": false,
+    "anchor": "vinyl-spc"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Výhody: pevné minerální jádro, rychlá pokládka plovoucím způsobem na zámek a dobrá tolerance drobných nerovností podkladu.",
+     "Omezení: i SPC podlaha potřebuje vhodný podklad a dodržení pokynů výrobce, včetně dilatačních mezer u stěn.",
+     "Vhodné použití: rekonstrukce bytů a domů, kde chcete odolnou podlahu bez dlouhé technologické pauzy."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Více o <a href=\"@/podlahy-vinylove/celovinylove-podlahy/\">rigidních vinylových podlahách</a>."
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Vinylové podlahy na HDF nosiči",
+    "center": false,
+    "anchor": "vinyl-hdf"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Výhody: příjemný, teplejší kontakt s podlahou a klikací systém pro plovoucí pokládku.",
+     "Omezení: nosič z HDF je citlivější na vlhkost než minerální jádro, proto je potřeba dodržet pokyny výrobce a nevystavovat podlahu stálé vodě.",
+     "Vhodné použití: suché obytné prostory, ložnice a pokoje."
+    ]
+   },
+   {
+    "t": "p",
+    "h": "Více o <a href=\"@/podlahy-vinylove/vinylove-plovouci-podlahy/\">vinylových podlahách na HDF desce</a>."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Vinylové podlahy a podlahové vytápění",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinyl lze na podlahové vytápění pokládat jen tehdy, pokud to povoluje výrobce konkrétní podlahy. Důležitá je maximální povrchová teplota, správné zahřátí a zchlazení podkladu a dodržení pokynů výrobce. Před výběrem proto vždy ověříme technický list vybrané kolekce."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Příprava podkladu před pokládkou vinylu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Kvalita pokládky závisí hlavně na podkladu. Před pokládkou kontrolujeme jeho rovinnost, pevnost a vlhkost. Nerovnosti a poškození opravíme, případně podklad vyrovnáme samonivelační stěrkou. Podrobnosti najdete na stránce <a href=\"@/montaz-podlahy/\">pokládka podlah a příprava podkladu</a>."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Profesionální pokládka vinylových podlah v Praze",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vinylové podlahy pokládáme v bytech, domech i firemních prostorách v Praze a okolí. Postaráme se o přípravu podkladu, položení podlahy, lišty i přechody, takže dostanete hotovou podlahu bez dalšího shánění řemeslníků."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Prohlédněte si vinylové podlahy v našem studiu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Vzorky vinylových podlah si můžete prohlédnout a osahat ve studiu na Slavíkově 29 v Praze 2 – Vinohradech. Výběr podlahy tak nemusíte dělat jen podle fotografie na obrazovce."
+   }
+  ],
+  "after": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nezávazná poptávka nebo návštěva studia",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Poradíme s výběrem vinylu, podkladem i pokládkou. Napište nám nebo se zastavte ve studiu. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   },
+   {
+    "t": "btn",
+    "x": "Nezávazná poptávka",
+    "href": "@/cenova-kalkulace/"
+   },
+   {
+    "t": "btn",
+    "x": "Kde nás najdete",
+    "href": "@/kontakt/"
+   }
+  ]
+ },
+ "/drevene-podlahy-a-parkety/": {
+  "title": "Dřevěné podlahy Praha – prodej a odborná pokládka",
+  "seo_title": "Dřevěné podlahy Praha – prodej a odborná pokládka",
+  "description": "Dřevěné podlahy v Praze: třívrstvé, masivní, dubové parkety a rybí kost, olej a lak. Prodej, odborná pokládka a renovace. Studio na Vinohradech.",
+  "before": [
+   {
+    "t": "p",
+    "h": "Prodáváme a odborně pokládáme dřevěné podlahy v Praze a okolí. Vyberte si, co vás zajímá, a pokračujte na podrobnější stránku. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Jaké dřevěné podlahy nabízíme?",
+    "center": false
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<a href=\"@/drevene-trivrstve-podlahy-menu/\">Třívrstvé dřevěné podlahy</a> – stabilní skladba s vrchní vrstvou z pravého dřeva, vhodná pro většinu obytných prostor.",
+     "<a href=\"@/drevene-podlahy-a-parkety/masivni-drevene-podlahy/\">Masivní dřevěné podlahy</a> – prkna a parkety z jednoho kusu dřeva, které lze v budoucnu opakovaně renovovat.",
+     "<a href=\"@/drevene-podlahy-a-parkety/masivni-drevene-parkety/\">Dubové parkety a rybí kost</a> – klasické vzory pro pražské byty i moderní interiéry.",
+     "<a href=\"#povrchy\">Povrchové úpravy – olej a lak</a> – vzhled, údržba a rozdíly mezi nimi.",
+     "<a href=\"@/montaz-podlahy/\">Pokládka dřevěných podlah</a> – příprava podkladu a odborná montáž."
+    ]
+   },
+   {
+    "t": "h",
+    "l": 3,
+    "x": "Povrchové úpravy – olej a lak",
+    "center": false,
+    "anchor": "povrchy"
+   },
+   {
+    "t": "p",
+    "h": "Olejovaný povrch nechává více vyniknout struktuře dřeva a dá se průběžně ošetřovat a lokálně opravit. Lakovaný povrch vytváří souvislou ochrannou vrstvu s jednoduchou běžnou údržbou. Který povrch se hodí k vašemu prostoru a způsobu užívání, vám rádi poradíme ve studiu."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Další informace o dřevěných podlahách",
+    "center": false
+   }
+  ],
+  "after": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nezávazná poptávka nebo návštěva studia",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Poradíme s výběrem dřevěné podlahy, povrchem i pokládkou. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   },
+   {
+    "t": "btn",
+    "x": "Nezávazná poptávka",
+    "href": "@/cenova-kalkulace/"
+   },
+   {
+    "t": "btn",
+    "x": "Kde nás najdete",
+    "href": "@/kontakt/"
+   }
+  ]
+ },
+ "/rekonstrukce-a-renovace-podlah/": {
+  "title": "Renovace parket Praha – broušení, opravy a renovace dřevěných podlah",
+  "seo_title": "Renovace parket Praha – broušení, opravy a renovace dřevěných podlah",
+  "description": "Renovace parket v Praze: broušení, opravy, přeložení starých parket, olejování a lakování. Nejsme jen firma na přebroušení, řešíme i podklad.",
+  "before": [
+   {
+    "t": "p",
+    "h": "Renovujeme parkety a dřevěné podlahy v pražských bytech i domech. Nejsme jen firma na přebroušení: nejdřív zjistíme, v jakém stavu je dřevo i podklad, a navrhneme řešení, které má smysl."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Renovace starých parket v pražských bytech",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Staré parkety bývají často v lepším stavu, než vypadají. Posoudíme tloušťku dřeva, soudržnost s podkladem a dřívější úpravy, a podle toho navrhneme renovaci, opravu nebo přeložení. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   },
+   {
+    "t": "ul",
+    "items": [
+     "<a href=\"#brouseni\">Broušení parket a dřevěných podlah</a>",
+     "<a href=\"#opravy\">Opravy poškozených parket</a>",
+     "<a href=\"#vytopeni\">Renovace parket po vytopení</a>",
+     "<a href=\"#preklad\">Rozebrání a opětovné položení parket</a>",
+     "<a href=\"#podklad\">Oprava a příprava podkladu</a>",
+     "<a href=\"#povrch\">Lakování a olejování dřevěných podlah</a>",
+     "<a href=\"#vyplati\">Kdy se renovace vyplatí</a>",
+     "<a href=\"#ukazky\">Fotografie našich realizací</a>"
+    ]
+   }
+  ],
+  "sections": {
+   "Broušení parket dokáže změnit podlahu k nepoznání": [
+    "Broušení parket a dřevěných podlah",
+    "brouseni"
+   ],
+   "Kdy už samotné broušení parket nestačí?": [
+    "Opravy poškozených parket",
+    "opravy"
+   ],
+   "Přeložení starých parket – zachováme původní dřevo a opravíme podklad": [
+    "Rozebrání a opětovné položení parket",
+    "preklad"
+   ],
+   "U parket rozhoduje příprava podkladu": [
+    "Oprava a příprava podkladu",
+    "podklad"
+   ],
+   "Povrchová úprava – olej, lak i změna vzhledu starých parket": [
+    "Lakování a olejování dřevěných podlah",
+    "povrch"
+   ],
+   "Nové parkety, renovace, nebo kompletní přeložení?": [
+    "Kdy se renovace vyplatí a kdy je vhodnější výměna?",
+    "vyplati"
+   ],
+   "Renovace a pokládka parket v Praze": [
+    "Fotografie našich realizací",
+    "ukazky",
+    "vlozit"
+   ]
+  },
+  "vytopeni": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Renovace parket po vytopení",
+    "center": false,
+    "anchor": "vytopeni"
+   },
+   {
+    "t": "p",
+    "h": "Po vytopení nebo dlouhodobé vlhkosti parkety často bobtnají, zvedají se nebo se rozspárují. Nejdřív je potřeba nechat podlahu i podklad vyschnout a poté posoudit, co lze zachránit. Podle stavu pak přichází na řadu oprava, vyrovnání, případně výměna poškozených kusů a nová povrchová úprava. Výsledek záleží na rozsahu poškození, proto situaci vždy nejdřív posoudíme."
+   }
+  ],
+  "after": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nezávazná poptávka renovace",
+    "center": false,
+    "anchor": "poptavka"
+   },
+   {
+    "t": "p",
+    "h": "Pošlete nám fotografie podlahy a pár informací o bytě, nebo se stavte ve studiu. Napíšeme vám, jaký postup doporučujeme."
+   },
+   {
+    "t": "btn",
+    "x": "Nezávazná poptávka",
+    "href": "@/cenova-kalkulace/"
+   },
+   {
+    "t": "btn",
+    "x": "Kde nás najdete",
+    "href": "@/kontakt/"
+   }
+  ]
+ },
+ "/montaz-podlahy/": {
+  "title": "Pokládka podlah Praha – odborná montáž a příprava podkladu",
+  "seo_title": "Pokládka podlah Praha – odborná montáž a příprava podkladu",
+  "description": "Pokládka podlah v Praze: posouzení podkladu, měření vlhkosti a rovinnosti, stěrky, OSB a Fermacell, vinyl, dřevo i laminát.",
+  "before": [
+   {
+    "t": "p",
+    "h": "Pokládka podlah je tak dobrá, jak dobře je připravený podklad. Proto neřešíme jen samotné položení, ale i to, co je pod podlahou. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Kontrola a posouzení původního podkladu",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Před zahájením prací zkontrolujeme, z čeho podklad je, v jakém je stavu a jestli je pro vybranou podlahu vhodný."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Měření vlhkosti a rovinnosti",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Změříme vlhkost podkladu a jeho rovinnost. Podle výsledků se rozhoduje o přípravě podkladu a o tom, kdy lze podlahu bezpečně pokládat."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Opravy a zpevnění podkladů",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Praskliny, uvolněné části a nesoudržné vrstvy opravíme a podklad zpevníme, aby podlaha držela a nedocházelo k jejímu pohybu."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Samonivelační stěrky",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Nerovné podklady vyrovnáváme samonivelačními stěrkami, aby výsledná podlaha ležela rovně a spoje držely."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Suché podlahové konstrukce OSB a Fermacell",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Tam, kde nechcete mokrý proces nebo potřebujete menší zátěž konstrukce, nabízíme suché podlahové konstrukce z desek OSB a Fermacell."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Pokládka vinylových, dřevěných a laminátových podlah",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Podlahy pokládáme podle pokynů výrobce vybrané podlahy: vinyl, dřevěné i laminátové podlahy, a to jak plovoucím, tak lepeným způsobem. Více o vinylu najdete na stránce <a href=\"@/podlahy-vinylove/\">vinylové podlahy</a>, o dřevě na stránce <a href=\"@/drevene-podlahy-a-parkety/\">dřevěné podlahy</a>."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Dokončovací práce, lišty a přechody",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Práci dokončíme lištami a přechodovými profily, takže dostanete hotovou podlahu a nic nemusíte domlouvat zvlášť."
+   },
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Technické informace k montáži podlahy SPC",
+    "center": false
+   }
+  ],
+  "after": [
+   {
+    "t": "h",
+    "l": 2,
+    "x": "Nezávazná poptávka nebo návštěva studia",
+    "center": false
+   },
+   {
+    "t": "p",
+    "h": "Napište nám, jaký máte podklad a jakou podlahu plánujete. Doporučíme postup. Podlahy Šťastný, Slavíkova 29, Praha 2 – Vinohrady. Podlahy vám nabídneme v našem studiu a realizace provádíme po celé Praze a okolí."
+   },
+   {
+    "t": "btn",
+    "x": "Nezávazná poptávka",
+    "href": "@/cenova-kalkulace/"
+   },
+   {
+    "t": "btn",
+    "x": "Kde nás najdete",
+    "href": "@/kontakt/"
+   }
+  ]
+ }
+}

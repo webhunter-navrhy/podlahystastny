@@ -638,3 +638,12 @@ a:hover .arr{transform:translateX(5px)}
   body{padding-bottom:4.8rem}
   .cookie{bottom:5rem}
 }
+
+/* pevné tlačítko Zavolat jen na mobilu (4. 11. 2026) */
+.callfab{display:none}
+@media (max-width:760px){
+  .callfab{display:block;position:fixed;right:14px;bottom:14px;z-index:90;background:var(--red);color:#fff;font:600 .95rem/1 var(--sans);padding:.9rem 1.3rem;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px -8px rgba(0,0,0,.45)}
+  body{padding-bottom:78px}
+  body.is-calc .callfab{display:none}
+  body.is-calc{padding-bottom:0}
+}

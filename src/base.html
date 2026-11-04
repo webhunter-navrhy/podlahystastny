@@ -22,7 +22,7 @@
 function swGA(){if(window.swGAOn)return;window.swGAOn=1;gtag('js',new Date());gtag('config','G-SZ4N7JX24R');var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=G-SZ4N7JX24R';document.head.appendChild(s);}
 try{if(localStorage.getItem('cookie-souhlas')==='ano')swGA();}catch(e){}</script>{% endif %}
 </head>
-<body class="{{ body_class }}">
+<body class="{{ body_class }}{% if P is defined and P.path == '/cenova-kalkulace/' %} is-calc{% endif %}">
 <a class="skip" href="#obsah">Přeskočit na obsah</a>
 <div class="announce">
   <div class="shell announce__in">
@@ -100,5 +100,6 @@ if(v){return;}b.hidden=false;
 function z(x){try{localStorage.setItem('cookie-souhlas',x);}catch(e){}b.hidden=true;if(x==='ano')swGA();}
 document.getElementById('cookie-ano').onclick=function(){z('ano');};document.getElementById('cookie-ne').onclick=function(){z('ne');};})();</script>{% endif %}
 <script src="{{ R }}assets/main.js?v={{ V.js }}" defer></script>
+<a class="callfab" href="tel:{{ S.phone_href }}" aria-label="Zavolat">Zavolat</a>
 </body>
 </html>
