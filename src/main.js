@@ -34,6 +34,17 @@
       location.href = f.dataset.thanks || '/odeslano/';
     } catch (x) { err.hidden = false; btn.disabled = false; }
   }));
+  // fotky: další výběr se přidává k předchozímu (max 5) a pod polem je vidět počet
+  $$('input[name=fotky]').forEach(inp => {
+    const info = document.createElement('p'); info.className = 'form__note'; info.hidden = true; inp.parentNode.after(info);
+    const acc = new DataTransfer();
+    inp.addEventListener('change', () => {
+      for (const f of inp.files) if (acc.files.length < 5 && ![...acc.files].some(x => x.name === f.name && x.size === f.size)) acc.items.add(f);
+      inp.files = acc.files;
+      info.hidden = !acc.files.length;
+      info.textContent = 'Vybráno fotografií: ' + acc.files.length + ' z 5 (' + [...acc.files].map(x => x.name).join(', ') + '). Další přidáte dalším výběrem.';
+    });
+  });
   // header
   const hdr = $('#hdr');
   const onScroll = () => hdr && hdr.classList.toggle('is-scrolled', scrollY > 10);
