@@ -2,24 +2,19 @@
   const $ = (s, c = document) => c.querySelector(s), $$ = (s, c = document) => [...c.querySelectorAll(s)];
   // poptávkové formuláře: skutečné odeslání, potvrzení až po přijetí
   const t0 = Date.now(); let human = false; ['pointerdown','keydown','touchstart'].forEach(ev => addEventListener(ev, () => { human = true; }, { once: true, passive: true }));
-  $$('form.form[data-e]').forEach(f => f.addEventListener('submit', async e => {
+  $$('form.form[data-api]').forEach(f => f.addEventListener('submit', async e => {
     e.preventDefault();
     if (!human || Date.now() - t0 < 4000) return; // robot: bez interakce a hned po načtení se neodešle
     const btn = $('button[type=submit]', f), err = $('.form__err', f); err.hidden = true; btn.disabled = true;
     try {
-      const files = $('input[type=file]', f).files; let big = 0; for (const x of files) big += x.size;
-      if (big > 9 * 1024 * 1024) throw new Error('size');
-      // přílohy FormSubmit přes AJAX zahazuje, proto běžné odeslání formuláře (multipart) s přesměrováním na poděkování
-      f.action = atob(f.dataset.e);
-      let nx = f.querySelector('input[name=_next]'); if (!nx) { nx = document.createElement('input'); nx.type = 'hidden'; nx.name = '_next'; f.appendChild(nx); }
-      nx.value = location.origin + (f.dataset.thanks || '/odeslano/');
-      let sj = f.querySelector('input[name=_subject]'); // předmět e-mailu s jménem a adresou odesílatele
-      sj.value = 'Poptávka: ' + (f.jmeno.value || '').trim().slice(0, 60) + ' <' + (f.email.value || '').trim().slice(0, 80) + '>';
-      f.submit(); return;
-    } catch (x) {
-      err.textContent = x.message === 'size' ? 'Fotografie jsou dohromady větší než 9 MB. Zmenšete je prosím, nebo je pošlete e-mailem na info@podlahystastny.cz.' : err.textContent;
-      err.hidden = false; btn.disabled = false;
-    }
+      const fields = {}; const lab = { jmeno: 'Jméno', email: 'E-mail', telefon: 'Telefon', typ: 'Typ služby', plocha_m2: 'Plocha (m²)', misto: 'Místo realizace', zprava: 'Popis zakázky' };
+      for (const [k, l] of Object.entries(lab)) if (f.elements[k] && f.elements[k].value.trim()) fields[l] = f.elements[k].value.trim();
+      const r = await fetch(f.dataset.api, { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ type: 'dopyt', fields, page: location.href, hp: f.elements.hp ? f.elements.hp.value : '', ms: Date.now() - t0, lang: 'cs' }) });
+      const j = await r.json().catch(() => ({}));
+      if (!r.ok || !j.ok) { err.textContent = j.error || j.message || err.textContent; throw new Error('send'); }
+      location.href = f.dataset.thanks || '/odeslano/';
+    } catch (x) { err.hidden = false; btn.disabled = false; }
   }));
   // header
   const hdr = $('#hdr');
