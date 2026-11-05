@@ -4,7 +4,8 @@
   <div class="form__row"><label>Telefon<input name="telefon" type="tel" autocomplete="tel" inputmode="tel"></label><label>Typ požadované služby<select name="typ"><option>Nová vinylová podlaha</option><option>Nová dřevěná podlaha</option><option>Laminátová podlaha</option><option>Renovace parket</option><option>Broušení a povrchová úprava</option><option>Příprava nebo oprava podkladu</option><option>Schody a schodové hrany</option><option>Jiná zakázka</option></select></label></div>
   <div class="form__row"><label>Přibližná plocha v m²<input name="plocha_m2" inputmode="decimal" placeholder="např. 45"></label><label>Místo realizace<input name="misto" autocomplete="address-level2" placeholder="např. Praha 2"></label></div>
   <label>Popis zakázky<textarea name="zprava" rows="5" placeholder="Co plánujete, stav podkladu, termín…"></textarea></label>
-  <p class="form__note">Fotografie prostoru nám můžete poslat e-mailem na <a href="mailto:info@podlahystastny.cz">info@podlahystastny.cz</a>.</p>
+  <label>Fotografie prostoru (nepovinné, až 5)<input name="fotky" type="file" accept="image/*" multiple></label>
+  <p class="form__note">Stačí fotky z mobilu, zmenšíme je sami.</p>
   <button class="btn btn--red" type="submit">Odeslat poptávku <span class="arr">→</span></button>
   <p class="form__ok">Děkujeme, poptávka je odeslána. Ozveme se Vám co nejdříve.</p>
   <p class="form__err" hidden>Poptávku se nepodařilo odeslat. Zkuste to prosím znovu, nebo nám napište na info@podlahystastny.cz.</p>

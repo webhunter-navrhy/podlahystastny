@@ -9,8 +9,26 @@
     try {
       const fields = {}; const lab = { jmeno: 'Jméno', email: 'E-mail', telefon: 'Telefon', typ: 'Typ služby', plocha_m2: 'Plocha (m²)', misto: 'Místo realizace', zprava: 'Popis zakázky' };
       for (const [k, l] of Object.entries(lab)) if (f.elements[k] && f.elements[k].value.trim()) fields[l] = f.elements[k].value.trim();
+      const files = [];
+      const inp = f.elements.fotky;
+      if (inp && inp.files.length) {
+        if (inp.files.length > 5) { err.textContent = 'Vyberte prosím nejvýše 5 fotografií.'; throw new Error('many'); }
+        for (const file of inp.files) {
+          let b64;
+          try {
+            const bmp = await createImageBitmap(file), k = Math.min(1, 1600 / Math.max(bmp.width, bmp.height));
+            const c = document.createElement('canvas'); c.width = Math.round(bmp.width * k); c.height = Math.round(bmp.height * k);
+            c.getContext('2d').drawImage(bmp, 0, 0, c.width, c.height);
+            b64 = c.toDataURL('image/jpeg', .82).split(',')[1];
+          } catch (_) {
+            if (file.size > 1.8e6) { err.textContent = 'Fotografii ' + file.name + ' nelze zpracovat, zkuste prosím jinou.'; throw new Error('img'); }
+            b64 = await new Promise(res => { const fr = new FileReader(); fr.onload = () => res(String(fr.result).split(',')[1]); fr.readAsDataURL(file); });
+          }
+          files.push({ name: file.name.replace(/\.[^.]+$/, '') + '.jpg', data: b64 });
+        }
+      }
       const r = await fetch(f.dataset.api, { method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type: 'dopyt', fields, page: location.href, hp: f.elements.hp ? f.elements.hp.value : '', ms: Date.now() - t0, lang: 'cs' }) });
+        body: JSON.stringify({ type: 'dopyt', fields, files, page: location.href, hp: f.elements.hp ? f.elements.hp.value : '', ms: Date.now() - t0, lang: 'cs' }) });
       const j = await r.json().catch(() => ({}));
       if (!r.ok || !j.ok) { err.textContent = j.error || j.message || err.textContent; throw new Error('send'); }
       location.href = f.dataset.thanks || '/odeslano/';
