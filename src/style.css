@@ -647,3 +647,4 @@ a:hover .arr{transform:translateX(5px)}
   body.is-calc .callfab{display:none}
   body.is-calc{padding-bottom:0}
 }
+.ftr__legal a{color:inherit;text-decoration:underline}.ftr__legal a:hover{color:#fff}
